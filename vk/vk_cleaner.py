@@ -8,11 +8,11 @@ from Levenshtein import distance
 from string import punctuation
 from pymystem3 import Mystem
 import json
-
+import os
 
 m = Mystem()
 
-token_id_leo_wall = "328b4e2e3ac7378e82954f199f66bad644bd39c21cb419d8f02a9082f0288c27e59ec0e59eec557c486b4"
+token_id_leo_wall = "389caa8eab1e1412419c9e1a2dc43c8db1b2da390ccb66e273fa2c1e11ea300a2853e76054426aae7accc"
 session = vk.AuthSession(access_token=token_id_leo_wall)
 api = vk.API(session, v='5.95', lang='ru', timeout=10)
 
@@ -25,10 +25,25 @@ with open("bad_words.txt", "r") as f:
             #print(vozvr)
             bad_words_list.append(vozvr) 
 
+ignore_attention_path = os.listdir("./check_results/attention/")
+ignore_attention_list = []
+for attent_json in ignore_attention_path:
+    path_to_json = os.path.join("./check_results/attention/", attent_json)
+    with open(path_to_json, "r") as f:
+        data = json.load(f)
+        for att_element in data:
+            el = att_element['attention_items'][0][0] + "_" + att_element['attention_items'][0][1] 
+            ignore_attention_list.append(el)
+"""
+for el in ignore_attention_list:
+    print(el)
+"""
+
+
 def write_response (json_deleted, json_attention):
     time = datetime.datetime.now()
-    file_name_delete = './check_results/' + str(time) + '_delete.json'
-    file_name_attention = './check_results/' + str(time) + '_attention.json'
+    file_name_delete = './check_results/deleted/' + str(time) + '_delete.json'
+    file_name_attention = './check_results/attention/' + str(time) + '_attention.json'
     with open(file_name_delete, 'w', encoding = "utf-8") as outfile:
         json.dump(json_deleted, outfile, indent=4, separators=(',', ':'),ensure_ascii=False)
     with open(file_name_attention, 'w', encoding = "utf-8") as outfile:
@@ -71,24 +86,39 @@ def handle_comment_check_results(check_results, detected_items, delete_list, att
     bad_found_states = ['direct_bad_word_equality','lemma_bad_word_equality']
     if debug == True and check_results in bad_found_states: print("BAD_FOUND", detected_items)
     if check_results in bad_found_states:
-        author_info = api.users.get(user_ids = comment_author_id)
+        try:
+            author_info = api.users.get(user_ids = comment_author_id)
+        except:
+            author_info = None
         api.wall.deleteComment(owner_id = wall_owner_id,comment_id = detected_comment_id)
         delete_json = {'comment_id':detected_comment_id, 'wall_owner_id':wall_owner_id, 'detccted_items':detected_items,"author":author_info,'text':comment_text}
         delete_list.append(delete_json)
         if debug == True:print(delete_json)
-    if debug == True and check_results == "NEEDS_ATTETNION": print("NEEDS_ATTETNION", detected_items)
-    elif check_results == "NEEDS_ATTETNION":
-        author_info = api.users.get(user_ids = comment_author_id)
-        attention_json = {'comment_id':detected_comment_id, 'wall_owner_id':wall_owner_id, 'attention_items':detected_items,"author":author_info,'text':comment_text}
-        attention_list.append(attention_json)
+    #if debug == True and check_results == "NEEDS_ATTETNION": print("NEEDS_ATTETNION", detected_items)
+    if check_results == "NEEDS_ATTETNION":
+        new_suspicious_item_list = []
+        for att_item in detected_items:
+            attent = att_item[0] + '_' + att_item[1]
+            #print(attent, attent in ignore_attention_list)
+            if attent not in ignore_attention_list:
+                new_suspicious_item_list.append(att_item)
+        if len(new_suspicious_item_list) > 0:
+            if debug == True: print("NEW ITEMS NEEDS_ATTETNION",new_suspicious_item_list)
+            try:
+                author_info = api.users.get(user_ids = comment_author_id)
+            except:
+                author_info = None
+            attention_json = {'comment_id':detected_comment_id, 'wall_owner_id':wall_owner_id, 'attention_items':new_suspicious_item_list,"author":author_info,'text':comment_text}
+            attention_list.append(attention_json)
 
 def iterate_within_wall(wall_owner_id, print_comments = False, print_detections = False):
     items_for_deletion = []
     items_for_attention = []
     
-    wall = api.wall.get(owner_id = wall_owner_id, count = 50)
+    wall = api.wall.get(owner_id = wall_owner_id, count = 10)
     posts = wall['items']
     for post in posts:
+        print(post['id'])
         if print_comments: print(post['text'])
         post_comments = api.wall.getComments(owner_id = wall_owner_id ,post_id = post['id'],sort = "asc")
         post_comments_count = post_comments['count']
@@ -133,10 +163,9 @@ def iterate_within_wall(wall_owner_id, print_comments = False, print_detections 
         
     return items_for_deletion, items_for_attention
 
-deleted, attention = iterate_within_wall("-15787787",print_comments = False, print_detections = True)
-
-
 
 while True:
+    deleted, attention = iterate_within_wall("-15787787",print_comments = False, print_detections = True)
     write_response(deleted, attention)
+    print("finished handling. wait half an hour")
     time.sleep(1800)
