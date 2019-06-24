@@ -12,7 +12,7 @@ import os
 
 m = Mystem()
 
-token_id_leo_wall = "389caa8eab1e1412419c9e1a2dc43c8db1b2da390ccb66e273fa2c1e11ea300a2853e76054426aae7accc"
+token_id_leo_wall = "db0023e08ccabd6f4e57d79b47b204a54c6eb65e51c234785ea37809a377607a145246261b189ba66d6c7"
 session = vk.AuthSession(access_token=token_id_leo_wall)
 api = vk.API(session, v='5.95', lang='ru', timeout=10)
 
