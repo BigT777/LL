@@ -10,8 +10,8 @@ import progressbar
 
 DEBUG = False 
 AMOUNT_OF_TEXTS_INSIDE_REQUEST = 50
-START_WORD_ID = 22
-FIN_WORD_ID = 300000
+START_WORD_ID = 300000
+FIN_WORD_ID = 622756
 conn = psycopg2.connect(dbname='pgprod', user='linguist', password='eDQGK0GCStlYlHNV', host='postgres.lingualeo-beta.com')
 cursor = conn.cursor()
 
