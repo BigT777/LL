@@ -10,14 +10,14 @@ import progressbar
 
 DEBUG = False 
 AMOUNT_OF_TEXTS_INSIDE_REQUEST = 50
-START_WORD_ID = 300000
+START_WORD_ID = 341812
 FIN_WORD_ID = 622756
 conn = psycopg2.connect(dbname='pgprod', user='linguist', password='eDQGK0GCStlYlHNV', host='postgres.lingualeo-beta.com')
 cursor = conn.cursor()
 
 def write_response (json_file, start_index, debug = DEBUG):
     file_name = './save_jung_id/' + str(start_index) + '.json'
-    if debug: print("\nNOW SAVING", file_name,'\n')
+    print("\nNOW SAVING", file_name,'\n')
     with open(file_name, 'w', encoding = "utf-8") as outfile:
         json.dump(json_file, outfile, indent=4, separators=(',', ':'),ensure_ascii=False)
 
@@ -67,31 +67,33 @@ global_texts_list = []
 start_jung_id = START_WORD_ID
 texts_count = 0 
 next_id = START_WORD_ID
-bar = progressbar.ProgressBar(maxval=FIN_WORD_ID,
-                                      widgets=[progressbar.Bar('*', '[', ']'), '_', progressbar.Percentage()])
-bar.start()
 
+
+def save_results(texts,start_jung_id, next_id):
+    if DEBUG: print(len(texts), "TEXT WILL BE LIKE THAT", texts[0][:100])
+    file_range = str(start_jung_id) + '_' + str(next_id-1)
+    if DEBUG: print(file_range, " COLLOC CALC STARTED")
+    bigramFreqTable, trigramFreqTable, quadgram_freq, filtered_bi, filtered_tri, bigramPMITable, trigramPMITable, quadragramPMITable, bigramChiTable, trigramChiTable=get_pos_filtered_colloc_from_corpus_list(texts,"en")
+    #bigramFreqTable.to_csv('./save_jung_id/bigramFreqTable/bigramFreqTable_' + file_range + '.csv')
+    #trigramFreqTable.to_csv('./save_jung_id/trigramFreqTable/trigramFreqTable_' + file_range + '.csv')
+    #quadgram_freq.to_csv('./save_jung_id/quadgram_freq/quadgram_freq_' + file_range + '.csv')
+    filtered_bi.to_csv('./save_jung_id/filtered_bi/filtered_bi_' + file_range + '.csv')
+    filtered_tri.to_csv('./save_jung_id/filtered_tri/filtered_tri_' + file_range + '.csv')
+    bigramPMITable.to_csv('./save_jung_id/bigramPMITable/bigramPMITable_' + file_range + '.csv')
+    trigramPMITable.to_csv('./save_jung_id/trigramPMITable/trigramPMITable_' + file_range + '.csv')
+    quadragramPMITable.to_csv('./save_jung_id/quadragramPMITable/quadragramPMITable_' + file_range + '.csv')
+    bigramChiTable.to_csv('./save_jung_id/bigramChiTable/bigramChiTable_' + file_range + '.csv')
+    trigramChiTable.to_csv('./save_jung_id/trigramChiTable/trigramChiTable_' + file_range + '.csv')
+    
 while next_id < FIN_WORD_ID:
     next_id, text = get_text_from_jungle_id(next_id)
-    print(next_id )
+    print(next_id, 'count = ', texts_count)
     global_texts_list.append(text)
-    if texts_count % 10 == 0 and texts_count != 0:
-        if DEBUG: print(len(global_texts_list), "TEXT WILL BE LIKE THAT", global_texts_list[0][:100])
-        file_range = str(start_jung_id) + '_' + str(next_id-1)
-        if DEBUG: print(file_range, " COLLOC CALC STARTED")
-        bigramFreqTable, trigramFreqTable, quadgram_freq, filtered_bi, filtered_tri, bigramPMITable, trigramPMITable, quadragramPMITable, bigramChiTable, trigramChiTable =get_pos_filtered_colloc_from_corpus_list(global_texts_list,"en")
-        bigramFreqTable.to_csv('./save_jung_id/bigramFreqTable/bigramFreqTable_' + file_range + '.csv')
-        trigramFreqTable.to_csv('./save_jung_id/trigramFreqTable/trigramFreqTable_' + file_range + '.csv')
-        quadgram_freq.to_csv('./save_jung_id/quadgram_freq/quadgram_freq_' + file_range + '.csv')
-        filtered_bi.to_csv('./save_jung_id/filtered_bi/filtered_bi_' + file_range + '.csv')
-        filtered_tri.to_csv('./save_jung_id/filtered_tri/filtered_tri_' + file_range + '.csv')
-        bigramPMITable.to_csv('./save_jung_id/bigramPMITable/bigramPMITable_' + file_range + '.csv')
-        trigramPMITable.to_csv('./save_jung_id/trigramPMITable/trigramPMITable_' + file_range + '.csv')
-        quadragramPMITable.to_csv('./save_jung_id/quadragramPMITable/quadragramPMITable_' + file_range + '.csv')
-        bigramChiTable.to_csv('./save_jung_id/bigramChiTable/bigramChiTable_' + file_range + '.csv')
-        trigramChiTable.to_csv('./save_jung_id/trigramChiTable/trigramChiTable_' + file_range + '.csv')
+    if texts_count % 5000 == 0 and texts_count != 0:
+        save_results(global_texts_list,start_jung_id, next_id)
         start_jung_id = next_id
         global_texts_list = []
     texts_count += 1
-    bar.update(next_id)
+if texts_count > 5000:
+    ave_results(global_texts_list,start_jung_id, next_id)
 conn.close()

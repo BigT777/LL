@@ -93,7 +93,11 @@ def get_lemm_and_orig_text_from_udmap(conllu_map):
         for word in sentence: 
             if (word[3] != 'PUNCT'):
                 #print(word[2])
-                lemm_line += word[2] + ' '
+                clean_lemma = ''
+                for char in word[2]:
+                    if char not in full_punctuation:
+                        clean_lemma += char.lower()
+                lemm_line += clean_lemma + ' '
                 line += word[1] + ' '
     
     lemm_sentences_list.append(lemm_line.strip())
@@ -107,7 +111,12 @@ def assign_pos_index(conllu_text_map):
         one_sentence_tagged = ''
         for word in sentence:
             if word[3] != "PUNCT":
-                word_pos = word[2] + '_' + word[3]
+                clean_lemma = ''
+                for char in word[2]:
+                    if char not in full_punctuation:
+                        clean_lemma += char.lower()
+                
+                word_pos =  clean_lemma + '_' + word[3]
                 one_sentence_tagged += word_pos + ' '
         one_sentence_tagged = one_sentence_tagged.strip()
         sentences_tagged.append(one_sentence_tagged)
@@ -145,8 +154,11 @@ def rightTypes_bigram_with_pos_filter(ngram, stopwords, debug = False):
         if word_itself in stopwords or word.isspace():
             if debug:print("stopword found")
             return False
-    pos_1 = ngram[0].split("_")[1]
-    pos_2 = ngram[1].split("_")[1]
+    try:
+        pos_1 = ngram[0].split("_")[1]
+        pos_2 = ngram[1].split("_")[1]
+    except:
+        return False
     acceptable_types = ('ADJ', 'NOUN')
     if pos_1 in acceptable_types and pos_2 in acceptable_types:
         if debug:print("fltr ok")
@@ -162,8 +174,11 @@ def rightTypes_trigram_with_pos_filter(ngram, stopwords,debug = False):
         if word_itself in stopwords or word.isspace():
             if debug:print("stopword found")
             return False
-    pos_1 = ngram[0].split("_")[1]
-    pos_3 = ngram[2].split("_")[1]
+    try:
+        pos_1 = ngram[0].split("_")[1]
+        pos_3 = ngram[2].split("_")[1]
+    except:
+        return False
     acceptable_types = ('ADJ', 'NOUN')
     if pos_1 in acceptable_types and pos_3 in acceptable_types:
         if debug:print("fltr ok")
@@ -174,11 +189,11 @@ def rightTypes_trigram_with_pos_filter(ngram, stopwords,debug = False):
 
 def get_pos_filtered_colloc_from_corpus_list(corpus_list, lang):
     if lang == "rus":
-        model = Model('russian-syntagrus-ud-2.0-170801.e')
+        model = Model('russian-syntagrus-ud-2.0-170801.udpipe')
         stopwords = set(nltk.corpus.stopwords.words('russian'))
     elif lang == "en":
         stopwords = set(nltk.corpus.stopwords.words('english'))
-        model = Model('english-partut-ud-2.0-170801.udpipe')#english-partut-ud-2.0-170801.udpipe
+        model = Model('english-partut-ud-2.0-170801.udpipe')
     else:
         print("NO AVAILABLE LANGUAGE SPECIFIED. EXIT")
         return 0
@@ -192,7 +207,6 @@ def get_pos_filtered_colloc_from_corpus_list(corpus_list, lang):
 
     #PMI filtered
     bigramPMITable, trigramPMITable, quadragramPMITable, bigramChiTable, trigramChiTable = get_pmi_and_chi_colloc(lemm_corpus_split_list)
-    
     
     return bigramFreqTable, trigramFreqTable, quadgram_freq, filtered_bi, filtered_tri, bigramPMITable, trigramPMITable, quadragramPMITable, bigramChiTable, trigramChiTable
 
