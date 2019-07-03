@@ -6,8 +6,7 @@ import multiprocessing
 import time
 import random
 from colloc.calculate_colocations import get_pos_filtered_colloc_from_corpus_list
-import progressbar
-
+pytho
 DEBUG = False 
 AMOUNT_OF_TEXTS_INSIDE_REQUEST = 50
 START_WORD_ID = 341812
