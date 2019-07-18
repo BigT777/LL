@@ -1,6 +1,5 @@
 import pandas as pd
 import nltk
-import progressbar
 from nltk import wordnet
 #from nltk.stem import WordNetLemmatizer
 #from nltk.corpus import wordnet
