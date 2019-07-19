@@ -20,7 +20,7 @@ morph = pymorphy2.MorphAnalyzer()#rus_specific
 #lemmatizer = WordNetLemmatizer()
 #conn = psycopg2.connect(dbname='pgstage', user='linguist', password='eDQGK0GCStlYlHNV', host='192.168.122.183')
 conn = psycopg2.connect(dbname='pgprod', user='linguist', password='eDQGK0GCStlYlHNV', host='postgres.lingualeo-beta.com')
-
+cursor = conn.cursor()
 #punctuation_small_set = punctuation.replace("-","")
 #punctuation_small_set = punctuation_small_set.replace("'","")
 
@@ -158,8 +158,8 @@ def look_for_similar (word_id_offset, interval, similar_ngramms_list, debug = DE
                 ORDER BY word_id ASC
                 limit """ + str(interval)
     #print(request)
-    conn.rollback()
-    cursor = conn.cursor()
+    #conn.rollback()
+    
     cursor.execute(request)
     output_unigramm_json = []
     for row in cursor:
@@ -270,9 +270,24 @@ def look_for_similar (word_id_offset, interval, similar_ngramms_list, debug = DE
 # trigram word id 67 102394810
 interval = 75
 word_id = START_WORD_ID
-
+reconnection_count = 0
 while word_id < FIN_WORD_ID:
-    word_id = look_for_similar(word_id, interval, NGRAMM)
-    print(word_id,(word_id/FIN_WORD_ID)*100)
-    time.sleep(random.uniform(0.001,0.1))
+    try:
+        word_id = look_for_similar(word_id, interval, NGRAMM)
+        word_id += 1
+        print(word_id,(word_id/FIN_WORD_ID)*100)
+        time.sleep(random.uniform(10,20))
+    except:
+        reconnection_count +=1
+        if reconnection_count < 25:
+            print("CRASHED ON ",word_id)
+            cursor.close()
+            conn.close()
+            conn = psycopg2.connect(dbname='pgprod', user='linguist', password='eDQGK0GCStlYlHNV', host='postgres.lingualeo-beta.com')
+            cursor = conn.cursor()
+            #word_id = FIN_WORD_ID + 1
+        else:
+            print("CRASHED ON ",word_id, "reconnection count limit reached. BREAK")
+            word_id = FIN_WORD_ID + 1
+cursor.close()
 conn.close()
