@@ -122,39 +122,42 @@ def iterate_within_wall(wall_owner_id, print_comments = False, print_detections 
         if print_comments: print(post['text'])
         post_comments = api.wall.getComments(owner_id = wall_owner_id ,post_id = post['id'],sort = "asc")
         post_comments_count = post_comments['count']
-        post_first_comment_id = post_comments['items'][0]['id']
-        #comments = api.wall.getComments(owner_id = wall_owner_id ,post_id = post['id'],sort = "asc",count = 100)
-        if print_comments:print("post_comments_count",post_comments_count,'post_first_comment_id',post_first_comment_id)
-        if print_comments:print("============COMMENTS===============")
-        for st_comment_id in range(post_first_comment_id,post_first_comment_id + post_comments_count, 100 ):
-            if print_comments:print("post_id",post['id'], "st_comment_id",st_comment_id )
-            comments = api.wall.getComments(post_id = post['id'], start_comment_id = st_comment_id, owner_id = wall_owner_id ,sort = "asc",count = 100)
-            #print(comments)
-            for comment in comments['items']:
-                if "deleted" not in comment:
-                    #print(comment)
-                    if print_comments:
-                        print(comment['id'])
-                        print(comment['text'])
-                        print("\n")
-                    check_results, detected_features = detect_bad_words(comment['text'])
-                    handle_comment_check_results(check_results, detected_features, items_for_deletion, items_for_attention,comment['id'], wall_owner_id,comment['text'],comment['from_id'], debug = print_detections)
-                    try:
-                        comment_thread = api.wall.getComments(post_id = post['id'], comment_id = comment['id'], owner_id = wall_owner_id)
-                        if len(comment_thread['items']) > 0:
-                            if print_comments:print("********thread_begins********")
-                            for thread_mes in comment_thread['items']:
+        try:
+            post_first_comment_id = post_comments['items'][0]['id']
+            #comments = api.wall.getComments(owner_id = wall_owner_id ,post_id = post['id'],sort = "asc",count = 100)
+            if print_comments:print("post_comments_count",post_comments_count,'post_first_comment_id',post_first_comment_id)
+            if print_comments:print("============COMMENTS===============")
+            for st_comment_id in range(post_first_comment_id,post_first_comment_id + post_comments_count, 100 ):
+                if print_comments:print("post_id",post['id'], "st_comment_id",st_comment_id )
+                comments = api.wall.getComments(post_id = post['id'], start_comment_id = st_comment_id, owner_id = wall_owner_id ,sort = "asc",count = 100)
+                #print(comments)
+                for comment in comments['items']:
+                    if "deleted" not in comment:
+                        #print(comment)
+                        if print_comments:
+                            print(comment['id'])
+                            print(comment['text'])
+                            print("\n")
+                        check_results, detected_features = detect_bad_words(comment['text'])
+                        handle_comment_check_results(check_results, detected_features, items_for_deletion, items_for_attention,comment['id'], wall_owner_id,comment['text'],comment['from_id'], debug = print_detections)
+                        try:
+                            comment_thread = api.wall.getComments(post_id = post['id'], comment_id = comment['id'], owner_id = wall_owner_id)
+                            if len(comment_thread['items']) > 0:
+                                if print_comments:print("********thread_begins********")
+                                for thread_mes in comment_thread['items']:
+                                    if print_comments:
+                                        print(thread_mes['id'])
+                                        print(thread_mes['text'],'\n')
+                                    check_results, detected_features = detect_bad_words(thread_mes['text'])
+                                    handle_comment_check_results(check_results, detected_features, items_for_deletion, items_for_attention,thread_mes['id'], wall_owner_id,thread_mes['text'],thread_mes['from_id'], debug = print_comments)
                                 if print_comments:
-                                    print(thread_mes['id'])
-                                    print(thread_mes['text'],'\n')
-                                check_results, detected_features = detect_bad_words(thread_mes['text'])
-                                handle_comment_check_results(check_results, detected_features, items_for_deletion, items_for_attention,thread_mes['id'], wall_owner_id,thread_mes['text'],thread_mes['from_id'], debug = print_comments)
-                            if print_comments:
-                                print("********thread_ends********\n")
-                    except:
-                        if print_comments: print("parent comment was deleted")
-                        pass
-                time.sleep(1)
+                                    print("********thread_ends********\n")
+                        except:
+                            if print_comments: print("parent comment was deleted")
+                            pass
+                    time.sleep(1)
+        except:
+            print("POST SEEMS TO BE EMPTY")
         if print_comments:
             print("==============================")
         
