@@ -1,0 +1,14 @@
+{
+    "LIX":value,
+    "Type_token_ratio":value,
+    "sentence_map":[{"special_sentence_features":
+                        {"complicated_language_objects":value,
+                        "complicated_POS":value,
+                        "mean_syntax_dependencies":value}},
+                    "sentence_words":
+                        [{"original_word":word,
+                        "lemma":lemma,"importance"tf_idf,
+                        "grammar_prop":POS, "lex_vector":w2v},
+                        {...}],
+                    {...}]
+}
