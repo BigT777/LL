@@ -1,0 +1,319 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "stand",
+            "pos": "verb",
+            "ts": "stænd",
+            "fl": "stood, stood",
+            "tr": [
+                {
+                    "text": "стоять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вставать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "встать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "постоять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "простоять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stay"
+                        },
+                        {
+                            "text": "get up"
+                        },
+                        {
+                            "text": "rise"
+                        },
+                        {
+                            "text": "stand up"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "stand around",
+                            "tr": [
+                                {
+                                    "text": "стоять вокруг"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "stand on end",
+                            "tr": [
+                                {
+                                    "text": "вставать дыбом"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "stand on tiptoe",
+                            "tr": [
+                                {
+                                    "text": "встать на цыпочки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "устоять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выстоять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "survive"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "stand alone",
+                            "tr": [
+                                {
+                                    "text": "выстоять в одиночку"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выдерживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выдержать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "withstand"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "stand the test",
+                            "tr": [
+                                {
+                                    "text": "выдержать испытание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отстаивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "defend"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "stand for freedom",
+                            "tr": [
+                                {
+                                    "text": "отстаивать свободу"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выступать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выступить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "speak"
+                        },
+                        {
+                            "text": "act"
+                        }
+                    ]
+                },
+                {
+                    "text": "остановиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "stop"
+                        }
+                    ]
+                },
+                {
+                    "text": "предстать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "appear"
+                        }
+                    ]
+                },
+                {
+                    "text": "остаться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "remain"
+                        }
+                    ]
+                },
+                {
+                    "text": "замереть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "freeze"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "stand",
+            "pos": "noun",
+            "ts": "stænd",
+            "tr": [
+                {
+                    "text": "стенд",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "booth"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "exhibition stand",
+                            "tr": [
+                                {
+                                    "text": "выставочный стенд"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "подставка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "стойка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "support"
+                        },
+                        {
+                            "text": "rack"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "printer stand",
+                            "tr": [
+                                {
+                                    "text": "подставка для принтера"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "floor stand",
+                            "tr": [
+                                {
+                                    "text": "напольная стойка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "позиция",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "position"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "civic stand",
+                            "tr": [
+                                {
+                                    "text": "гражданская позиция"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "трибуна",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "podium"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "government stand",
+                            "tr": [
+                                {
+                                    "text": "правительственная трибуна"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
