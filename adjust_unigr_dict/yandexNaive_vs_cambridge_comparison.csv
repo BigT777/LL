@@ -1,0 +1,102 @@
+,word,oxford_sensewords,compared_sensewords,comparison_value
+0,word,"['mot', 'nouvelles', 'formuler', 'parole']","['mot', 'nouvelle', 'mot', 'dire', 'formuler', 'textuel', 'verbal']",0.75
+1,the,"['l’/le/la, les', 'l’/le/la', 'le', 'le/la, les', 'l’Océan Indien', 'plus/moins/plus… plus/moins/plus…', 'les']","['ce', 'le', 'le', 'tant']",0.5
+2,and,"['(et)', 'et, plus', 'et', '(et même)', 'de']","['et', 'et aussi', 'et en outre', 'donc et', 'avec']",0.5
+3,that,"['cette', 'c’est ça', '(aus)si', 'comme ça', 'qui', 'celui/celle-là', 'si', 'qui, que', 'tellement', 'ça suffit', 'que']","['que', 'comme', 'afin que', 'qui', 'ce', 'propre', 'donc', 'tel']",0.40909090909090906
+4,for,"['malgré', 'malgrè', 'pour, en', 'pour', 'pendant', 'car']","['pour', 'pour', 'au cours de', ""à l'égard de"", 'à des fins', 'car', 'pour']",0.5
+5,with,"['(avec)', 'contre', 'pour', 'à', '(contre)', 'avec', 'à/au…', 'de']","['avec', 'et en outre', 'en compagnie de']",0.25
+6,but,"['mais', 'excepté', 'sauf']","['mais', 'et', 'cependant', 'seulement', 'sauf']",0.8333333333333333
+7,you,"['on', 'tu/vous', 'vous, tu/toi/te', 'espèce de']","['vous', 'tu']",0.25
+8,this,"['ceci', 'cette', '(aus)si', 'celui/celle-ci', 'voici', 'comme ça', 'à venir', 'si', 'qui vient', 'tellement', 'ce/cet/cette, ces', 'un/-e, ce/cette', 'ce, ceci']","['ce', 'ce', 'actuel', 'ce', 'donc']",0.3076923076923077
+9,not,"['ne…pas', 'pas', 'non', 'n’est-ce pas', 'même pas']","['pas', 'pas']",0.4
+10,have,"['falloir', 'manger', 'être fichu/-ue', 'faire', 'avoir', 'permettre', 'être foutu/-ue', 'devoir', 'boire', 'avoir, être']","['avoir', 'posséder', 'recevoir', 'éprouver', 'tenir', 'tomber', 'avoir', 'porter', 'manifester', 'essuyer', 'nourrir', 'déjà', 'verbe auxiliaire']",0.65
+11,letter,['lettre'],"['lettre', 'lettre', 'diplôme', 'caractères', 'littéral', 'écrit', 'Letters', 'écrire une lettre']",3.0
+12,plate,"['assiette', 'dentier', 'argenterie', 'plaque', 'planche']","['plaque', 'cuisinière', 'assiette', 'feuille', ""plaque d'immatriculation"", 'planchette', 'panneau', 'couvre-joint', 'plate-forme', 'chape', 'badge', 'tôle forte', 'en feuilles', 'lamelleux']",1.3
+13,treat,"['gâterie', 'plaisir', 'soigner', 'faire plaisir', 'aborder', 'traiter', 'gâter', 'offrir', 'traiter de', 'cadeau']","['considérer', 'se tourner', 'traiter', 'traiter', 'traiter', 'régaler', 'choyer', 'traiter de haut', 'régalade', 'plaisir', 'traitement']",0.5
+14,dinner,['dîner'],"['dîner', 'dîner de gala', 'de repas', 'prié']",1.5
+15,necessary,"['inévitable', 'nécessaire', 'si nécessaire']","['nécessaire', 'inévitable', 'nécessaire', 'requis', 'Il le faut', 'besoin']",1.0
+16,go,"['réussir', 'cesser', 'transmettre, envoyer', 'marcher', 'allant', 'partir', 's’en aller', 'essai, coup', 'mener', 'tenir', 'être/avoir', 'passer (à)', 'à emporter', 'devenir', 'mourir', 'essayer', 'être permis', 'faire', 'disparaître', 'lâcher', 'diminuer', 'dire', 'tour', 'sonner', 'passer', 'essai', 'lâcher, sauter', 'se mettre', 'être envoyé/-ée', 'se passer', 'se ranger', 'fréquenter', 'aller/partir en', 'aller']","['aller', 'passer par', 'aller', 'aller', 'passer', 'survenir']",0.10294117647058824
+17,secret,"['secret', 'secret/-ète', 'garder secret/-ète', 'dossiers secrets']","['secret', 'secret', 'secret', 'secret', 'tacite', 'sournois', 'clandestin', 'secret', 'masqué', 'fermé', 'secrète', 'secrètement', 'dans le secret']",1.375
+18,table,"['table', 'table, tablée', 'envisageable', 'table, tableau', 'tableau']","['tableau', 'bureau', 'table', 'horaire', 'livret scolaire', 'salle à manger', 'panonceau', 'de table', 'tabulaire', 'de table', 'sur la table']",1.0
+19,create,"['créer', 'créer, produire']","['créer', 'engendrer', 'provoquer', 'fabriquer', 'développer', 'former']",1.75
+20,warm,"['chaleureux', '(se) réchauffer', 'réchauffer', 'chaleureux/-euse', 'cordial/-ale', 'chaud', '(se) (ré)chauffer', '(assez) chaud', 'chaud/chaude']","['chaud', 'cardiaque', 'réchauffer', 'se réchauffer', 'isoler', 'Il fait chaud', 'échauffement']",0.4444444444444444
+21,America,[],['Amérique'],0.5
+22,nobody,"['personne d’autre', 'personne']","['quiconque', 'un certain', 'dont', 'insignifiance']",1.0
+23,entire,"['tout/toute', 'entier/-ière', 'entier']","['entier', 'holistique', 'tous', 'entièrement']",0.8333333333333333
+24,thousand,['mille'],"['mille', 'millénaire', 'multitude', 'mille dollars', 'millier', 'millième']",2.5
+25,Belgium,[],['Belgique'],0.5
+26,anything,"['tout', 'comme', 'quelque chose', 'n’importe quoi']","[""n'importe quoi"", 'rien', ""C'est tout""]",0.375
+27,background,"['origines', 'milieu', 'fond', 'contexte', 'arrière-plan', 'fond, arrière-plan', 'dans l’ombre']","['toile de fond', 'condition préalable', 'origine', 'préparation', 'histoire', 'information', 'le mode arrière-plan', 'expérience', 'informations de référence', ""l'histoire de la question"", 'passé', 'éducation', 'racine', 'informations de base', 'contexte', 'généralités', 'origine', ""l'image de fond"", 'parasite', 'parasite', 'de référence', 'secondaire']",1.3571428571428572
+28,child,['enfant'],"['enfant', 'enfant', 'progéniture', 'fils', 'descendant', 'enfant', 'infantile', 'filial', 'mineur']",3.5
+29,childhood,['enfance'],"['enfance', 'infantile']",1.0
+30,dependable,['fiable'],"['fiable', 'dépendant', 'crédible', 'dépendant']",1.5
+31,everything,['tout'],"[""C'est tout"", ""n'importe quoi""]",1.0
+32,grandchild,['petits-enfants'],['petit-fils'],0.5
+33,ketchup,['ketchup'],['ketchup'],0.5
+34,point,"['qualités, défauts', 'pointer', 'jointoyer', 'moment', 'point, propos', 'point', 'virgule', 'au fait', 'sens, raison', 'braquer', 'prise électrique', 'pointe', 'indiquer', 'intérêt', 'moment précis', 'stade', 'point d’ébullition']","['point', 'lunette', 'espace', 'question', 'point', 'sens', 'phase', 'point de vue', 'indiquer', 'affaire', 'célébrer', 'montrer', 'souligner', 'induire', 'ponctuel']",0.5
+35,strength,"['volonté', 'qualité', 'solidité', 'effectif(s)', 'puissance', 'intensité', 'résistance', 'force']","['force', 'résistance', 'tension', 'forteresse', 'effectif', 'dignité', 'puissance', 'fort', 'effort', 'puissance', 'robuste']",0.625
+36,star,"['star', 'carambole', '(de) star', 'meilleur/-eure', 'vedette', 'étoile']","['étoile', 'lumière', 'star', 'vieux', 'rôles principaux', 'diva', 'stellaire', ""s'enlever"", 'jouer les rôles principaux']",0.8333333333333334
+37,thing,"['tout cela/ça', 'truc', 'c’est ainsi', 'choses', 'chose', 'objet', 'rien', 'heureusement', 'personne, créature', 'partie', 'l’essentiel']","['chose', 'affaire', 'objet', 'événement', 'créature', 'truc', 'acte', 'tâche', 'que']",0.45454545454545453
+38,coincide,"['coïncider', 'coïncider (avec)']","['coïncider', 'se confondre']",0.75
+39,coincidental,['fortuit/-uite'],"['aléatoire', 'coïncident', 'coïncidence']",1.5
+40,dance,"['danse', 'bal', 'danse moderne', 'danser']","['danse', 'bal', 'musique dansante', 'soirée dansante', 'la danse', 'danse', 'chorégraphie', 'danser', 'se trémousser', 'chorégraphique', 'de danse']",1.125
+41,countryside,['campagne'],"['campagne', 'nature', 'banlieue', 'zones rurales', 'campagne', 'paysage rural', 'rural']",3.0
+42,break,"['félure', '(inter)rompre', 'briser', 'cesser', 'désobéir à', 'chance', 'casser, éclater', 'être annoncé/-ée', 'changement', 'annoncer', '(se) casser', 'être révélé/-ée', 'casser', 'briser, casser', 'vacances', '(s’)échapper', 'lâcher qqn', 'pause', 's’arrêter', 'muer', 'rompre', 'enfreindre', 'interrompre', 'battre', 'amortir', 'brèche, ouverture', 'éclater', 'laisse/-ez tomber']","['casser', 'violer', 'briser', 'rompre', 'percer', 'détruire', 'échapper', 'se briser', 'éclater', 'perforer', 'surmonter', 'se détacher', 'arracher', 'réfracter', 'pause', 'écart', 'brèche', 'vacance', 'répit']",0.4107142857142857
+43,mother,"['mère', 'Mère']","['mère', 'mémère', 'maternel', 'natal', 'de maman']",1.0
+44,start,"['partir', 'pour commencer', 'début, départ', 'commencer', 'début', 'choc', 'sursauter', 'départ', 'd’abord', 'lancer', 'démarrer', 'commencement', 'avance', 'premièrement', '(faire) démarrer', 'sursaut', 'commencer (à)', 'débuter']","['commencer', 'démarrer', 'tressaillir', 'introduire', ""s'occuper de"", 'entreprendre', 'début', 'lancement', 'initial']",0.38888888888888884
+45,tip,"['bout, pointe', 'décharge', 'incliner', 'déverser', 'pressentir', 'pointe', 'pourboire', 'pencher', 'verser', 'conseil, tuyau', 'conseil', '(faire) pencher', 'tuyau', 'dépotoir', 'bout']","['pointe', 'pourboire', 'fin mince', 'groupe dirigeant', 'bulle', 'Conseil', 'extrémité', 'avis', 'conseils utiles', 'sonde', 'SOP', 'vertex', 'incliner', 'chavirer', 'donner un pourboire', 'sur le thé']",0.5333333333333333
+46,apologise,[],"[""s'excuser devant""]",0.5
+47,come,"['exister', 'venir, arriver', 'approcher', 'aboutir', 'à venir', 'allons!', 'Voilà qqn', 'venir', 'arriver']","['venir', 'venir', 'entrer', 'faire son apparition', 'livrant', 'faire', 'émaner', 'tomber', 'Vas-y']",0.5555555555555556
+48,curriculum,[],"['curriculum', 'cursus', 'programme', 'curriculum', 'horaire', ""contenu de l'éducation""]",2.5
+49,expertise,"['compétence, savoir-faire', 'compétences', 'expertise']","['examen', 'compétence', 'habileté', 'qualification', 'expérience', 'expertise', 'expert', 'professionnalisme', ""capacités d'experts"", 'expertise', 'expérience commerciale', ""d'expertise""]",1.6666666666666667
+50,freeze,"['il gèle', 'se figer', 'bloquer', 'planter', 'geler', '(faire) geler', 'gel', 'congeler', 'gelée', 'blocage', 'être gelé/-ée']","['geler', 'geler', 'se figer', 'geler', 'accrocher', 'se geler', 'geler', 'geler', 'congélation', 'blocage', 'gel']",0.4545454545454546
+51,issue,"['sortir (de)', 'numéro', 'émettre', 'fournir', 'problème', 'distribuer', 'question', 'emission, distribution']","['question', 'édition', 'délivrance', 'chambre', 'écoulement', 'émission', 'délivrer', 'produire', 'publier', 'décorer', 'émissif']",0.6875
+52,peremptory,[],"['impératif', 'péremptoire']",1.0
+53,parent,['parent'],"['parent', 'ancêtre', 'père', 'élément parent', 'mère', 'parental', 'initial', 'supérieur', ""l'un des parents""]",3.0
+54,member,"['membre', 'député, ée']","['membre', 'représentant', 'élément', 'député', ""membre de l'organisation"", 'de membre']",1.0
+55,band,"['col', 'bande', 'ceinture', 'se regrouper', 'groupe', 'orchestre', 'brassard']","['gang', 'ruban', 'orchestre', 'détachement', 'lien', 'pansement', 'gamme', 'zone', 'groupe musical', 'rubané', 'gamme', 'ленточнопильный', 'Band']",0.8571428571428572
+56,order,"['mandat', 'organiser, ordonner', 'commander', 'en ordre', 'ordre', 'ordonner', 'classer', 'commande', 'afin de/que', 'ordre numérique/alphabétique', 'hors service', 'inacceptable']","['ordre', 'ordre', 'commande', 'ordre', 'séquence', 'système', 'ordre', 'commander', 'ordonner', 'ordonner']",0.375
+57,hot,"['épicé', 'frais', 'recherché/-ée', 'chaud', 'brûlant/-ante', 'pas terrible', 'chaud/chaude', 'épicé/-ée', 'sexy']","['chaud', 'pointu', 'populaire', 'brûlant', 'chaud', 'Il fait chaud', ""C'est chaud"", 'échauffé', 'brûlant', 'chauffer']",0.38888888888888884
+58,fly,"['piloter', 'braguette', 'passer vite', 'arborer', 'voler', 's’enfuir (de)', 'flotter', 'mouche', 'mouche (artificielle)', 'se ruer']","['voler', ""s'envoler"", 'entrer', 'voler', ""s'envoler"", 'слетаться', 'mouche', 'vol']",0.25
+59,lie,"['se trouver', 'mentir', 'rester', 'mensonge', '(s’)allonger']","['coucher', 'se trouver', 'mentir', 'se trouver', 'passe', 'se reposer', 'mensonge', 'Liev']",0.7
+60,select,"['sélect', 'sélectionner', 'privilégié/-ée', 'choisi', 'choisir']","['choisir', 'élire', 'allouer', 'indiquer', 'choisi', 'sélection']",0.7
+61,school,"['apprendre à', 'institut', 'institut, département', 'école', 'faculté', 'cours, école', 'banc, bande', 'département']","['école', 'collège', ""C'est super"", ""établissement d'enseignement"", 'faculté', 'études', ""cours à l'école"", 'scolaire']",0.5
+62,cafe,"['café', 'bistrot']","['café', 'buffet', 'café-restaurant']",0.5
+63,buy,"['croire', 'acheter', 'gober']","['acheter', 'vendre', 'acheter', 'soudoyer', 'achat']",0.6666666666666666
+64,tell,"['distinguer, reconnaître', 'lire l’heure', 'savoir', 'raconter', 'demander (de)', 'dire', 'indiquer', 'ordonner', 'parler, répéter', 'se reconnaître', 'peser', 'distinguer']","['raconter', 'dire', 'signaler', 'indiquer', 'assurer', 'faire', 'souffler', 'raconter', 'expliquer', 'transmettre', 'demander', 'partager', 'distinguer', 'se dire']",0.5416666666666667
+65,international,"['international/-ale', 'international']","['international', ""l'Internationale""]",0.75
+66,stand,"['être', 'tribune', 'poste', 'en être', 'supporter', 'étal', 'mesurer', 'barre', 'mettre', 'lutter contre', 'se trouver', 'la barre', 'combat', 'se lever', 'prendre position', 'étalage', 'résister à', 'rester', 'position', 'offrir', 'maintenir', 'poser (droit/debout)', 'se mettre', 'détester', 'stand', 'être debout', 'support', 'sellette', 's’élever']","['être', 'résister', 'résister', 'défendre', 'prendre la parole', 'arrêter', 'comparaître', 'rester', 'se figer', 'stand', 'socle', 'position', 'tribune']",0.25862068965517243
+67,fish,"['poisson', 'fouiller', 'chercher', 'un scalaire', 'pêcher']","['poisson', 'Fish', 'de poisson', 'pêcher', 'pêche', 'soutirer']",0.4
+68,benefit,"['bienfaits', 'allocation', 'prime', 'avantage']","['avantage', 'avantage', 'privilège', 'allocation', 'bienfait', 'bénéfice', 'effet', 'gain', 'fruit', 'servir', 'apporter des avantages', 'gagner', 'avantageux']",1.25
+69,intelligent,"['intelligent/-ente', 'intelligent']","['intelligent', 'raisonnable', 'plein de sens', 'réfléchi', 'sot', 'microprocesseur', 'compréhensif', 'pensant', 'programmable', 'personnalisable', 'compréhensif']",2.75
+70,follow,"['suivre', 'suivvre', 'comprendre']","['suivre', 'surveiller', 'respecter', 'accompagner', 'aller', 'exécuter', 'découler', 'suivant à suivre', 'répéter', 'ultérieur']",1.5
+71,journey,"['voyager', 'trajet', 'voyage, trajet', 'voyage', 'périple']","['voyage', 'chemin', 'vol', 'passage', 'déménagement', 'pèlerinage', 'voyager']",0.8
+72,news,"['nouvelles', 'les informations', 'dernières nouvelles', 'bonnes/mauvaises nouvelles']","['nouvelle', 'nouvelle', 'News', 'nouveauté', ""l'émission de nouvelles"", ""bulletin d'informations"", 'actualités']",0.875
+73,write,"['faire', 'écrire', 'rédiger', 'composer']","['écrire', 'enregistrer', 'prescrire', 'inscrire', 'radier', 'écrit']",0.75
+74,approbation,['approbation'],['approbation'],0.5
+75,read,"['voir, lire', 'être rédigé', 'interpréter', 'déchiffrer', 'se lire', 'dire', 'lecture', 'indiquer', 'étudier', 'comprendre', 'lire']","['lire', 'lire', 'dire', 'donner lecture de', 'lire', 'lecture']",0.22727272727272727
+76,hear,"['écouter', 'juger', 'entendre', 'apprendre']","['entendre', 'apprendre', 'sonner', 'entendre', 'entendre', 'entendre', 'audible']",0.5
+77,feel,"['croire', 'estimer', 'toucher', 'n’hésite/-tez pas', 'éprouver', 'se sentir', 'tâtonner', 'sentir', 'ressentir', 'atmosphère', 'palper, toucher']","['sentir', 'croire', 'palper', 'éprouver', 'être gêné', 'sensation']",0.36363636363636365
+78,be,"['devoir, aller', 'faire', 'être', 'aller']","['être', 'survenir', 'se trouver', 'représenter', 'résider', 'aller', 'se rapporter à', 'égale']",1.125
+79,right,"['complètement', 'bon/bonne', 'sur-le-champ', 'Bon. Commençons.', 'parfait/-aite', 'droit/droite', 'bien-sûr', 'droit', 'correctement', 'pour l’instant', 'entendu', 'bon', 'normal/-ale', 'redresser', 'bien', 'exact/exacte', 'droite', 'juste', 'bien aller', 'la droite/Droite', 'vrai', 'bien, juste', 'exactement', 'à l’endroit', '(se) redresser', 'approprié', 'à droite']","['droit', 'droite', 'vérité', 'bon droit', 'droit', 'nécessaire', 'qui convient', 'à droite', 'correctement', 'à la fois', 'Ça va', 'directement']",0.25925925925925924
+80,guru,['gourou'],['gourou'],0.5
+81,beginner,['débutant/-ante'],"['commençant', 'débutant', 'niveau initial', 'photographe débutant', 'initial']",2.5
+82,collide,['se heurter'],"['se heurter', 'être en conflit', 'donner contre', 'se battre', 'en conflit']",2.5
+83,genetically,['génétiquement'],"['génétiquement', 'génétique']",0.5
+84,precedent,['précédent'],"['précédent', 'précédent', 'faisant jurisprudence', 'antérieur']",1.5
+85,refugee,"['(de) réfugié/-ée', 'réfugié/-ée']","['réfugié', 'réfugié', 'fugitif', 'bezhensky']",1.0
+86,secular,"['laïque', 'profane']","['laïque', 'séculaire', 'à long terme', 'laïcité', 'laïc', 'laïcité']",1.25
+87,pasta,['pâtes'],"['pâte', 'plats de pâtes']",0.5
+88,beaver,['castor'],"['castor', 'Castor', 'Castor', 'bourreau de travail', 'gypaète', 'de castor']",2.0
+89,tiger,"['tigre', 'tigre/tigresse']","['gros chat', 'bête', 'tigrin']",0.75
+90,lion,"['lion, lionne', 'lion']","['lion', 'de lion']",0.5
+91,pen,"['stylo', 'enclos']","['poignée', 'reisfeder', 'feutre', 'enclos', 'Pérou', 'mousse', 'plumier', 'photostyle', 'écrire', 'plume']",2.5
+92,coconut,[],"['coco', 'pulpe de noix de coco', 'de coco']",1.5
+93,dynamite,['dynamite'],"['dynamite', 'vérificateur de dynamite', 'de dynamite', 'explosif']",1.0
+94,spoon,"['cuiller/cuillère', 'cuillerée', 'cuillère']","['cuillère', 'devon', ""s'embrasser"", ""écoper d'une cuillère""]",0.6666666666666666
+95,ocean,"['océan', 'courants/plages océaniques', 'l’océan Antarctique']","['océan', ""le fond de l'océan"", 'océanique']",0.5
+96,mug,"['agresser', 'gueule', 'andouille', 'mug', 'mug, tasse']","['tasse', 'minois', 'verre', 'groin', 'cancre', 'Murlo', 'baiseur', 'piller']",0.7999999999999999
+97,shampoo,['shampooing'],"['shampooing', 'shampoing', 'laver']",1.5
+98,buzzer,"['timbre, sonnerie', 'interphone']","['sirène', 'appel', 'pouet', 'buzzer']",1.0
+99,exhaustively,[],"['limitativement', 'entièrement', 'soigneusement']",1.5
+100,apoplexy,[],"['coup', 'apoplexie', 'hémorragie', 'apoplectique']",2.0

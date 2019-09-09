@@ -1,0 +1,248 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "alarm",
+            "pos": "noun",
+            "ts": "əˈlɑːm",
+            "tr": [
+                {
+                    "text": "сигнал тревоги",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "аварийный сигнал",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "сигнал",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "тревожный сигнал",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "alarm signal"
+                        },
+                        {
+                            "text": "signal"
+                        }
+                    ]
+                },
+                {
+                    "text": "тревога",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "оповещение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "alert"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "false alarm",
+                            "tr": [
+                                {
+                                    "text": "ложная тревога"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "general quarters alarm",
+                            "tr": [
+                                {
+                                    "text": "общая тревога"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "audio alarm",
+                            "tr": [
+                                {
+                                    "text": "звуковое оповещение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сигнализация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "тревожная сигнализация",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "аварийная сигнализация",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "alarm system"
+                        }
+                    ]
+                },
+                {
+                    "text": "будильник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "clock"
+                        }
+                    ]
+                },
+                {
+                    "text": "предупредительный сигнал",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "предупреждающий сигнал",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "warning signal"
+                        }
+                    ]
+                },
+                {
+                    "text": "сигнализатор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "detector"
+                        }
+                    ]
+                },
+                {
+                    "text": "набат",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "alarm bell"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "alarm",
+            "pos": "verb",
+            "ts": "əˈlɑːm",
+            "tr": [
+                {
+                    "text": "встревожить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "тревожить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "встревожиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "disturb"
+                        },
+                        {
+                            "text": "worry"
+                        }
+                    ]
+                },
+                {
+                    "text": "настораживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "guard"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "alarm",
+            "pos": "adjective",
+            "ts": "əˈlɑːm",
+            "tr": [
+                {
+                    "text": "аварийный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "тревожный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "сигнальный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "emergency"
+                        },
+                        {
+                            "text": "alarming"
+                        },
+                        {
+                            "text": "signal"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "alarm signal",
+                            "tr": [
+                                {
+                                    "text": "тревожный сигнал"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "alarm relay",
+                            "tr": [
+                                {
+                                    "text": "сигнальное реле"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сигнализационный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "signaling"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

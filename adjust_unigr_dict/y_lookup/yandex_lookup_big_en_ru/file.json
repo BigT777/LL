@@ -1,0 +1,275 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "file",
+            "pos": "noun",
+            "ts": "faɪl",
+            "tr": [
+                {
+                    "text": "папка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "архив",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "файл",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "файлик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "folder"
+                        },
+                        {
+                            "text": "archive"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "green file",
+                            "tr": [
+                                {
+                                    "text": "зеленая папка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "medical files",
+                            "tr": [
+                                {
+                                    "text": "медицинский архив"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "new file",
+                            "tr": [
+                                {
+                                    "text": "новый файл"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "file name extension",
+                            "tr": [
+                                {
+                                    "text": "расширение имени файла"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "transaction log file",
+                            "tr": [
+                                {
+                                    "text": "файл журнала транзакций"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "file transfer protocol",
+                            "tr": [
+                                {
+                                    "text": "протокол передачи файлов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "file allocation table",
+                            "tr": [
+                                {
+                                    "text": "таблица размещения файлов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "package definition file",
+                            "tr": [
+                                {
+                                    "text": "файл определения пакета"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "workgroup information file",
+                            "tr": [
+                                {
+                                    "text": "файл рабочей группы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "data text file",
+                            "tr": [
+                                {
+                                    "text": "текстовый файл данных"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "executable file",
+                            "tr": [
+                                {
+                                    "text": "исполняемый файл"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "напильник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "ex": [
+                        {
+                            "text": "round file",
+                            "tr": [
+                                {
+                                    "text": "круглый напильник"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "досье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "dossier"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "credit file",
+                            "tr": [
+                                {
+                                    "text": "кредитное досье"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дело",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "case"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "personal file",
+                            "tr": [
+                                {
+                                    "text": "личное дело"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "массив",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "array"
+                        }
+                    ]
+                },
+                {
+                    "text": "подача",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "submission"
+                        }
+                    ]
+                },
+                {
+                    "text": "картотека",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "card index"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "electronic file",
+                            "tr": [
+                                {
+                                    "text": "электронная картотека"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "file",
+            "pos": "adjective",
+            "ts": "faɪl",
+            "tr": [
+                {
+                    "text": "файловый",
+                    "pos": "adjective",
+                    "ex": [
+                        {
+                            "text": "root file system",
+                            "tr": [
+                                {
+                                    "text": "корневая файловая система"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "file",
+            "pos": "verb",
+            "ts": "faɪl",
+            "tr": [
+                {
+                    "text": "подавать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "submit"
+                        }
+                    ]
+                },
+                {
+                    "text": "хранить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "store"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

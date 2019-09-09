@@ -1,0 +1,261 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "add",
+            "pos": "verb",
+            "ts": "æd",
+            "tr": [
+                {
+                    "text": "добавлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "прибавлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "увеличивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "добавить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прибавить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "увеличить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "append"
+                        },
+                        {
+                            "text": "increase"
+                        },
+                        {
+                            "text": "gain"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "add salt",
+                            "tr": [
+                                {
+                                    "text": "добавлять соль"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "add sound",
+                            "tr": [
+                                {
+                                    "text": "прибавлять звук"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "added value",
+                            "tr": [
+                                {
+                                    "text": "добавленная стоимость"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "add speed",
+                            "tr": [
+                                {
+                                    "text": "прибавить скорость"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "складывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сложить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "put"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "add numbers",
+                            "tr": [
+                                {
+                                    "text": "складывать числа"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дополнить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "дополнять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "complement"
+                        }
+                    ]
+                },
+                {
+                    "text": "придавать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "придать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "присоединить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "give"
+                        },
+                        {
+                            "text": "attach"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "added mass",
+                            "tr": [
+                                {
+                                    "text": "присоединенная масса"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "добавиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "supplement"
+                        }
+                    ]
+                },
+                {
+                    "text": "подлить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "подливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "долить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pour"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "add oil",
+                            "tr": [
+                                {
+                                    "text": "долить масло"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пополнять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "fill"
+                        }
+                    ]
+                },
+                {
+                    "text": "дописать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "finish"
+                        }
+                    ]
+                },
+                {
+                    "text": "присовокупить",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "add",
+            "pos": "adjective",
+            "ts": "æd",
+            "tr": [
+                {
+                    "text": "дополнительный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "additional"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "added weight",
+                            "tr": [
+                                {
+                                    "text": "дополнительный вес"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
