@@ -1,0 +1,377 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "Request alarm",
+                                "target": "requête d'alarme"
+                            },
+                            {
+                                "context": "",
+                                "source": "clear alarm",
+                                "target": "clear alarm"
+                            },
+                            {
+                                "context": "",
+                                "source": "setting alarm",
+                                "target": "définition de l'alarme"
+                            },
+                            {
+                                "context": "",
+                                "source": "set alarm",
+                                "target": "définition d'alarme"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:alarms)",
+                            "info": "",
+                            "lemma": "alarm",
+                            "phonetic": "[əˈlɑːm]",
+                            "pos": "noun",
+                            "term": "alarm"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 2040,
+                                "expressions": [
+                                    {
+                                        "source": "audible alarm",
+                                        "target": "alarme sonore"
+                                    },
+                                    {
+                                        "source": "false alarm",
+                                        "target": "fausse alarme"
+                                    },
+                                    {
+                                        "source": "social alarm",
+                                        "target": "alarme sociale"
+                                    },
+                                    {
+                                        "source": "bmc tam alarm",
+                                        "target": "alarmes TAM du contrôleur BMC"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "warning",
+                                    "alert",
+                                    "alarm bell"
+                                ],
+                                "lemma": "alarme",
+                                "rank": "81",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 2040,
+                                "expressions": [
+                                    {
+                                        "source": "fire alarm",
+                                        "target": "alerte au feu"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "alert",
+                                    "warning"
+                                ],
+                                "lemma": "alerte",
+                                "rank": "6",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 2040,
+                                "expressions": [
+                                    {
+                                        "source": "alarm within the communities",
+                                        "target": "inquiétudes dans les collectivités"
+                                    },
+                                    {
+                                        "source": "growing alarm",
+                                        "target": "inquiétude croissante"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "concern",
+                                    "worry",
+                                    "anxiety",
+                                    "fear"
+                                ],
+                                "lemma": "inquiétude",
+                                "rank": "4",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 2040,
+                                "expressions": [
+                                    {
+                                        "source": "smoke alarm",
+                                        "target": "détecteur de fumée"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "detector",
+                                    "sensor"
+                                ],
+                                "lemma": "détecteur",
+                                "rank": "3",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 2040,
+                                "expressions": [
+                                    {
+                                        "source": "sound alarm",
+                                        "target": "avertisseur sonore"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "horn",
+                                    "sentinel",
+                                    "warning device",
+                                    "callboy",
+                                    "klaxon"
+                                ],
+                                "lemma": "avertisseur",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 2040,
+                                "expressions": [
+                                    {
+                                        "source": "built-in alarm",
+                                        "target": "réveil intégré"
+                                    },
+                                    {
+                                        "source": "radio alarm",
+                                        "target": "radio réveil"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "convenience",
+                                    "revival",
+                                    "wake",
+                                    "wake-up call",
+                                    "wake-up",
+                                    "wakeup",
+                                    "speakerphone",
+                                    "reveille"
+                                ],
+                                "lemma": "réveil",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "source": {
+                            "inflection": "(alarms/alarmed)",
+                            "info": "",
+                            "lemma": "alarm",
+                            "phonetic": "[əˈlɑːm]",
+                            "pos": "verb",
+                            "term": "alarm"
+                        },
+                        "targets": [
+                            {
+                                "context": "government, people, public",
+                                "domain": "",
+                                "entry_id": 2041,
+                                "expressions": [
+                                    {
+                                        "source": "to alarm the public",
+                                        "target": "alarmer la population"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "scare",
+                                    "frighten"
+                                ],
+                                "lemma": "alarmer",
+                                "rank": "80",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 2041,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "concern",
+                                    "worry",
+                                    "worry",
+                                    "care",
+                                    "worry about"
+                                ],
+                                "lemma": "s'inquiéter",
+                                "rank": "4",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 2041,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "frighten",
+                                    "scare",
+                                    "terrify",
+                                    "scare",
+                                    "off-~-scare off",
+                                    "intimidate",
+                                    "appall",
+                                    "spook"
+                                ],
+                                "lemma": "effrayer",
+                                "rank": "4",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 2041,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "worry",
+                                    "concern",
+                                    "bother",
+                                    "disturb",
+                                    "trouble",
+                                    "disturb",
+                                    "worry"
+                                ],
+                                "lemma": "inquiéter",
+                                "rank": "3",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 2041,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "s'alarmer",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 2041,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "alert",
+                                    "warn",
+                                    "alert"
+                                ],
+                                "lemma": "alerter",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 2041,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "frighten",
+                                    "terrify"
+                                ],
+                                "lemma": "effarer",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 2041,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "dismay",
+                                    "appall",
+                                    "shock",
+                                    "appal",
+                                    "amaze",
+                                    "perplex",
+                                    "bewilder",
+                                    "befuddle",
+                                    "stun"
+                                ],
+                                "lemma": "consterner",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 2041,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "terrify",
+                                    "scare",
+                                    "terrify",
+                                    "frighten",
+                                    "appall"
+                                ],
+                                "lemma": "terrifier",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

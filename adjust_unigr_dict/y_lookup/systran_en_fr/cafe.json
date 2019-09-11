@@ -1,0 +1,97 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "typical cafes",
+                                "target": "bistrot typique"
+                            },
+                            {
+                                "context": "",
+                                "source": "Rock Cafe",
+                                "target": "Rock Café"
+                            },
+                            {
+                                "context": "",
+                                "source": "R CAFE",
+                                "target": "R CAFE"
+                            },
+                            {
+                                "context": "",
+                                "source": "terrace cafe",
+                                "target": "Terrace Café"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:cafes)",
+                            "info": "",
+                            "lemma": "cafe",
+                            "phonetic": "[kæfˈeɪ]",
+                            "pos": "noun",
+                            "term": "cafe"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 7416,
+                                "expressions": [
+                                    {
+                                        "source": "Moorish cafe",
+                                        "target": "café maure"
+                                    },
+                                    {
+                                        "source": "internet cafe",
+                                        "target": "café internet"
+                                    },
+                                    {
+                                        "source": "hotel cafe",
+                                        "target": "café de l'hôtel"
+                                    },
+                                    {
+                                        "source": "local cafe",
+                                        "target": "café local"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "coffee",
+                                    "café",
+                                    "coffee shop",
+                                    "coffee-making facilities"
+                                ],
+                                "lemma": "café",
+                                "rank": "93",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 7416,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "cafeteria",
+                                    "coffee shop",
+                                    "canteen"
+                                ],
+                                "lemma": "cafétéria",
+                                "rank": "7",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

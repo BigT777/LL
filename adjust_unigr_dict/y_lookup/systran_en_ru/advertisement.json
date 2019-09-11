@@ -1,0 +1,91 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "(pl:advertisements)",
+                            "info": "",
+                            "lemma": "advertisement",
+                            "phonetic": "[ədˈvɜːtɪsmənt]",
+                            "pos": "noun",
+                            "term": "advertisement"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 554,
+                                "expressions": [
+                                    {
+                                        "source": "outdoor advertisement",
+                                        "target": "наружная реклама"
+                                    },
+                                    {
+                                        "source": "visual advertisement",
+                                        "target": "визуальная реклама"
+                                    },
+                                    {
+                                        "source": "complete advertisement",
+                                        "target": "готовой рекламы"
+                                    },
+                                    {
+                                        "source": "banner advertisement",
+                                        "target": "баннерная реклама"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "advertising",
+                                    "ad",
+                                    "commercial",
+                                    "promotion"
+                                ],
+                                "lemma": "реклама",
+                                "rank": "78",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 554,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "ad",
+                                    "announcement",
+                                    "offer",
+                                    "declaration",
+                                    "advertising"
+                                ],
+                                "lemma": "объявление",
+                                "rank": "12",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 554,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "рекламный ролик",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

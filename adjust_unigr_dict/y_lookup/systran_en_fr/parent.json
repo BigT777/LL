@@ -1,0 +1,147 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "corporate parent",
+                                "target": "société mère"
+                            },
+                            {
+                                "context": "",
+                                "source": "custodial parent",
+                                "target": "garde des enfants"
+                            },
+                            {
+                                "context": "",
+                                "source": "young single parents",
+                                "target": "jeunes chefs de familles monoparentales"
+                            },
+                            {
+                                "context": "",
+                                "source": "parent hba",
+                                "target": "adaptateur HBA parent"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:parents)",
+                            "info": "",
+                            "lemma": "parent",
+                            "phonetic": "[ˈpɛɹənt]",
+                            "pos": "noun",
+                            "term": "parent"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 35837,
+                                "expressions": [
+                                    {
+                                        "source": "adoptive parent",
+                                        "target": "parent adoptif"
+                                    },
+                                    {
+                                        "source": "biological parents",
+                                        "target": "parent biologique"
+                                    },
+                                    {
+                                        "source": "Canadian parents",
+                                        "target": "parent canadien"
+                                    },
+                                    {
+                                        "source": "single parent",
+                                        "target": "parent seul"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "relative",
+                                    "stepparent"
+                                ],
+                                "lemma": "parent",
+                                "rank": "91",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 35837,
+                                "expressions": [
+                                    {
+                                        "source": "US parent",
+                                        "target": "mère américaine"
+                                    },
+                                    {
+                                        "source": "elderly parents",
+                                        "target": "mère âgée"
+                                    },
+                                    {
+                                        "source": "lone parents",
+                                        "target": "mère seule"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "mother",
+                                    "mom",
+                                    "dam",
+                                    "mother-in-law",
+                                    "stepmother"
+                                ],
+                                "lemma": "mère",
+                                "rank": "6",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "Medicine",
+                                "entry_id": 35837,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "origin",
+                                    "source",
+                                    "cause",
+                                    "background",
+                                    "root"
+                                ],
+                                "lemma": "origine",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "IT",
+                                "entry_id": 35837,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "relative",
+                                    "kinship",
+                                    "relatedness",
+                                    "kin",
+                                    "parentage",
+                                    "kindred"
+                                ],
+                                "lemma": "parenté",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

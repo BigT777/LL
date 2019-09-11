@@ -1,0 +1,187 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "school",
+                            "phonetic": "",
+                            "pos": "adj",
+                            "term": "school"
+                        },
+                        "targets": [
+                            {
+                                "context": "year, building, meal, lunch",
+                                "domain": "",
+                                "entry_id": 43965,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "academic",
+                                    "educational",
+                                    "school-based"
+                                ],
+                                "lemma": "scolaire",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "secondary school",
+                                "target": "étude secondaire"
+                            },
+                            {
+                                "context": "",
+                                "source": "indian residential schools",
+                                "target": "pensionnat indien"
+                            },
+                            {
+                                "context": "",
+                                "source": "elementary school",
+                                "target": "niveau primaire"
+                            },
+                            {
+                                "context": "",
+                                "source": "schools of fish",
+                                "target": "banc de poissons"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:schools)",
+                            "info": "",
+                            "lemma": "school",
+                            "phonetic": "[skuːl]",
+                            "pos": "noun",
+                            "term": "school"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 43966,
+                                "expressions": [
+                                    {
+                                        "source": "high school",
+                                        "target": "école secondaire"
+                                    },
+                                    {
+                                        "source": "primary school",
+                                        "target": "école primaire"
+                                    },
+                                    {
+                                        "source": "european schools",
+                                        "target": "école européenne"
+                                    },
+                                    {
+                                        "source": "public school",
+                                        "target": "école publique"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "école",
+                                "rank": "98",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 43966,
+                                "expressions": [
+                                    {
+                                        "source": "medical school",
+                                        "target": "faculté de médecine"
+                                    },
+                                    {
+                                        "source": "law school",
+                                        "target": "faculté de droit"
+                                    },
+                                    {
+                                        "source": "canadian law school",
+                                        "target": "faculté de droit canadienne"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "faculty",
+                                    "college"
+                                ],
+                                "lemma": "faculté",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "source": {
+                            "inflection": "(schools/schooled)",
+                            "info": "",
+                            "lemma": "school",
+                            "phonetic": "[skuːl]",
+                            "pos": "verb",
+                            "term": "school"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 43967,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "educate",
+                                    "attend school"
+                                ],
+                                "lemma": "scolariser",
+                                "rank": "66",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 43967,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "educate",
+                                    "instruct",
+                                    "instruct",
+                                    "hear",
+                                    "teach",
+                                    "appraise",
+                                    "investigate",
+                                    "educate",
+                                    "entertain"
+                                ],
+                                "lemma": "instruire",
+                                "rank": "33",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

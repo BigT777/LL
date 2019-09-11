@@ -1,0 +1,309 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "book",
+                            "phonetic": "",
+                            "pos": "adj",
+                            "term": "book"
+                        },
+                        "targets": [
+                            {
+                                "context": "value",
+                                "domain": "",
+                                "entry_id": 6352,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "accountable",
+                                    "of accounts",
+                                    "countable",
+                                    "pre-tax"
+                                ],
+                                "lemma": "comptable",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "comic book",
+                                "target": "bande dessinée"
+                            },
+                            {
+                                "context": "",
+                                "source": "phone book",
+                                "target": "annuaire téléphonique"
+                            },
+                            {
+                                "context": "",
+                                "source": "appeal book",
+                                "target": "dossier d'appel"
+                            },
+                            {
+                                "context": "",
+                                "source": "price book",
+                                "target": "catalogue des prix"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:books)",
+                            "info": "",
+                            "lemma": "book",
+                            "phonetic": "[bʊk]",
+                            "pos": "noun",
+                            "term": "book"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 6353,
+                                "expressions": [
+                                    {
+                                        "source": "red book",
+                                        "target": "livre rouge"
+                                    },
+                                    {
+                                        "source": "good book",
+                                        "target": "bon livre"
+                                    },
+                                    {
+                                        "source": "history books",
+                                        "target": "livre d'histoire"
+                                    },
+                                    {
+                                        "source": "first book",
+                                        "target": "premier livre"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "paper",
+                                    "pound"
+                                ],
+                                "lemma": "livre",
+                                "rank": "88",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 6353,
+                                "expressions": [
+                                    {
+                                        "source": "reference book",
+                                        "target": "ouvrage de référence"
+                                    },
+                                    {
+                                        "source": "latest book",
+                                        "target": "dernier ouvrage"
+                                    },
+                                    {
+                                        "source": "technical books",
+                                        "target": "ouvrage technique"
+                                    },
+                                    {
+                                        "source": "Canadian-authored books",
+                                        "target": "ouvrages d'auteurs canadiens"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "work",
+                                    "literature",
+                                    "physical work"
+                                ],
+                                "lemma": "ouvrage",
+                                "rank": "6",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 6353,
+                                "expressions": [
+                                    {
+                                        "source": "address book",
+                                        "target": "carnet d'adresses"
+                                    },
+                                    {
+                                        "source": "order book",
+                                        "target": "carnet de commandes"
+                                    },
+                                    {
+                                        "source": "UNYK address book",
+                                        "target": "carnet d'adresses UNYK"
+                                    },
+                                    {
+                                        "source": "system's address book",
+                                        "target": "carnet d'adresses du système"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "carnet",
+                                    "notebook",
+                                    "booklet",
+                                    "logbook",
+                                    "backlog",
+                                    "roadmap",
+                                    "diary",
+                                    "VIP journals"
+                                ],
+                                "lemma": "carnet",
+                                "rank": "4",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "IT",
+                                "entry_id": 6353,
+                                "expressions": [
+                                    {
+                                        "source": "book online",
+                                        "target": "documentation en ligne"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "documentation",
+                                    "literature",
+                                    "material"
+                                ],
+                                "lemma": "documentation",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "booked to capacity",
+                                "target": "rempli à pleine capacité"
+                            },
+                            {
+                                "context": "",
+                                "source": "to book their trip",
+                                "target": "faire leurs réservations"
+                            },
+                            {
+                                "context": "",
+                                "source": "booked to this item",
+                                "target": "imputés au présent poste"
+                            },
+                            {
+                                "context": "",
+                                "source": "book on emc paper",
+                                "target": "consignées sur des documents emc"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(books/booked)",
+                            "info": "",
+                            "lemma": "book",
+                            "phonetic": "[bʊk]",
+                            "pos": "verb",
+                            "term": "book"
+                        },
+                        "targets": [
+                            {
+                                "context": "hostel, hotel, ticket, room",
+                                "domain": "",
+                                "entry_id": 6354,
+                                "expressions": [
+                                    {
+                                        "source": "to book online",
+                                        "target": "réserver en ligne"
+                                    },
+                                    {
+                                        "source": "to book in advance",
+                                        "target": "réserver à l'avance"
+                                    },
+                                    {
+                                        "source": "booked in advance",
+                                        "target": "réservé à l'avance"
+                                    },
+                                    {
+                                        "source": "to book by phone",
+                                        "target": "réserver par téléphone"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "reserve",
+                                    "set aside",
+                                    "restrict",
+                                    "dedicate",
+                                    "earmark",
+                                    "reserve"
+                                ],
+                                "lemma": "réserver",
+                                "rank": "99",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 6354,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "account for",
+                                    "record",
+                                    "count",
+                                    "track",
+                                    "accrue",
+                                    "account for",
+                                    "tally",
+                                    "credit"
+                                ],
+                                "lemma": "comptabiliser",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 6354,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "effectuer votre réservation",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "empty",
+                            "phonetic": "[ˈɛmpti]",
+                            "pos": "adj",
+                            "term": "empty"
+                        },
+                        "targets": [
+                            {
+                                "context": "space, value, promise, room",
+                                "domain": "",
+                                "entry_id": 7966,
+                                "expressions": [
+                                    {
+                                        "source": "almost empty",
+                                        "target": "почти пустой"
+                                    },
+                                    {
+                                        "source": "completely empty",
+                                        "target": "совершенно пустой"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "blank",
+                                    "hollow"
+                                ],
+                                "lemma": "пустой",
+                                "rank": "98",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 7966,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "бессодержательный",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "to empty out her suitcase",
+                                "target": "вынуть все из чемодана"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(empties/emptied)",
+                            "info": "",
+                            "lemma": "empty",
+                            "phonetic": "[ˈɛmpti]",
+                            "pos": "verb",
+                            "term": "empty"
+                        },
+                        "targets": [
+                            {
+                                "context": "bottle",
+                                "domain": "",
+                                "entry_id": 7967,
+                                "expressions": [
+                                    {
+                                        "source": "to empty the bottle",
+                                        "target": "опустошить бутылку"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "devastate",
+                                    "ravage",
+                                    "desert"
+                                ],
+                                "lemma": "опустошить",
+                                "rank": "33",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 7967,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "clear",
+                                    "clean",
+                                    "cleanse",
+                                    "purify",
+                                    "clean up",
+                                    "purge",
+                                    "rid",
+                                    "clean out"
+                                ],
+                                "lemma": "очистить",
+                                "rank": "33",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 7967,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "pour"
+                                ],
+                                "lemma": "вылить",
+                                "rank": "16",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 7967,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "clean",
+                                    "brush",
+                                    "clean"
+                                ],
+                                "lemma": "почистить",
+                                "rank": "16",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

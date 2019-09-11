@@ -1,0 +1,842 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "uncompromising ideological stand",
+                                "target": "идеологическая бескомпромиссность"
+                            },
+                            {
+                                "context": "",
+                                "source": "public stand",
+                                "target": "общественные заявления"
+                            },
+                            {
+                                "context": "",
+                                "source": "highly educated stand",
+                                "target": "высокообразованные люди"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:stands)",
+                            "info": "",
+                            "lemma": "stand",
+                            "phonetic": "[stænd]",
+                            "pos": "noun",
+                            "term": "stand"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22829,
+                                "expressions": [
+                                    {
+                                        "source": "national stand",
+                                        "target": "национальный стенд"
+                                    },
+                                    {
+                                        "source": "large stand",
+                                        "target": "крупный стенд"
+                                    },
+                                    {
+                                        "source": "exclusive stand",
+                                        "target": "Эксклюзивный стенд"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "booth",
+                                    "exhibition stand",
+                                    "testbed",
+                                    "stall",
+                                    "bench"
+                                ],
+                                "lemma": "стенд",
+                                "rank": "50",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22829,
+                                "expressions": [
+                                    {
+                                        "source": "united stand",
+                                        "target": "единой позиции"
+                                    },
+                                    {
+                                        "source": "active stand",
+                                        "target": "активная позиция"
+                                    },
+                                    {
+                                        "source": "decisive stand",
+                                        "target": "решительную позицию"
+                                    },
+                                    {
+                                        "source": "principled stand",
+                                        "target": "принципиальная позиция"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "position",
+                                    "stance",
+                                    "ground",
+                                    "attitude",
+                                    "posture",
+                                    "item"
+                                ],
+                                "lemma": "позиция",
+                                "rank": "17",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22829,
+                                "expressions": [
+                                    {
+                                        "source": "bus stand",
+                                        "target": "автобусная остановка"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "stop",
+                                    "bus stop",
+                                    "stopover"
+                                ],
+                                "lemma": "остановка",
+                                "rank": "8",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22829,
+                                "expressions": [
+                                    {
+                                        "source": "duma stand",
+                                        "target": "думская трибуна"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "tribune",
+                                    "podium",
+                                    "grandstand",
+                                    "pulpit",
+                                    "bleacher"
+                                ],
+                                "lemma": "трибуна",
+                                "rank": "6",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22829,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "reception",
+                                    "counter",
+                                    "rack",
+                                    "strut",
+                                    "check-in",
+                                    "concierge",
+                                    "crossbar",
+                                    "stud"
+                                ],
+                                "lemma": "стойка",
+                                "rank": "4",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22829,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "подставка",
+                                "rank": "3",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22829,
+                                "expressions": [
+                                    {
+                                        "source": "news stand",
+                                        "target": "газетный киоск"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "kiosk",
+                                    "stall",
+                                    "booth",
+                                    "newsstand"
+                                ],
+                                "lemma": "киоск",
+                                "rank": "3",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22829,
+                                "expressions": [
+                                    {
+                                        "source": "taxi stand",
+                                        "target": "стоянка такси"
+                                    },
+                                    {
+                                        "source": "cab stand",
+                                        "target": "таксомоторной стоянки"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "parking",
+                                    "parking lot",
+                                    "car park",
+                                    "lot",
+                                    "parking place",
+                                    "parking area",
+                                    "car parking",
+                                    "bike parking"
+                                ],
+                                "lemma": "стоянка",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22829,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "cage",
+                                    "kletjah"
+                                ],
+                                "lemma": "клеть",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "to stand aside",
+                                "target": "оставаться в стороне"
+                            },
+                            {
+                                "context": "",
+                                "source": "to stand up to management",
+                                "target": "противостоять менеджменту"
+                            },
+                            {
+                                "context": "",
+                                "source": "to stand for election",
+                                "target": "участвовать в выборах"
+                            },
+                            {
+                                "context": "",
+                                "source": "to stand for quality",
+                                "target": "означать качество"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(stands/stood)",
+                            "info": "",
+                            "lemma": "stand",
+                            "phonetic": "[stænd]",
+                            "pos": "verb",
+                            "term": "stand"
+                        },
+                        "targets": [
+                            {
+                                "context": "hour",
+                                "domain": "",
+                                "entry_id": 22830,
+                                "expressions": [
+                                    {
+                                        "source": "to stand still",
+                                        "target": "стоять на месте"
+                                    },
+                                    {
+                                        "source": "to stand there",
+                                        "target": "стоять там"
+                                    },
+                                    {
+                                        "source": "to stand here",
+                                        "target": "стоять здесь"
+                                    },
+                                    {
+                                        "source": "to stand in these legs",
+                                        "target": "стоять на этих ногах"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "cost",
+                                    "be worth",
+                                    "face",
+                                    "wait",
+                                    "stand up",
+                                    "stand there"
+                                ],
+                                "lemma": "постоять",
+                                "rank": "49",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22830,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "cost",
+                                    "be worth",
+                                    "face"
+                                ],
+                                "lemma": "стоить",
+                                "rank": "10",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22830,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "act",
+                                    "perform",
+                                    "speak",
+                                    "argue",
+                                    "compete",
+                                    "appear",
+                                    "oppose",
+                                    "speak out"
+                                ],
+                                "lemma": "выступать",
+                                "rank": "4",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22830,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "locate",
+                                    "set",
+                                    "find",
+                                    "situate",
+                                    "lie",
+                                    "sit",
+                                    "remain",
+                                    "stay",
+                                    "contain"
+                                ],
+                                "lemma": "находиться",
+                                "rank": "4",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22830,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "rise",
+                                    "get up",
+                                    "stand up",
+                                    "get back",
+                                    "embark",
+                                    "arise",
+                                    "wake up"
+                                ],
+                                "lemma": "встать",
+                                "rank": "3",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22830,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "stop",
+                                    "stay",
+                                    "pause",
+                                    "stand still",
+                                    "stay",
+                                    "halt",
+                                    "dwell",
+                                    "stall"
+                                ],
+                                "lemma": "остановиться",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "test",
+                                "domain": "",
+                                "entry_id": 22830,
+                                "expressions": [
+                                    {
+                                        "source": "to stand the test of reality",
+                                        "target": "выдержать испытания действительностью"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "withstand",
+                                    "endure",
+                                    "survive",
+                                    "sustain",
+                                    "pass",
+                                    "weather",
+                                    "bear",
+                                    "handle"
+                                ],
+                                "lemma": "выдержать",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22830,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "account for",
+                                    "make",
+                                    "make up",
+                                    "constitute",
+                                    "comprise",
+                                    "represent",
+                                    "form",
+                                    "total",
+                                    "account for"
+                                ],
+                                "lemma": "составлять",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22830,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "tolerate",
+                                    "suffer",
+                                    "endure",
+                                    "bear",
+                                    "put up with",
+                                    "abide"
+                                ],
+                                "lemma": "терпеть",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "(stands/stood)",
+                            "info": "",
+                            "lemma": "stand up",
+                            "phonetic": "[stænd]",
+                            "pos": "verb",
+                            "term": "stand"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22831,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "rise",
+                                    "get up",
+                                    "stand up",
+                                    "stand",
+                                    "get back",
+                                    "embark",
+                                    "arise",
+                                    "wake up"
+                                ],
+                                "lemma": "встать",
+                                "rank": "6",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22831,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "rise",
+                                    "get up",
+                                    "stand up",
+                                    "go up",
+                                    "climb",
+                                    "rise up",
+                                    "service",
+                                    "jump",
+                                    "access"
+                                ],
+                                "lemma": "подняться",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22831,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "stand",
+                                    "cost",
+                                    "be worth",
+                                    "stand",
+                                    "face",
+                                    "wait",
+                                    "stand up",
+                                    "stand there"
+                                ],
+                                "lemma": "постоять",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22831,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "get up",
+                                    "stand up",
+                                    "wake up",
+                                    "rise",
+                                    "arise",
+                                    "wake up",
+                                    "get up"
+                                ],
+                                "lemma": "вставать",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22831,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "speak",
+                                    "perform",
+                                    "act",
+                                    "issue",
+                                    "deliver",
+                                    "address",
+                                    "come out",
+                                    "speak out",
+                                    "come up"
+                                ],
+                                "lemma": "выступить",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22831,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "rise up",
+                                    "revolt",
+                                    "rebel",
+                                    "stand up"
+                                ],
+                                "lemma": "восстать",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22831,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "rise",
+                                    "go up",
+                                    "climb",
+                                    "come up",
+                                    "get up",
+                                    "lift",
+                                    "rise up",
+                                    "climb up",
+                                    "come up"
+                                ],
+                                "lemma": "подниматься",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22831,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "stand up"
+                                ],
+                                "lemma": "окрепнуть",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22831,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "assert",
+                                    "defend",
+                                    "advocate",
+                                    "uphold",
+                                    "champion",
+                                    "defend",
+                                    "stand up"
+                                ],
+                                "lemma": "отстаивать",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "(stands/stood)",
+                            "info": "",
+                            "lemma": "stand out",
+                            "phonetic": "[stænd]",
+                            "pos": "verb",
+                            "term": "stand"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22832,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "stand out",
+                                    "allocate",
+                                    "excel"
+                                ],
+                                "lemma": "выделяться",
+                                "rank": "4",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22832,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "stand out"
+                                ],
+                                "lemma": "выделиться",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22832,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "differ",
+                                    "vary",
+                                    "feature",
+                                    "distinguish",
+                                    "boast",
+                                    "stand out",
+                                    "diverge"
+                                ],
+                                "lemma": "отличаться",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22832,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "interest",
+                                    "engage",
+                                    "motivate",
+                                    "concern",
+                                    "commit",
+                                    "wonder"
+                                ],
+                                "lemma": "заинтересовать",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22832,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "exceed",
+                                    "surpass",
+                                    "excel",
+                                    "outweigh",
+                                    "transcend",
+                                    "surpass",
+                                    "outperform",
+                                    "outstrip",
+                                    "stand out"
+                                ],
+                                "lemma": "превосходить",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "(stands/stood)",
+                            "info": "",
+                            "lemma": "stand by",
+                            "phonetic": "[stænd]",
+                            "pos": "verb",
+                            "term": "stand"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22833,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "hold",
+                                    "follow",
+                                    "maintain",
+                                    "pursue",
+                                    "embrace",
+                                    "favor",
+                                    "follow",
+                                    "obey",
+                                    "uphold"
+                                ],
+                                "lemma": "придерживаться",
+                                "rank": "60",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22833,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "стоять в стороне",
+                                "rank": "40",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,1327 @@
+,word,local_word,examples,local_examples
+0,word,mot,"['key word', 'last word', 'signal word', 'first words']","['mot clé', 'dernier mot', 'mot indicateur', 'premier mot']"
+1,word,parole,"['fine words', 'word of god', 'kind word', 'word of the lord']","['belle parole', 'parole de dieu', 'aimables paroles', 'parole du seigneur']"
+2,word,terme,"['following words', 'search word', 'operative word', 'english words']","['termes suivants', 'terme de recherche', 'terme performatif', 'terme anglais']"
+3,word,propos,"['written word', 'wise words', 'clear words', 'warm words']","['propos écrits ici', 'propos sages', 'propos clairs', 'propos chaleureux']"
+4,word,mention,['words of limitation'],['mention de limitation']
+5,word,expression,"['nice words', 'words of the day']","['belle expression', 'expressions du jour']"
+6,word,discours,"['words alone', 'empty words', 'political words']","['discours seuls', 'vain discours', 'discours politique']"
+7,word,formuler,[],[]
+8,word,libeller,[],[]
+9,the,le,"['the bed', 'the house', 'the story', 'the computer', 'the fifties']","['le lit', 'la maison', ""l'histoire"", ""l'ordinateur"", 'les années 50']"
+10,and,et,[],[]
+11,that ,qui,"['The actor that won the oscar is very young', 'This is the dog that bit her']","[""L'acteur qui a gagné l'oscar est très jeune"", ""C'est le chien qui l'a mordue""]"
+12,that ,que,"['Cherries are the fruit that my children prefer', 'The latest book that he wrote won a prestigious price']","['Les cerises sont le fruit que mes enfants préfèrent', ""Le dernier livre qu'il a écrit a gagné un prix prestigieux""]"
+13,that ,où,['You got married the year that I graduated'],"[""Tu t'es marié l'année où j'ai eu mon diplôme""]"
+14,that ,lequel,"[""This isn't the candidate that I voted for""]","[""Ce n'est pas le candidat pour lequel j'ai voté ""]"
+15,that,que,[],[]
+16,that,ce,"['that bike', 'that flower', 'that man', 'that tool', 'those books']","['ce vélo', 'cette fleur', 'cet homme', 'cet outil', 'ces livres']"
+17,that,ce... -là,['I want that dress.'],"[""C'est cette robe-là que je veux.""]"
+18,that,cela / ça / ce,"['Who is that ?', 'What is that ?', 'Before that', ""That's my brother over there""]","['Qui est-ce ?', ""Qu'est que c'est que ça ?"", 'Avant ça/cela', ""C'est mon frère là-bas""]"
+19,for,car,[],[]
+20,for,pour,[],[]
+21,for,de,[],[]
+22,for,à,[],[]
+23,for,dans,[],[]
+24,with,avec,[],[]
+25,with,à,[],[]
+26,with,par,[],[]
+27,with no,sans,[],[]
+28,but,mais,[],[]
+29,but,sauf,[],[]
+30,but,à l'exception de,[],[]
+31,you,tu,['You forgot your keys'],['Tu as oublié tes clés']
+32,you,vous,"['Could you give me the address?', 'I will send you the papers tomorrow']","[""Pourriez-vous me donner l'adresse ?"", 'Je vous enverrai les documents demain']"
+33,you,vous,"['Will you both come to the party ?', 'The director wants to see you in his office']","['Viendrez-vous tous les deux à la fête ?', 'Le directeur veut vous voir dans son bureau']"
+34,you,te,"['I called you twice yesterday', 'I told you a hundred times already!']","[""Je t'ai appelé deux fois hier"", ""Je te l'ai déjà dit cent fois !""]"
+35,you,toi / vous,['These are for you'],"[""C'est pour toi/vous""]"
+36,this,ce,"['this armchair', 'this story', 'this man', 'this friend', 'these seats']","['ce fauteuil', 'cette histoire', 'cet homme', 'cet ami', 'ces places']"
+37,this,ce... -ci / celui-ci,"['Which one should I buy ? This one or that one ?', 'This computer is the one I want', ""This time, I won't forget you""]","['Lequel dois-je acheter ? Celui-ci ou celui-là ?', ""C'est cet ordinateur-ci que je veux"", ""Cette fois-ci je ne t'oublierai pas""]"
+38,this,ce / ceci,"['This is what I heard', 'These are my friends', 'This is my home']","[""C'est ce que j'ai entendu"", 'Ce sont mes amis', 'Ceci est ma maison']"
+39,not,pas,[],[]
+40,not,non,[],[]
+41,have,avoir,"['to have the right', 'to have the opportunity', 'to have the courage', 'to have any questions']","['avoir le droit', ""avoir l'occasion"", 'avoir le courage', 'avoir des questions']"
+42,have,disposer,"['to have one vote', 'to have the means', 'to have more time', 'to have network connectivity']","[""disposer d'une voix"", 'disposer des moyens', 'disposer de plus de temps', ""disposer d'une connectivité réseau""]"
+43,have,être,[],[]
+44,have,posséder,"['to have legal personality', 'to have a balcony', 'to have a car', 'to have a beach']","['posséder la personnalité juridique', 'posséder un balcon', 'posséder une voiture', 'posséder une plage']"
+45,have,faire,"['to have a break', 'to have a quick dip', 'to have a party', 'to have confidence in the Commissioner']","['faire une pause', 'faire trempette', 'faire une fête', 'faire confiance au Commissaire']"
+46,have,prendre,"['to have a drink', 'to have breakfast', 'to have meal with their family', 'to have your meal']","['prendre un verre', 'prendre le petit-déjeuner', 'prendre leurs repas en famille', 'prendre vos repas']"
+47,have,obtenir,"['to have nicotine', 'to have a mile-long list', 'to have a copy', 'to have a valid visa']","['obtenir de la nicotine', 'obtenir une liste interminable', 'obtenir un exemplaire', 'obtenir un visa']"
+48,have,présenter,"['to have the following characteristics', 'to have tremor', 'to have individual character', 'to have the following minimum characteristics']","['présenter les caractéristiques suivantes', 'présenter des tremblements', 'présenter un caractère individuel', 'présenter au moins les caractéristiques suivantes']"
+49,have,bénéficier,"['to have any rights', 'to have that protection', 'to have your support', 'to have equal rights']","[""bénéficier d'aucun droit"", 'bénéficier de cette protection', 'bénéficier de votre soutien', 'bénéficier de droits égaux']"
+50,have got,avoir,"['to have got a question', 'to have got a problem', 'to have got kids', 'to have got this beautiful paradigm']","['avoir des questions', 'avoir un problème', 'avoir des enfants', 'avoir ce magnifique paradigme']"
+51,have to,devoir,[],[]
+52,have to,falloir,[],[]
+53,have to,obliger,[],[]
+54,have,devoir / être obligé de,"['She has to get up early', ""You don't have to do it""]","['Elle doit se lever tôt', ""Tu n'es pas obligé de le faire""]"
+55,have,avoir / être,"['I have slept too much', 'He has left early this morning.', 'They had seen each other often', 'I have been thinking about your story']","[""J'ai trop dormi"", 'Il est parti tôt ce matin', ""Ils s'étaient souvent vus"", ""J'ai réfléchi à ton histoire""]"
+56,letter,lettre,"['letter of intent', 'drive letter', 'cover letter', 'first letter']","[""lettre d'intention"", 'lettre de lecteur', ""lettre d'accompagnement"", 'première lettre']"
+57,letter,courrier,"['registered letter', 'second letter', 'countless letters', 'Forward Letters']","['courrier recommandé', 'second courrier', 'nombreux courriers', ""courrier d'acheminement""]"
+58,plate,plaque,"['hot plate', 'registration plate', 'tectonic plate', 'front plate']","['plaque chauffante', ""plaque d'immatriculation"", 'plaque tectonique', 'plaque avant']"
+59,plate,assiette,"['clean plate', 'small plates']","['assiette propre', 'petite assiette']"
+60,plate,tôle,"['carbon steel plate', 'steel plate', 'heat treated plate', 'thick plate']","[""tôle d'acier au carbone"", ""tôle d'acier"", 'tôles traitées à chaud', 'tôles épaisses']"
+61,plate,boîte,"['plates of a dilution', 'duplicate plates', 'mfc agar plate']","[""boîtes d'une dilution"", 'boîtes en double', 'Boîtes de gélose m-FC']"
+62,plate,plat,"['Indonesian plates', 'silver plate', 'good plate', 'flat plate']","['plat indonésien', 'plats en argent', 'bon plat', 'plat plat']"
+63,plate,gélose,['LPM plates'],['gélose lpm']
+64,plate,plateau,['top plate'],['plateau supérieur']
+65,plate,planche,[],[]
+66,plate,plate,[],[]
+67,plate,ensemencer,[],[]
+68,plate,plaquer,[],[]
+69,plate,immatriculer,[],[]
+70,plate,dorer,[],[]
+71,plate,argenter,[],[]
+72,treat,friandise,"['real treat', 'natural pet treats']","['friandises réel', 'friandises naturelles']"
+73,treat,régal,['real treat for the eyes'],['régal pour les yeux']
+74,treat,gâterie,"['wholesome treat', 'sweet treats']","['gâterie saine', 'gâterie sucrée']"
+75,treat,délice,[],[]
+76,treat,festin,[],[]
+77,treat,douceur,[],[]
+78,treat,émail,[],[]
+79,treat,traiter,"['to treat cancer', 'to treat disease', 'to treat diabetes', 'to treat depression']","['traiter le cancer', 'traiter la maladie', 'traiter le diabète', 'traiter la dépression']"
+80,treat,considérer,"['treated on a case-by-case basis', 'treated confidentially', 'treat as error', 'treated as a contempt']","['considérées au cas par cas', 'considérée comme confidentielle', 'considéré comme une erreur', 'considéré comme un outrage']"
+81,treat,soigner,"['to treat people', 'to treat angina']","['soigner les gens', ""soigner l'angine""]"
+82,diner,dîner,[],[]
+83,diner,convive,[],[]
+84,diner,couvert,[],[]
+85,diner,café-restaurant,[],[]
+86,diner,souper,[],[]
+87,diner,dîneur,[],[]
+88,dinner,dîner,"['gala dinner', 'romantic dinner', 'mess dinner', 'business dinners']","['dîner de gala', 'dîner romantique', 'dîner régimentaire', ""dîner d'affaires""]"
+89,dinner,soir,[],[]
+90,dinner,souper,"['formal dinner', 'group dinner']","['souper officiel', 'souper de groupe']"
+91,dinner,repas,"['theme dinners', 'medieval dinners', 'nice dinner', 'family dinner']","['repas à thème', 'repas Médiéval', 'bon repas', 'repas de famille']"
+92,necessary,nécessaire,"['absolutely necessary', 'reasonably necessary', 'really necessary', 'still necessary']","['absolument nécessaire', 'raisonnablement nécessaire', 'vraiment nécessaire', 'encore nécessaire']"
+93,necessary,indispensable,['particularly necessary'],['particulièrement indispensable']
+94,necessary,requis,[],[]
+95,go,aller,"['to go further', 'to go hand in hand', 'to go too far', 'to go to the beach']","['aller plus loin', 'aller de pair', 'aller trop loin', 'aller à la plage']"
+96,go,passer,"['to go to the next section', 'to go to the next step', 'to go to the next screen', 'to go on the offensive']","['passer à la section suivante', ""passer à l'étape suivante"", ""passer à l'écran suivant"", ""passer à l'offensive""]"
+97,go,se rendre,"['to go to the polls', 'to go to the library', 'to go to the airport', 'to go to the party']","['se rendre aux urnes', 'se rendre à la bibliothèque', ""se rendre à l'aéroport"", 'se rendre à la fête']"
+98,go,partir,"['to go on an excursion', 'to go on a trip', 'to go up in smoke', 'to go on tour']","['partir en excursion', 'partir en voyage', 'partir en fumée', 'partir en tournée']"
+99,go,entrer,"['to go into detail', 'to go to war', 'to go underground', 'to go down in history']","['entrer dans les détails', 'entrer en guerre', 'entrer dans la clandestinité', ""entrer dans l'histoire""]"
+100,go,accéder,"['to go to admin tab', 'to go to the virtual disk', 'to go to the second page', 'to go to the page']","[""accéder à l'onglet Administration"", 'accéder aux disques virtuels', 'accéder à la deuxième page', 'accéder à la page']"
+101,go,consulter,"['to go online', 'to go to the doctor', 'to go to the program web site']","['consulter en ligne', 'consulter le médecin', 'consulter le site du programme']"
+102,go,continuer,"['to go on and on', 'to go straight']","['continuer encore longtemps', 'continuer tout droit']"
+103,go,rendez-vous,['to go to the crafts village'],['rendez-vous au village artisanal']
+104,go away,s'amenuiser,[],[]
+105,go around,se promener,[],[]
+106,go around,se balader,[],[]
+107,go around,s'éloigner,[],[]
+108,go around,promener,[],[]
+109,go broke,faire faillite,[],[]
+110,go out,sortir,"['to go out at night', 'to go out tonight', 'to go out last night', 'to go out into the night alone']","['sortir le soir', 'sortir ce soir', 'sortir la nuit dernière', 'sortir dans la nuit']"
+111,go out,s'éteindre,[],[]
+112,go out,se retirer,['to go out of business'],['se retirer des affaires']
+113,secret,secret,"['so secret', 'still secret', 'highly secret']","['si secret', 'toujours secret', 'hautement secret']"
+114,secret,confidentiel,[],[]
+115,secret,secret,"['trade secret', 'little secret', 'shared secret', 'business secrets']","['secret commercial', 'petit secret', 'secret partagé', ""secret d'affaires""]"
+116,secret,passe,"['chap secret', 'mutual chap secret']","['passe CHAP', 'passe du protocole CHAP mutuel']"
+117,secret,mystère,[],[]
+118,table,tableau,"['following table', 'nutrition facts table', 'summary table', 'financial table']","['tableau suivant', 'tableau de la valeur nutritive', 'tableau récapitulatif', 'tableau financier']"
+119,table,table,"['round table', 'coffee table', 'database table', 'data tables']","['table ronde', 'table basse', 'table de base', 'table de données']"
+120,table,déposer,"['to table amendments', 'to table a document', 'to table this document', 'tabled in the house']","['déposer des amendements', 'déposer un document', 'déposer ce document', 'déposé à la Chambre']"
+121,table,présenter,"['to table an amendment', 'to table an oral amendment', 'tabled in parliament', 'tabled by the rapporteur']","['présenter des amendements', 'présenter un amendement oral', 'présenté au Parlement', 'présenté par le rapporteur']"
+122,table,introduire,"['tabled in committee', 'to table some amendments', 'to table a number of amendments', 'to table the motion']","['introduit en commission', 'introduire des amendements', ""introduire un certain nombre d'amendements"", 'introduire la motion']"
+123,table,soumettre,"['tabled by parliament', 'to table this question', 'to table a proposal', 'tabled with the committee']","['soumis par le parlement', 'soumettre cette question', 'soumettre une proposition', 'soumis au comité']"
+124,create,créer,"['to create jobs', 'to create an environment', 'to create a situation', 'to create applications']","['créer des emplois', 'créer un environnement', 'créer une situation', 'créer des applications']"
+125,create,établir,"['to create individual profiles', 'to create a connection', 'to create a connection once', 'to create transparency']","['établir des profils individuels', 'établir la connexion', 'établir la connexion une fois', 'établir la transparence']"
+126,create,engendrer,"['to even create competition', 'to create poverty', 'to create illness', 'to create a legal presumption']","['engendrer la concurrence', 'engendrer la pauvreté', 'engendrer la maladie', 'engendrer une présomption juridique']"
+127,warm,chaleureux,"['particularly warm', 'extremely warm', 'quite warm']","['particulièrement chaleureux', 'extrêmement chaleureux', 'assez chaleureux']"
+128,warm,chaud,"['still warm', 'relatively warm', 'warm enough', 'so warm']","['encore chaud', 'relativement chaud', 'assez chaud', 'si chaud']"
+129,warm,tiède,[],[]
+130,warm,convivial,[],[]
+131,warm,accueillant,[],[]
+132,warm,réchauffer,"['to warm the planet', 'to warm the heart']","['réchauffer la planète', 'réchauffer le coeur']"
+133,warm,se réchauffer,['to warm to room temperature'],['se réchauffer à température ambiante']
+134,warm,chauffer,[],[]
+135,warm up,se réchauffer,['to warm up to room temperature'],['se réchauffer à température ambiante']
+136,warm up,réchauffer,['to warm up the room'],['réchauffer la pièce']
+137,warm up,préchauffer,[],[]
+138,warm up,échauffer,[],[]
+139,warm up,s'échauffer,[],[]
+140,nobody,personne,"['Nobody saw her', 'There was nobody in sight', 'Who else is coming ? Nobody']","[""Personne ne l'a vue"", ""Il n'y avait personne en vue"", ""Qui d'autre vient ? Personne""]"
+141,entire,entier,[],[]
+142,entire,complet,[],[]
+143,entire,tout entier,[],[]
+144,entire,intégral,[],[]
+145,entire,au complet,[],[]
+146,anything,quelque chose,"['Is there anything I can do?', 'Have you noticed anything?']","['Y a-t-il quelque chose que je puisse faire ?', 'Vous avez remarqué quelque chose ?']"
+147,anything,rien,"[""I haven't heard anything from him""]",['Je ne sais rien de lui']
+148,anything,tout,['I will sign anything you want'],['Je signerai tout ce que tu veux']
+149,anything,n'importe quoi,['I would give anything to know the truth'],"[""Je donnerais n'importe quoi pour connaitre la vérité""]"
+150,background,contexte,"['historical background', 'political background', 'general background', 'cultural background']","['contexte historique', 'contexte politique', 'contexte général', 'contexte culturel']"
+151,background,arrière-plan,"['white background', 'grey background', 'transparent background', 'page background']","['arrière-plan blanc', 'arrière-plan gris', 'arrière-plan transparent', ""arrière-plan d'une page""]"
+152,background,fond,"['black background', 'blue background', 'dark background', 'green background']","['fond noir', 'fond bleu', 'fond sombre', 'fond vert']"
+153,background,antécédent,"['family background', 'professional background', 'diverse backgrounds', 'criminal background']","['antécédent familial', 'antécédents professionnels', 'antécédents variés', 'antécédents criminels']"
+154,background,origine,"['ethnic background', 'social background', 'diverse ethnic backgrounds', 'religious backgrounds']","['origine ethnique', 'origine sociale', 'origines ethniques diverses', 'origine religieuse']"
+155,background,milieu,"['different backgrounds', 'socio-economic background', 'disadvantaged backgrounds', 'natural background']","['différents milieux', 'milieu socio-économique', 'milieu défavorisé', 'milieu naturel']"
+156,background,historique,"['brief background', 'background of the project']","['bref historique', 'historique du projet']"
+157,background,horizon,"['different social backgrounds', 'various professional backgrounds']","['horizons sociaux différents', 'divers horizons professionnels']"
+158,child,enfant,"['young child', 'older child', 'Canadian children', 'dependent children']","['jeune enfant', 'enfant plus âgé', 'enfant canadien', 'enfant à charge']"
+159,child,enfance,[],[]
+160,childhood,enfance,"['happy childhood', 'rough childhood', 'early childhood', 'childhood through adolescence']","['enfance heureuse', 'enfance rude', 'tendre enfance', ""enfance à l'adolescence""]"
+161,childhood,childhood,[],[]
+162,dependable,fiable,[],[]
+163,everything,tout,"['Is everything ready?', ""I've brought everything with me""]","['Est-ce que tout est prêt ?', ""J'ai tout pris avec moi""]"
+164,grandchild,petits-enfants,[],[]
+165,grandchild,petit enfant,[],[]
+166,grandchild,petit-enfant,[],[]
+167,grandchild,petit-fils,[],[]
+168,ketchup,ketchup,[],[]
+169,point,point,"['access point', 'second point', 'important point', 'following points']","[""point d'accès"", 'deuxième point', 'point important', 'point suivant']"
+170,point,remarque,"['final point', 'third point', 'first point', 'brief points']","['dernière remarque', 'troisième remarque', 'première remarque', 'brève remarque']"
+171,point,motion,"['point of order', 'genuine point', 'genuine point of order', 'last point of order']","['motion de procédure', 'véritable motion', 'véritable motion de procédure', 'dernière motion de procédure']"
+172,point,élément,"['key point', 'major point', 'Point(s) of Consultation', 'key point of the evaluation']","['élément clé', 'principal élément', 'élément de consultation', ""principaux éléments de l'évaluation""]"
+173,point,moment,"['certain points', 'different points', 'high point', 'various points']","['moment donné', 'différents moments', 'moment fort', 'divers moments']"
+174,point,rappel,['first point of order'],['premier rappel au règlement']
+175,point,aspect,"['positive points', 'general point', 'interesting point', 'fundamental point']","['aspect positif', 'aspect général', 'aspect intéressant', 'aspect fondamental']"
+176,point,pointer,"['to point to a web site', 'to point to editor', 'to point to another computer', 'to point to the disk']","['pointer vers un site Web', 'pointer sur Éditeur', 'pointer vers un autre ordinateur', 'pointer vers le disque']"
+177,point,souligner,['to point to the need'],['souligner la nécessité']
+178,point,montrer,['to point the way'],['montrer la voie']
+179,point,désigner,[],[]
+180,point,signaler,['to point the exits'],['signaler les issues']
+181,point out,souligner,"['to point out the following', 'to point out the fact', 'to point out the need', 'pointed out here this afternoon']","['souligner les points suivants', 'souligner le fait', 'souligner la nécessité', 'souligné ici cet après-midi']"
+182,point out,signaler,"['to point out to the House', 'to point out to the member', 'to point out to the honourable member', 'to point out to the Commission']","['signaler à la Chambre', 'signaler aux députés', ""signaler à l'honorable parlementaire"", 'signaler à la Commission']"
+183,point out,rappeler,"['to point out in his report', 'to again point out this evening', 'to point out this evening', 'to point out once again to this House']","['rappeler dans son rapport', 'encore rappeler ce soir', 'rappeler ce soir', 'rappeler à cette Assemblée']"
+184,point out,indiquer,"['to quite rightly point out', 'pointed out in the debate', 'to point out to the Commissioner']","['indiquer à juste titre', 'indiquées dans le débat', 'indiquer au commissaire']"
+185,point out,remarquer,['to point out to members'],['remarquer au député']
+186,point out,préciser,['to point out the risk of burns'],['préciser le danger de brûlure']
+187,point out,relever,['pointed out by the commission'],['relevé par la Commission']
+188,point out,mentionner,[],[]
+189,strength,force,"['economic strength', 'muscle strength', 'physical strength', 'key strength']","['force économique', 'force musculaire', 'force physique', 'principale force']"
+190,strength,point fort,[],[]
+191,strength,concentration,"['single strength', 'additional strength', 'different strengths', 'maximum strength']","['concentration simple', 'concentration additionnelle', 'différentes concentrations', 'concentration maximale']"
+192,strength,intensité,"['signal strength', 'field strength', 'magnetic field strength', 'strength of the dose']","['intensité du signal', 'intensité de champ', 'intensité des champs magnétiques', 'intensité des doses']"
+193,strength,puissance,"['military strength', 'moderate strength', 'strength of the electromagnetic force', 'strength of sterling']","['puissance militaire', 'puissance modérée', 'puissance de la force électromagnétique', 'puissance de la livre sterling']"
+194,strength,dosage,"['STRENGTHS OF THE MEDICINAL PRODUCTS', 'tablet strength', 'lower dose strength']","['dosage du médicament', 'dosage des comprimés', 'dosage plus faible']"
+195,strength,résistance,"['tensile strength', 'mechanical strength', 'joint strength', 'floor strength']","['résistance à la traction', 'résistance mécanique', 'résistance des joints', 'Résistance des planchers']"
+196,strength,atout,"['tremendous strength', 'existing strengths', 'core strength']","['atout formidable', 'atouts existants', 'principal atout']"
+197,strength,effectif,"['total strength', 'pilot strength']","['effectif total', 'effectif de pilotes']"
+198,star,étoile,"['rising star', 'red star', 'stars in the sky', 'yellow star']","['étoile montante', 'étoile rouge', 'étoile dans le ciel', 'étoile jaune']"
+199,star,star,"['movie star', 'pop star', 'porn star', 'Royal Star']","['star de cinéma', 'pop star', 'star du porno', 'Royal Star']"
+200,star,vedette,"['favorite star', 'Stars of the LPGA Tour', 'rock star']","['vedette préférée', 'vedettes du circuit de la LPGA', 'vedette du rock']"
+201,thing,chose,"['good thing', 'first thing', 'last thing', 'bad thing']","['bonne chose', 'première chose', 'dernière chose', 'mauvaise chose']"
+202,thing,point,"['second thing', 'positive thing', 'key thing', 'most important thing']","['deuxième point', 'point positif', 'point clé', 'point le plus important']"
+203,thing,élément,"['important thing', 'main thing', 'different things', 'non-living things']","['élément important', 'élément principal', 'élément différent', 'éléments non biologiques']"
+204,thing,situation,['things in the right direction'],['situation dans la bonne direction']
+205,thing,truc,"['little things', 'fun things', 'simple things', 'strange thing']","['petit truc', 'truc marrant', 'truc simple', 'truc étrange']"
+206,thing,aspect,"['interesting things', 'funny thing']","['aspect intéressant', 'aspect amusant']"
+207,coincide,coïncider,[],[]
+208,coincide,concorder,[],[]
+209,coincidental,fortuit,[],[]
+210,dance,danse,"['traditional dance', 'contemporary dance', 'oriental dance', 'folk dance']","['danse traditionnelle', 'danse contemporaine', 'danse orientale', 'danse folklorique']"
+211,dance,bal,[],[]
+212,dance,danser,"['to dance in the streets', 'to dance so well', 'to dance in the flames']","['danser dans la rue', 'si bien danser', 'danser dans les flammes']"
+213,dance,obéir,[],[]
+214,countryside,campagne,"['surrounding countryside', 'Tuscan countryside', 'Andalusian countryside', 'beautiful countryside']","['campagne environnante', 'campagne toscane', 'campagne andalouse', 'belle campagne']"
+215,countryside,paysage,"['picturesque countryside', 'Belgian countryside', 'stunning countryside', 'irish countryside']","['paysage pittoresque', 'paysage belge', 'paysage superbe', 'paysage irlandais']"
+216,countryside,espace rural,[],[]
+217,countryside,monde rural,[],[]
+218,break,pause,"['coffee break', 'short break', 'summer break', 'relaxing break']","['pause café', 'courte pause', 'pause estivale', 'pause détente']"
+219,break,saut,"['page break', 'manual break', 'column break', 'manual page break']","['saut de page', 'saut manuel', 'saut de colonne', 'saut de page manuel']"
+220,break,interruption,"['break in service', 'career breaks', 'long break', 'normal breaks']","['interruption de service', 'interruption de carrière', 'longue interruption', 'interruptions normales']"
+221,break,allégement,['tax breaks'],['allégement fiscal']
+222,break,rupture,"['radical break', 'break with the past', 'historical breaks', 'pipe break']","['rupture radicale', 'rupture avec le passé', 'rupture historique', 'ruptures de conduits']"
+223,break,séjour,"['romantic break', 'activity break', 'city break', 'peaceful break']","['séjour romantique', 'séjour activités', 'court séjour', 'séjour paisible']"
+224,break,vacance,"['school breaks', 'spring break', 'restful break', 'sunny break']","['vacance scolaire', 'vacances de printemps', 'vacance reposante', 'vacances ensoleillées']"
+225,break,congé,['parliamentary break'],['congé parlementaire']
+226,break,retour,"['row break', 'manual row break']","['retour à la ligne', 'retour à la ligne manuel']"
+227,break,briser,"['to break the ice', 'to break the silence', 'to break the cycle of poverty', 'to break this vicious circle']","['briser la glace', 'briser le silence', 'briser le cycle de la pauvreté', 'briser ce cercle vicieux']"
+228,break,rompre,"['to break with the past', 'to break the contract', 'to break a promise', 'to break with convention']","['rompre avec le passé', 'rompre le contrat', 'rompre une promesse', 'rompre avec les conventions']"
+229,break,casser,"['to break the window', 'to break eggs', 'to break the code', 'to break through a brick wall']","['casser la fenêtre', 'casser des oeufs', 'casser le code', 'casser un mur de briques']"
+230,break,enfreindre,"['to break the law', 'to break the rules', 'to break all those rules', 'to break its rules']","['enfreindre la loi', 'enfreindre les règles', 'enfreindre toutes ces règles', 'enfreindre ses règles']"
+231,break,violer,['to break the House rules'],['violer les règles du Parlement']
+232,break,sortir,"['to break the deadlock', 'to break the current deadlock']","[""sortir de l'impasse"", ""sortir de l'impasse actuelle""]"
+233,break,se briser,[],[]
+234,break,battre,"['to break the world record', 'to break records']","['battre le record du monde', 'battre un record']"
+235,break,se casser,['to break his legs'],['se casser la jambe']
+236,break up,briser,[],[]
+237,break up,démanteler,[],[]
+238,break up,rompre,[],[]
+239,break up,disperser,[],[]
+240,break up,démembrer,[],[]
+241,break up,casser,[],[]
+242,break up,se séparer,[],[]
+243,break up,éclater,[],[]
+244,break up,fractionner,[],[]
+245,break away,se séparer,[],[]
+246,break away,se détacher,[],[]
+247,break away,faire sécession,[],[]
+248,break apart,se rompre,[],[]
+249,break down,ventiler,"['broken down by gender', 'broken down by territorial units', 'broken down by contract', 'broken down by month']","['ventilées par sexe', 'ventilées par unités territoriales', 'ventilée par contrat', 'ventilée par mois']"
+250,break down,répartir,"['break down by server', 'break down by node', 'break down by client', 'break down by device']","['réparti par serveur', 'réparties par noeud', 'réparti par client', 'réparties par périphérique']"
+251,break down,décomposer,[],[]
+252,break down,se décomposer,[],[]
+253,break down,dégrader,['to break down porphyrin'],['dégrader les porphyrines']
+254,break down,se dégrader,['to break down in the environment'],"[""se dégrader dans l'environnement""]"
+255,break down,briser,[],[]
+256,break down,abattre,[],[]
+257,break down,s'effondrer,[],[]
+258,break off,rompre,[],[]
+259,break off,se détacher,[],[]
+260,break off,casser,[],[]
+261,break off,s'interrompre,[],[]
+262,break off,se casser,[],[]
+263,break out,éclater,[],[]
+264,break out,se déclarer,[],[]
+265,break out,briser,[],[]
+266,break out,se déclencher,[],[]
+267,break out,sabler,['to break out the champagne'],['sabler le champagne']
+268,break out,se libérer,[],[]
+269,break out,décomposer,[],[]
+270,break ranks,briser les rangs,[],[]
+271,mother,mère,"['single mother', 'young mother', 'surrogate mother', 'adoptive mothers']","['mère célibataire', 'jeune mère', 'mère porteuse', 'mère adoptive']"
+272,mother,maman,"['dear mother', 'mother with my first child']","['chère maman', 'maman avec mon premier enfant']"
+273,mother,materner,[],[]
+274,mother,couver,[],[]
+275,mother,dorloter,[],[]
+276,mother,chouchouter,[],[]
+277,start,début,"['good start', 'start of the study', 'start of treatment', 'start of the year']","['bon début', ""début de l'étude"", 'début du traitement', ""début de l'année""]"
+278,start,départ,"['fresh start', 'start in life', 'best possible start', 'false start']","['nouveau départ', 'départ dans la vie', 'meilleur départ possible', 'faux départ']"
+279,start,démarrage,"['quick start', 'manual start', 'application starts', 'cold start']","['démarrage rapide', 'démarrage manuel', ""démarrage de l'application"", 'démarrage à froid']"
+280,start,prise,[],[]
+281,start,lancement,"['program start', 'impending start', 'formal start', 'late start']","['lancement du programme', 'lancement imminent', 'lancement officiel', 'lancement tardif']"
+282,start,start,[],[]
+283,start,point de départ,['bad start'],['mauvais point de départ']
+284,start,ouverture,"['start of the debate', 'start of negotiations', 'start of accession talks', 'rapid start']","['ouverture du débat', 'ouverture des négociations', ""ouverture des négociations d'adhésion"", 'ouverture rapide']"
+285,start,commencement,"['Start of International Preliminary Examination', 'start of the project']","[""commencement de l'examen préliminaire international"", 'commencement du projet']"
+286,start,commencer,"['to start the day', 'to start treatment', 'to start with a letter', 'to start somewhere']","['commencer la journée', 'commencer le traitement', 'commencer par une lettre', 'commencer quelque part']"
+287,start,démarrer,"['to start a snapshot', 'to start the installation', 'to start the snapshot', 'to start the service']","['démarrer un snapshot', ""démarrer l'installation"", 'démarrer le snapshot', 'démarrer le service']"
+288,start,lancer,"['to start the download', 'to start a business', 'to start the test', 'to start the wizard']","['lancer le téléchargement', 'lancer une entreprise', 'lancer le test', ""lancer l'assistant""]"
+289,start,débuter,"['to start the treatment', 'to start early', 'to start a career', 'to start the debate']","['débuter le traitement', 'débuter plus tôt', 'débuter une carrière', 'débuter le débat']"
+290,start,entamer,"['to start a debate', 'to start its work', 'to start negotiations', 'to start the negotiations']","['entamer un débat', 'entamer ses travaux', 'entamer des négociations', 'entamer les négociations']"
+291,start,partir,"['to start from the principle', 'to start the stopwatch', 'to start from a premise', 'to start at sea level']","['partir du principe', 'partir le chronomètre', ""partir d'un postulat"", 'partir au niveau de la mer']"
+292,start,se mettre,['to start work'],['se mettre au travail']
+293,start,entreprendre,['to start on a study'],['entreprendre une étude']
+294,start,amorcer,"['to start the process', 'to start the digestion program', 'to start the lashing', 'to start dialogue']","['amorcer le processus', 'amorcer le programme de digestion', ""amorcer l'attache"", 'amorcer un dialogue']"
+295,start up,démarrer,[],[]
+296,start up,redémarrer l'ascenseur,[],[]
+297,start off,commencer,[],[]
+298,start off,repartir,[],[]
+299,tip,conseil,"['health tips', 'safety tips', 'tool tips', 'troubleshooting tips']","['conseil de santé', 'Conseil de sécurité', 'conseils sur les outils', 'conseil de dépannage']"
+300,tip,astuce,"['search tip', 'general search tips', 'Resolution tip', 'html tip']","['astuce de recherche', 'astuces de recherche générales', 'Astuces concernant la résolution', 'astuces html']"
+301,tip,pointe,"['tip of the iceberg', 'southern tip', 'northern tip', 'tip of the sternum']","[""pointe de l'iceberg"", 'pointe sud', 'pointe nord', 'pointe du sternum']"
+302,tip,extrémité,"['tip of the needle', 'tip of the syringe', 'distal tip', 'western tip']","[""extrémité de l'aiguille"", 'extrémité de la seringue', 'extrémité distale', 'extrémité ouest']"
+303,tip,truc,"['tip for consumer', 'easy tips', 'practical tip']","[""trucs à l'intention des consommateurs"", 'truc facile', 'truc pratique']"
+304,tip,pourboire,"['tip of the same amount', 'tips plus salary', 'small tip']","['pourboire équivalent', 'pourboires plus salaires', 'petit pourboire']"
+305,tip,bout,"['elongated tip', 'tip of my tongue', 'tip of the penis', 'north-western tip']","['bout allongé', 'bout de la langue', 'bout du pénis', 'bout nord-ouest']"
+306,tip,embout,"['disposable tip', 'dropper tip', 'pipette tip', 'dropper tip of the bottle']","['embout jetable', 'embout compte-gouttes', 'embout de pipette', 'embout compte-gouttes du flacon']"
+307,tip,basculer,[],[]
+308,tip,pencher,['to tip the scales'],['pencher la balance']
+309,tip,incliner,[],[]
+310,tip,se renverser,[],[]
+311,tip,culminer,[],[]
+312,tip,déverser,[],[]
+313,apologize,s'excuser,"['to apologise to the Commissioner', 'to apologise to the interpreters', 'to apologize to the Presidency', 'to apologize to the member']","[""s'excuser auprès du commissaire"", ""s'excuser auprès des interprètes"", ""s'excuser auprès de la présidence"", ""s'excuser auprès du député""]"
+314,apologize,excuser,[],[]
+315,apologize,présenter des excuses,[],[]
+316,apologize,présenter mes excuses,[],[]
+317,apologize,présenter ses excuses,[],[]
+318,apologize,demander pardon,[],[]
+319,come,venir,"['to come from a country', 'to come to the conclusion', 'to come to the party', 'to come to the hotel']","[""venir d'un pays"", 'venir à la conclusion', 'venir à la fête', ""venir à l'hôtel""]"
+320,come,arriver,"['to come to that conclusion', 'to come to a conclusion', 'to come to a decision', 'to come to an agreement']","['arriver à cette conclusion', 'arriver à une conclusion', 'arriver à une décision', 'arriver à un accord']"
+321,come,comprendre,[],[]
+322,come,disposer,"['to come with a balcony', 'to come with a TV']","[""disposer d'un balcon"", ""disposer d'une télévision""]"
+323,come,entrer,"['to come in', 'to come to Parliament']","['entrer en scène', 'entrer au parlement']"
+324,come,parvenir,"['to come to a final conclusion', 'to come to this conclusion', 'to come to any conclusion', 'to come to the following conclusions']","['parvenir à une conclusion finale', 'parvenir à cette conclusion', 'parvenir à une conclusion', 'alors parvenir à la conclusion suivante']"
+325,come,être,[],[]
+326,come,se présenter,"['to come as yellow film-coated tablets', 'to come to the committee']","['se présenter sous forme de comprimés pelliculés jaunes', 'se présenter devant le comité']"
+327,come,passer,"['to now come to the vote', 'to come through my own country']","['passer maintenant au vote', 'passer par mon pays']"
+328,come out,sortir,[],[]
+329,come out,ressortir,[],[]
+330,come out,se prononcer,[],[]
+331,come out,débuter au sommet,[],[]
+332,come together,se réunir,[],[]
+333,come together,se rassembler,[],[]
+334,come together,s'unir,[],[]
+335,come together,prendre place,[],[]
+336,come together,se rejoindre,[],[]
+337,come together,se regrouper,[],[]
+338,come together,converger,[],[]
+339,come together,se rapprocher,[],[]
+340,come together,se conjuguer,[],[]
+341,come down,s'annoncer,[],[]
+342,come down,s'écrouler,[],[]
+343,come across,rencontrer,['to come across several circles'],['rencontrer plusieurs cercles']
+344,come across,croiser,[],[]
+345,come back,revenir,"['to come back online', 'to come back with a few shillings', 'to come back in the winter', 'to always come back into the program']","['revenir en ligne', 'revenir avec quelques shillings', 'revenir en hiver', 'toujours revenir au programme']"
+346,come back,rentrer,['to come back home'],['rentrer à la maison']
+347,come back,réapparaître,[],[]
+348,come into,entrer,"['to come into contact', 'to come into the European Union', 'to come into force accordingly', 'to come into play']","['entrer en contact', ""entrer dans l'Union européenne"", 'en conséquence entrer en vigueur', 'entrer en scène']"
+349,come into,naître,[],[]
+350,come up,arriver,['to come up with a strategy'],['arriver à une stratégie']
+351,come up,monter,['to come up from my lungs'],['monter de mes poumons']
+352,come up,aboutir,[],[]
+353,come up,se présenter,[],[]
+354,come up,avancer,"['to come up with proposals', 'to come up with a joint resolution']","['avancer des propositions', 'avancer une résolution commune']"
+355,come up,inventer,[],[]
+356,come up,s'annoncer,[],[]
+357,come up,trouver,"['to come up with a solution', 'to come up with the answer']","['trouver une solution', 'trouver la réponse']"
+358,come up,formuler,[],[]
+359,curriculum,programme,"['Research Curricula', 'core curriculum', 'national curriculum', 'common curriculum']","['programme de recherche', 'programme de base', 'programme national', 'programme commun']"
+360,curriculum,curriculum,"['community-oriented curriculum', 'french national curriculum', 'cross~cultural curriculum', 'school curricula']","['curriculum pédago-communautaire', 'Curriculum national français', 'cross-cultural curriculum', 'curriculum scolaire']"
+361,curriculum,enseignement,['nursing curricula'],['enseignement des sciences infirmières']
+362,curriculum,cursus,"['set curriculum', 'personalized curriculum']","['cursus figé', 'cursus personnalisé']"
+363,expertise,expertise,"['technical expertise', 'scientific expertise', 'canadian expertise', 'medical expertise']","['expertise technique', 'expertise scientifique', 'expertise canadienne', 'expertise médicale']"
+364,expertise,compétence,"['global expertise', 'professional expertise', 'functional expertise', 'existing expertise']","['compétence internationale', 'compétence professionnelle', 'compétence fonctionnelle', 'compétences existantes']"
+365,expertise,savoir-faire,"['unique expertise', 'european expertise', 'real expertise', 'SAN expertise']","['savoir-faire unique', 'savoir-faire européen', 'réel savoir-faire', 'savoir-faire en matière de SAN']"
+366,expertise,expérience,['practical expertise'],['expérience pratique']
+367,expertise,expert,"['external expertise', 'expertise inside the nhpd', 'independent technical expertise', 'clinical expertise']","['expert externe', 'experts de la DPSN', 'expert technique indépendant', 'expert clinique']"
+368,freeze,gel,"['wage freeze', 'settlement freeze', 'temporary freeze', 'salary freeze']","['gel des salaires', 'gel des colonies', 'gel temporaire', 'gel salarial']"
+369,freeze,blocage,"['system freeze', 'pay freeze', 'tuition freeze']","['blocage du système', 'blocage des salaires', 'blocage des frais de scolarité']"
+370,freeze,congélation,[],[]
+371,freeze,congeler,['to freeze the insulin inhaler'],"[""congeler l'inhalateur d'insuline""]"
+372,freeze,geler,"['to freeze the essential budgetary increases', 'to freeze the article']","['geler les augmentations budgétaires indispensables', ""geler l'article""]"
+373,freeze,bloquer,[],[]
+374,freeze,figer,['to freeze the shifting phantasmagoria'],['figer la fantasmagorie fluctuante']
+375,freeze,se figer,[],[]
+376,freeze,glacer,[],[]
+377,freeze,surgeler,[],[]
+378,freeze,se bloquer,[],[]
+379,freeze,givrer,[],[]
+380,issue,question,"['important issue', 'environmental issue', 'key issue', 'political issue']","['question importante', 'question environnementale', 'question clé', 'question politique']"
+381,issue,problème,"['health issue', 'security issue', 'technical issue', 'performance issue']","['problème de santé', 'problème de sécurité', 'problème technique', 'problème de performance']"
+382,issue,enjeu,"['ethical issue', 'emerging issues', 'major issue', 'priority issues']","['enjeu éthique', 'nouvel enjeu', 'enjeu majeur', 'enjeu prioritaire']"
+383,issue,sujet,"['very important issue', 'sensitive issue', 'second issue', 'first issue']","['sujet très important', 'sujet sensible', 'deuxième sujet', 'premier sujet']"
+384,issue,point,"['following issues', 'third issue', 'fundamental issue', 'specific issue']","['point suivant', 'troisième point', 'point fondamental', 'point précis']"
+385,issue,dossier,"['difficult issues', 'complex issue', 'economic issue', 'main issue']","['dossier difficile', 'dossier complexe', 'dossier économique', 'principal dossier']"
+386,issue,thème,"['central issue', 'research issues', 'general issues', 'crucial issue']","['thème central', 'thème de recherche', 'thème général', 'thème crucial']"
+387,issue,numéro,"['special issue', 'latest issue', 'next issue', 'recent issue']","['numéro spécial', 'dernier numéro', 'prochain numéro', 'numéro récent']"
+388,issue,délivrer,"['issued pursuant to this decision', 'to issue to the applicant', 'to issue the authorization', 'issued by the minister']","['délivrée conformément à la présente décision', 'délivrer à la demanderesse', ""délivrer l'autorisation"", 'délivré par le ministre']"
+389,issue,émettre,"['to issue shares', 'to issue a warning', 'issue to this computer', 'issue by director-general']","['émettre des actions', 'émettre des avertissements', 'émis pour cet ordinateur', 'émis par le directeur général']"
+390,issue,publier,"['issued by the ctc', 'to issue a statement', 'to issue guidelines', 'to issue a communication']","['publié par la CCT', 'publier une déclaration', 'publier des lignes directrices', 'publier une communication']"
+391,issue,rendre,"['to issue an order', 'to issue a decision', 'to issue decisions', 'to issue the order']","['rendre une ordonnance', 'rendre une décision', 'rendre nos décisions', ""rendre l'ordonnance""]"
+392,issue,diffuser,"['issued by different stakeholders', 'issued prior to the visit', 'issued by the snprm']","['diffusés par des intervenants différents', 'diffusé avant la visite', 'diffusées par le snprm']"
+393,issue,lancer,"['to issue a challenge', 'to issue standing invitations']","['lancer un défi', 'lancer des invitations permanentes']"
+394,issue,remettre,"['issued to customers', 'issued to companies', 'to issue the final report']","['remis aux clients', ""remise à l'entreprise"", 'remettre le rapport final']"
+395,issue,exécuter,"['to issue the following admsnap command', 'to issue the umount command']","['exécuter la commande admsnap suivante', 'exécuter la commande umount']"
+396,peremptory,péremptoire,[],[]
+397,peremptory,ordonné,[],[]
+398,peremptory,tranchant,[],[]
+399,parent,parent,"['adoptive parent', 'biological parents', 'Canadian parents', 'single parent']","['parent adoptif', 'parent biologique', 'parent canadien', 'parent seul']"
+400,parent,mère,"['US parent', 'elderly parents', 'lone parents']","['mère américaine', 'mère âgée', 'mère seule']"
+401,parent,origine,[],[]
+402,parent,parenté,[],[]
+403,member,membre,"['Member of the Commission', 'committee member', 'family member', 'team member']","['membre de la commission', 'membre du comité', 'membre de la famille', ""membre de l'équipe""]"
+404,member,député,"['honourable Member', 'Liberal members', 'members of this house', 'members of the european parliament']","['honorable député', 'député libéral', 'député de cette Assemblée', 'député européen']"
+405,member,collègue,"['fellow members', 'socialist members', 'italian members', 'former member']","['collègue député', 'collègue socialiste', 'collègue italien', 'ancien collègue']"
+406,member,députée,"['member for Windsor-St', 'member for Notre-Dame-de-Grâce-Lachine', 'Bloc members', 'NDP members']","['députée de Windsor-St', 'députée de Notre-Dame-de-Grâce-Lachine', 'députée du Bloc', 'députée néo-démocrate']"
+407,member,parlementaire,"['elected members', 'members of the house', ""private members'"", 'swedish members']","['parlementaire élu', 'parlementaires de cette Chambre', 'simple parlementaire', 'parlementaires suédois']"
+408,member,militaire,"['non-commissioned member', 'deceased member', 'canadian forces members', 'eligible members']","['militaire du rang', 'militaire décédé', 'militaire canadien', 'militaire admissible']"
+409,band,bibande,[],[]
+410,band,bande,"['indian band', 'hopper bands', 'frequency band', 'small hopper bands']","['bande indienne', 'bandes larvaires', 'bande de fréquences', 'petites bandes larvaires']"
+411,band,tranche,"['rate band', 'band a', 'price band', 'Band F']","['tranche tarifaire', 'tranche A', 'tranche de prix', 'tranche F']"
+412,band,orchestre,"['mariachi band', 'mediocre brass band']","['orchestre de mariachis', 'orchestre médiocre']"
+413,band,baguer,[],[]
+414,order,ordre,"['public order', 'alphabetical order', 'legal order', 'Date Order']","['ordre public', 'ordre alphabétique', 'ordre juridique', 'ordre de date']"
+415,order,commande,"['small orders', 'firm orders', 'original order', 'online order']","['petite commande', 'commande ferme', ""commande d'origine"", 'commande en ligne']"
+416,order,ordonnance,"['order for reference', 'court order', 'interim order', 'administrative order']","['ordonnance de renvoi', 'ordonnance de la cour', 'ordonnance provisoire', 'ordonnance administrative']"
+417,order,décret,"['order in council', 'Remission Order', 'Exclusion Approval Order', 'ministerial order']","['décret du conseil', 'Décret de remise', ""décret d'exemption"", 'décret ministériel']"
+418,order,règlement,['standing orders of the house'],['Règlement de la Chambre']
+419,order,procédure,['order concerning the vote'],['procédure concernant le vote']
+420,order,arrêté,"['order of the agency', 'final order', 'Delegation Order', 'surrender order']","[""arrêté de l'Office"", 'arrêté final', 'arrêté de délégation', 'arrêté de remise']"
+421,order,bon,"['working order', 'purchase order', 'installation work order', 'installation order']","['bon de travail', 'bon de commande', ""bon de travail d'installation"", ""bon d'installation""]"
+422,order,commander,"['to order online', 'ordered with the system', 'to order the following rtu license', 'to order a la carte']","['commander en ligne', 'commandée avec le système', 'commander les licences RTU suivantes', 'commander à la carte']"
+423,order,ordonner,"['ordered by the commission', 'to order a remedy', 'to order the deputy head', 'to order the disclosure of information']","['ordonné par la Commission', 'ordonner une réparation', ""ordonner à l'administrateur général"", 'ordonner la communication des renseignements']"
+424,order,condamner,"['to order the Community', 'to order the defendant']","['condamner la Communauté', 'condamner la partie défenderesse']"
+425,order,passer commande,[],[]
+426,order,trier,[],[]
+427,hot,chaud,"['so hot', 'extremely hot', 'still hot', 'really hot']","['si chaud', 'extrêmement chaud', 'encore chaud', 'vraiment chaud']"
+428,hot,hot,[],[]
+429,hot,à chaud,[],[]
+430,hot,logiciel,[],[]
+431,hot,chauffant,[],[]
+432,hot,brûlant,[],[]
+433,hot,chauffé à blanc,[],[]
+434,hot,vachement bon,[],[]
+435,fly,volant,[],[]
+436,fly,mouche,"['black fly', 'adult flies', 'fruit fly', 'artificial fly']","['mouches noires', 'mouches adultes', 'mouche à fruits', 'mouche artificielle']"
+437,fly,braguette,[],[]
+438,fly,volée,[],[]
+439,fly,voler,"['to fly in formation', 'to fly above the clouds', 'to fly in the sky', 'to fly like a bird']","['voler en formation', 'voler au-dessus des nuages', 'voler dans le ciel', 'voler comme un oiseau']"
+440,fly,battre,"['to fly its flag', 'to fly their flag', 'to fly flags of convenience', 'to fly the Canadian flag']","['battre son pavillon', 'battre leur pavillon', 'battre pavillon de complaisance', 'battre pavillon canadien']"
+441,fly,piloter,"['to fly an aircraft', 'flown by a guy']","['piloter un aéronef', 'piloté par un type']"
+442,fly,voyager,[],[]
+443,fly,s'envoler,[],[]
+444,fly,flotter,[],[]
+445,fly,arborer,['to fly the flag'],['arborer le drapeau']
+446,fly,prendre l'avion,[],[]
+447,fly,survoler,"['to fly over the whole area', 'to fly over the island']","['survoler la région', ""survoler l'île""]"
+448,lie,mensonge,"['lie of the century', 'good lie', 'old lie', 'lie of the single currency']","['mensonge du siècle', 'bon mensonge', 'vieux mensonge', 'mensonge de la monnaie unique']"
+449,lie,lie,[],[]
+450,lie,se trouver,['to lie north'],['se trouver au nord']
+451,lie,résider,"['to lie in the fact', 'to lie within the european union', 'to lie in the market', 'to lie in the differences']","['résider dans le fait', ""résider dans l'Union européenne"", 'résider dans le marché', 'résider dans les différences']"
+452,lie,mentir,['to lie still for a few hours'],['mentir encore pour quelques heures']
+453,lie,se situer,['to lie within a financial framework'],['se situer dans un cadre financier']
+454,lie,incomber,"['to lie with the Member States', 'to lie with the ICRC', 'to lie with a single institution', 'to lie with the complainant']","['incomber aux États membres', ""incomber à l'ICRC"", 'incomber à une seule institution', 'incomber au plaignant']"
+455,lie,reposer,[],[]
+456,lie,s'étendre,['to lie in the sun'],"[""s'étendre au soleil""]"
+457,lie,consister,['to lie in its cultural diversity'],['consister en sa diversité culturelle']
+458,lie,se cacher,"['to lie behind the veil', 'to lie behind this scandal']","['se cacher derrière les voiles', 'se cacher derrière ce scandale']"
+459,lie down,s'allonger,[],[]
+460,lie down,se coucher,[],[]
+461,lie down,allonger,[],[]
+462,select,sélect,[],[]
+463,select,de sélection,[],[]
+464,select,choisi,[],[]
+465,select,sélectionner,"['to select this option', 'to select the file', 'to select the options', 'to select the text']","['sélectionner cette option', 'sélectionner le fichier', ""sélectionner l'option"", 'sélectionner le texte']"
+466,select,choisir,"['to select the injection site', 'to select the category', 'to select companies', 'to select a strategy']","[""choisir le site d'injection"", 'choisir la catégorie', 'choisir LES ENTREPRISES', 'choisir une stratégie']"
+467,select,activer,"['to select this function', 'selected by default']","['activer cette fonction', 'activée par défaut']"
+468,select,cocher,"['to select the checkbox', 'to select this check box']","['cocher la case', 'cocher cette case']"
+469,select,retenir,"['selected in the sample', 'selected by the aca', 'to select their services', 'selected for review']","[""retenu dans l'échantillon"", 'retenus par le ccn', 'retenir ses services', 'retenues pour examen']"
+470,select,cliquer,"['to select Next', 'to select the physical icon', 'to select the link', 'to select an entry']","['cliquer sur suivant', ""cliquer sur l'icône Physique"", 'cliquer sur le lien', 'cliquer sur une entrée']"
+471,school,scolaire,[],[]
+472,school,école,"['high school', 'primary school', 'european schools', 'public school']","['école secondaire', 'école primaire', 'école européenne', 'école publique']"
+473,school,faculté,"['medical school', 'law school', 'canadian law school']","['faculté de médecine', 'faculté de droit', 'faculté de droit canadienne']"
+474,school,scolariser,[],[]
+475,school,instruire,[],[]
+476,cafe,café,"['Moorish cafe', 'internet cafe', 'hotel cafe', 'local cafe']","['café maure', 'café internet', ""café de l'hôtel"", 'café local']"
+477,cafe,cafétéria,[],[]
+478,buy,achat,"['first time buy', 'special buys']","['premier achat', 'achat spécial']"
+479,buy,acheter,"['to buy cigarettes', 'to buy a car', 'to buy this item', 'to buy a house']","['acheter des cigarettes', 'acheter une voiture', 'acheter cet objet', 'acheter une maison']"
+480,buy,acquérir,"['to buy that car', 'to buy the basic equipment']","['acquérir cette voiture', ""acquérir l'équipement de base""]"
+481,buy,racheter,[],[]
+482,buy,s'acheter,"['to buy refrigeration', 'to buy any antibiotics']","[""s'acheter de système de réfrigération"", ""s'acheter des antibiotiques""]"
+483,buy,se procurer,"['to buy your cheeses', 'to buy drugs']","['se procurer vos fromages', 'se procurer de la drogue']"
+484,buy up,racheter,[],[]
+485,buy up,accaparer,[],[]
+486,buy out,racheter,[],[]
+487,tell,dire,"['to tell the truth', 'to tell the House', 'to tell people', 'to tell a lie']","['dire la vérité', 'dire à la Chambre', 'dire aux gens', 'dire un mensonge']"
+488,tell,raconter,"['to tell a story', 'to tell their stories', 'to tell the story', 'to tell our story']","['raconter des histoires', 'raconter leur histoire', ""raconter l'histoire"", 'raconter notre histoire']"
+489,tell,informer,"['to tell your doctor', 'to tell your doctor immediately', 'to tell your doctor as soon as possible', 'told by your doctor']","['informer votre médecin', 'informer immédiatement votre médecin', 'informer votre médecin le plus rapidement possible', 'informé par votre médecin']"
+490,tell,indiquer,"['to tell an IP router', 'to tell the Player', 'to tell the compiler', 'to tell the debugger']","['indiquer au routeur IP', 'indiquer au lecteur', 'indiquer au compilateur', 'indiquer au débogueur']"
+491,tell,parler,['to tell their friends'],['parler à leurs amis']
+492,tell,expliquer,[],[]
+493,tell,apprendre,[],[]
+494,tell,prévenir,"['to please tell your doctor', 'to please tell your doctor immediately']","['prévenir votre médecin', 'prévenir immédiatement votre médecin']"
+495,tell,annoncer,[],[]
+496,international,international,"['truly international', 'increasingly international', 'mainly international', 'mostly international']","['véritablement international', 'de plus en plus international', 'principalement international', 'plutôt international']"
+497,international,internationale,"['Socialist International', 'Workers International']","['internationale socialiste', 'internationale ouvrière']"
+498,international,international,[],[]
+499,stand,position,"['firm stand', 'clear stand', 'political stand', 'constructive stand']","['position ferme', 'position claire', 'position politique', 'position constructive']"
+500,stand,stand,"['exhibition stand', 'temporary stands', 'information stands', 'show-cooking stands']","[""stand d'exposition"", 'stands provisoires', ""stand d'information"", 'stand de show-cooking']"
+501,stand,peuplement,"['forest stands', 'natural stands', 'pure stands', 'mixed stands']","['peuplement forestier', 'peuplements naturels', 'peuplement pur', 'peuplement mélangé']"
+502,stand,tribune,['official stand'],['tribune officielle']
+503,stand,kiosque,['newspaper stand'],['kiosque à journaux']
+504,stand,gradin,[],[]
+505,stand,étal,['market stands'],['étals des marchés']
+506,stand,remplaçante,[],[]
+507,stand,vacataire,[],[]
+508,stand,se trouver,"['to stand at a crossroads', 'to stand on the German-Polish border']","['se trouver à la croisée des chemins', 'se trouver à la frontière germano-polonaise']"
+509,stand,se tenir,"['to stand before the world', 'to stand at the door', 'to stand on the hilltop', 'to stand on a mountain']","['se tenir devant le monde', 'se tenir à la porte', 'se tenir au haut de la colline', 'se tenir sur une montagne']"
+510,stand,se dresser,[],[]
+511,stand,s'élever,[],[]
+512,stand,se présenter,['to stand for election'],['se présenter aux élections']
+513,stand,se situer,[],[]
+514,stand,supporter,"['to stand this pain', 'to stand his behavior', 'to stand that noise']","['supporter cette douleur', 'supporter son comportement', 'supporter ce bruit']"
+515,stand,se lever,"['to stand in the House', 'to stand in this House']","['se lever à la Chambre', 'se lever dans cette assemblée']"
+516,stand,résister,[],[]
+517,stand up,se lever,[],[]
+518,stand up,se dresser,[],[]
+519,stand up,s'élever,[],[]
+520,stand up,défendre leurs droits,[],[]
+521,stand up,défendre les droits de l'homme,[],[]
+522,stand up,défendre la démocratie,[],[]
+523,stand up,s'insurger contre le bruit,[],[]
+524,stand up,se lever dans cette assemblée,[],[]
+525,stand up,défendre ses droits,[],[]
+526,stand out,se démarquer,[],[]
+527,stand out,ressortir,[],[]
+528,stand out,se distinguer,[],[]
+529,stand out,se détacher,[],[]
+530,stand out,briller,[],[]
+531,stand out,se différencier,[],[]
+532,stand out,démarquer,[],[]
+533,stand out,se dresser,[],[]
+534,stand back,reculer,[],[]
+535,stand by,se contenter,[],[]
+536,stand down,se retirer,[],[]
+537,fish,de poisson,[],[]
+538,fish,ichtyologique,[],[]
+539,fish,piscicole,[],[]
+540,fish,poisson,"['fresh fish', 'freshwater fish', 'live fish', 'small fish']","['poisson frais', ""poisson d'eau douce"", 'poisson vivant', 'petit poisson']"
+541,fish,pêche,"['sport fish', 'local fish', 'fish in this territory']","['pêche sportive', 'pêche locale', 'pêche de ce territoire']"
+542,fish,pêcher,"['to fish in those waters', 'to fish for seals', 'to fish in the river', 'to fish in Moroccan waters']","['pêcher dans ces eaux', 'pêcher le phoque', 'pêcher dans la rivière', 'pêcher dans les eaux marocaines']"
+543,benefit,avantage,"['economic benefits', 'employee benefit', 'potential benefits', 'clinical benefit']","['avantage économique', 'avantages sociaux des employés', 'avantage potentiel', 'avantage clinique']"
+544,benefit,prestation,"['tax benefit', 'child tax benefit', 'pension benefit', 'national child benefit']","['prestation fiscale', 'prestation fiscale pour enfants', 'prestation de retraite', 'prestation nationale pour enfants']"
+545,benefit,bénéfice,"['benefit of the doubt', 'mutual benefit', 'therapeutic benefit', 'long-term benefits']","['bénéfice du doute', 'bénéfice mutuel', 'bénéfice thérapeutique', 'bénéfice à long terme']"
+546,benefit,bienfait,"['nutritional benefits', 'promised benefits', 'product benefits', 'social benefits']","['bienfaits nutritionnels', 'bienfait prometteur', ""bienfaits d'un produit"", 'bienfait social']"
+547,benefit,indemnité,"['severance benefits', 'core benefit', 'Personalized Benefit', 'accident benefits']","['indemnité de départ', 'indemnité de base', 'indemnité personnalisée', ""indemnité d'accidents""]"
+548,benefit,profit,"['immediate benefits', 'sole benefit', 'exclusive benefits', 'personal benefit']","['profit immédiat', 'seul profit', 'profit exclusif', 'profit personnel']"
+549,benefit,allocation,"['unemployment benefit', 'family benefit', 'parental benefits', 'housing benefit']","['allocation de chômage', 'allocation familiale', 'allocation parentale', 'allocation de logement']"
+550,benefit,bénéficier,"['to benefit from these rates', 'to benefit all Canadians', 'to benefit from these measures', 'to benefit from the program']","['bénéficier de ces taux', 'bénéficier à la population canadienne', 'bénéficier de cette mesure', 'bénéficier du programme']"
+551,benefit,profiter,"['to benefit canadians', 'to benefit both sides', 'to benefit your business', 'to benefit most']","['profiter aux Canadiens', 'profiter aux deux parties', 'profiter à votre entreprise', 'profiter le plus']"
+552,benefit,tirer profit,[],[]
+553,benefit,tirer parti,[],[]
+554,benefit,gagner,[],[]
+555,benefit,avantager,"['to benefit consumers', 'to benefit that organization']","['avantager le consommateur', ""avantager l'organisation""]"
+556,intelligent,intelligent,"['intelligent enough', 'very intelligent', 'remarkably intelligent', 'highly intelligent']","['assez intelligent', 'fort intelligent', 'remarquablement intelligent', 'hautement intelligent']"
+557,follow,suivre,"['to follow the instructions', 'to follow the on-screen instructions', 'to follow these steps', 'to follow the steps below']","['suivre les instructions', ""suivre les instructions à l'écran"", 'suivre ces étapes', 'suivre les étapes ci-dessous']"
+558,follow,respecter,"['to follow the rules', 'to follow the law', 'to follow three fundamental principles', 'to follow these policies']","['respecter les règles', 'respecter la loi', 'respecter trois principes fondamentaux', 'respecter ce principe']"
+559,follow,s'ensuivre,[],[]
+560,follow,appliquer,['to simply follow the policy'],['appliquer simplement les règles']
+561,follow,se conformer,"['to follow the study design', 'to follow these principles', 'to follow the school rules']","[""se conformer au plan d'étude"", 'se conformer à ces principes', ""se conformer aux règles de l'école""]"
+562,follow up,suivre,"['followed up by action', 'to follow up each project', 'followed up by concrete action', 'followed up by a diplomatic note']","[""suivi d'actions"", 'suivre tous les projets', ""suivie d'une action concrète"", ""suivi d'une note diplomatique""]"
+563,follow up,donner suite,[],[]
+564,follow up,enchaîner,[],[]
+565,journey,voyage,"['long journey', 'continuous journey', 'good journey', 'first journey']","['long voyage', 'voyage continu', 'bon voyage', 'premier voyage']"
+566,journey,trajet,"['bilateral journeys', 'short journey', 'transit journey', 'journey by car']","['trajet bilatéral', 'court trajet', 'trajet en transit', 'trajet en voiture']"
+567,journey,parcours,"['personal journey', 'road journeys', 'historic journey', 'difficult journey']","['parcours personnel', 'parcours routiers', 'parcours historique', 'parcours difficile']"
+568,journey,périple,['arduous journey'],['périple ardu']
+569,journey,cheminement,['spiritual journey'],['cheminement spirituel']
+570,journey,aventure,['extraordinary journey'],['aventure extraordinaire']
+571,journey,itinéraire,['international journey'],['itinéraire international']
+572,news,nouvelle,"['good news', 'bad news', 'last news', 'sad news']","['bonne nouvelle', 'mauvaise nouvelle', 'dernière nouvelle', 'triste nouvelle']"
+573,news,actualité,"['international news', 'program news', 'Members’ news', 'social news']","['actualité internationale', 'actualité du programme', 'actualité des membres', 'actualité sociale']"
+574,news,presse,['news in the international press'],['presse internationale']
+575,news,nouveauté,[],[]
+576,write,écrire,"['to write code', 'to write a letter', 'to write a book', 'to write data']","['écrire du code', 'écrire une lettre', 'écrire un livre', 'écrire des données']"
+577,write,rédiger,"['to write a guide', 'to write the report', 'to write a review', 'written in english']","['Rédiger un guide', 'rédiger le rapport', 'rédiger une critique', 'rédigée en anglais']"
+578,write,inscrire,"['to write the elector’s name', 'written into the treaty', 'to write a signature', 'written into the constitution']","[""inscrire le nom de l'électeur"", 'inscrit dans le traité', 'inscrire une signature', 'inscrit dans la constitution']"
+579,write down,noter,[],[]
+580,write down,écrire votre nom,[],[]
+581,write down,écrire le nom,[],[]
+582,write down,écrire toute autre raison,[],[]
+583,write down,écrire les faits nécessaires,[],[]
+584,write down,écrire des choses,[],[]
+585,write out,écrire,['to write out my speech'],['écrire mon discours']
+586,write out,radier,[],[]
+587,approbation,approbation,['expert approbation'],['approbation des spécialistes']
+588,approbation,aval,[],[]
+589,approbation,louange,[],[]
+590,read,lecture,"['tough read', 'sequential read', 'Direct Read', 'charming read']","['lecture difficile', 'lecture séquentielle', 'lecture directe', 'lecture fascinante']"
+591,read,lire,[],[]
+592,read,lecture-écriture,[],[]
+593,read,cultivé,[],[]
+594,read,lettré,[],[]
+595,read,lire,"['to read the report', 'to read a book', 'to read this section', 'to read the newspaper']","['lire le rapport', 'lire un livre', 'lire attentivement cette section', 'lire le journal']"
+596,read,se lire,[],[]
+597,read,consulter,"['to read the label', 'to read the Rules of Procedure', 'to read the FAQ']","[""consulter l'étiquette"", 'consulter le règlement', 'consulter la faq']"
+598,read,renseigner,[],[]
+599,read out,relire,[],[]
+600,read out,lire en anglais,[],[]
+601,read out,lire un discours tout prêt,[],[]
+602,read out,dire en anglais,[],[]
+603,hear,entendre,"['to hear the news', 'to hear the Commissioner', 'to hear the answer', 'heard by the commission']","['entendre les nouvelles', 'entendre le commissaire', 'entendre la réponse', 'entendue par la commission']"
+604,hear,écouter,"['to hear your reply', 'to hear Parliament', 'to hear my voice', 'to hear your recording']","['écouter vos réponses', 'écouter intégralement le Parlement', 'écouter ma voix', 'écouter votre enregistrement']"
+605,hear,apprendre,"['to hear from the Commission', 'to hear this news', 'to hear this morning']","['apprendre de la Commission', 'apprendre la nouvelle', 'apprendre ce matin']"
+606,hear,connaître,[],[]
+607,hear,audiencer,[],[]
+608,hear,instruire,[],[]
+609,hear of,entendre,['to hear of such a thing'],['entendre une telle chose']
+610,feel,atmosphère,"['elegant feel', 'welcoming feel', 'modern feel', 'rustic feel']","['atmosphère élégante', 'atmosphère chaleureuse', 'atmosphère moderne', 'atmosphère rustique']"
+611,feel,ambiance,"['tropical feel', 'historic feel', 'family feel', 'retro feel']","['ambiance tropicale', 'ambiance historique', 'ambiance familiale', 'ambiance rétro']"
+612,feel,sensation,[],[]
+613,feel,toucher,[],[]
+614,feel,feel,[],[]
+615,feel,allure,[],[]
+616,feel,convivialité,[],[]
+617,feel,se sentir,"['to feel at home', 'to feel much better', 'to feel at ease', 'to feel much better today']","['se sentir comme à la maison', 'se sentir beaucoup mieux', ""se sentir à l'aise"", ""se sentir beaucoup mieux aujourd'hui""]"
+618,feel,estimer,[],[]
+619,feel,penser,['to feel about natural gas'],['penser du gaz naturel']
+620,feel,ressentir,"['to feel the need', 'to feel the effects', 'to feel pain', 'to feel a need for speed']","['ressentir le besoin', 'ressentir les effets', 'ressentir de la douleur', 'ressentir un besoin de vitesse']"
+621,feel,sentir,"['to feel the implant', 'to feel the pressure', 'to feel his knee', 'to feel resistance']","[""sentir l'implant"", 'sentir la pression', 'sentir ses genoux', 'sentir une résistance']"
+622,feel,croire,['to feel very strongly'],['croire très fermement']
+623,feel,considérer,[],[]
+624,feel,sembler,[],[]
+625,feel,avoir le sentiment,[],[]
+626,be,avoir,"['to be in trouble', 'to be by roll-call', 'to always be more', 'to be even more']","['avoir un problème', 'avoir lieu par appel nominal', 'avoir toujours plus', 'avoir encore plus']"
+627,be,être,"['to be in a position', 'to be on time']","['être en mesure', ""être à l'heure""]"
+628,be,constituer,[],[]
+629,be,consister,[],[]
+630,be,s'agir,[],[]
+631,be,représenter,[],[]
+632,be,se faire,"['to no longer be between companies', 'to be in the euro']","['se faire plus entre entreprises', 'se faire en euros']"
+633,be,devenir,[],[]
+634,be,se trouver,['to be on a label'],['se trouver sur une étiquette']
+635,be worth,valoir,"['to be worth a thousand words', 'to be worth the effort', 'to be worth a visit', 'to be worth a look']","['valoir mille mots', 'valoir la peine', 'valoir une visite', ""valoir le coup d'oeil""]"
+636,be worth,convenir,[],[]
+637,be worth,mériter,[],[]
+638,be,être,"['He is calling his friend', 'I have been waiting for hours']","[""Il appelle son ami (= il est en train d'appeler)   "", ""J'attends depuis des heures""]"
+639,be,être,"['to be continued...', 'He was taught a lesson ! ']","['à suivre...', 'Il a reçu une bonne leçon']"
+640,be,être,"['He is to arrive by 6', 'You are to be helped']","['Il arrivera vers 6h', 'On devrait vous aider']"
+641,right,bon,['quite right'],['tout à fait bon']
+642,right,droit,[],[]
+643,right,juste,"['absolutely right', 'morally right']","['tout à fait juste', 'moralement juste']"
+644,right,approprié,[],[]
+645,right,adéquat,[],[]
+646,right,correct,[],[]
+647,right,adapté,['right for your business'],['adapté à votre entreprise']
+648,right,vrai,[],[]
+649,right,opportun,[],[]
+650,right,juste,[],[]
+651,right,à droite,[],[]
+652,right,bon,[],[]
+653,right,droit,"['human right', 'fundamental right', 'intellectual property right', 'exclusive right']","[""droit de l'homme"", 'droit fondamental', 'droit de propriété intellectuelle', 'droit exclusif']"
+654,right,droite,"['extreme right', 'european right', 'political right', 'israeli right']","['extrême droite', 'droite européenne', 'droite politique', 'droite israélienne']"
+655,right,redresser,[],[]
+656,right,réparer,['to right this wrong'],['réparer cette injustice']
+657,guru,gourou,"['economic gurus', 'internet guru']","['gourou économique', ""gourou de l'internet""]"
+658,beginner,débutant,['beginner to expert'],"[""débutant à l'expert""]"
+659,beginner,initiation,[],[]
+660,beginner,novice,[],[]
+661,beginner,débutante,[],[]
+662,beginner,apprenti,[],[]
+663,beginner,néophyte,[],[]
+664,collide,entrer en collision,[],[]
+665,collide,se heurter,[],[]
+666,collide,entrer en conflit,[],[]
+667,collide,heurter,[],[]
+668,genetically,génétiquement,[],[]
+669,precedent,précédent,"['dangerous precedent', 'legal precedent', 'important precedent', 'very dangerous precedent']","['dangereux précédent', 'précédent juridique', 'important précédent', 'précédent très dangereux']"
+670,precedent,jurisprudence,['existing precedent'],['jurisprudence existante']
+671,precedent,antécédent,[],[]
+672,refugee,réfugié,"['political refugees', 'convention refugee', 'Kosovar refugees', 'iraqi refugees']","['réfugié politique', 'réfugié au sens de la Convention', 'réfugié kosovar', 'réfugiés irakiens']"
+673,refugee,asile,[],[]
+674,secular,laïque,[],[]
+675,secular,laïc,[],[]
+676,secular,séculaire,[],[]
+677,secular,séculier,[],[]
+678,secular,profane,[],[]
+679,pasta,pâte,"['homemade pasta', 'fresh pasta', 'pasta with seafood', 'italian pasta']","['pâte maison', 'pâte fraîche', 'pâtes aux fruits de mer', 'pâtes italiennes']"
+680,pasta,pâtes alimentaires,[],[]
+681,pasta,pâté,[],[]
+682,beaver,castor,['canadian beaver'],['castor canadien']
+683,tiger,tigre,"['Tamil Tiger', 'paper tiger', 'celtic tiger', 'asian tigers']","['Tigres tamouls', 'tigre de papier', 'tigre celtique', 'tigre asiatique']"
+684,lion,lion,"['sea lion', 'last lion', 'male lions', 'african lion']","['lion de mer', 'dernier lion', 'lion mâle', 'lion africain']"
+685,pen,stylo,"['insulin pen', 'byetta pen', 'pre-filled pen', 'pens suitable']","['stylo à insuline', 'stylo byetta', 'stylo pré-rempli', 'stylos compatibles']"
+686,pen,stylet,['digitizer pen'],['stylet du digitaliseur']
+687,pen,plume,[],[]
+688,pen,crayon,[],[]
+689,pen,enclos,[],[]
+690,coconut,coco,[],[]
+691,coconut,cocotier,[],[]
+692,dynamite,dynamite,[],[]
+693,dynamite,dynamiter,[],[]
+694,spoon,cuillère,"['wooden spoon', 'clean spoon', 'soup spoon', 'full spoon']","['cuillère en bois', 'cuillère propre', 'cuillère à soupe', 'cuillère pleine']"
+695,spoon,cuiller,[],[]
+696,spoon,cuillerée,['table spoon'],['cuillerée à table']
+697,ocean,océanique,[],[]
+698,ocean,océan,"['pacific ocean', 'Arctic Ocean', 'deep ocean', ""world's oceans""]","['océan pacifique', 'océan arctique', 'océan profond', 'océans du monde']"
+699,ocean,mer,['open ocean'],['haute mer']
+700,mug,tasse,['coffee mugs'],['tasse à café']
+701,mug,chope,[],[]
+702,mug,gueule,[],[]
+703,mug,trogne,[],[]
+704,mug,trombine,[],[]
+705,mug,andouille,[],[]
+706,mug,tronche,[],[]
+707,mug,agresser,[],[]
+708,shampoo,shampooing,['tar-based shampoos'],['shampooings à base de goudron']
+709,shampoo,shampoing,['medicated shampoo'],['shampoings médicamentés']
+710,shampoo,shampouiner,[],[]
+711,buzzer,sonnette,[],[]
+712,buzzer,vibrateur,[],[]
+713,buzzer,ronfleur,[],[]
+714,exhaustively,exhaustivement,[],[]
+715,exhaustively,de manière exhaustive,[],[]
+716,apoplexy,apoplexie,[],[]
+717,typhus,typhus,['epidemic typhus'],['typhus exanthématique']
+718,typhus,typhi,[],[]
+719,ravioli,ravioli,"['large vapour-cooked ravioli', 'vapour-cooked ravioli']","['gros raviolis cuits à la vapeur', 'raviolis cuits à la vapeur']"
+720,ravioli,ravioles,[],[]
+721,meet,répondre,"['to meet their needs', 'to meet your needs', 'to meet the following criteria', 'to meet the following conditions']","['répondre à leurs besoins', 'répondre à vos besoins', 'répondre aux critères suivants', 'répondre aux conditions suivantes']"
+722,meet,satisfaire,"['to meet the requirements', 'to meet the following requirements', 'to meet these criteria', 'to meet the criteria']","['satisfaire aux exigences', 'satisfaire aux exigences suivantes', 'satisfaire à ces critères', 'satisfaire aux critères']"
+723,meet,rencontrer,"['to meet people', 'to meet with the Complainant', 'to meet a man', 'to meet an old man']","['rencontrer des gens', 'rencontrer le plaignant', 'rencontrer un homme', 'rencontrer un vieil homme']"
+724,meet,respecter,"['to meet compliance requirements', 'to meet service levels', 'to meet their obligations', 'to meet its commitments']","['respecter les exigences de conformité', 'respecter les niveaux de service', 'respecter leurs obligations', 'respecter ses engagements']"
+725,meet,remplir,"['to meet its obligations', 'to meet these conditions', 'to meet the conditions', 'to meet its mandate']","['remplir ses obligations', 'remplir ces conditions', 'remplir les conditions', 'remplir son mandat']"
+726,meet,se réunir,"['to meet in ordinary session', 'to meet for the first time', 'to meet in public', 'to meet in ordinary session once']","['se réunir en session ordinaire', 'se réunir pour la première fois', 'se réunir en public', 'se réunir en session ordinaire une fois']"
+727,meet,atteindre,"['to meet its objectives', 'to meet these objectives', 'to meet their objectives', 'to meet the targets']","['atteindre ses objectifs', 'atteindre cet objectif', 'atteindre leurs objectifs', 'atteindre les objectifs']"
+728,meet,relever,"['to meet these challenges', 'to meet the challenges', 'to meet the challenges of globalisation', 'to meet the national challenge']","['relever ces défis', 'relever les défis', 'relever les défis de la mondialisation', 'Relever le défi national']"
+729,meet,se rencontrer,"['to meet regularly throughout the year', 'to meet at the station', 'to meet downtown', 'to meet at least twice a year']","[""se rencontrer régulièrement au cours de l'année"", 'se rencontrer à la gare', 'se rencontrer au centre-ville', 'se rencontrer au moins deux fois par année']"
+730,meeting,réunion,"['next meeting', 'first meeting', 'annual meeting', 'informal meeting']","['prochaine réunion', 'première réunion', 'réunion annuelle', 'réunion informelle']"
+731,meeting,rencontre,"['bilateral meetings', 'international meeting', 'ministerial meeting', 'regular meetings']","['rencontre bilatérale', 'rencontre internationale', 'rencontre ministérielle', 'rencontre régulière']"
+732,meeting,assemblée,"['general meeting', 'annual general meeting', 'public meeting', 'special meeting']","['assemblée générale', 'assemblée générale annuelle', 'assemblée publique', 'assemblée extraordinaire']"
+733,meeting,séance,"['plenary meeting', 'committee meeting', 'joint meeting', 'council meeting']","['séance plénière', 'séance du comité', 'séance commune', 'séance du Conseil']"
+734,meeting,session,"['extraordinary meeting', 'last meeting', 'ordinary meeting', 'meeting of the standing committee']","['session extraordinaire', 'dernière session', 'session ordinaire', 'session du comité permanent']"
+735,actually,en fait,[],[]
+736,actually,réellement,[],[]
+737,actually,effectivement,[],[]
+738,actually,en réalité,[],[]
+739,actually,vraiment,[],[]
+740,actually,en effet,[],[]
+741,actually,véritablement,[],[]
+742,add,ajouter,"['to add value', 'to add code', 'to add the following code', 'added to the list']","['ajouter de la valeur', 'ajouter du code', 'ajouter le code suivant', 'ajouté à la liste']"
+743,add,s'ajouter,"[""to add to the Commission's proposal""]","[""s'ajouter à la proposition de la Commission""]"
+744,add,apporter,"['to add value to your business', 'to add enhancements to GCIMS', 'to add enhancements']","['apporter à votre entreprise', 'apporter des améliorations au SGISC', 'apporter des améliorations']"
+745,add up,additionner,[],[]
+746,add up,s'ajouter,[],[]
+747,add up,totaliser,[],[]
+748,add up,s'additionner,[],[]
+749,add up,se résumer,[],[]
+750,add up,cumuler,[],[]
+751,add up,concorder,[],[]
+752,add up,ajouter tous ces pays,[],[]
+753,add up,correspondre au total indiqué,[],[]
+754,adjective,attributif,[],[]
+755,adjective,adjectif,[],[]
+756,adjective,qualificatif,[],[]
+757,draw,attirer,"['to draw your attention', 'to draw attention', 'to draw our attention', 'to draw customers']","['attirer votre attention', ""attirer l'attention"", 'attirer notre attention', 'attirer la clientèle']"
+758,draw,tirer,"['to draw conclusions', 'to draw the necessary conclusions', 'to draw the following conclusions', 'to draw a line']","['tirer des conclusions', 'tirer les conclusions nécessaires', 'tirer les conclusions suivantes', 'tirer un trait']"
+759,draw,dessiner,"['to draw a straight line', 'to draw the shape', 'to draw a circle', 'to draw a picture']","['dessiner des lignes droites', 'dessiner la forme', 'dessiner un cercle', 'dessiner une image']"
+760,draw,tracer,['to draw a plot'],['tracer un graphique']
+761,draw,puiser,['to draw water'],"[""puiser l'eau""]"
+762,draw,prélever,"['to draw monthly payments', 'draw according to the protocol']","['prélever des versements mensuels', 'prélevés conformément au protocole']"
+763,draw,vider,[],[]
+764,draw,opérer,['to draw a distinction'],['opérer une distinction']
+765,draw together,regrouper quelques principes fondamentaux,[],[]
+766,draw together,rassembler,[],[]
+767,draw off,soutirer,[],[]
+768,draw up,établir,"['drawn up by the commission', 'drawn up by the director', 'to draw up their report', 'to draw up an invitation to tender']","['établi par la Commission', 'établi par le directeur', 'établir leur rapport', ""établir un avis d'adjudication""]"
+769,draw up,élaborer,"['to draw up proposals', 'drawn up by private bodies', 'drawn up by the convention', 'to draw up a report']","['élaborer des propositions', 'élaborées par des organismes privés', 'élaboré par la Convention', 'élaborer un rapport']"
+770,draw up,rédiger,"['to draw up this report', 'drawn up in english', 'to draw up the report', 'to draw up a resolution']","['rédiger ce rapport', 'rédigée en anglais', 'rédiger le rapport', 'rédiger une résolution']"
+771,draw up,dresser,"['to draw up an action plan', 'to draw up a balance sheet', 'to draw up this list', 'drawn up this year']","[""dresser un plan d'action"", 'dresser un bilan', 'dresser ces listes', 'dressée cette année']"
+772,draw up,formuler,"['to draw up the following opinion', 'to draw up guidelines', 'to draw up the resolution']","[""formuler l'avis suivant"", 'formuler des directives', 'formuler dans la résolution']"
+773,drawing,dessin,"['said Drawing', 'technical drawing', 'little drawing', 'detailed drawings']","['ledit dessin', 'dessin technique', 'petit dessin', 'dessin détaillé']"
+774,drawing,tirage,['drawing of lots'],['tirage au sort']
+775,drawing,esquisse,[],[]
+776,dream,rêve,[],[]
+777,dream,songe,[],[]
+778,dream,reve,[],[]
+779,dream,rêverie,[],[]
+780,dream,dream,[],[]
+781,dream,utopie,[],[]
+782,dream,grand dessein,[],[]
+783,dream,fantasme,[],[]
+784,dream,rêver,['to dream of a world'],"[""rêver d'un monde""]"
+785,dream,songer,[],[]
+786,dress,habiller,"['dressed in white', 'dressed in black']","['habillée en blanc', 'habillé en noir']"
+787,dress,se habiller,[],[]
+788,dress,vêtir,['dressed in red'],['vêtue de rouge']
+789,dress,panser,['to dress the wound'],['panser les plaies']
+790,dress,se vêtir,[],[]
+791,dress,assaisonner,['to dress the salad'],['assaisonner la salade']
+792,dress,déguiser,[],[]
+793,dress,dresser,[],[]
+794,dress,revêtir,['to dress decently'],['revêtir une tenue décente']
+795,dress up,habiller,[],[]
+796,dress up,se déguiser,[],[]
+797,dress up,enrober,[],[]
+798,drive,conduire,"['to drive a car', 'to drive too fast', 'to drive the emergence of nas', 'to drive the car']","['conduire une voiture', 'conduire trop vite', ""conduire à l'émergence du NAS"", 'conduire la voiture']"
+799,drive,pousser,"['to drive production', 'driven by this desire']","['pousser la production', 'poussé par le désir']"
+800,drive,rouler,['to drive at night'],['rouler de nuit']
+801,drive,motiver,"['drive by congestive symptom', 'driven by the need']","['motivée par les symptômes congestifs', 'motivée par la nécessité']"
+802,drive,piloter,[],[]
+803,drive,circuler,[],[]
+804,drive,se rendre,[],[]
+805,drive,stimuler,"['to drive growth', 'to drive regulatory modernization', 'to drive innovation']","['stimuler la croissance', 'stimuler la modernisation de la réglementation', ""stimuler l'innovation""]"
+806,drive,animer,['driven by the desire'],['Animé par la volonté']
+807,drive out,chasser,[],[]
+808,drive out,expulser,[],[]
+809,drive out,vider,['to drive out Rubbish'],['vider les ordures']
+810,driving,moteur,[],[]
+811,driving,cinglant,[],[]
+812,drum,tambour,"['imaging drum', 'PC drum', 'war drum', 'blue drum']","[""tambour d'imagerie"", 'tambour photoconducteur', 'tambour de guerre', 'tambour bleu']"
+813,drum,batterie,[],[]
+814,drum,fût,['pressure drums'],['fûts à pression']
+815,drum,baril,[],[]
+816,drum,cornemuse,[],[]
+817,drum,bidon,[],[]
+818,drum,tambouriner,[],[]
+819,dry,sec,"['completely dry', 'relatively dry', 'particularly dry', 'extremely dry']","['complètement sec', 'relativement sec', 'particulièrement sec', 'extrêmement sec']"
+820,dry,à sec,['almost dry'],['presque à sec']
+821,dry,aride,['rather dry'],['passablement aride']
+822,dry,séché,[],[]
+823,dry,prévu,[],[]
+824,dry,sécher,"['to dry our tears', 'dried in the sun', 'to dry in an upright position']","['sécher nos larmes', 'séché au soleil', 'sécher en position verticale']"
+825,dry,dessécher,[],[]
+826,dry,assécher,[],[]
+827,dry,déshydrater,[],[]
+828,dry,essuyer,['to dry my tears'],['essuyer mes larmes']
+829,dry,se sécher,[],[]
+830,dry up,se tarir,[],[]
+831,dry up,assécher,[],[]
+832,dry up,s'assécher,[],[]
+833,dry up,s'épuiser,[],[]
+834,dry up,tarir,[],[]
+835,dry out,sécher,[],[]
+836,dry out,se dessécher,[],[]
+837,dry out,s'assécher,[],[]
+838,dry out,assécher,[],[]
+839,dry out,dessécher,[],[]
+840,duck,canard,"['mallard ducks', 'Black Duck', 'wild ducks', 'sea duck']","['canard colvert', 'canard noir', 'canard sauvage', 'canard de mer']"
+841,duck,éluder,[],[]
+842,duck,esquiver,['to duck an answer'],['esquiver une réponse']
+843,duck,se dérober,[],[]
+844,duck,feindre,[],[]
+845,advance,avancer,"['to advance to the next marker', 'to advance many recommendations', 'to advance sick leave', 'to advance funds']","['avancer au marqueur suivant', 'avancer de nombreuses recommandations', 'avancer des congés de maladie', 'avancer des fonds']"
+846,advance,promouvoir,"['to advance an innovative economy', 'to advance canadian value', 'to advance its quality culture', 'to advance its management priorities']","['promouvoir une économie innovatrice', 'promouvoir les valeurs canadiennes', 'promouvoir sa culture de la qualité', 'promouvoir ses priorités de gestion']"
+847,advance,progresser,['to advance in their careers'],['progresser dans leur carrière']
+848,advance,s'avancer,[],[]
+849,advance,invoquer,[],[]
+850,advance,préconiser,[],[]
+851,advanced,avancé,"['sufficiently advanced', 'highly advanced', 'technologically advanced', 'relatively advanced']","['suffisamment avancé', 'hautement avancé', 'technologiquement avancé', 'relativement avancé']"
+852,advanced,avancées,[],[]
+853,advanced,évolué,[],[]
+854,advanced,perfectionné,[],[]
+855,during,pendant,[],[]
+856,during,au cours de,[],[]
+857,during,durant,[],[]
+858,during,lors,[],[]
+859,during,au cours des,[],[]
+860,during,au cours du,[],[]
+861,earn,gagner,"['to earn money', 'to earn points', 'to earn Airline Rewards', 'to earn income']","[""gagner de l'argent"", 'gagner des points', 'gagner des primes aériennes', 'gagner un revenu']"
+862,earn,acquérir,['earned under this clause'],['acquis en vertu du présent paragraphe']
+863,earn,mériter,"['to earn the right', 'to earn our deepest respect']","['mériter le droit', 'mériter notre plus profond respect']"
+864,earn,accumuler,[],[]
+865,earn,valoir,[],[]
+866,earn,rapporter,['to no longer earn interest'],"[""rapporter plus d'intérêt""]"
+867,earn,obtenir,"['to earn rewards', 'to earn a CF qualification', 'to earn discounts', 'to earn credits']","['obtenir des récompenses', 'obtenir une qualification des FC', 'obtenir une réduction', 'obtenir un crédit']"
+868,earn,subvenir,[],[]
+869,earn,tirer,['earned by the related project'],['tirés par le projet lié']
+870,singular,singulier,['so singular'],['si singulier']
+871,singular,singulier,[],[]
+872,easily,facilement,[],[]
+873,easily,aisément,[],[]
+874,east,oriental,[],[]
+875,east,de l'est,[],[]
+876,east,à l'est,[],[]
+877,east,est,"['east of the country', 'east of the island', 'east to the Ionian Sea', 'east of the drc']","['est du pays', ""est de l'île"", ""est jusqu'à l'Ionienne"", 'est de la RDC']"
+878,east,orient,[],[]
+879,eighth,huitième,[],[]
+880,adventure,aventure,"['European adventure', 'military adventure', 'human adventure', 'culinary adventure']","['aventure européenne', 'aventure militaire', 'aventure humaine', 'aventure culinaire']"
+881,adventure,s'aventurer,[],[]
+882,adverb,adverbe,[],[]
+883,electric,électrique,[],[]
+884,electric,magnétoélectrique,[],[]
+885,advertisement,publicité,"['print advertisement', 'best advertisement', 'unsolicited advertisements', 'targeted advertisements']","['publicité imprimée', 'meilleure publicité', 'publicité non sollicitée', 'publicité ciblée']"
+886,advertisement,annonce,"['television advertisements', 'advertisement for a food', 'last advertisement', 'newspaper advertisements']","['annonce télévisée', ""annonce d'un aliment"", 'dernière annonce', 'annonce dans le journal']"
+887,advertisement,message publicitaire,[],[]
+888,century,siècle,"['last century', 'next century', 'past century', 'twentieth centuries']","['siècle dernier', 'siècle prochain', 'dernier siècle', 'XXe siècle']"
+889,size,taille,[],[]
+890,size,réduit de moitié,[],[]
+891,size,taille,"['sample size', 'minimum size', 'maximum size', 'average size']","[""taille de l'échantillon"", 'taille minimale', 'taille maximale', 'taille moyenne']"
+892,size,dimension,"['picture size', 'good size', 'particle size', 'package sizes']","['dimension de la photo', 'belle dimension', 'dimension des particules', 'dimension du colis']"
+893,size,format,"['paper size', 'regular size', 'different sizes', 'legal size']","['format de papier', 'format régulier', 'différents formats', 'format légal']"
+894,size,superficie,"['total size', 'size of the room', 'size of their respective countries', 'size of the complex']","['superficie totale', 'superficie des chambres', 'superficie de leurs pays respectifs', 'superficie du complexe']"
+895,size,ampleur,"['size of this effect', 'size of the problem', 'effect sizes', 'population size']","['ampleur de cet effet', 'ampleur du problème', 'ampleur des effets', 'ampleur de la population']"
+896,size,importance,"['relative size', 'size of this reduction', 'anticipated run size']","['importance relative', 'importance de cette réduction', 'importance prévue']"
+897,size,volume,"['spleen size', 'Plasma pool size', 'size of the disk', 'size of the budget']","['volume de la rate', 'volume du pool de plasma', 'volume du disque', 'volume du budget']"
+898,size,grandeur,"['page size', 'standard size', 'size of type', 'class size']","['grandeur des pages', 'grandeur standard', 'grandeur des caractères', 'grandeur de la classe']"
+899,size,dimensionner,[],[]
+900,size,calibrer,[],[]
+901,size,tailler,[],[]
+902,size,apprêter,[],[]
+903,electricity,électricité,"['static electricity', 'green electricity', 'photovoltaic electricity', 'cogenerated electricity']","['électricité statique', 'électricité verte', 'électricité photovoltaïque', 'électricité produite par cogénération']"
+904,elephant,éléphant,"['white elephant', 'wild elephants', 'huge elephant', 'nuclear white elephant']","['éléphant blanc', 'éléphant sauvage', 'énorme éléphant', 'éléphant blanc nucléaire']"
+905,else,d'autres choses,[],[]
+906,empty,vide,"['almost empty', 'completely empty', 'otherwise empty', 'relatively empty']","['presque vide', 'complètement vide', 'autrement vide', 'relativement vide']"
+907,empty,creux,[],[]
+908,empty,vain,[],[]
+909,empty,vierge,[],[]
+910,empty,vider,"['to empty your pockets', 'to empty contents', 'to empty out her suitcase', 'to empty block file']","['vider vos poches', 'vider le contenu', 'vider sa valisé', 'vider le fichier BLOC']"
+911,empty,se vider,[],[]
+912,empty,vidanger,[],[]
+913,empty,se jeter,[],[]
+914,empty,uriner,[],[]
+915,empty,trouer,[],[]
+916,empty,dépeupler,[],[]
+917,empty,se déverser,[],[]
+918,engine,moteur,[],[]
+919,engine,moteur,"['search engine', 'database engine', 'diesel engine', 'analysis engine']","['moteur de recherche', 'moteur de base', 'moteur diesel', ""moteur d'analyse""]"
+920,engine,Engine,[],[]
+921,engine,locomotive,"['economic engine', 'steam engine']","['locomotive économique', 'locomotive à vapeur']"
+922,engineer,ingénieur,"['civil engineer', 'system engineer', 'chief engineer', 'professional engineer']","['ingénieur civil', 'ingénieur système', 'ingénieur en chef', 'ingénieur professionnel']"
+923,engineer,mécanicien,"['flight engineer', 'locomotive engineer', 'marine engineers', 'Second Class Engineer']","['mécanicien de bord', 'mécanicien de locomotive', 'mécanicien de marine', 'mécanicien de deuxième classe']"
+924,engineer,génie,"['canadian engineers', 'military engineers', 'genetic engineers', 'Royal Canadian Engineers']","['génie canadien', 'génie militaire', 'génie génétique', 'Génie royal canadien']"
+925,engineer,technicien,"['aircraft maintenance engineers', 'maintenance engineers', 'biomedical engineers']","[""technicien d'entretien d'aéronefs"", 'technicien de maintenance', 'technicien biomédical']"
+926,engineer,modifier,[],[]
+927,engineer,orchestrer,[],[]
+928,engineer,usiner,[],[]
+929,enough,assez,[],[]
+930,enough,suffisamment,[],[]
+931,enough,assez,"[""I've had enough!"", 'He has had enough to drink for one night']","[""J'en ai assez !"", ""Il a assez bu pour aujourd'hui""]"
+932,enough,suffisament,['The water is hot enough to take a bath'],"[""L'eau est suffisament chaude pour prendre un bain""]"
+933,enter,entrer,"['to enter the food chain', 'to enter the room', 'to enter the European Union', 'to enter the market']","['entrer dans la chaîne alimentaire', 'entrer dans la pièce', ""entrer dans l'Union européenne"", 'entrer sur le marché']"
+934,enter,saisir,"['to enter the text', 'to enter the following command', 'to enter your maximum bid', 'to enter a password']","['saisir le texte', 'saisir la commande suivante', 'saisir votre enchère maximum', 'saisir un mot de passe']"
+935,enter,inscrire,"['entered in the register', 'to enter in the International Register', 'entered in the minutes', 'entered in the budget']","['inscrit au registre', 'inscrire au registre international', 'inscrit au procès-verbal', 'inscrit au budget']"
+936,enter,accéder,"['to enter the BIOS', 'to enter setup', 'to enter the site', 'to enter the System Setup']","['accéder au BIOS', 'accéder au programme de configuration', 'accéder au site', 'accéder à la configuration du système']"
+937,enter,indiquer,"['to enter early in the procedure', 'to enter your e-mail address', 'to enter company name', 'to enter this information']","['indiquer précédemment dans la procédure', 'indiquer votre adresse e-mail', ""indiquer le nom de l'entreprise"", 'indiquer ces renseignements']"
+938,enter,pénétrer,"['to enter the environment', 'to enter treat site', 'to enter the syringe', 'to enter the body']","[""pénétrer dans l'environnement"", 'pénétrer dans un site traité', 'pénétrer dans la seringue', ""pénétrer dans l'organisme""]"
+939,enter,spécifier,"['to enter the e-mail address', 'to enter the script', 'to enter the text length']","[""spécifier l'adresse e-mail"", 'spécifier les scripts', 'spécifier de longueur de texte']"
+940,enter,participer,"['to enter the contest', 'to enter a contest', 'to enter the debate', 'to enter into this debate']","['participer au concours', 'participer à un concours', 'participer au débat', 'participer à ce débat']"
+941,enter,conclure,"['to enter into agreements', 'to enter into an agreement', 'to enter into a contract', 'to enter into contracts']","['conclure des ententes', 'conclure un accord', 'conclure un contrat', 'conclure des contrats']"
+942,entrance,entrée,"['private entrance', 'main entrance', 'independent entrance', 'hotel entrance']","['entrée privée', 'entrée principale', 'entrée indépendante', ""entrée de l'hôtel""]"
+943,entrance,charmer,[],[]
+944,entrance,fasciner,[],[]
+945,entrance,enchanter,[],[]
+946,advice,conseil,"['legal advice', 'good advice', 'scientific advice', 'expert advice']","['conseil juridique', 'bon conseil', 'conseil scientifique', ""conseil d'expert""]"
+947,advice,avis,"['medical advice', 'science advice', 'special advice', 'best available scientific advice']","['avis médical', 'avis scientifique', 'avis spécial', 'meilleur avis scientifique disponible']"
+948,aeroplane,avion,"['American aeroplane', 'subsonic jet aeroplanes', 'ultra-light aeroplane', 'jet aeroplanes']","['avion américain', 'avion à réaction subsonique', 'avion ultra-léger', 'avion à réaction']"
+949,envelope,enveloppe,"['financial envelope', 'outer envelope', 'national envelopes', 'funding envelope']","['enveloppe financière', 'enveloppe extérieure', 'enveloppe nationale', 'enveloppe budgétaire']"
+950,especially,surtout,[],[]
+951,especially,en particulier,[],[]
+952,especially,notamment,[],[]
+953,especially,particulièrement,[],[]
+954,especially,spécialement,[],[]
+955,especially,tout particulièrement,[],[]
+956,euro,de l'euro,[],[]
+957,euro,en euros,[],[]
+958,euro,participant,[],[]
+959,euro,euro,[],[]
+960,euro,euro,"['strong euro', 'weak euro', 'euros per day', 'stable euro']","['euro fort', 'euro faible', 'euro par jour', 'euro stable']"
+961,even,pair,[],[]
+962,even,impair,[],[]
+963,even,quitte,[],[]
+964,even,même,[],[]
+965,even,encore,[],[]
+966,even,voire,[],[]
+967,even,égaliser,[],[]
+968,afraid,effrayé,[],[]
+969,afraid,craintif,[],[]
+970,afraid,inquiet,[],[]
+971,afraid,apeuré,[],[]
+972,everybody,tout le monde,"['Everybody was there', 'Is everybody listening ?']","['Tout le monde était là', 'Est-ce que tout le monde écoute ?']"
+973,against,contre,[],[]
+974,against,par rapport à,[],[]
+975,everything,tout,"['Is everything ready?', ""I've brought everything with me""]","['Est-ce que tout est prêt ?', ""J'ai tout pris avec moi""]"
+976,everywhere,partout,[],[]
+977,age,vieillir,"['to age fast', 'to now age fast']","['vieillir plus vite', 'vieillir maintenant plus vite']"
+978,aged,âgé,[],[]
+979,aged,vieilli,[],[]
+980,aged,agé,[],[]
+981,aged,obsolète,[],[]
+982,ago,d'années,[],[]
+983,exactly,exactement,[],[]
+984,exactly,précisément,[],[]
+985,exam,examen,"['written exam', 'final exam', 'medical exam', 'knowledge exam']","['examen écrit', 'examen final', 'examen médical', 'examen des connaissances']"
+986,examination,examen,"['preliminary examination', 'medical examination', 'written examination', 'international preliminary examination']","['examen préliminaire', 'examen médical', 'examen écrit', 'examen préliminaire international']"
+987,examination,interrogatoire,"['oral examination', 'examinations for discovery', 'examination of witnesses', 'chief examination']","['interrogatoire oral', 'interrogatoire préalable', 'interrogatoire des témoins', 'interrogatoire principal']"
+988,excellent,excellent,"['truly excellent', 'really excellent', 'equally excellent', 'absolutely excellent']","['véritablement excellent', 'vraiment excellent', 'tout aussi excellent', 'tout à fait excellent']"
+989,excellent,remarquable,['quite excellent'],['tout à fait remarquable']
+990,excellent,idéal,[],[]
+991,except,sauf que,[],[]
+992,except that,sauf que,[],[]
+993,except,sauf,[],[]
+994,except,à l'exception de,[],[]
+995,except,excepté,[],[]
+996,except for,à l'exception de,[],[]
+997,except for,sauf,[],[]
+998,except for,excepté,[],[]
+999,except for,hormis,[],[]
+1000,except for,à part,[],[]
+1001,except for,exception faite,[],[]
+1002,except for,à l' exclusion de,[],[]
+1003,except,excepter,[],[]
+1004,exercise,exercice,"['effective exercise', 'military exercise', 'written exercise', 'simulation exercise']","['exercice effectif', 'exercice militaire', 'exercice écrit', 'exercice de simulation']"
+1005,exercise,activité physique,[],[]
+1006,exercise,exercer,"['to exercise their right', 'to exercise this right', 'to exercise the right', 'to exercise their democratic rights']","['exercer leur droit', 'exercer ce droit', 'exercer les droits', 'exercer leurs droits démocratiques']"
+1007,exercise,s'exercer,[],[]
+1008,exercise,faire de l'exercice,[],[]
+1009,exercise,se prévaloir,[],[]
+1010,exit,sortie,"['emergency exit', 'first exit', 'motorway exit', 'second exit']","[""sortie d'urgence"", 'première sortie', ""sortie d'autoroute"", 'deuxième sortie']"
+1011,exit,issue,[],[]
+1012,exit,quitter,"['to exit the wizard', 'to exit the BIOS', 'to exit the current operation', 'to exit the market']","[""quitter l'assistant"", 'quitter le BIOS', ""quitter l'opération en cours"", 'quitter le marché']"
+1013,exit,sortir,"['to exit the hotel', 'to exit the bed easily', 'to exit the printer', 'to exit its lair']","[""sortir de l'hôtel"", 'sortir facilement du lit', ""sortir de l'imprimante"", 'sortir de sa tanière']"
+1014,exit,se fermer,[],[]
+1015,explain,expliquer,"['to explain in detail', 'to explain to the House', 'to explain to Canadians', 'to explain to the customer']","['expliquer en détail', 'expliquer à la Chambre', 'expliquer aux Canadiens', 'expliquer au client']"
+1016,explain,s'expliquer,[],[]
+1017,explain,exposer,[],[]
+1018,explain,préciser,['to explain to Parliament'],['préciser au Parlement']
+1019,extra,d' appoint,[],[]
+1020,extra,supplémentaire,[],[]
+1021,extra,additionnel,[],[]
+1022,extra,extra,[],[]
+1023,extra,en sus,[],[]
+1024,extra,figurant,[],[]
+1025,extra,service supplémentaire,[],[]
+1026,extra,comparse,[],[]
+1027,fact,fait,"['mere fact', 'relevant facts', 'historical facts', 'important fact']","['simple fait', 'fait pertinent', 'fait historique', 'fait important']"
+1028,fact,réalité,"['fact of life', 'sad fact', 'prosaic fact', 'facts in this matter']","['réalité de la vie', 'triste réalité', 'réalité prosaïque', 'réalité sur cette question']"
+1029,fail,échec,"['manual fail', 'manual fail of alias']","['échec manuel', 'échec manuel des alias']"
+1030,fail,avarie,[],[]
+1031,fail,échouer,"['to fail diagnostics', 'to fail at runtime', 'to fail the exam', 'to fail on a client']","['échouer aux tests de diagnostic', ""échouer au moment de l'exécution"", ""échouer à l'examen"", 'échouer sur les clients']"
+1032,fail,manquer,['to obviously not fail'],['évidemment pas manquer']
+1033,fail,omettre,[],[]
+1034,fail,négliger,[],[]
+1035,fail,faillir,['to fail in its duty'],['faillir à son devoir']
+1036,fail,faire faillite,[],[]
+1037,fail,avorter,[],[]
+1038,fail,rater,[],[]
+1039,fail,défaillir,[],[]
+1040,fair,équitable,"['reasonably fair', 'socially fair', 'genuinely fair', 'truly fair']","['raisonnablement équitable', 'socialement équitable', 'vraiment équitable', 'réellement équitable']"
+1041,fair,juste,[],[]
+1042,fair,loyal,[],[]
+1043,fair,honnête,[],[]
+1044,fair,foire,"['trade fair', 'international fair', 'science fair', 'art fair']","['foire commerciale', 'foire internationale', 'foire scientifique', ""foire d'art""]"
+1045,fair,exposition,"[""world's fair"", 'agricultural fair']","['exposition universelle', 'exposition agricole']"
+1046,fair,salon,"['National Education Fair', 'job fair', 'international trade fair', 'career fair']","[""Salon national de l'éducation"", ""Salon de l'emploi"", 'salon international', 'salon des carrières']"
+1047,fall,automnal,[],[]
+1048,fall,automne,"['next fall', 'past fall', 'fall of each year', 'fall of this year']","['automne prochain', 'automne dernier', 'automne de chaque année', 'automne de cette année']"
+1049,fall,chute,"['fall of communism', 'free fall', 'fall of the iron curtain', 'fall of the wall']","['chute du communisme', 'chute libre', 'chute du rideau de fer', 'chute du mur']"
+1050,fall,baisse,"['fall in prices', 'average fall', 'sharp fall', 'fall in production']","['baisse des prix', 'baisse moyenne', 'forte baisse', 'baisse de la production']"
+1051,fall,diminution,"['actual fall', 'significant fall', 'significant fall in Community exports', 'fall in capacity utilisation']","['diminution réelle', 'forte diminution', 'forte diminution des exportations communautaires', ""diminution de l'utilisation des capacités""]"
+1052,fall,recul,"['fall in exports', 'slight fall', 'fall in captive use', 'fall in consumption']","['recul des exportations', 'léger recul', ""recul de l'usage captif"", 'recul de la consommation']"
+1053,fall,tomber,"['to fall into the trap', 'to fall from the sky', 'to fall into place', 'to fall to the ground']","['tomber dans le piège', 'tomber du ciel', 'tomber en place', 'tomber au sol']"
+1054,fall,diminuer,"['to fall too much', 'to fall this year', 'to fall faster', 'to fall every year']","['diminuer trop fortement', 'diminuer cette année', 'diminuer plus rapidement', 'diminuer chaque année']"
+1055,fall,baisser,"['to fall in unison', 'to fall spectacularly']","[""baisser à l'unisson"", 'baisser de façon spectaculaire']"
+1056,fall,chuter,[],[]
+1057,fall,entrer,"['to fall into this category', 'to fall within the definition']","['entrer dans cette catégorie', 'entrer dans la définition']"
+1058,fall,relever,"['to fall within CN codes', 'to fall within subheadings', 'to fall within national competence', 'to fall within its competence']","['relever du code NC', 'relever des sous-positions', 'relever de la compétence nationale', 'relever de sa compétence']"
+1059,fall,incomber,"['to fall to the national court', 'to fall to the law', 'to fall to the Commission']","['incomber au juge national', 'incomber à la loi', 'incomber à la Commission']"
+1060,fall,s'inscrire,[],[]
+1061,fall,se situer,[],[]
+1062,fall down,tomber,[],[]
+1063,fall down,s'écrouler,[],[]
+1064,fall down,retomber,[],[]
+1065,fall apart,se défaire,[],[]
+1066,fall apart,se désagréger,[],[]
+1067,fall apart,tomber à l'eau,[],[]
+1068,fall apart,se décomposer,[],[]
+1069,fall apart,se désintégrer,[],[]
+1070,fall apart,s'écrouler,[],[]
+1071,fall apart,se décomposer sous nos yeux,[],[]
+1072,fall back,retomber,[],[]
+1073,fall back,se rabattre,[],[]
+1074,fall short,faillir,[],[]
+1075,agree,convenir,"['to agree with the rapporteur', 'to agree on the need', 'agreed by the parties', 'to agree with the Council']","['convenir avec le rapporteur', 'convenir de la nécessité', 'convenu par les parties', 'convenir avec le Conseil']"
+1076,agree,accepter,"['to agree to the terms above', 'agreed by the council', 'to agree to the proposal', 'to agree with the recommendation']","['accepter les conditions ci-dessus', 'acceptée par le Conseil', 'accepter la proposition', 'accepter les recommandations']"
+1077,agree,approuver,"['to agree to these amendments', 'to agree with the proposal', 'to agree unreservedly', ""to agree with the rapporteur's decision""]","['approuver cet amendement', 'approuver la proposition', 'approuver sans réserve', 'approuver la décision du rapporteur']"
+1078,agree,partager,"[""to agree with the Commission's view"", 'to agree with its approach', 'to agree with her objectives', 'to agree with the criticism']","[""partager l'avis de la Commission"", ""partager l'approche"", 'partager ses objectifs', 'partager les critiques']"
+1079,agree,s'entendre,"['to agree on steps needed', 'to agree on Recommendations', 'to agree on the details', 'to agree to an extension']","[""s'entendre sur les étapes nécessaires"", ""s'entendre sur des recommandations"", ""s'entendre sur les détails"", ""s'entendre sur une prolongation""]"
+1080,agree,reconnaître,['to agree with the need'],['reconnaître la nécessité']
+1081,agree,consentir,[],[]
+1082,agree,s'engager,[],[]
+1083,agree,décider,[],[]
+1084,agree upon,convenir,['agreed upon between the parties'],['convenu entre les parties']
+1085,agree upon,s'accorder,[],[]
+1086,agree upon,se mettre d'accord,[],[]
+1087,air,atmosphérique,[],[]
+1088,air,de l'air,[],[]
+1089,air,aérien,[],[]
+1090,air,air,"['ambient air', 'indoor air', 'clean air', 'fresh air']","['air ambiant', 'air intérieur', 'air pur', 'air frais']"
+1091,air,avion,['economy class air'],['avion en classe économique']
+1092,air,atmosphère,"['upper air', 'air inside the factories']","['haute atmosphère', ""atmosphère à l'intérieur des usines""]"
+1093,air,diffuser,['aired on television'],['diffusée à la télévision']
+1094,air,aérer,['to air the futon'],['aérer le futon']
+1095,airport,aéroportuaire,[],[]
+1096,airport,AirPort,[],[]
+1097,airport,aéroport,"['international airport', 'regional airports', 'canadian airports', 'european airports']","['aéroport international', 'aéroport régional', 'aéroport canadien', 'aéroport européen']"
+1098,fan,ventilateur,"['ceiling fan', 'processor fan', 'internal system fans', 'system fan']","['ventilateur de plafond', 'ventilateur du processeur', 'ventilateur interne du système', 'ventilateur du système']"
+1099,fan,fan,"['sport fan', 'porn fan', 'music fan', 'raving fans']","['fan de sport', 'fan de vidéos pornos', 'fan de musique', 'fans enthousiastes']"
+1100,fan,amateur,"['football fans', 'english football fans', 'tennis fans', 'hockey fans']","['amateur de football', 'amateurs de football anglais', 'amateurs de tennis', 'amateur de hockey']"
+1101,fan,ventilation,"['memory fan', 'variable speed cool fan']","['ventilation de mémoire', 'ventilation à vitesse variable']"
+1102,fan,attiser,['to fan the flames of conflict'],['attiser les conflits']
+1103,fan,ventiler,['to fan the paper'],['ventiler le papier']
+1104,fan,souffler,[],[]
+1105,fan,éventer,[],[]
+1106,fan,brasser,[],[]
+1107,fan,déramer,[],[]
+1108,fantastic,fantastique,"['absolutely fantastic', 'just fantastic', 'really fantastic']","['absolument fantastique', 'tout simplement fantastique', 'vraiment fantastique']"
+1109,fantastic,superbe,[],[]
+1110,fantastic,magnifique,[],[]
+1111,fantastic,formidable,[],[]
+1112,fantastic,extraordinaire,[],[]
+1113,fantastic,merveilleux,[],[]
+1114,fantastic,splendide,[],[]
+1115,fantastic,imprenable,[],[]
+1116,fantastic,fabuleux,[],[]
+1117,far,extrême,[],[]
+1118,far,lointain,[],[]
+1119,far,éloigné,[],[]
+1120,far,reculé,[],[]
+1121,far,avant-garde  gard,[],[]
+1122,far,beaucoup,[],[]
+1123,far,bien,[],[]
+1124,far,loin,[],[]
+1125,far,nettement,[],[]
+1126,far,de loin,[],[]
+1127,far,largement,[],[]
+1128,farmer,agriculteur,"['young farmer', 'Canadian farmers', 'European farmers', 'small farmers']","['jeune agriculteur', 'agriculteur canadien', 'agriculteur européen', 'petit agriculteur']"
+1129,farmer,fermier,"['white farmers', 'African farmers', 'western farmers', 'local farmers']","['fermier blanc', 'fermier africain', ""fermiers de l'Ouest"", 'fermier local']"
+1130,farmer,producteur,"['dairy farmer', 'grain farmer', 'organic farmers', 'sheep farmer']","['producteur laitier', 'producteur de grain', 'producteurs biologiques', 'producteur ovin']"
+1131,farmer,éleveur,"['poultry farmer', 'pig farmers', 'beef farmers', 'British farmers']","['éleveur de volaille', 'éleveur de porcs', 'éleveurs bovins', 'éleveurs britanniques']"
+1132,farmer,paysan,"['poor farmers', 'Polish farmers', 'American farmers']","['paysan pauvre', 'paysan polonais', 'paysans américains']"
+1133,farmer,exploitant,"['smallholder farmers', 'capitalistic farmers', 'woodland farmers', 'large farmers']","['petit exploitant', 'exploitants agricoles de type capitaliste', 'exploitant forestier', 'grands exploitants']"
+1134,farmer,cultivateur,"['tobacco farmers', 'sugar beet farmers']","['cultivateurs de tabac', 'cultivateurs de betteraves sucrières']"
+1135,fashion,mode,"['parisian fashion', 'italian fashion', 'high fashion', 'recent fashion']","['mode parisienne', 'mode italienne', 'mode élevé', 'dernière mode']"
+1136,fashion,façon,"['coordinated fashion', 'similar fashion', 'sustainable fashion', 'exemplary fashion']","['façon coordonnée', 'façon similaire', 'façon durable', 'façon exemplaire']"
+1137,fashion,manière,"['arbitrary fashion', 'appropriate fashion', 'democratic fashion', 'systematic fashion']","['manière arbitraire', 'manière adéquate', 'manière démocratique', 'manière systématique']"
+1138,fashion,façonner,[],[]
+1139,fashion,modeler,[],[]
+1140,fashion,confectionner,[],[]
+1141,quite,assez,[],[]
+1142,quite,très,[],[]
+1143,quite,tout à fait,[],[]
+1144,quite,plutôt,[],[]
+1145,quite,bien,[],[]
+1146,quite,fort,[],[]
+1147,quite,relativement,[],[]
+1148,quite,parfaitement,[],[]
+1149,quite,tout,[],[]
+1150,alarm,alarme,"['audible alarm', 'false alarm', 'social alarm', 'bmc tam alarm']","['alarme sonore', 'fausse alarme', 'alarme sociale', 'alarmes TAM du contrôleur BMC']"
+1151,alarm,alerte,['fire alarm'],['alerte au feu']
+1152,alarm,inquiétude,"['alarm within the communities', 'growing alarm']","['inquiétudes dans les collectivités', 'inquiétude croissante']"
+1153,alarm,détecteur,['smoke alarm'],['détecteur de fumée']
+1154,alarm,avertisseur,['sound alarm'],['avertisseur sonore']
+1155,alarm,réveil,"['built-in alarm', 'radio alarm']","['réveil intégré', 'radio réveil']"
+1156,alarm,alarmer,['to alarm the public'],['alarmer la population']
+1157,alarm,s'inquiéter,[],[]
+1158,alarm,effrayer,[],[]
+1159,alarm,inquiéter,[],[]
+1160,alarm,s'alarmer,[],[]
+1161,alarm,alerter,[],[]
+1162,alarm,effarer,[],[]
+1163,alarm,consterner,[],[]
+1164,alarm,terrifier,[],[]
+1165,album,album,"['photo album', 'first album', 'third album', 'second album']","['album photo', 'premier album', 'troisième album', 'deuxième album']"
+1166,alcohol,alcool,"['ethyl alcohol', 'benzyl alcohol', 'packaged alcohol', 'absolute ethyl alcohol']","['alcool éthylique', 'alcool benzylique', 'alcool emballé', 'alcool éthylique absolu']"
+1167,alcohol,alcoolisme,['fetal alcohol'],['alcoolisme foetal']
+1168,almost,presque,[],[]
+1169,almost,pratiquement,[],[]
+1170,almost,quasi,[],[]
+1171,almost,quasiment,[],[]
+1172,alone,seul,[],[]
+1173,alone,tranquille,[],[]
+1174,alone,seul,[],[]
+1175,alone,uniquement,[],[]
+1176,alone,rien que,[],[]
+1177,alone,à eux seuls,[],[]
+1178,field,domaine,"['field of study', 'field of education', 'field of energy', 'social field']","[""domaine d'études"", ""domaine de l'éducation"", ""domaine de l'énergie"", 'domaine social']"
+1179,field,champ,"['data field', 'magnetic field', 'electromagnetic field', 'database field']","['champ de données', 'champ magnétique', 'champ électromagnétique', 'champ de base']"
+1180,field,terrain,"['soccer field', 'sports fields', 'playing field', 'polo field']","['terrain de football', 'terrain de sport', 'terrain de jeu', 'terrain de polo']"
+1181,field,secteur,"['fields of activity', 'health field', 'field of telecommunications', 'different fields']","[""secteur d'activité"", 'secteur de la santé', 'secteur des télécommunications', 'différents secteurs']"
+1182,field,zone,"['text field', 'combination field', 'list field', 'search field']","['zone de texte', 'zone combinée', 'zone de liste', 'zone de recherche']"
+1183,field,matière,"['criminal field', 'field of taxation', 'environmental field', 'field of agriculture']","['matière pénale', 'matière fiscale', 'matière environnementale', 'matière agricole']"
+1184,fifth,cinquième,[],[]
+1185,fifth,cinquièmement,[],[]
+1186,fifth,cinquième,"['fifth of its workers', 'fifth of the European population', ""fifth of the world's population"", 'fifth of humanity']","['cinquième de son personnel', 'cinquième de la population européenne', 'cinquième de la population mondiale', ""cinquième de l'humanité""]"
+1187,fifth,quinte,[],[]
+1188,file,fichier,"['configuration file', 'log file', 'bios files', 'text file']","['fichier de configuration', 'fichier journal', 'fichier BIO', 'fichier texte']"
+1189,file,dossier,"['personnel file', 'file with the Agency', 'medical files', 'project file']","['dossier personnel', ""dossier de l'Office"", 'dossier médical', 'dossier de projet']"
+1190,file,déposer,"['filed with the agency', 'filed in electronic form', 'to file with the Agency', 'filed on paper']","[""déposée auprès de l'Office"", 'déposée sous forme électronique', ""déposer auprès de l'Office"", 'déposée sur papier']"
+1191,file,présenter,"['filed with the office', 'to file a submission', 'filed by the parties', 'to file a defence']","[""présentée à l'office"", 'présenter une demande', 'présenté par les parties', 'présenter de défense']"
+1192,file,produire,"['to file a return', 'to file your return', 'to file an annual return', 'filed on time']","['produire une déclaration', 'produire votre déclaration', 'produire une déclaration annuelle', 'produite à temps']"
+1193,file,soumettre,"['filed with the committee', 'filed by electronic means', 'to file a report', 'file to sipd']","['soumis au comité', 'soumises par voie électronique', 'soumettre un rapport', 'soumise à la DPPR']"
+1194,file,classer,['filed under conferences'],['classé dans Conférences']
+1195,file,remplir,['to file an annual notification'],['remplir une déclaration annuelle']
+1196,file,remettre,['to file with the returning officer'],['remettre au directeur du scrutin']
+1197,file,interjeter,['to file an appeal'],['interjeter appel']
+1198,fill,remplissage,"['minimum fill', 'gradient fill', 'background fill', 'target fill']","['remplissage minimal', 'remplissage de dégradé', ""remplissage d'arrière-plan"", 'remplissage visé']"
+1199,fill,fil,[],[]
+1200,fill,remblai,[],[]
+1201,fill,remblayage,[],[]
+1202,fill,remplir,"['to fill in the form below', 'to fill in the form', 'to fill in the following form', 'to fill in this form']","['remplir le formulaire ci-dessous', 'remplir le formulaire', 'remplir le formulaire suivant', 'remplir ce formulaire']"
+1203,fill,combler,"['to fill this gap', 'to fill gaps', 'to fill the gap', 'to fill these positions']","['combler cette lacune', 'combler les lacunes', 'combler le vide', 'combler ces postes']"
+1204,fill,pourvoir,"['to fill vacancies', 'to fill all customers', 'to fill this vacancy', 'to fill anticipated vacancies']","['pourvoir aux postes vacants', ""pourvoir l'ensemble des clients"", 'pourvoir à cette vacance', 'pourvoir des postes vacants anticipés']"
+1205,fill,compléter,"['to fill this form', 'to fill the form below']","['compléter ce formulaire', 'compléter le formulaire ci-dessous']"
+1206,fill,occuper,"['filled by women', 'to fill permanent positions', 'to fill the post', 'to fill a position']","['occupé par une femme', 'occuper des emplois permanents', 'occuper le poste', 'occuper un emploi']"
+1207,fill,doter,"['to fill current vacancies', 'to fill the position', 'to fill four positions']","['doter les postes actuels', 'doter le poste', 'doter quatre postes']"
+1208,fill,renseigner,['filled in by default'],['renseignées par défaut']
+1209,fill,fourrer,[],[]
+1210,fill out,remplir,[],[]
+1211,fill out,compléter,[],[]
+1212,fill out,renseigner,[],[]
+1213,fill out,répondre à l'enquête de base,[],[]
+1214,fill up,se remplir,[],[]
+1215,fill up,boucher,[],[]
+1216,fill up,remplir le restaurant,[],[]
+1217,fill up,faire le plein,[],[]
+1218,final,final,['almost final'],['presque final']
+1219,final,définitif,[],[]
+1220,final,dernier,[],[]
+1221,final,finale,"['grand final', 'national final', 'regional finals', 'global finals']","['grande finale', 'finale nationale', 'finale régionale', 'finale mondiale']"
+1222,finally,enfin,[],[]
+1223,finally,finalement,[],[]
+1224,finger,doigt,"['accusing finger', 'little finger', 'phantom fingers', 'fingers of one hand']","['doigt accusateur', 'petit doigt', 'doigts fantômes', 'doigt de la main']"
+1225,fire,incendie,"['forest fire', 'devastating fires', 'terrible fires', 'electrical fires']","['incendie de forêt', 'incendie dévastateur', 'terrible incendie', 'incendie électrique']"
+1226,fire,feu,"['wood fire', 'open fire', 'large fire', 'chimney fire']","['feu de bois', 'feu ouvert', 'grand feu', 'feu de cheminée']"
+1227,fire,fire,[],[]
+1228,fire,pompier,['volunteer fire'],['pompier volontaire']
+1229,fire,tir,"['direct fire', 'artillery fire', 'friendly fire', 'rapid fire']","['tir direct', ""tir d'artillerie"", 'tir ami', 'tir rapide']"
+1230,fire,tirer,"['to fire on enemy units', 'to fire on the people']","['tirer sur des unités ennemies', 'tirer sur le peuple']"
+1231,fire,congédier,[],[]
+1232,fire,licencier,[],[]
+1233,fire,virer,[],[]
+1234,fire,cuire,[],[]
+1235,fire,s'activer,[],[]
+1236,fire,se déclencher,[],[]
+1237,fire,limoger,[],[]
+1238,fire,alimenter,[],[]
+1239,fish,pêcher,"['to fish in those waters', 'to fish for seals', 'to fish in the river', 'to fish in Moroccan waters']","['pêcher dans ces eaux', 'pêcher le phoque', 'pêcher dans la rivière', 'pêcher dans les eaux marocaines']"
+1240,fishing,pêche,"['illegal fishing', 'commercial fishing', 'industrial fishing', 'sport fishing']","['pêche illégale', 'pêche commerciale', 'pêche industrielle', 'pêche sportive']"
+1241,fit,apte,[],[]
+1242,fit,en forme,[],[]
+1243,fit,ajustement,"['model fit', 'good fit', 'tight fit', 'reasonable fit']","['ajustement du modèle', 'meilleur ajustement', 'ajustement serré', 'ajustement raisonnable']"
+1244,fit,fit,[],[]
+1245,fit,adéquation,[],[]
+1246,fit,convulsion,[],[]
+1247,fit,concordance,[],[]
+1248,fit,coup monté,[],[]
+1249,fit,correspondre,"['to fit your description', 'to fit the facts', 'to fit your needs', 'to fit the data']","['correspondre à votre description', 'correspondre à la réalité des faits', 'correspondre à vos besoins', 'correspondre aux données']"
+1250,fit,s'adapter,"['to fit the ad hoc network', 'to fit instruments', 'to fit the human hand', 'to fit the header content']","[""s'adapter au réseau ad hoc"", ""s'adapter aux instruments"", ""s'adapter à la main de l'homme"", ""s'adapter au contenu d'en-tête""]"
+1251,fit,cadrer,"['to fit very well', 'to fit the desired outcome']","['cadrer très bien', 'cadrer avec le résultat escompté']"
+1252,fit,équiper,"['fitted with a shower', 'fitted with a kitchen', 'fitted with a mosquito net', 'fitted with fans']","[""équipée d'une douche"", ""équipé d'une cuisine"", ""équipé d'une moustiquaire"", 'équipées de ventilateurs']"
+1253,fit,s'intégrer,['to fit well in any décor'],"[""s'intégrer au décor""]"
+1254,fit,s'inscrire,[],[]
+1255,fit,ajuster,"['to fit the policies', 'fitted at the waist']","['ajuster les politiques', 'ajustée à la taille']"
+1256,fit,convenir,[],[]
+1257,fit,adapter,"['to fit every environment', 'fitted for handicapped persons']","['adapter à chaque environnement', 'adaptées aux besoins des handicapés']"
+1258,fitted,apte,"['fit for human consumption', 'fit for work']","['apte à la consommation humaine', 'apte au travail']"
+1259,flight,vol,"['international flight', 'direct flights', 'domestic flight', 'scheduled flights']","['vol international', 'vol direct', 'vol intérieur', 'vol régulier']"
+1260,flight,avion,['commercial flight'],['avion commercial']
+1261,flight,Flight,['Tri-Lake Flight'],['Tri-Lake Flight']
+1262,flight,bord,['air force flight'],['bord de la Force aérienne']
+1263,flight,fuite,['capital flight'],['fuite des capitaux']
+1264,along,du long,[],[]
+1265,along,le long de,[],[]
+1266,along,au bord de,[],[]
+1267,along with,ainsi que,[],[]
+1268,along with,en plus de,[],[]
+1269,along with,de concert avec,[],[]
+1270,along with,à l'instar de,[],[]
+1271,bedroom,chambre,"['double bedroom', 'separate bedroom', 'spacious bedrooms', 'large bedroom']","['chambre double', 'chambre séparée', 'chambre spacieuse', 'grande chambre']"
+1272,beer,bière,"['local beer', 'Belgian beers', 'cold beer', 'bavarian beer']","['bière locale', 'bière belge', 'bière fraîche', 'bière bavaroise']"
+1273,beer,brasserie,[],[]
+1274,before,auparavant,[],[]
+1275,before,précédemment,[],[]
+1276,before,tôt,[],[]
+1277,before,avant que,[],[]
+1278,before,pour que,[],[]
+1279,before,avant,[],[]
+1280,before,avant de,[],[]
+1281,before,devant,[],[]
+1282,begin,commencer,"['to begin the installation', 'to begin its work', 'to begin the recovery', 'to begin the day']","[""commencer l'installation"", 'commencer son travail', 'commencer la restauration', 'commencer la journée']"
+1283,begin,débuter,"['to begin next year', 'to begin late this morning', 'to begin late this evening', 'to begin treatments']","[""débuter l'année prochaine"", 'débuter tard ce matin', 'débuter tard ce soir', 'débuter le traitement']"
+1284,begin,entamer,"['to begin negotiations', 'to begin the debate', 'to begin a hunger strike', 'to begin the process']","['entamer des négociations', 'entamer le débat', 'entamer une grève de la faim', 'entamer le processus']"
+1285,begin,entreprendre,"['to begin the application process', 'to begin an inquiry', 'to begin substantive discussions', 'to begin research']","['entreprendre le processus de demande', 'entreprendre une enquête', 'déjà entreprendre des discussions de fond', 'entreprendre des recherches']"
+1286,begin,lancer,"['to begin the diagnostic', 'to begin the installation process', 'to begin the download operation', 'to begin the payment process']","['lancer les tests de diagnostic', ""lancer le processus d'installation"", ""lancer l'opération de téléchargement"", 'lancer la procédure de paiement']"
+1287,begin,amorcer,[],[]
+1288,begin,se mettre,[],[]
+1289,begin,démarrer,"['to begin the recovery process', 'to begin the download process', 'to begin installation']","['démarrer le processus de reprise', 'démarrer le processus de téléchargement', ""démarrer l'installation""]"
+1290,begin,initier,[],[]
+1291,behind,derrière,[],[]
+1292,behind,pour compte,[],[]
+1293,behind,à la traîne,[],[]
+1294,behind,en arrière,[],[]
+1295,behind,de retard,[],[]
+1296,behind,derrière,[],[]
+1297,below,suivant,[],[]
+1298,below,ci-dessous,[],[]
+1299,below,ci-après,[],[]
+1300,below,sous,[],[]
+1301,below,en dessous de,[],[]
+1302,below,au-dessous de,[],[]
+1303,below,de moins,[],[]
+1304,below,en-dessous,[],[]
+1305,below,deçà,[],[]
+1306,best,bon,['very best in the world'],['meilleur au monde']
+1307,best,exemplaire,[],[]
+1308,best,optimal,[],[]
+1309,best,direct,[],[]
+1310,best,bonne chance,['best of luck'],['bonne chance']
+1311,best,maximum,[],[]
+1312,best,bon voeu,[],[]
+1313,best,meilleur parti,[],[]
+1314,best,meilleur résultat,[],[]
+1315,best,best,[],[]
+1316,best,must,['best for business'],"[""must pour l'entreprise""]"
+1317,best,meilleur jour,[],[]
+1318,best,meilleur,['best of the web'],['meilleur du web']
+1319,good,bon,"['pretty good', 'so good', 'really good', 'good enough']","['assez bon', 'si bon', 'vraiment bon', 'suffisamment bon']"
+1320,good,excellent,[],[]
+1321,good,positif,"['particularly good', 'extremely good']","['particulièrement positif', 'extrêmement positif']"
+1322,good,beau,"['almost too good', 'fairly good']","['presque trop beau', 'assez beau']"
+1323,well,de puits,[],[]
+1324,well,des puits,[],[]
+1325,well,meilleur,[],[]

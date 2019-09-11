@@ -1,0 +1,111 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "euro",
+                            "phonetic": "",
+                            "pos": "adj",
+                            "term": "euro"
+                        },
+                        "targets": [
+                            {
+                                "context": "center, share, country, area",
+                                "domain": "",
+                                "entry_id": 8399,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "european"
+                                ],
+                                "lemma": "европейский",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "weak euro",
+                                "target": "слабость евро"
+                            },
+                            {
+                                "context": "",
+                                "source": "strengthening euro",
+                                "target": "усиление евро"
+                            },
+                            {
+                                "context": "",
+                                "source": "rising euro",
+                                "target": "рост курса евро"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:euros)",
+                            "info": "",
+                            "lemma": "euro",
+                            "phonetic": "[ˈjuəɹəʊ]",
+                            "pos": "noun",
+                            "term": "euro"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 8400,
+                                "expressions": [
+                                    {
+                                        "source": "casino euro",
+                                        "target": "евро казино"
+                                    },
+                                    {
+                                        "source": "strong euro",
+                                        "target": "сильное евро"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "euro zone"
+                                ],
+                                "lemma": "евро",
+                                "rank": "97",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 8400,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "eurozone",
+                                    "euro zone",
+                                    "euro-zone",
+                                    "euro area",
+                                    "euro-area"
+                                ],
+                                "lemma": "еврозона",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

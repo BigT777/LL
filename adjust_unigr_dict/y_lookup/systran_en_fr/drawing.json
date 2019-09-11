@@ -1,0 +1,679 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "to draw a card",
+                                "target": "piocher une carte"
+                            },
+                            {
+                                "context": "",
+                                "source": "drawn to my attention",
+                                "target": "portée à mon attention"
+                            },
+                            {
+                                "context": "",
+                                "source": "to draw to your attention",
+                                "target": "soumettre à votre attention"
+                            },
+                            {
+                                "context": "",
+                                "source": "to draw benefits",
+                                "target": "recevoir des prestations"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(draws/drawed/drawn)",
+                            "info": "",
+                            "lemma": "draw",
+                            "phonetic": "[dɹɔ]",
+                            "pos": "verb",
+                            "term": "drawing"
+                        },
+                        "targets": [
+                            {
+                                "context": "attention, visitor, people, crowd",
+                                "domain": "",
+                                "entry_id": 15460,
+                                "expressions": [
+                                    {
+                                        "source": "to draw your attention",
+                                        "target": "attirer votre attention"
+                                    },
+                                    {
+                                        "source": "to draw attention",
+                                        "target": "attirer l'attention"
+                                    },
+                                    {
+                                        "source": "to draw our attention",
+                                        "target": "attirer notre attention"
+                                    },
+                                    {
+                                        "source": "to draw customers",
+                                        "target": "attirer la clientèle"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "attract",
+                                    "bring",
+                                    "attract",
+                                    "call",
+                                    "focus",
+                                    "entice",
+                                    "lure"
+                                ],
+                                "lemma": "attirer",
+                                "rank": "54",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "conclusion, lesson, consequence, line",
+                                "domain": "",
+                                "entry_id": 15460,
+                                "expressions": [
+                                    {
+                                        "source": "to draw conclusions",
+                                        "target": "tirer des conclusions"
+                                    },
+                                    {
+                                        "source": "to draw the necessary conclusions",
+                                        "target": "tirer les conclusions nécessaires"
+                                    },
+                                    {
+                                        "source": "to draw the following conclusions",
+                                        "target": "tirer les conclusions suivantes"
+                                    },
+                                    {
+                                        "source": "to draw a line",
+                                        "target": "tirer un trait"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "learn",
+                                    "pull",
+                                    "get",
+                                    "derive",
+                                    "fire",
+                                    "shoot",
+                                    "gain"
+                                ],
+                                "lemma": "tirer",
+                                "rank": "24",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "line, shape, rectangle, circle",
+                                "domain": "",
+                                "entry_id": 15460,
+                                "expressions": [
+                                    {
+                                        "source": "to draw a straight line",
+                                        "target": "dessiner des lignes droites"
+                                    },
+                                    {
+                                        "source": "to draw the shape",
+                                        "target": "dessiner la forme"
+                                    },
+                                    {
+                                        "source": "to draw a circle",
+                                        "target": "dessiner un cercle"
+                                    },
+                                    {
+                                        "source": "to draw a picture",
+                                        "target": "dessiner une image"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "design",
+                                    "shape"
+                                ],
+                                "lemma": "dessiner",
+                                "rank": "13",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "line, outline, square, border",
+                                "domain": "",
+                                "entry_id": 15460,
+                                "expressions": [
+                                    {
+                                        "source": "to draw a plot",
+                                        "target": "tracer un graphique"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "trace",
+                                    "plot",
+                                    "outline",
+                                    "chart",
+                                    "chart",
+                                    "paint",
+                                    "lay out"
+                                ],
+                                "lemma": "tracer",
+                                "rank": "3",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "strength, inspiration, water",
+                                "domain": "",
+                                "entry_id": 15460,
+                                "expressions": [
+                                    {
+                                        "source": "to draw water",
+                                        "target": "puiser l'eau"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "tap",
+                                    "dip",
+                                    "dig",
+                                    "dip"
+                                ],
+                                "lemma": "puiser",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "insulin, sample, content, dose",
+                                "domain": "Medicine",
+                                "entry_id": 15460,
+                                "expressions": [
+                                    {
+                                        "source": "to draw monthly payments",
+                                        "target": "prélever des versements mensuels"
+                                    },
+                                    {
+                                        "source": "draw according to the protocol",
+                                        "target": "prélevés conformément au protocole"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "collect",
+                                    "charge",
+                                    "take",
+                                    "levy",
+                                    "withdraw",
+                                    "collect",
+                                    "deduct",
+                                    "pick",
+                                    "take in"
+                                ],
+                                "lemma": "prélever",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 15460,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "empty",
+                                    "clear",
+                                    "flush",
+                                    "empty",
+                                    "drain",
+                                    "dump",
+                                    "gut",
+                                    "strip",
+                                    "purge"
+                                ],
+                                "lemma": "vider",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "distinction",
+                                "domain": "",
+                                "entry_id": 15460,
+                                "expressions": [
+                                    {
+                                        "source": "to draw a distinction",
+                                        "target": "opérer une distinction"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "operate",
+                                    "operate",
+                                    "effect"
+                                ],
+                                "lemma": "opérer",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "source": {
+                            "inflection": "(draws/drawed/drawn)",
+                            "info": "",
+                            "lemma": "draw together",
+                            "phonetic": "[dɹɔ]",
+                            "pos": "verb",
+                            "term": "drawing"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 15461,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "regrouper quelques principes fondamentaux",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 15461,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "gather",
+                                    "collect",
+                                    "bring together",
+                                    "brings together",
+                                    "gather",
+                                    "assemble",
+                                    "compile",
+                                    "brought together",
+                                    "unite"
+                                ],
+                                "lemma": "rassembler",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "source": {
+                            "inflection": "(draws/drawed/drawn)",
+                            "info": "",
+                            "lemma": "draw off",
+                            "phonetic": "[dɹɔ]",
+                            "pos": "verb",
+                            "term": "drawing"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 15462,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "squeeze",
+                                    "extract",
+                                    "extort",
+                                    "wrest",
+                                    "exact"
+                                ],
+                                "lemma": "soutirer",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "to draw up of policies",
+                                "target": "concevoir des politiques"
+                            },
+                            {
+                                "context": "",
+                                "source": "to draw up credible guidelines",
+                                "target": "dégager des orientations crédibles"
+                            },
+                            {
+                                "context": "",
+                                "source": "to draw up multiannual guidelines",
+                                "target": "préparer des lignes directrices pluriannuelles"
+                            },
+                            {
+                                "context": "",
+                                "source": "to draw up an ad hoc directive",
+                                "target": "mesurer une directive ad hoc"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(draws/drawed/drawn)",
+                            "info": "",
+                            "lemma": "draw up",
+                            "phonetic": "[dɹɔ]",
+                            "pos": "verb",
+                            "term": "drawing"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 15463,
+                                "expressions": [
+                                    {
+                                        "source": "drawn up by the commission",
+                                        "target": "établi par la Commission"
+                                    },
+                                    {
+                                        "source": "drawn up by the director",
+                                        "target": "établi par le directeur"
+                                    },
+                                    {
+                                        "source": "to draw up their report",
+                                        "target": "établir leur rapport"
+                                    },
+                                    {
+                                        "source": "to draw up an invitation to tender",
+                                        "target": "établir un avis d'adjudication"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "establish",
+                                    "set",
+                                    "establish",
+                                    "determine",
+                                    "make",
+                                    "develop",
+                                    "set out",
+                                    "lay down"
+                                ],
+                                "lemma": "établir",
+                                "rank": "45",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 15463,
+                                "expressions": [
+                                    {
+                                        "source": "to draw up proposals",
+                                        "target": "élaborer des propositions"
+                                    },
+                                    {
+                                        "source": "drawn up by private bodies",
+                                        "target": "élaborées par des organismes privés"
+                                    },
+                                    {
+                                        "source": "drawn up by the convention",
+                                        "target": "élaboré par la Convention"
+                                    },
+                                    {
+                                        "source": "to draw up a report",
+                                        "target": "élaborer un rapport"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "develop",
+                                    "develop",
+                                    "prepare",
+                                    "draft",
+                                    "produce",
+                                    "elaborate",
+                                    "build",
+                                    "design"
+                                ],
+                                "lemma": "élaborer",
+                                "rank": "29",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 15463,
+                                "expressions": [
+                                    {
+                                        "source": "to draw up this report",
+                                        "target": "rédiger ce rapport"
+                                    },
+                                    {
+                                        "source": "drawn up in english",
+                                        "target": "rédigée en anglais"
+                                    },
+                                    {
+                                        "source": "to draw up the report",
+                                        "target": "rédiger le rapport"
+                                    },
+                                    {
+                                        "source": "to draw up a resolution",
+                                        "target": "rédiger une résolution"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "write",
+                                    "draft",
+                                    "prepare",
+                                    "produce",
+                                    "draft",
+                                    "write",
+                                    "author"
+                                ],
+                                "lemma": "rédiger",
+                                "rank": "17",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 15463,
+                                "expressions": [
+                                    {
+                                        "source": "to draw up an action plan",
+                                        "target": "dresser un plan d'action"
+                                    },
+                                    {
+                                        "source": "to draw up a balance sheet",
+                                        "target": "dresser un bilan"
+                                    },
+                                    {
+                                        "source": "to draw up this list",
+                                        "target": "dresser ces listes"
+                                    },
+                                    {
+                                        "source": "drawn up this year",
+                                        "target": "dressée cette année"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "compile",
+                                    "paint",
+                                    "erect",
+                                    "train",
+                                    "pit",
+                                    "setup",
+                                    "lay"
+                                ],
+                                "lemma": "dresser",
+                                "rank": "5",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 15463,
+                                "expressions": [
+                                    {
+                                        "source": "to draw up the following opinion",
+                                        "target": "formuler l'avis suivant"
+                                    },
+                                    {
+                                        "source": "to draw up guidelines",
+                                        "target": "formuler des directives"
+                                    },
+                                    {
+                                        "source": "to draw up the resolution",
+                                        "target": "formuler dans la résolution"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "make",
+                                    "formulate",
+                                    "express",
+                                    "make",
+                                    "word",
+                                    "formulate",
+                                    "put forward",
+                                    "articulate"
+                                ],
+                                "lemma": "formuler",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "above graduated drawing",
+                                "target": "graphisme gradué figurant ci-dessus"
+                            },
+                            {
+                                "context": "",
+                                "source": "client’s drawings",
+                                "target": "plan client"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:drawings)",
+                            "info": "",
+                            "lemma": "drawing",
+                            "phonetic": "[ˈdɹɑ.ɪŋ(ɡ)]",
+                            "pos": "noun",
+                            "term": "drawing"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 15470,
+                                "expressions": [
+                                    {
+                                        "source": "said Drawing",
+                                        "target": "ledit dessin"
+                                    },
+                                    {
+                                        "source": "technical drawing",
+                                        "target": "dessin technique"
+                                    },
+                                    {
+                                        "source": "little drawing",
+                                        "target": "petit dessin"
+                                    },
+                                    {
+                                        "source": "detailed drawings",
+                                        "target": "dessin détaillé"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "design",
+                                    "draw",
+                                    "cartoon",
+                                    "sketch"
+                                ],
+                                "lemma": "dessin",
+                                "rank": "93",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 15470,
+                                "expressions": [
+                                    {
+                                        "source": "drawing of lots",
+                                        "target": "tirage au sort"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "draw",
+                                    "print",
+                                    "circulation",
+                                    "prize draw",
+                                    "random drawing",
+                                    "raffle",
+                                    "sweepstake",
+                                    "lottery"
+                                ],
+                                "lemma": "tirage",
+                                "rank": "4",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 15470,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "sketch",
+                                    "outline",
+                                    "strawman",
+                                    "etching"
+                                ],
+                                "lemma": "esquisse",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

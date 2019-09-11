@@ -1,0 +1,105 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "east",
+                            "phonetic": "[iːst]",
+                            "pos": "adj",
+                            "term": "east"
+                        },
+                        "targets": [
+                            {
+                                "context": "coast, side, part, station",
+                                "domain": "",
+                                "entry_id": 7646,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "eastern",
+                                    "oriental"
+                                ],
+                                "lemma": "восточный",
+                                "rank": "97",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 7646,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "истый",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "(pl:easts)",
+                            "info": "",
+                            "lemma": "east",
+                            "phonetic": "[iːst]",
+                            "pos": "noun",
+                            "term": "east"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 7647,
+                                "expressions": [
+                                    {
+                                        "source": "far east",
+                                        "target": "дальний восток"
+                                    },
+                                    {
+                                        "source": "Arabian east",
+                                        "target": "арабский Восток"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "easterner"
+                                ],
+                                "lemma": "восток",
+                                "rank": "93",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 7647,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "восточная сторона",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

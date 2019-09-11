@@ -1,0 +1,209 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "fish",
+                            "phonetic": "[ˈfɘʃ]",
+                            "pos": "adj",
+                            "term": "fish"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 19171,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "de poisson",
+                                "rank": "97",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "stock",
+                                "domain": "",
+                                "entry_id": 19171,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "ichtyologique",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "stock",
+                                "domain": "",
+                                "entry_id": 19171,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "piscicultural"
+                                ],
+                                "lemma": "piscicole",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "grilled fish",
+                                "target": "grillade de poisson"
+                            },
+                            {
+                                "context": "",
+                                "source": "preserved fish",
+                                "target": "conserve de poisson"
+                            },
+                            {
+                                "context": "",
+                                "source": "fried fish",
+                                "target": "friture de poisson"
+                            },
+                            {
+                                "context": "",
+                                "source": "fish processing",
+                                "target": "transformation du poisson"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:fishes)",
+                            "info": "",
+                            "lemma": "fish",
+                            "phonetic": "[ˈfɘʃ]",
+                            "pos": "noun",
+                            "term": "fish"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 19172,
+                                "expressions": [
+                                    {
+                                        "source": "fresh fish",
+                                        "target": "poisson frais"
+                                    },
+                                    {
+                                        "source": "freshwater fish",
+                                        "target": "poisson d'eau douce"
+                                    },
+                                    {
+                                        "source": "live fish",
+                                        "target": "poisson vivant"
+                                    },
+                                    {
+                                        "source": "small fish",
+                                        "target": "petit poisson"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "catfish"
+                                ],
+                                "lemma": "poisson",
+                                "rank": "96",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 19172,
+                                "expressions": [
+                                    {
+                                        "source": "sport fish",
+                                        "target": "pêche sportive"
+                                    },
+                                    {
+                                        "source": "local fish",
+                                        "target": "pêche locale"
+                                    },
+                                    {
+                                        "source": "fish in this territory",
+                                        "target": "pêche de ce territoire"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "fishery",
+                                    "fishing",
+                                    "peach"
+                                ],
+                                "lemma": "pêche",
+                                "rank": "3",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "source": {
+                            "inflection": "(fishes/fished)",
+                            "info": "",
+                            "lemma": "fish",
+                            "phonetic": "[ˈfɘʃ]",
+                            "pos": "verb",
+                            "term": "fish"
+                        },
+                        "targets": [
+                            {
+                                "context": "quota, stock, specie, fish",
+                                "domain": "",
+                                "entry_id": 19173,
+                                "expressions": [
+                                    {
+                                        "source": "to fish in those waters",
+                                        "target": "pêcher dans ces eaux"
+                                    },
+                                    {
+                                        "source": "to fish for seals",
+                                        "target": "pêcher le phoque"
+                                    },
+                                    {
+                                        "source": "to fish in the river",
+                                        "target": "pêcher dans la rivière"
+                                    },
+                                    {
+                                        "source": "to fish in Moroccan waters",
+                                        "target": "pêcher dans les eaux marocaines"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "catch",
+                                    "harvest"
+                                ],
+                                "lemma": "pêcher",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

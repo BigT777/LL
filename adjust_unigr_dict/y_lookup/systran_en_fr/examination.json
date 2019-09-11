@@ -1,0 +1,117 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "microbiological examination",
+                                "target": "contrôle microbiologique"
+                            },
+                            {
+                                "context": "",
+                                "source": "official examination",
+                                "target": "contrôle officiel"
+                            },
+                            {
+                                "context": "",
+                                "source": "individual examination",
+                                "target": "traitement individuel"
+                            },
+                            {
+                                "context": "",
+                                "source": "regular medical examinations",
+                                "target": "contrôle médical régulier"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:examinations)",
+                            "info": "",
+                            "lemma": "examination",
+                            "phonetic": "",
+                            "pos": "noun",
+                            "term": "examination"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 17777,
+                                "expressions": [
+                                    {
+                                        "source": "preliminary examination",
+                                        "target": "examen préliminaire"
+                                    },
+                                    {
+                                        "source": "medical examination",
+                                        "target": "examen médical"
+                                    },
+                                    {
+                                        "source": "written examination",
+                                        "target": "examen écrit"
+                                    },
+                                    {
+                                        "source": "international preliminary examination",
+                                        "target": "examen préliminaire international"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "review",
+                                    "test",
+                                    "exam",
+                                    "consideration",
+                                    "scrutiny",
+                                    "discussion",
+                                    "self-examination"
+                                ],
+                                "lemma": "examen",
+                                "rank": "98",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 17777,
+                                "expressions": [
+                                    {
+                                        "source": "oral examination",
+                                        "target": "interrogatoire oral"
+                                    },
+                                    {
+                                        "source": "examinations for discovery",
+                                        "target": "interrogatoire préalable"
+                                    },
+                                    {
+                                        "source": "examination of witnesses",
+                                        "target": "interrogatoire des témoins"
+                                    },
+                                    {
+                                        "source": "chief examination",
+                                        "target": "interrogatoire principal"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "interrogation",
+                                    "interrogatory",
+                                    "questioning"
+                                ],
+                                "lemma": "interrogatoire",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

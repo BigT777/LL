@@ -1,0 +1,60 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "emc speed guru",
+                                "target": "expert EMC"
+                            },
+                            {
+                                "context": "",
+                                "source": "speed performance guru",
+                                "target": "expert en performances"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:gurus)",
+                            "info": "",
+                            "lemma": "guru",
+                            "phonetic": "[ˈɡʊ.ɹuː]",
+                            "pos": "noun",
+                            "term": "guru"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 22123,
+                                "expressions": [
+                                    {
+                                        "source": "economic gurus",
+                                        "target": "gourou économique"
+                                    },
+                                    {
+                                        "source": "internet guru",
+                                        "target": "gourou de l'internet"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "gourou",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

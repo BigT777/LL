@@ -1,0 +1,101 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "drinking alcohol",
+                                "target": "consommation d'alcool"
+                            },
+                            {
+                                "context": "",
+                                "source": "beverage alcohol",
+                                "target": "boisson alcoolisée"
+                            },
+                            {
+                                "context": "",
+                                "source": "sweet alcohol",
+                                "target": "mignonettes d'alcool"
+                            },
+                            {
+                                "context": "",
+                                "source": "survey alcohol",
+                                "target": "surveillance de la consommation d'alcool"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:alcohols)",
+                            "info": "",
+                            "lemma": "alcohol",
+                            "phonetic": "[ˈælkəhɒl]",
+                            "pos": "noun",
+                            "term": "alcohol"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 2075,
+                                "expressions": [
+                                    {
+                                        "source": "ethyl alcohol",
+                                        "target": "alcool éthylique"
+                                    },
+                                    {
+                                        "source": "benzyl alcohol",
+                                        "target": "alcool benzylique"
+                                    },
+                                    {
+                                        "source": "packaged alcohol",
+                                        "target": "alcool emballé"
+                                    },
+                                    {
+                                        "source": "absolute ethyl alcohol",
+                                        "target": "alcool éthylique absolu"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "liquor",
+                                    "spirit"
+                                ],
+                                "lemma": "alcool",
+                                "rank": "94",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 2075,
+                                "expressions": [
+                                    {
+                                        "source": "fetal alcohol",
+                                        "target": "alcoolisme foetal"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "substance",
+                                    "alcoholism",
+                                    "alcohol abuse",
+                                    "alcohol problem"
+                                ],
+                                "lemma": "alcoolisme",
+                                "rank": "5",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

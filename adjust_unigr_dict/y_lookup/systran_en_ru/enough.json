@@ -1,0 +1,126 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "enough",
+                            "phonetic": "[ɪˈnʌf]",
+                            "pos": "adv",
+                            "term": "enough"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 8110,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "quite",
+                                    "rather",
+                                    "sufficiently",
+                                    "fairly",
+                                    "pretty",
+                                    "reasonably",
+                                    "relatively"
+                                ],
+                                "lemma": "достаточно",
+                                "rank": "88",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 8110,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "so",
+                                    "as",
+                                    "so much"
+                                ],
+                                "lemma": "настолько",
+                                "rank": "8",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 8110,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "not",
+                                    "insufficiently",
+                                    "sufficiently",
+                                    "too little"
+                                ],
+                                "lemma": "недостаточно",
+                                "rank": "3",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "enough",
+                            "phonetic": "",
+                            "pos": "pron",
+                            "term": "enough"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 26955,
+                                "expressions": [
+                                    {
+                                        "source": "I've seen enough",
+                                        "target": "Я видел достаточно"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [],
+                                "lemma": "достаточно",
+                                "rank": "",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 26955,
+                                "expressions": [
+                                    {
+                                        "source": "She was pale enough so everybody wondered what was going wrong",
+                                        "target": "Она была довольно бледной, так что все вокруг спрашивали себя, что могло пойти не так"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [],
+                                "lemma": "довольно",
+                                "rank": "",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

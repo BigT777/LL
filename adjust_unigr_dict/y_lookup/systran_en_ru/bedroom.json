@@ -1,0 +1,78 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "comfortable bedroom",
+                                "target": "комфортабельный номер"
+                            },
+                            {
+                                "context": "",
+                                "source": "hotel bedroom",
+                                "target": "номера гостиницы"
+                            },
+                            {
+                                "context": "",
+                                "source": "luxurious hotel bedroom",
+                                "target": "роскошные номера гостиницы"
+                            },
+                            {
+                                "context": "",
+                                "source": "bright bedroom",
+                                "target": "светлый номер"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:bedrooms)",
+                            "info": "",
+                            "lemma": "bedroom",
+                            "phonetic": "",
+                            "pos": "noun",
+                            "term": "bedroom"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 2363,
+                                "expressions": [
+                                    {
+                                        "source": "separate bedroom",
+                                        "target": "отдельная спальня"
+                                    },
+                                    {
+                                        "source": "spacious bedroom",
+                                        "target": "просторная спальня"
+                                    },
+                                    {
+                                        "source": "double bedroom",
+                                        "target": "двухместная спальня"
+                                    },
+                                    {
+                                        "source": "large bedroom",
+                                        "target": "большая спальня"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "bedroom apartment"
+                                ],
+                                "lemma": "спальня",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

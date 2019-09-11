@@ -1,0 +1,126 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "source": {
+                            "inflection": "(fishes/fished)",
+                            "info": "",
+                            "lemma": "fish",
+                            "phonetic": "[ˈfɘʃ]",
+                            "pos": "verb",
+                            "term": "fishing"
+                        },
+                        "targets": [
+                            {
+                                "context": "quota, stock, specie, fish",
+                                "domain": "",
+                                "entry_id": 19173,
+                                "expressions": [
+                                    {
+                                        "source": "to fish in those waters",
+                                        "target": "pêcher dans ces eaux"
+                                    },
+                                    {
+                                        "source": "to fish for seals",
+                                        "target": "pêcher le phoque"
+                                    },
+                                    {
+                                        "source": "to fish in the river",
+                                        "target": "pêcher dans la rivière"
+                                    },
+                                    {
+                                        "source": "to fish in Moroccan waters",
+                                        "target": "pêcher dans les eaux marocaines"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "catch",
+                                    "harvest"
+                                ],
+                                "lemma": "pêcher",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "drift-net fishing",
+                                "target": "filet dérivant"
+                            },
+                            {
+                                "context": "",
+                                "source": "reduced recreational fishing",
+                                "target": "diminution de la pêche sportive"
+                            },
+                            {
+                                "context": "",
+                                "source": "foreign fishing",
+                                "target": "pêcheurs étrangers"
+                            },
+                            {
+                                "context": "",
+                                "source": "big-game fishing",
+                                "target": "partie de pêche au gros"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:fishings)",
+                            "info": "",
+                            "lemma": "fishing",
+                            "phonetic": "[ˈfɪʃɪŋ]",
+                            "pos": "noun",
+                            "term": "fishing"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 19185,
+                                "expressions": [
+                                    {
+                                        "source": "illegal fishing",
+                                        "target": "pêche illégale"
+                                    },
+                                    {
+                                        "source": "commercial fishing",
+                                        "target": "pêche commerciale"
+                                    },
+                                    {
+                                        "source": "industrial fishing",
+                                        "target": "pêche industrielle"
+                                    },
+                                    {
+                                        "source": "sport fishing",
+                                        "target": "pêche sportive"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "fishery",
+                                    "fish",
+                                    "peach"
+                                ],
+                                "lemma": "pêche",
+                                "rank": "99",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "before",
+                            "phonetic": "[bɪˈfɔːr]",
+                            "pos": "adv",
+                            "term": "before"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 2384,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "previously",
+                                    "formerly"
+                                ],
+                                "lemma": "прежде",
+                                "rank": "82",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 2384,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "back",
+                                    "backward",
+                                    "early"
+                                ],
+                                "lemma": "назад",
+                                "rank": "17",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "before",
+                            "phonetic": "[bɪˈfɔːr]",
+                            "pos": "prep",
+                            "term": "before"
+                        },
+                        "targets": [
+                            {
+                                "context": "election, departure, date, crisis",
+                                "domain": "",
+                                "entry_id": 2385,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "to",
+                                    "until",
+                                    "up to",
+                                    "till"
+                                ],
+                                "lemma": "до",
+                                "rank": "51",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "election, court, eye, law",
+                                "domain": "",
+                                "entry_id": 2385,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "in front of",
+                                    "prior to"
+                                ],
+                                "lemma": "перед",
+                                "rank": "48",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "before",
+                            "phonetic": "",
+                            "pos": "conj",
+                            "term": "before"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 26947,
+                                "expressions": [
+                                    {
+                                        "source": "Let's just stop it now before we start saying things we might regret later",
+                                        "target": "Лучше остановиться, пока мы не наговорили друг другу таких вещей, о которых потом будем сожалеть"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [],
+                                "lemma": "пока не",
+                                "rank": "",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 26947,
+                                "expressions": [
+                                    {
+                                        "source": "She went away before I could say anything",
+                                        "target": "Она ушла, прежде чем я успел что-то сказать"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [],
+                                "lemma": "прежде чем",
+                                "rank": "",
+                                "synonym": "",
+                                "variant": "до того как"
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,298 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "to tell the difference",
+                                "target": "faire la différence"
+                            },
+                            {
+                                "context": "",
+                                "source": "to tell all your user",
+                                "target": "demander à tous vos utilisateurs"
+                            },
+                            {
+                                "context": "",
+                                "source": "to tell a friend",
+                                "target": "Envoyer à un ami"
+                            },
+                            {
+                                "context": "",
+                                "source": "to tell the time",
+                                "target": "donner l'heure"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(tells/told)",
+                            "info": "",
+                            "lemma": "tell",
+                            "phonetic": "[tɛl]",
+                            "pos": "verb",
+                            "term": "tell"
+                        },
+                        "targets": [
+                            {
+                                "context": "truth, thing, lie, story",
+                                "domain": "",
+                                "entry_id": 49985,
+                                "expressions": [
+                                    {
+                                        "source": "to tell the truth",
+                                        "target": "dire la vérité"
+                                    },
+                                    {
+                                        "source": "to tell the House",
+                                        "target": "dire à la Chambre"
+                                    },
+                                    {
+                                        "source": "to tell people",
+                                        "target": "dire aux gens"
+                                    },
+                                    {
+                                        "source": "to tell a lie",
+                                        "target": "dire un mensonge"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "say",
+                                    "state",
+                                    "say",
+                                    "mean"
+                                ],
+                                "lemma": "dire",
+                                "rank": "73",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "story, joke, lie, history",
+                                "domain": "",
+                                "entry_id": 49985,
+                                "expressions": [
+                                    {
+                                        "source": "to tell a story",
+                                        "target": "raconter des histoires"
+                                    },
+                                    {
+                                        "source": "to tell their stories",
+                                        "target": "raconter leur histoire"
+                                    },
+                                    {
+                                        "source": "to tell the story",
+                                        "target": "raconter l'histoire"
+                                    },
+                                    {
+                                        "source": "to tell our story",
+                                        "target": "raconter notre histoire"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "relate",
+                                    "recount",
+                                    "narrate"
+                                ],
+                                "lemma": "raconter",
+                                "rank": "6",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "pharmacist, doctor, nurse, house",
+                                "domain": "",
+                                "entry_id": 49985,
+                                "expressions": [
+                                    {
+                                        "source": "to tell your doctor",
+                                        "target": "informer votre médecin"
+                                    },
+                                    {
+                                        "source": "to tell your doctor immediately",
+                                        "target": "informer immédiatement votre médecin"
+                                    },
+                                    {
+                                        "source": "to tell your doctor as soon as possible",
+                                        "target": "informer votre médecin le plus rapidement possible"
+                                    },
+                                    {
+                                        "source": "told by your doctor",
+                                        "target": "informé par votre médecin"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "inform",
+                                    "advise",
+                                    "notify",
+                                    "inform"
+                                ],
+                                "lemma": "informer",
+                                "rank": "5",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "way, option, number, ip~address",
+                                "domain": "",
+                                "entry_id": 49985,
+                                "expressions": [
+                                    {
+                                        "source": "to tell an IP router",
+                                        "target": "indiquer au routeur IP"
+                                    },
+                                    {
+                                        "source": "to tell the Player",
+                                        "target": "indiquer au lecteur"
+                                    },
+                                    {
+                                        "source": "to tell the compiler",
+                                        "target": "indiquer au compilateur"
+                                    },
+                                    {
+                                        "source": "to tell the debugger",
+                                        "target": "indiquer au débogueur"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "indicate",
+                                    "specify",
+                                    "show",
+                                    "state",
+                                    "report",
+                                    "identify",
+                                    "list",
+                                    "say"
+                                ],
+                                "lemma": "indiquer",
+                                "rank": "4",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 49985,
+                                "expressions": [
+                                    {
+                                        "source": "to tell their friends",
+                                        "target": "parler à leurs amis"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "speak",
+                                    "talk about",
+                                    "talk",
+                                    "refer to",
+                                    "discuss",
+                                    "mention",
+                                    "talk about",
+                                    "speak",
+                                    "talk"
+                                ],
+                                "lemma": "parler",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "story",
+                                "domain": "",
+                                "entry_id": 49985,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "explain",
+                                    "describe",
+                                    "explain",
+                                    "discuss",
+                                    "account for",
+                                    "elucidate"
+                                ],
+                                "lemma": "expliquer",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "thing",
+                                "domain": "",
+                                "entry_id": 49985,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "learn",
+                                    "teach",
+                                    "learn",
+                                    "learn how",
+                                    "hear",
+                                    "out-~-find out",
+                                    "inform"
+                                ],
+                                "lemma": "apprendre",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "doctor, pharmacist, nurse, dentist",
+                                "domain": "Medicine",
+                                "entry_id": 49985,
+                                "expressions": [
+                                    {
+                                        "source": "to please tell your doctor",
+                                        "target": "prévenir votre médecin"
+                                    },
+                                    {
+                                        "source": "to please tell your doctor immediately",
+                                        "target": "prévenir immédiatement votre médecin"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "prevent",
+                                    "prevent",
+                                    "warn",
+                                    "notify",
+                                    "avoid",
+                                    "prejudice"
+                                ],
+                                "lemma": "prévenir",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "news, ton, story",
+                                "domain": "",
+                                "entry_id": 49985,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "announce",
+                                    "advertize",
+                                    "inform",
+                                    "announce",
+                                    "state"
+                                ],
+                                "lemma": "annoncer",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

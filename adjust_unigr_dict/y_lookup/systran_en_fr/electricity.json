@@ -1,0 +1,79 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "grid electricity",
+                                "target": "réseau électrique"
+                            },
+                            {
+                                "context": "",
+                                "source": "electricity generating systems",
+                                "target": "systèmes générateurs d'électricité"
+                            },
+                            {
+                                "context": "",
+                                "source": "electricity from coal",
+                                "target": "énergie à partir du charbon"
+                            },
+                            {
+                                "context": "",
+                                "source": "sectors electricity",
+                                "target": "secteur de l'électricité"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:electricities)",
+                            "info": "",
+                            "lemma": "electricity",
+                            "phonetic": "[əˌlɛkˈtɹɪsᵻdi]",
+                            "pos": "noun",
+                            "term": "electricity"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 16365,
+                                "expressions": [
+                                    {
+                                        "source": "static electricity",
+                                        "target": "électricité statique"
+                                    },
+                                    {
+                                        "source": "green electricity",
+                                        "target": "électricité verte"
+                                    },
+                                    {
+                                        "source": "photovoltaic electricity",
+                                        "target": "électricité photovoltaïque"
+                                    },
+                                    {
+                                        "source": "cogenerated electricity",
+                                        "target": "électricité produite par cogénération"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "power",
+                                    "electric power"
+                                ],
+                                "lemma": "électricité",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

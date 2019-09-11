@@ -1,0 +1,119 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "enough",
+                            "phonetic": "[ɪˈnʌf]",
+                            "pos": "adv",
+                            "term": "enough"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 16956,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "quite",
+                                    "rather",
+                                    "fairly",
+                                    "pretty",
+                                    "relatively",
+                                    "somewhat",
+                                    "sufficiently"
+                                ],
+                                "lemma": "assez",
+                                "rank": "58",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 16956,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "sufficiently",
+                                    "adequately"
+                                ],
+                                "lemma": "suffisamment",
+                                "rank": "41",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "That's enough!",
+                                "target": "Ca suffit !"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "enough",
+                            "phonetic": "",
+                            "pos": "pron",
+                            "term": "enough"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 56089,
+                                "expressions": [
+                                    {
+                                        "source": "I've had enough!",
+                                        "target": "J'en ai assez !"
+                                    },
+                                    {
+                                        "source": "He has had enough to drink for one night",
+                                        "target": "Il a assez bu pour aujourd'hui"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [],
+                                "lemma": "assez",
+                                "rank": "",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 56089,
+                                "expressions": [
+                                    {
+                                        "source": "The water is hot enough to take a bath",
+                                        "target": "L'eau est suffisament chaude pour prendre un bain"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [],
+                                "lemma": "suffisament",
+                                "rank": "",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

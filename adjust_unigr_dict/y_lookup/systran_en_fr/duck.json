@@ -1,0 +1,167 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "harlequin ducks",
+                                "target": "arlequin plongeur"
+                            },
+                            {
+                                "context": "",
+                                "source": "ruddy duck",
+                                "target": "érismatures rousses"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:ducks)",
+                            "info": "",
+                            "lemma": "duck",
+                            "phonetic": "[dʌk]",
+                            "pos": "noun",
+                            "term": "duck"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 15684,
+                                "expressions": [
+                                    {
+                                        "source": "mallard ducks",
+                                        "target": "canard colvert"
+                                    },
+                                    {
+                                        "source": "Black Duck",
+                                        "target": "canard noir"
+                                    },
+                                    {
+                                        "source": "wild ducks",
+                                        "target": "canard sauvage"
+                                    },
+                                    {
+                                        "source": "sea duck",
+                                        "target": "canard de mer"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "canard"
+                                ],
+                                "lemma": "canard",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "source": {
+                            "inflection": "(ducks/ducked)",
+                            "info": "",
+                            "lemma": "duck",
+                            "phonetic": "[dʌk]",
+                            "pos": "verb",
+                            "term": "duck"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 15685,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "evade",
+                                    "dodge",
+                                    "sidestep",
+                                    "circumvent",
+                                    "shirk",
+                                    "elude",
+                                    "fudge",
+                                    "skirt"
+                                ],
+                                "lemma": "éluder",
+                                "rank": "40",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "issue",
+                                "domain": "",
+                                "entry_id": 15685,
+                                "expressions": [
+                                    {
+                                        "source": "to duck an answer",
+                                        "target": "esquiver une réponse"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "dodge",
+                                    "circumvent",
+                                    "evade",
+                                    "sidestep",
+                                    "shirk",
+                                    "fudge",
+                                    "dodge",
+                                    "circumvent"
+                                ],
+                                "lemma": "esquiver",
+                                "rank": "36",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 15685,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "evade",
+                                    "shirk",
+                                    "dodge",
+                                    "shrink back",
+                                    "renege"
+                                ],
+                                "lemma": "se dérober",
+                                "rank": "16",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 15685,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "pretend",
+                                    "feign",
+                                    "pretend",
+                                    "fake",
+                                    "dissimulate",
+                                    "feign",
+                                    "dissemble"
+                                ],
+                                "lemma": "feindre",
+                                "rank": "8",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

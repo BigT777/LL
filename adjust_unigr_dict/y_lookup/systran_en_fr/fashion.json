@@ -1,0 +1,220 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "random fashion",
+                                "target": "ordre dispersé"
+                            },
+                            {
+                                "context": "",
+                                "source": "grand fashion",
+                                "target": "grande pompe"
+                            },
+                            {
+                                "context": "",
+                                "source": "latest fashions",
+                                "target": "dernière tendance"
+                            },
+                            {
+                                "context": "",
+                                "source": "integral fashion",
+                                "target": "forme intégrée"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:fashions)",
+                            "info": "",
+                            "lemma": "fashion",
+                            "phonetic": "",
+                            "pos": "noun",
+                            "term": "fashion"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 18545,
+                                "expressions": [
+                                    {
+                                        "source": "parisian fashion",
+                                        "target": "mode parisienne"
+                                    },
+                                    {
+                                        "source": "italian fashion",
+                                        "target": "mode italienne"
+                                    },
+                                    {
+                                        "source": "high fashion",
+                                        "target": "mode élevé"
+                                    },
+                                    {
+                                        "source": "recent fashion",
+                                        "target": "dernière mode"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "mode",
+                                    "method",
+                                    "way",
+                                    "view",
+                                    "direction",
+                                    "pattern"
+                                ],
+                                "lemma": "mode",
+                                "rank": "57",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 18545,
+                                "expressions": [
+                                    {
+                                        "source": "coordinated fashion",
+                                        "target": "façon coordonnée"
+                                    },
+                                    {
+                                        "source": "similar fashion",
+                                        "target": "façon similaire"
+                                    },
+                                    {
+                                        "source": "sustainable fashion",
+                                        "target": "façon durable"
+                                    },
+                                    {
+                                        "source": "exemplary fashion",
+                                        "target": "façon exemplaire"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "way",
+                                    "manner",
+                                    "basis",
+                                    "approach",
+                                    "mean"
+                                ],
+                                "lemma": "façon",
+                                "rank": "22",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 18545,
+                                "expressions": [
+                                    {
+                                        "source": "arbitrary fashion",
+                                        "target": "manière arbitraire"
+                                    },
+                                    {
+                                        "source": "appropriate fashion",
+                                        "target": "manière adéquate"
+                                    },
+                                    {
+                                        "source": "democratic fashion",
+                                        "target": "manière démocratique"
+                                    },
+                                    {
+                                        "source": "systematic fashion",
+                                        "target": "manière systématique"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "way",
+                                    "manner",
+                                    "basis",
+                                    "mean"
+                                ],
+                                "lemma": "manière",
+                                "rank": "20",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "source": {
+                            "inflection": "(fashions/fashioned)",
+                            "info": "",
+                            "lemma": "fashion",
+                            "phonetic": "",
+                            "pos": "verb",
+                            "term": "fashion"
+                        },
+                        "targets": [
+                            {
+                                "context": "world",
+                                "domain": "",
+                                "entry_id": 18546,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "shape",
+                                    "shape",
+                                    "mold",
+                                    "tailor"
+                                ],
+                                "lemma": "façonner",
+                                "rank": "73",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 18546,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "shape",
+                                    "model",
+                                    "shape",
+                                    "mold",
+                                    "model",
+                                    "mold",
+                                    "pattern",
+                                    "smooth"
+                                ],
+                                "lemma": "modeler",
+                                "rank": "14",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 18546,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "make-up",
+                                    "craft",
+                                    "bake"
+                                ],
+                                "lemma": "confectionner",
+                                "rank": "11",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

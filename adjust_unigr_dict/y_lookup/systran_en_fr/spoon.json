@@ -1,0 +1,101 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "graduated measuring spoon",
+                                "target": "cuillère-mesure graduée"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:spoons)",
+                            "info": "",
+                            "lemma": "spoon",
+                            "phonetic": "[spuːn]",
+                            "pos": "noun",
+                            "term": "spoon"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 47165,
+                                "expressions": [
+                                    {
+                                        "source": "wooden spoon",
+                                        "target": "cuillère en bois"
+                                    },
+                                    {
+                                        "source": "clean spoon",
+                                        "target": "cuillère propre"
+                                    },
+                                    {
+                                        "source": "soup spoon",
+                                        "target": "cuillère à soupe"
+                                    },
+                                    {
+                                        "source": "full spoon",
+                                        "target": "cuillère pleine"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "spoonful",
+                                    "teaspoon"
+                                ],
+                                "lemma": "cuillère",
+                                "rank": "87",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 47165,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "lure",
+                                    "tablespoon",
+                                    "spinner"
+                                ],
+                                "lemma": "cuiller",
+                                "rank": "10",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 47165,
+                                "expressions": [
+                                    {
+                                        "source": "table spoon",
+                                        "target": "cuillerée à table"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "spoonful",
+                                    "scoop",
+                                    "scoopful"
+                                ],
+                                "lemma": "cuillerée",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

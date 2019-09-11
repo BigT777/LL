@@ -1,0 +1,444 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "size",
+                            "phonetic": "",
+                            "pos": "adj",
+                            "term": "size"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 45842,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "taille",
+                                "rank": "50",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 45842,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "réduit de moitié",
+                                "rank": "50",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "minimum mesh size",
+                                "target": "maillage minimal"
+                            },
+                            {
+                                "context": "",
+                                "source": "queen size",
+                                "target": "queen size"
+                            },
+                            {
+                                "context": "",
+                                "source": "following pack sizes",
+                                "target": "conditionnements suivants"
+                            },
+                            {
+                                "context": "",
+                                "source": "at least the body size",
+                                "target": "force du corps minimale"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:sizes)",
+                            "info": "",
+                            "lemma": "size",
+                            "phonetic": "[saɪz]",
+                            "pos": "noun",
+                            "term": "size"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 45843,
+                                "expressions": [
+                                    {
+                                        "source": "sample size",
+                                        "target": "taille de l'échantillon"
+                                    },
+                                    {
+                                        "source": "minimum size",
+                                        "target": "taille minimale"
+                                    },
+                                    {
+                                        "source": "maximum size",
+                                        "target": "taille maximale"
+                                    },
+                                    {
+                                        "source": "average size",
+                                        "target": "taille moyenne"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "height",
+                                    "waist",
+                                    "scale"
+                                ],
+                                "lemma": "taille",
+                                "rank": "81",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 45843,
+                                "expressions": [
+                                    {
+                                        "source": "picture size",
+                                        "target": "dimension de la photo"
+                                    },
+                                    {
+                                        "source": "good size",
+                                        "target": "belle dimension"
+                                    },
+                                    {
+                                        "source": "particle size",
+                                        "target": "dimension des particules"
+                                    },
+                                    {
+                                        "source": "package sizes",
+                                        "target": "dimension du colis"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "dimension",
+                                    "aspect",
+                                    "scale"
+                                ],
+                                "lemma": "dimension",
+                                "rank": "6",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 45843,
+                                "expressions": [
+                                    {
+                                        "source": "paper size",
+                                        "target": "format de papier"
+                                    },
+                                    {
+                                        "source": "regular size",
+                                        "target": "format régulier"
+                                    },
+                                    {
+                                        "source": "different sizes",
+                                        "target": "différents formats"
+                                    },
+                                    {
+                                        "source": "legal size",
+                                        "target": "format légal"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "format"
+                                ],
+                                "lemma": "format",
+                                "rank": "3",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 45843,
+                                "expressions": [
+                                    {
+                                        "source": "total size",
+                                        "target": "superficie totale"
+                                    },
+                                    {
+                                        "source": "size of the room",
+                                        "target": "superficie des chambres"
+                                    },
+                                    {
+                                        "source": "size of their respective countries",
+                                        "target": "superficie de leurs pays respectifs"
+                                    },
+                                    {
+                                        "source": "size of the complex",
+                                        "target": "superficie du complexe"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "area",
+                                    "surface area",
+                                    "surface",
+                                    "acreage",
+                                    "floor area",
+                                    "land area"
+                                ],
+                                "lemma": "superficie",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 45843,
+                                "expressions": [
+                                    {
+                                        "source": "size of this effect",
+                                        "target": "ampleur de cet effet"
+                                    },
+                                    {
+                                        "source": "size of the problem",
+                                        "target": "ampleur du problème"
+                                    },
+                                    {
+                                        "source": "effect sizes",
+                                        "target": "ampleur des effets"
+                                    },
+                                    {
+                                        "source": "population size",
+                                        "target": "ampleur de la population"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "extent",
+                                    "magnitude",
+                                    "scale",
+                                    "scope",
+                                    "breadth",
+                                    "degree"
+                                ],
+                                "lemma": "ampleur",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 45843,
+                                "expressions": [
+                                    {
+                                        "source": "relative size",
+                                        "target": "importance relative"
+                                    },
+                                    {
+                                        "source": "size of this reduction",
+                                        "target": "importance de cette réduction"
+                                    },
+                                    {
+                                        "source": "anticipated run size",
+                                        "target": "importance prévue"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "importance",
+                                    "significance",
+                                    "emphasis",
+                                    "extent"
+                                ],
+                                "lemma": "importance",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 45843,
+                                "expressions": [
+                                    {
+                                        "source": "spleen size",
+                                        "target": "volume de la rate"
+                                    },
+                                    {
+                                        "source": "Plasma pool size",
+                                        "target": "volume du pool de plasma"
+                                    },
+                                    {
+                                        "source": "size of the disk",
+                                        "target": "volume du disque"
+                                    },
+                                    {
+                                        "source": "size of the budget",
+                                        "target": "volume du budget"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "volume",
+                                    "amount",
+                                    "quantity"
+                                ],
+                                "lemma": "volume",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 45843,
+                                "expressions": [
+                                    {
+                                        "source": "page size",
+                                        "target": "grandeur des pages"
+                                    },
+                                    {
+                                        "source": "standard size",
+                                        "target": "grandeur standard"
+                                    },
+                                    {
+                                        "source": "size of type",
+                                        "target": "grandeur des caractères"
+                                    },
+                                    {
+                                        "source": "class size",
+                                        "target": "grandeur de la classe"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "magnitude",
+                                    "grandeur",
+                                    "greatness",
+                                    "height"
+                                ],
+                                "lemma": "grandeur",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "to size the performance",
+                                "target": "Déterminer les performances"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(sizes/sized)",
+                            "info": "",
+                            "lemma": "size",
+                            "phonetic": "[saɪz]",
+                            "pos": "verb",
+                            "term": "size"
+                        },
+                        "targets": [
+                            {
+                                "context": "element",
+                                "domain": "IT",
+                                "entry_id": 45844,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "scale",
+                                    "scale"
+                                ],
+                                "lemma": "dimensionner",
+                                "rank": "71",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 45844,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "calibrate",
+                                    "calibrate",
+                                    "gauge"
+                                ],
+                                "lemma": "calibrer",
+                                "rank": "13",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 45844,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "carve",
+                                    "cut",
+                                    "trim",
+                                    "prune",
+                                    "cut",
+                                    "sculpt",
+                                    "sharpen",
+                                    "cut out"
+                                ],
+                                "lemma": "tailler",
+                                "rank": "11",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 45844,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "prepare",
+                                    "get ready",
+                                    "season"
+                                ],
+                                "lemma": "apprêter",
+                                "rank": "3",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "airport",
+                            "phonetic": "",
+                            "pos": "adj",
+                            "term": "airport"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 735,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "ground"
+                                ],
+                                "lemma": "аэродромный",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "Hotel Airport",
+                                "target": "Отель Airport"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:airports)",
+                            "info": "",
+                            "lemma": "airport",
+                            "phonetic": "[ˈɛːpɔːt]",
+                            "pos": "noun",
+                            "term": "airport"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 736,
+                                "expressions": [
+                                    {
+                                        "source": "international airport",
+                                        "target": "международный аэропорт"
+                                    },
+                                    {
+                                        "source": "island airport",
+                                        "target": "аэропорт острова"
+                                    },
+                                    {
+                                        "source": "destination airport",
+                                        "target": "аэропорт назначения"
+                                    },
+                                    {
+                                        "source": "local airport",
+                                        "target": "Местный аэропорт"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "аэропорт",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

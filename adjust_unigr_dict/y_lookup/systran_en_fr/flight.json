@@ -1,0 +1,175 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "regular flights",
+                                "target": "liaison régulière"
+                            },
+                            {
+                                "context": "",
+                                "source": "flight of stairs",
+                                "target": "marches d'escalier"
+                            },
+                            {
+                                "context": "",
+                                "source": "daily flights",
+                                "target": "liaison quotidienne"
+                            },
+                            {
+                                "context": "",
+                                "source": "Air Reserve Flight",
+                                "target": "Escadrille de la Réserve aérienne"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:flights)",
+                            "info": "",
+                            "lemma": "flight",
+                            "phonetic": "[flaɪt]",
+                            "pos": "noun",
+                            "term": "flight"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 19426,
+                                "expressions": [
+                                    {
+                                        "source": "international flight",
+                                        "target": "vol international"
+                                    },
+                                    {
+                                        "source": "direct flights",
+                                        "target": "vol direct"
+                                    },
+                                    {
+                                        "source": "domestic flight",
+                                        "target": "vol intérieur"
+                                    },
+                                    {
+                                        "source": "scheduled flights",
+                                        "target": "vol régulier"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "theft",
+                                    "flying"
+                                ],
+                                "lemma": "vol",
+                                "rank": "90",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 19426,
+                                "expressions": [
+                                    {
+                                        "source": "commercial flight",
+                                        "target": "avion commercial"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "aircraft",
+                                    "plane",
+                                    "air",
+                                    "airplane",
+                                    "aeroplane",
+                                    "airline",
+                                    "jet",
+                                    "freighter"
+                                ],
+                                "lemma": "avion",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 19426,
+                                "expressions": [
+                                    {
+                                        "source": "Tri-Lake Flight",
+                                        "target": "Tri-Lake Flight"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "Flight",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 19426,
+                                "expressions": [
+                                    {
+                                        "source": "air force flight",
+                                        "target": "bord de la Force aérienne"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "edge",
+                                    "seaside",
+                                    "side",
+                                    "dashboard",
+                                    "seafront",
+                                    "ship",
+                                    "shore",
+                                    "scoreboard"
+                                ],
+                                "lemma": "bord",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 19426,
+                                "expressions": [
+                                    {
+                                        "source": "capital flight",
+                                        "target": "fuite des capitaux"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "leak",
+                                    "leakage",
+                                    "drain",
+                                    "escape",
+                                    "run",
+                                    "spill",
+                                    "outflow"
+                                ],
+                                "lemma": "fuite",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

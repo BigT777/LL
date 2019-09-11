@@ -1,0 +1,158 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "phrase dance",
+                                "target": "фразой dance"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:dances)",
+                            "info": "",
+                            "lemma": "dance",
+                            "phonetic": "[dɑːns]",
+                            "pos": "noun",
+                            "term": "dance"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 6086,
+                                "expressions": [
+                                    {
+                                        "source": "folk dance",
+                                        "target": "народный танец"
+                                    },
+                                    {
+                                        "source": "classical dance",
+                                        "target": "классический танец"
+                                    },
+                                    {
+                                        "source": "traditional dance",
+                                        "target": "традиционный танец"
+                                    },
+                                    {
+                                        "source": "Dance of Fire",
+                                        "target": "танец огня"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "dancing",
+                                    "dancer"
+                                ],
+                                "lemma": "танец",
+                                "rank": "97",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 6086,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "ball"
+                                ],
+                                "lemma": "бал",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 6086,
+                                "expressions": [
+                                    {
+                                        "source": "wild dance",
+                                        "target": "беспорядочные пляски"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "dancing"
+                                ],
+                                "lemma": "пляска",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "(dances/danced)",
+                            "info": "",
+                            "lemma": "dance",
+                            "phonetic": "[dɑːns]",
+                            "pos": "verb",
+                            "term": "dance"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 6087,
+                                "expressions": [
+                                    {
+                                        "source": "to dance together",
+                                        "target": "танцевать вместе"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "remix"
+                                ],
+                                "lemma": "танцевать",
+                                "rank": "93",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 6087,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "плясать",
+                                "rank": "3",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 6087,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "потанцевать",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}
