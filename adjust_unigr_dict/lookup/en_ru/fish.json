@@ -1,0 +1,234 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fish",
+            "pos": "noun",
+            "ts": "fɪʃ",
+            "tr": [
+                {
+                    "text": "рыба",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "рыбешка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "рыбка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "minnow"
+                        },
+                        {
+                            "text": "small fish"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fresh water fish",
+                            "tr": [
+                                {
+                                    "text": "пресноводная рыба"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "large predatory fish",
+                            "tr": [
+                                {
+                                    "text": "крупная хищная рыба"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "deep sea fish",
+                            "tr": [
+                                {
+                                    "text": "глубоководная рыба"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "length of this fish",
+                            "tr": [
+                                {
+                                    "text": "длина этой рыбы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "tropical fish",
+                            "tr": [
+                                {
+                                    "text": "тропическая рыба"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "golden fish",
+                            "tr": [
+                                {
+                                    "text": "золотая рыбка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Фиш",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "fish",
+            "pos": "adjective",
+            "ts": "fɪʃ",
+            "tr": [
+                {
+                    "text": "рыбный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "рыбохозяйственный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "рыбий",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "рыболовный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "рыбоводный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fishery"
+                        },
+                        {
+                            "text": "fishy"
+                        },
+                        {
+                            "text": "fishing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fish dish",
+                            "tr": [
+                                {
+                                    "text": "рыбное блюдо"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "local fish market",
+                            "tr": [
+                                {
+                                    "text": "местный рыбный рынок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fish liver oil",
+                            "tr": [
+                                {
+                                    "text": "рыбий жир"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fish",
+            "pos": "verb",
+            "ts": "fɪʃ",
+            "tr": [
+                {
+                    "text": "ловить рыбу",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "ловить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "рыбачить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "порыбачить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поймать рыбу",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "catch fish"
+                        },
+                        {
+                            "text": "catch a fish"
+                        }
+                    ]
+                },
+                {
+                    "text": "удить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "удить рыбу",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dap"
+                        }
+                    ]
+                },
+                {
+                    "text": "выудить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выуживать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fish out"
+                        },
+                        {
+                            "text": "get"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "anything",
+                            "phonetic": "",
+                            "pos": "pron",
+                            "term": "anything"
+                        },
+                        "targets": [
+                            {
+                                "context": "Question",
+                                "domain": "",
+                                "entry_id": 26942,
+                                "expressions": [
+                                    {
+                                        "source": "Have you ever seen anything like this?",
+                                        "target": "Вам уже приходилось видеть что-нибудь похожее?"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [],
+                                "lemma": "что-нибудь",
+                                "rank": "",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "Negation",
+                                "domain": "",
+                                "entry_id": 26942,
+                                "expressions": [
+                                    {
+                                        "source": "We aren’t going to find anything out here.",
+                                        "target": "Мы ничего здесь не найдем."
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [],
+                                "lemma": "ничто",
+                                "rank": "",
+                                "synonym": "",
+                                "variant": "ничего"
+                            },
+                            {
+                                "context": "Affirmation",
+                                "domain": "",
+                                "entry_id": 26942,
+                                "expressions": [
+                                    {
+                                        "source": "I'll do anything I can",
+                                        "target": "Я сделаю все, что смогу"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [],
+                                "lemma": "всё",
+                                "rank": "",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

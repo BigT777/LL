@@ -1,0 +1,400 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "master file",
+                                "target": "fiche maîtresse"
+                            },
+                            {
+                                "context": "",
+                                "source": "pdf file",
+                                "target": "format pdf"
+                            },
+                            {
+                                "context": "",
+                                "source": "open file",
+                                "target": "Open File"
+                            },
+                            {
+                                "context": "",
+                                "source": "Drug Master Files",
+                                "target": "fiche maîtresse du médicament"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:files)",
+                            "info": "",
+                            "lemma": "file",
+                            "phonetic": "",
+                            "pos": "noun",
+                            "term": "file"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "IT",
+                                "entry_id": 18971,
+                                "expressions": [
+                                    {
+                                        "source": "configuration file",
+                                        "target": "fichier de configuration"
+                                    },
+                                    {
+                                        "source": "log file",
+                                        "target": "fichier journal"
+                                    },
+                                    {
+                                        "source": "bios files",
+                                        "target": "fichier BIO"
+                                    },
+                                    {
+                                        "source": "text file",
+                                        "target": "fichier texte"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "filesystem",
+                                    "file name"
+                                ],
+                                "lemma": "fichier",
+                                "rank": "91",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 18971,
+                                "expressions": [
+                                    {
+                                        "source": "personnel file",
+                                        "target": "dossier personnel"
+                                    },
+                                    {
+                                        "source": "file with the Agency",
+                                        "target": "dossier de l'Office"
+                                    },
+                                    {
+                                        "source": "medical files",
+                                        "target": "dossier médical"
+                                    },
+                                    {
+                                        "source": "project file",
+                                        "target": "dossier de projet"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "folder",
+                                    "record",
+                                    "issue",
+                                    "dossier",
+                                    "case",
+                                    "matter",
+                                    "package"
+                                ],
+                                "lemma": "dossier",
+                                "rank": "8",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "to file a dispute",
+                                "target": "signaler un litige"
+                            },
+                            {
+                                "context": "",
+                                "source": "to file for bankruptcy",
+                                "target": "déclarer faillite"
+                            },
+                            {
+                                "context": "",
+                                "source": "to file for divorce",
+                                "target": "demander le divorce"
+                            },
+                            {
+                                "context": "",
+                                "source": "to file an installation report",
+                                "target": "envoyer un rapport d'installation"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(files/filed)",
+                            "info": "",
+                            "lemma": "file",
+                            "phonetic": "",
+                            "pos": "verb",
+                            "term": "file"
+                        },
+                        "targets": [
+                            {
+                                "context": "complaint, application, notice, submission",
+                                "domain": "",
+                                "entry_id": 18972,
+                                "expressions": [
+                                    {
+                                        "source": "filed with the agency",
+                                        "target": "déposée auprès de l'Office"
+                                    },
+                                    {
+                                        "source": "filed in electronic form",
+                                        "target": "déposée sous forme électronique"
+                                    },
+                                    {
+                                        "source": "to file with the Agency",
+                                        "target": "déposer auprès de l'Office"
+                                    },
+                                    {
+                                        "source": "filed on paper",
+                                        "target": "déposée sur papier"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "table",
+                                    "deposit",
+                                    "submit",
+                                    "lodge",
+                                    "place",
+                                    "introduce",
+                                    "present"
+                                ],
+                                "lemma": "déposer",
+                                "rank": "74",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "application, request, report, claim",
+                                "domain": "",
+                                "entry_id": 18972,
+                                "expressions": [
+                                    {
+                                        "source": "filed with the office",
+                                        "target": "présentée à l'office"
+                                    },
+                                    {
+                                        "source": "to file a submission",
+                                        "target": "présenter une demande"
+                                    },
+                                    {
+                                        "source": "filed by the parties",
+                                        "target": "présenté par les parties"
+                                    },
+                                    {
+                                        "source": "to file a defence",
+                                        "target": "présenter de défense"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "present",
+                                    "submit",
+                                    "provide",
+                                    "introduce",
+                                    "make",
+                                    "table",
+                                    "show",
+                                    "put forward"
+                                ],
+                                "lemma": "présenter",
+                                "rank": "11",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "return, form, tax, translation",
+                                "domain": "",
+                                "entry_id": 18972,
+                                "expressions": [
+                                    {
+                                        "source": "to file a return",
+                                        "target": "produire une déclaration"
+                                    },
+                                    {
+                                        "source": "to file your return",
+                                        "target": "produire votre déclaration"
+                                    },
+                                    {
+                                        "source": "to file an annual return",
+                                        "target": "produire une déclaration annuelle"
+                                    },
+                                    {
+                                        "source": "filed on time",
+                                        "target": "produite à temps"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "produce",
+                                    "generate",
+                                    "produce",
+                                    "result",
+                                    "manufacture",
+                                    "prepare"
+                                ],
+                                "lemma": "produire",
+                                "rank": "10",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "report, return, submission, application",
+                                "domain": "",
+                                "entry_id": 18972,
+                                "expressions": [
+                                    {
+                                        "source": "filed with the committee",
+                                        "target": "soumis au comité"
+                                    },
+                                    {
+                                        "source": "filed by electronic means",
+                                        "target": "soumises par voie électronique"
+                                    },
+                                    {
+                                        "source": "to file a report",
+                                        "target": "soumettre un rapport"
+                                    },
+                                    {
+                                        "source": "file to sipd",
+                                        "target": "soumise à la DPPR"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "submit",
+                                    "subject",
+                                    "present",
+                                    "put",
+                                    "submit",
+                                    "refer",
+                                    "table"
+                                ],
+                                "lemma": "soumettre",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "message",
+                                "domain": "",
+                                "entry_id": 18972,
+                                "expressions": [
+                                    {
+                                        "source": "filed under conferences",
+                                        "target": "classé dans Conférences"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "classify",
+                                    "rank",
+                                    "categorize",
+                                    "class",
+                                    "list",
+                                    "sort",
+                                    "grade",
+                                    "classify"
+                                ],
+                                "lemma": "classer",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "report, return, notification, form",
+                                "domain": "",
+                                "entry_id": 18972,
+                                "expressions": [
+                                    {
+                                        "source": "to file an annual notification",
+                                        "target": "remplir une déclaration annuelle"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "complete",
+                                    "fulfill",
+                                    "fill",
+                                    "meet",
+                                    "out-~-fill out",
+                                    "complete",
+                                    "perform",
+                                    "fill in",
+                                    "populate"
+                                ],
+                                "lemma": "remplir",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "report, declaration",
+                                "domain": "",
+                                "entry_id": 18972,
+                                "expressions": [
+                                    {
+                                        "source": "to file with the returning officer",
+                                        "target": "remettre au directeur du scrutin"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "give",
+                                    "put",
+                                    "call",
+                                    "submit",
+                                    "deliver",
+                                    "return",
+                                    "present",
+                                    "hand over",
+                                    "hand"
+                                ],
+                                "lemma": "remettre",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "appeal",
+                                "domain": "",
+                                "entry_id": 18972,
+                                "expressions": [
+                                    {
+                                        "source": "to file an appeal",
+                                        "target": "interjeter appel"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "bring",
+                                    "lodge"
+                                ],
+                                "lemma": "interjeter",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

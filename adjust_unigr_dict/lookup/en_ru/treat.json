@@ -1,0 +1,300 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "treat",
+            "pos": "verb",
+            "ts": "triːt",
+            "tr": [
+                {
+                    "text": "рассматривать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "трактовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "считать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "воспринимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "consider"
+                        },
+                        {
+                            "text": "interpret"
+                        },
+                        {
+                            "text": "perceive"
+                        }
+                    ]
+                },
+                {
+                    "text": "обращаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "относиться",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "отнестись",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "расценивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "apply"
+                        },
+                        {
+                            "text": "relate"
+                        },
+                        {
+                            "text": "regard"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "treat animals",
+                            "tr": [
+                                {
+                                    "text": "обращаться с животными"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "treat seriously",
+                            "tr": [
+                                {
+                                    "text": "относиться серьезно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "лечить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вылечить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пролечить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подлечить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cure"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "treating physician",
+                            "tr": [
+                                {
+                                    "text": "лечащий врач"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обрабатывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обработать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "handle"
+                        },
+                        {
+                            "text": "process"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "treated surface",
+                            "tr": [
+                                {
+                                    "text": "обработанная поверхность"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обходиться",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "обойтись",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "manage"
+                        }
+                    ]
+                },
+                {
+                    "text": "угощать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "угостить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "потчевать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "serve"
+                        },
+                        {
+                            "text": "entertain"
+                        },
+                        {
+                            "text": "regale"
+                        }
+                    ]
+                },
+                {
+                    "text": "побаловать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "indulge"
+                        }
+                    ]
+                },
+                {
+                    "text": "третировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "slight"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "treat",
+            "pos": "noun",
+            "ts": "triːt",
+            "tr": [
+                {
+                    "text": "угощение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "лакомство",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "food"
+                        },
+                        {
+                            "text": "delicacy"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tasty treat",
+                            "tr": [
+                                {
+                                    "text": "вкусное угощение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sweet treat",
+                            "tr": [
+                                {
+                                    "text": "сладкое лакомство"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "удовольствие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "pleasure"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rare treat",
+                            "tr": [
+                                {
+                                    "text": "редкое удовольствие"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обработка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "treatment"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

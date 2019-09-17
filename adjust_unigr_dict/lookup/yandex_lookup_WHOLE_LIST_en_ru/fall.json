@@ -1,0 +1,364 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fall",
+            "pos": "verb",
+            "ts": "fɔːl",
+            "fl": "fell, fallen",
+            "tr": [
+                {
+                    "text": "упасть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "падать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выпадать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выпасть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "опуститься",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "свалиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drop"
+                        },
+                        {
+                            "text": "fall out"
+                        },
+                        {
+                            "text": "fall down"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fallen tree trunk",
+                            "tr": [
+                                {
+                                    "text": "ствол упавшего дерева"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fall to earth",
+                            "tr": [
+                                {
+                                    "text": "падать на землю"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fall overboard",
+                            "tr": [
+                                {
+                                    "text": "свалиться за борт"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "снижаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "снизиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "уменьшиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "понизиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "decrease"
+                        },
+                        {
+                            "text": "decline"
+                        },
+                        {
+                            "text": "drop"
+                        }
+                    ]
+                },
+                {
+                    "text": "попадать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "get"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fall directly",
+                            "tr": [
+                                {
+                                    "text": "попадать непосредственно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "приходиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "have"
+                        }
+                    ]
+                },
+                {
+                    "text": "впадать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "впасть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flow"
+                        },
+                        {
+                            "text": "run"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fall into depression",
+                            "tr": [
+                                {
+                                    "text": "впадать в депрессию"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fall into temptation",
+                            "tr": [
+                                {
+                                    "text": "впасть в искушение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "подпадать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "come"
+                        }
+                    ]
+                },
+                {
+                    "text": "влюбляться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "fall in love"
+                        }
+                    ]
+                },
+                {
+                    "text": "обрушиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "collapse"
+                        }
+                    ]
+                },
+                {
+                    "text": "попасться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "попадаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "catch"
+                        },
+                        {
+                            "text": "come across"
+                        }
+                    ]
+                },
+                {
+                    "text": "оказаться",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "fall",
+            "pos": "noun",
+            "ts": "fɔːl",
+            "tr": [
+                {
+                    "text": "падение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "снижение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drop"
+                        },
+                        {
+                            "text": "decrease"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "communism's fall",
+                            "tr": [
+                                {
+                                    "text": "падение коммунизма"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fall in blood pressure",
+                            "tr": [
+                                {
+                                    "text": "падение кровяного давления"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fall in oil prices",
+                            "tr": [
+                                {
+                                    "text": "падение цен на нефть"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fall in living standards",
+                            "tr": [
+                                {
+                                    "text": "падение уровня жизни"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "осень",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "autumn"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "early fall",
+                            "tr": [
+                                {
+                                    "text": "начало осени"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "грехопадение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "sin"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fall of adam",
+                            "tr": [
+                                {
+                                    "text": "грехопадение адама"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fall",
+            "pos": "adjective",
+            "ts": "fɔːl",
+            "tr": [
+                {
+                    "text": "осенний",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "autumn"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "beautiful fall day",
+                            "tr": [
+                                {
+                                    "text": "прекрасный осенний день"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

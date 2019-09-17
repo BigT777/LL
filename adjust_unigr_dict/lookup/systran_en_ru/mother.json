@@ -1,0 +1,122 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "queen mother",
+                                "target": "вдовствующая королева"
+                            },
+                            {
+                                "context": "",
+                                "source": "expectant mother",
+                                "target": "беременная женщина"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:mothers)",
+                            "info": "",
+                            "lemma": "mother",
+                            "phonetic": "[ˈmɒθə]",
+                            "pos": "noun",
+                            "term": "mother"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 15453,
+                                "expressions": [
+                                    {
+                                        "source": "single mother",
+                                        "target": "Одинокая мать"
+                                    },
+                                    {
+                                        "source": "young mother",
+                                        "target": "молодая мать"
+                                    },
+                                    {
+                                        "source": "surrogate mother",
+                                        "target": "суррогатной матерью"
+                                    },
+                                    {
+                                        "source": "poor mother",
+                                        "target": "бедная мать"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "mom"
+                                ],
+                                "lemma": "матерь",
+                                "rank": "51",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 15453,
+                                "expressions": [
+                                    {
+                                        "source": "Mother Divine",
+                                        "target": "Матери Божьей"
+                                    },
+                                    {
+                                        "source": "God Mother",
+                                        "target": "божьей матери"
+                                    },
+                                    {
+                                        "source": "mothers of the dead",
+                                        "target": "матери погибших"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "matter",
+                                    "mom"
+                                ],
+                                "lemma": "материя",
+                                "rank": "27",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 15453,
+                                "expressions": [
+                                    {
+                                        "source": "doting mother",
+                                        "target": "заботливая мама"
+                                    },
+                                    {
+                                        "source": "ideal mother",
+                                        "target": "идеальная мама"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "mom",
+                                    "mum",
+                                    "mama",
+                                    "mommy"
+                                ],
+                                "lemma": "мама",
+                                "rank": "21",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

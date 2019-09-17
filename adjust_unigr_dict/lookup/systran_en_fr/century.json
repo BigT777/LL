@@ -1,0 +1,78 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "quarter century",
+                                "target": "quart de siècle"
+                            },
+                            {
+                                "context": "",
+                                "source": "past quarter century",
+                                "target": "dernier quart de siècle"
+                            },
+                            {
+                                "context": "",
+                                "source": "early twentieth centuries",
+                                "target": "début du XXe siècle"
+                            },
+                            {
+                                "context": "",
+                                "source": "century of deficits",
+                                "target": "ans de déficit"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:centuries)",
+                            "info": "",
+                            "lemma": "century",
+                            "phonetic": "[ˈsɛn.tʃɚ.i]",
+                            "pos": "noun",
+                            "term": "century"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 8501,
+                                "expressions": [
+                                    {
+                                        "source": "last century",
+                                        "target": "siècle dernier"
+                                    },
+                                    {
+                                        "source": "next century",
+                                        "target": "siècle prochain"
+                                    },
+                                    {
+                                        "source": "past century",
+                                        "target": "dernier siècle"
+                                    },
+                                    {
+                                        "source": "twentieth centuries",
+                                        "target": "XXe siècle"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "half-century"
+                                ],
+                                "lemma": "siècle",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

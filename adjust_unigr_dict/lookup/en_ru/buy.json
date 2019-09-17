@@ -1,0 +1,239 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "buy",
+            "pos": "verb",
+            "ts": "baɪ",
+            "fl": "bought, bought",
+            "tr": [
+                {
+                    "text": "купить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "покупать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "приобретать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "приобрести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "закупать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "выкупить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "закупить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "скупать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выкупать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "прикупить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "докупить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "купить себе",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "purchase"
+                        },
+                        {
+                            "text": "acquire"
+                        },
+                        {
+                            "text": "buy up"
+                        },
+                        {
+                            "text": "buy out"
+                        },
+                        {
+                            "text": "buy in addition"
+                        },
+                        {
+                            "text": "get myself"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "buy glasses",
+                            "tr": [
+                                {
+                                    "text": "купить очки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "buy lottery tickets",
+                            "tr": [
+                                {
+                                    "text": "покупать лотерейные билеты"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "buy new clothes",
+                            "tr": [
+                                {
+                                    "text": "покупать новую одежду"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "buy property",
+                            "tr": [
+                                {
+                                    "text": "приобретать недвижимость"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "buy souvenirs",
+                            "tr": [
+                                {
+                                    "text": "приобрести сувениры"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "buy goods",
+                            "tr": [
+                                {
+                                    "text": "закупать товар"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "buy the company",
+                            "tr": [
+                                {
+                                    "text": "выкупить компанию"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "buy the equipment",
+                            "tr": [
+                                {
+                                    "text": "закупить оборудование"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "buy dollars",
+                            "tr": [
+                                {
+                                    "text": "скупать доллары"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "продать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "sell"
+                        }
+                    ]
+                },
+                {
+                    "text": "накупить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "ex": [
+                        {
+                            "text": "buy gifts",
+                            "tr": [
+                                {
+                                    "text": "накупить подарков"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "подкупить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "bribe"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "buy",
+            "pos": "noun",
+            "ts": "baɪ",
+            "tr": [
+                {
+                    "text": "покупка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "приобретение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "закупка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "purchase"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "buying experience",
+                            "tr": [
+                                {
+                                    "text": "приобретение опыта"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

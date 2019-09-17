@@ -1,0 +1,276 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "freeze",
+            "pos": "verb",
+            "ts": "friːz",
+            "fl": "froze, frozen",
+            "tr": [
+                {
+                    "text": "замерзать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "замерзнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "мерзнуть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "промерзать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вымерзать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "freeze over"
+                        },
+                        {
+                            "text": "cold"
+                        },
+                        {
+                            "text": "freeze solid"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "freeze to death",
+                            "tr": [
+                                {
+                                    "text": "замерзать до смерти"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "frozen waterfall",
+                            "tr": [
+                                {
+                                    "text": "замерзший водопад"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "замораживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "морозить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "заморозить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подморозить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "frost"
+                        },
+                        {
+                            "text": "ice"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "freeze enemies",
+                            "tr": [
+                                {
+                                    "text": "замораживать врагов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "frozen product",
+                            "tr": [
+                                {
+                                    "text": "замороженный продукт"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "застывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "замереть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "замирать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "застыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оцепенеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "harden"
+                        },
+                        {
+                            "text": "frozen"
+                        },
+                        {
+                            "text": "stop"
+                        },
+                        {
+                            "text": "numb"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "freeze in place",
+                            "tr": [
+                                {
+                                    "text": "замереть на месте"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "примерзать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "примерзнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ]
+                },
+                {
+                    "text": "зависать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "зависнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hang"
+                        }
+                    ]
+                },
+                {
+                    "text": "отморозить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "frostbite"
+                        }
+                    ]
+                },
+                {
+                    "text": "заледенеть",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "вмерзнуть",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "freeze",
+            "pos": "noun",
+            "ts": "friːz",
+            "tr": [
+                {
+                    "text": "замораживание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "заморозка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "замерзание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "freezing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "deep freeze",
+                            "tr": [
+                                {
+                                    "text": "глубокая заморозка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "зависание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "hang"
+                        }
+                    ]
+                },
+                {
+                    "text": "мороз",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "frost"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

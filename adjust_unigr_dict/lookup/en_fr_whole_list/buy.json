@@ -1,0 +1,39 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "buy",
+            "pos": "verb",
+            "ts": "baɪ",
+            "fl": "bought, bought",
+            "tr": [
+                {
+                    "text": "acheter",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "purchase"
+                        }
+                    ]
+                },
+                {
+                    "text": "achat",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "buy",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "purchase"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

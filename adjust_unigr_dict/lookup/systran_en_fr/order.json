@@ -1,0 +1,456 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "government order",
+                                "target": "initiative ministérielle"
+                            },
+                            {
+                                "context": "",
+                                "source": "enforcement order",
+                                "target": "titre exécutoire"
+                            },
+                            {
+                                "context": "",
+                                "source": "european enforcement order",
+                                "target": "titre exécutoire européen"
+                            },
+                            {
+                                "context": "",
+                                "source": "postal order",
+                                "target": "mandat postal"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:orders)",
+                            "info": "",
+                            "lemma": "order",
+                            "phonetic": "[ˈɔɹdɚ]",
+                            "pos": "noun",
+                            "term": "order"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 34706,
+                                "expressions": [
+                                    {
+                                        "source": "public order",
+                                        "target": "ordre public"
+                                    },
+                                    {
+                                        "source": "alphabetical order",
+                                        "target": "ordre alphabétique"
+                                    },
+                                    {
+                                        "source": "legal order",
+                                        "target": "ordre juridique"
+                                    },
+                                    {
+                                        "source": "Date Order",
+                                        "target": "ordre de date"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "agenda",
+                                    "sequence",
+                                    "college",
+                                    "suborder"
+                                ],
+                                "lemma": "ordre",
+                                "rank": "39",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 34706,
+                                "expressions": [
+                                    {
+                                        "source": "small orders",
+                                        "target": "petite commande"
+                                    },
+                                    {
+                                        "source": "firm orders",
+                                        "target": "commande ferme"
+                                    },
+                                    {
+                                        "source": "original order",
+                                        "target": "commande d'origine"
+                                    },
+                                    {
+                                        "source": "online order",
+                                        "target": "commande en ligne"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "command",
+                                    "control"
+                                ],
+                                "lemma": "commande",
+                                "rank": "20",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 34706,
+                                "expressions": [
+                                    {
+                                        "source": "order for reference",
+                                        "target": "ordonnance de renvoi"
+                                    },
+                                    {
+                                        "source": "court order",
+                                        "target": "ordonnance de la cour"
+                                    },
+                                    {
+                                        "source": "interim order",
+                                        "target": "ordonnance provisoire"
+                                    },
+                                    {
+                                        "source": "administrative order",
+                                        "target": "ordonnance administrative"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "prescription",
+                                    "ordinance"
+                                ],
+                                "lemma": "ordonnance",
+                                "rank": "17",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 34706,
+                                "expressions": [
+                                    {
+                                        "source": "order in council",
+                                        "target": "décret du conseil"
+                                    },
+                                    {
+                                        "source": "Remission Order",
+                                        "target": "Décret de remise"
+                                    },
+                                    {
+                                        "source": "Exclusion Approval Order",
+                                        "target": "décret d'exemption"
+                                    },
+                                    {
+                                        "source": "ministerial order",
+                                        "target": "décret ministériel"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "decree",
+                                    "annexed Order",
+                                    "order in council",
+                                    "Order-in-Council"
+                                ],
+                                "lemma": "décret",
+                                "rank": "7",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 34706,
+                                "expressions": [
+                                    {
+                                        "source": "standing orders of the house",
+                                        "target": "Règlement de la Chambre"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "regulation",
+                                    "rule",
+                                    "settlement",
+                                    "rules of procedure",
+                                    "resolution"
+                                ],
+                                "lemma": "règlement",
+                                "rank": "5",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 34706,
+                                "expressions": [
+                                    {
+                                        "source": "order concerning the vote",
+                                        "target": "procédure concernant le vote"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "procedure",
+                                    "proceeding",
+                                    "process"
+                                ],
+                                "lemma": "procédure",
+                                "rank": "4",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 34706,
+                                "expressions": [
+                                    {
+                                        "source": "order of the agency",
+                                        "target": "arrêté de l'Office"
+                                    },
+                                    {
+                                        "source": "final order",
+                                        "target": "arrêté final"
+                                    },
+                                    {
+                                        "source": "Delegation Order",
+                                        "target": "arrêté de délégation"
+                                    },
+                                    {
+                                        "source": "surrender order",
+                                        "target": "arrêté de remise"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "decree",
+                                    "annexed Order",
+                                    "by-law"
+                                ],
+                                "lemma": "arrêté",
+                                "rank": "4",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "IT",
+                                "entry_id": 34706,
+                                "expressions": [
+                                    {
+                                        "source": "working order",
+                                        "target": "bon de travail"
+                                    },
+                                    {
+                                        "source": "purchase order",
+                                        "target": "bon de commande"
+                                    },
+                                    {
+                                        "source": "installation work order",
+                                        "target": "bon de travail d'installation"
+                                    },
+                                    {
+                                        "source": "installation order",
+                                        "target": "bon d'installation"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "voucher",
+                                    "purchase",
+                                    "bond",
+                                    "coupon",
+                                    "ticket",
+                                    "good",
+                                    "bon"
+                                ],
+                                "lemma": "bon",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "ordered by a physician",
+                                "target": "prescrit par un médecin"
+                            },
+                            {
+                                "context": "",
+                                "source": "to order a simple blood test",
+                                "target": "prescrire une analyse sanguine"
+                            },
+                            {
+                                "context": "",
+                                "source": "order on the order",
+                                "target": "indiqué dans la commande"
+                            },
+                            {
+                                "context": "",
+                                "source": "to order from the menu",
+                                "target": "manger à la carte"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(orders/ordered)",
+                            "info": "",
+                            "lemma": "order",
+                            "phonetic": "[ˈɔɹdɚ]",
+                            "pos": "verb",
+                            "term": "order"
+                        },
+                        "targets": [
+                            {
+                                "context": "copy, drive, card, cable",
+                                "domain": "",
+                                "entry_id": 34707,
+                                "expressions": [
+                                    {
+                                        "source": "to order online",
+                                        "target": "commander en ligne"
+                                    },
+                                    {
+                                        "source": "ordered with the system",
+                                        "target": "commandée avec le système"
+                                    },
+                                    {
+                                        "source": "to order the following rtu license",
+                                        "target": "commander les licences RTU suivantes"
+                                    },
+                                    {
+                                        "source": "to order a la carte",
+                                        "target": "commander à la carte"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "commission",
+                                    "command",
+                                    "control"
+                                ],
+                                "lemma": "commander",
+                                "rank": "61",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "disclosure, production, measure, remedy",
+                                "domain": "",
+                                "entry_id": 34707,
+                                "expressions": [
+                                    {
+                                        "source": "ordered by the commission",
+                                        "target": "ordonné par la Commission"
+                                    },
+                                    {
+                                        "source": "to order a remedy",
+                                        "target": "ordonner une réparation"
+                                    },
+                                    {
+                                        "source": "to order the deputy head",
+                                        "target": "ordonner à l'administrateur général"
+                                    },
+                                    {
+                                        "source": "to order the disclosure of information",
+                                        "target": "ordonner la communication des renseignements"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "direct",
+                                    "ordain",
+                                    "instruct",
+                                    "command"
+                                ],
+                                "lemma": "ordonner",
+                                "rank": "35",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "commission, defendant, kingdom, republic",
+                                "domain": "",
+                                "entry_id": 34707,
+                                "expressions": [
+                                    {
+                                        "source": "to order the Community",
+                                        "target": "condamner la Communauté"
+                                    },
+                                    {
+                                        "source": "to order the defendant",
+                                        "target": "condamner la partie défenderesse"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "condemn",
+                                    "sentence",
+                                    "convict",
+                                    "condemn",
+                                    "doom"
+                                ],
+                                "lemma": "condamner",
+                                "rank": "3",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 34707,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "passer commande",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "data",
+                                "domain": "",
+                                "entry_id": 34707,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "sort",
+                                    "sort",
+                                    "screen",
+                                    "out-~-sort out",
+                                    "segregate",
+                                    "grade"
+                                ],
+                                "lemma": "trier",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

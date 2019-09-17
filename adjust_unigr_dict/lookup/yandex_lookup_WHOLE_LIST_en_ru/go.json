@@ -1,0 +1,249 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "go",
+            "pos": "verb",
+            "ts": "gəʊ",
+            "fl": "went, gone",
+            "tr": [
+                {
+                    "text": "идти",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "пойти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "ходить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поехать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выйти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выходить",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "зайти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "заходить",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "сходить",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "come"
+                        },
+                        {
+                            "text": "walk"
+                        },
+                        {
+                            "text": "come down"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "go right ahead",
+                            "tr": [
+                                {
+                                    "text": "идти прямо вперед"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "go south",
+                            "tr": [
+                                {
+                                    "text": "пойти на юг"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "go barefoot",
+                            "tr": [
+                                {
+                                    "text": "ходить босиком"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "go by train",
+                            "tr": [
+                                {
+                                    "text": "поехать поездом"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "go ashore",
+                            "tr": [
+                                {
+                                    "text": "сходить на берег"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "проходить",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "пройти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "be"
+                        },
+                        {
+                            "text": "pass"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "go through walls",
+                            "tr": [
+                                {
+                                    "text": "проходить сквозь стены"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "go well",
+                            "tr": [
+                                {
+                                    "text": "пройти успешно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ехать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ездить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ride"
+                        },
+                        {
+                            "text": "travel"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "go anywhere",
+                            "tr": [
+                                {
+                                    "text": "ехать никуда"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "go everywhere",
+                            "tr": [
+                                {
+                                    "text": "ездить везде"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отправиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "уходить",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "уйти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отправляться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "leave"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "go on leave",
+                            "tr": [
+                                {
+                                    "text": "уходить в отпуск"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "go quietly",
+                            "tr": [
+                                {
+                                    "text": "уйти спокойно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "перейти",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "move"
+                        }
+                    ]
+                },
+                {
+                    "text": "происходить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "happen"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "fair",
+                            "phonetic": "[fɛɚ]",
+                            "pos": "adj",
+                            "term": "fair"
+                        },
+                        "targets": [
+                            {
+                                "context": "election, trial, share, system",
+                                "domain": "",
+                                "entry_id": 8824,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "just",
+                                    "equitable",
+                                    "righteous"
+                                ],
+                                "lemma": "справедливый",
+                                "rank": "70",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "election, play, competition, game",
+                                "domain": "",
+                                "entry_id": 8824,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "honest",
+                                    "honourable"
+                                ],
+                                "lemma": "честный",
+                                "rank": "26",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 8824,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "impartial",
+                                    "dispassionate",
+                                    "unbiased",
+                                    "even-handed",
+                                    "candid",
+                                    "impersonal",
+                                    "non-partisan"
+                                ],
+                                "lemma": "беспристрастный",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "use, competition",
+                                "domain": "",
+                                "entry_id": 8824,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "conscientious",
+                                    "diligent"
+                                ],
+                                "lemma": "добросовестный",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "(pl:fairs)",
+                            "info": "",
+                            "lemma": "fair",
+                            "phonetic": "[fɛɚ]",
+                            "pos": "noun",
+                            "term": "fair"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 8825,
+                                "expressions": [
+                                    {
+                                        "source": "trade fair",
+                                        "target": "торговая ярмарка"
+                                    },
+                                    {
+                                        "source": "international fair",
+                                        "target": "международная ярмарка"
+                                    },
+                                    {
+                                        "source": "job fair",
+                                        "target": "ярмарка вакансий"
+                                    },
+                                    {
+                                        "source": "book fair",
+                                        "target": "книжная ярмарка"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "trade fair"
+                                ],
+                                "lemma": "ярмарка",
+                                "rank": "65",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 8825,
+                                "expressions": [
+                                    {
+                                        "source": "world's fair",
+                                        "target": "Всемирная выставка"
+                                    },
+                                    {
+                                        "source": "international trade fair",
+                                        "target": "международная выставка"
+                                    },
+                                    {
+                                        "source": "building fair",
+                                        "target": "строительная выставка"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "exhibition",
+                                    "show",
+                                    "exhibit",
+                                    "expo",
+                                    "exposition",
+                                    "trade fair",
+                                    "trade show"
+                                ],
+                                "lemma": "выставка",
+                                "rank": "34",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

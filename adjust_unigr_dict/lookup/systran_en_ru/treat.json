@@ -1,0 +1,271 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "real treat",
+                                "target": "настоящий праздник"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:treats)",
+                            "info": "",
+                            "lemma": "treat",
+                            "phonetic": "[tɹit]",
+                            "pos": "noun",
+                            "term": "treat"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 24814,
+                                "expressions": [
+                                    {
+                                        "source": "morning treat",
+                                        "target": "утреннее угощение"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "feast"
+                                ],
+                                "lemma": "угощение",
+                                "rank": "62",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 24814,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "pleasure",
+                                    "fun",
+                                    "satisfaction",
+                                    "enjoyment",
+                                    "amusement",
+                                    "joy",
+                                    "delight"
+                                ],
+                                "lemma": "удовольствие",
+                                "rank": "29",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 24814,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "delicacy",
+                                    "dainty"
+                                ],
+                                "lemma": "лакомство",
+                                "rank": "8",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "(treats/treated)",
+                            "info": "",
+                            "lemma": "treat",
+                            "phonetic": "[tɹit]",
+                            "pos": "verb",
+                            "term": "treat"
+                        },
+                        "targets": [
+                            {
+                                "context": "people, patient, disease, cancer",
+                                "domain": "",
+                                "entry_id": 24815,
+                                "expressions": [
+                                    {
+                                        "source": "to treat people",
+                                        "target": "лечить людей"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "heal",
+                                    "cure",
+                                    "heal",
+                                    "dose"
+                                ],
+                                "lemma": "лечить",
+                                "rank": "33",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "application, tourism, moral",
+                                "domain": "",
+                                "entry_id": 24815,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "consider",
+                                    "see",
+                                    "view",
+                                    "regard",
+                                    "examine",
+                                    "review"
+                                ],
+                                "lemma": "рассматривать",
+                                "rank": "16",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 24815,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "include",
+                                    "apply",
+                                    "belong",
+                                    "relate",
+                                    "concern",
+                                    "view",
+                                    "regard",
+                                    "date back"
+                                ],
+                                "lemma": "относиться",
+                                "rank": "13",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 24815,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "turn",
+                                    "contact",
+                                    "apply",
+                                    "appeal",
+                                    "address",
+                                    "deal",
+                                    "turn",
+                                    "reach out"
+                                ],
+                                "lemma": "обращаться",
+                                "rank": "9",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 24815,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "cure",
+                                    "heal"
+                                ],
+                                "lemma": "вылечить",
+                                "rank": "4",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 24815,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "consider",
+                                    "view",
+                                    "address",
+                                    "examine",
+                                    "regard",
+                                    "see",
+                                    "review",
+                                    "construe"
+                                ],
+                                "lemma": "рассматриваться",
+                                "rank": "4",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 24815,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "угостить",
+                                "rank": "3",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 24815,
+                                "expressions": [
+                                    {
+                                        "source": "to treat even vast skin areas",
+                                        "target": "обрабатывать даже большие участки кожи"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "process",
+                                    "handle",
+                                    "process",
+                                    "handle",
+                                    "machine",
+                                    "cultivate"
+                                ],
+                                "lemma": "обрабатывать",
+                                "rank": "3",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 24815,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "лечиться",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

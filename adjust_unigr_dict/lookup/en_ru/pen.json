@@ -1,0 +1,208 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "pen",
+            "pos": "noun",
+            "ts": "pen",
+            "tr": [
+                {
+                    "text": "ручка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "перо",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "авторучка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "feather"
+                        },
+                        {
+                            "text": "fountain pen"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ballpoint pen",
+                            "tr": [
+                                {
+                                    "text": "шариковая ручка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ball point pen",
+                            "tr": [
+                                {
+                                    "text": "шариковая ручка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "light pen",
+                            "tr": [
+                                {
+                                    "text": "световое перо"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "рейсфедер",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "фломастер",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "карандаш",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "маркер",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "marker"
+                        },
+                        {
+                            "text": "pencil"
+                        }
+                    ]
+                },
+                {
+                    "text": "загон",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "хлев",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "corral"
+                        },
+                        {
+                            "text": "barn"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sheep pen",
+                            "tr": [
+                                {
+                                    "text": "овечий загон"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Перу",
+                    "pos": "noun",
+                    "gen": "ср"
+                },
+                {
+                    "text": "пена",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "foam"
+                        }
+                    ]
+                },
+                {
+                    "text": "пенал",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "pencil case"
+                        }
+                    ]
+                },
+                {
+                    "text": "световое перо",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "light pen"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "pen",
+            "pos": "verb",
+            "ts": "pen",
+            "fl": "penned/pent, penned/pent",
+            "tr": [
+                {
+                    "text": "писать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "написать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "write"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "pen",
+            "pos": "adjective",
+            "ts": "pen",
+            "tr": [
+                {
+                    "text": "перьевой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "feather"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pen tablet",
+                            "tr": [
+                                {
+                                    "text": "перьевой планшет"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

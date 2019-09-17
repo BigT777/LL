@@ -1,0 +1,74 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "internal exams",
+                                "target": "concours interne"
+                            },
+                            {
+                                "context": "",
+                                "source": "practice exam",
+                                "target": "épreuve pratique"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:exams)",
+                            "info": "",
+                            "lemma": "exam",
+                            "phonetic": "[ɪɡˈzæm]",
+                            "pos": "noun",
+                            "term": "exam"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 17775,
+                                "expressions": [
+                                    {
+                                        "source": "written exam",
+                                        "target": "examen écrit"
+                                    },
+                                    {
+                                        "source": "final exam",
+                                        "target": "examen final"
+                                    },
+                                    {
+                                        "source": "medical exam",
+                                        "target": "examen médical"
+                                    },
+                                    {
+                                        "source": "knowledge exam",
+                                        "target": "examen des connaissances"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "review",
+                                    "examination",
+                                    "test",
+                                    "consideration",
+                                    "scrutiny",
+                                    "discussion",
+                                    "self-examination"
+                                ],
+                                "lemma": "examen",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "spoon",
+            "pos": "noun",
+            "ts": "spuːn",
+            "tr": [
+                {
+                    "text": "ложка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "столовая ложка",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "ложечка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tablespoon"
+                        },
+                        {
+                            "text": "spoonful"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tea spoon",
+                            "tr": [
+                                {
+                                    "text": "чайная ложечка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "блесна",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "spinner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "spoon",
+            "pos": "verb",
+            "ts": "spuːn",
+            "tr": [
+                {
+                    "text": "обниматься",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "черпать ложкой",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "best buys",
+                                "target": "bonne affaire"
+                            },
+                            {
+                                "context": "",
+                                "source": "buy authorize",
+                                "target": "distributeur agréé"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:buies)",
+                            "info": "",
+                            "lemma": "buy",
+                            "phonetic": "[baɪ]",
+                            "pos": "noun",
+                            "term": "buy"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "IT",
+                                "entry_id": 7305,
+                                "expressions": [
+                                    {
+                                        "source": "first time buy",
+                                        "target": "premier achat"
+                                    },
+                                    {
+                                        "source": "special buys",
+                                        "target": "achat spécial"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "purchase",
+                                    "acquisition",
+                                    "procurement",
+                                    "buying",
+                                    "shopping",
+                                    "buyer"
+                                ],
+                                "lemma": "achat",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "to buy time",
+                                "target": "gagner du temps"
+                            },
+                            {
+                                "context": "",
+                                "source": "to buy bottled water",
+                                "target": "consommer de l'eau embouteillée"
+                            },
+                            {
+                                "context": "",
+                                "source": "to buy lottery tickets",
+                                "target": "jouer au Loto"
+                            },
+                            {
+                                "context": "",
+                                "source": "to buy insurance",
+                                "target": "souscrire une assurance"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(buys/bought)",
+                            "info": "",
+                            "lemma": "buy",
+                            "phonetic": "[baɪ]",
+                            "pos": "verb",
+                            "term": "buy"
+                        },
+                        "targets": [
+                            {
+                                "context": "product, item, ticket, car",
+                                "domain": "",
+                                "entry_id": 7306,
+                                "expressions": [
+                                    {
+                                        "source": "to buy cigarettes",
+                                        "target": "acheter des cigarettes"
+                                    },
+                                    {
+                                        "source": "to buy a car",
+                                        "target": "acheter une voiture"
+                                    },
+                                    {
+                                        "source": "to buy this item",
+                                        "target": "acheter cet objet"
+                                    },
+                                    {
+                                        "source": "to buy a house",
+                                        "target": "acheter une maison"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "purchase",
+                                    "purchase",
+                                    "acquire"
+                                ],
+                                "lemma": "acheter",
+                                "rank": "94",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "car, equipment, house, vehicle",
+                                "domain": "",
+                                "entry_id": 7306,
+                                "expressions": [
+                                    {
+                                        "source": "to buy that car",
+                                        "target": "acquérir cette voiture"
+                                    },
+                                    {
+                                        "source": "to buy the basic equipment",
+                                        "target": "acquérir l'équipement de base"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "acquire",
+                                    "gain",
+                                    "earn",
+                                    "purchase",
+                                    "acquire",
+                                    "learn",
+                                    "grant",
+                                    "vest"
+                                ],
+                                "lemma": "acquérir",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "share, license, debt, asset",
+                                "domain": "",
+                                "entry_id": 7306,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "redeem",
+                                    "buy back",
+                                    "repurchase",
+                                    "take over",
+                                    "purchase",
+                                    "up-~-buy up",
+                                    "out-~-buy out"
+                                ],
+                                "lemma": "racheter",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 7306,
+                                "expressions": [
+                                    {
+                                        "source": "to buy refrigeration",
+                                        "target": "s'acheter de système de réfrigération"
+                                    },
+                                    {
+                                        "source": "to buy any antibiotics",
+                                        "target": "s'acheter des antibiotiques"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "turn over"
+                                ],
+                                "lemma": "s'acheter",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 7306,
+                                "expressions": [
+                                    {
+                                        "source": "to buy your cheeses",
+                                        "target": "se procurer vos fromages"
+                                    },
+                                    {
+                                        "source": "to buy drugs",
+                                        "target": "se procurer de la drogue"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "obtain",
+                                    "purchase",
+                                    "acquire",
+                                    "procure",
+                                    "obtain"
+                                ],
+                                "lemma": "se procurer",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "source": {
+                            "inflection": "(buys/bought)",
+                            "info": "",
+                            "lemma": "buy up",
+                            "phonetic": "[baɪ]",
+                            "pos": "verb",
+                            "term": "buy"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 7307,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "buy",
+                                    "redeem",
+                                    "buy back",
+                                    "repurchase",
+                                    "take over",
+                                    "purchase",
+                                    "buy",
+                                    "up-~-buy up",
+                                    "out-~-buy out"
+                                ],
+                                "lemma": "racheter",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 7307,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "monopolize",
+                                    "corner",
+                                    "hijack",
+                                    "commandeer",
+                                    "up-~-buy up",
+                                    "pocket",
+                                    "corner"
+                                ],
+                                "lemma": "accaparer",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "source": {
+                            "inflection": "(buys/bought)",
+                            "info": "",
+                            "lemma": "buy out",
+                            "phonetic": "[baɪ]",
+                            "pos": "verb",
+                            "term": "buy"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 7308,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "buy",
+                                    "redeem",
+                                    "buy back",
+                                    "repurchase",
+                                    "take over",
+                                    "purchase",
+                                    "buy",
+                                    "up-~-buy up",
+                                    "out-~-buy out"
+                                ],
+                                "lemma": "racheter",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

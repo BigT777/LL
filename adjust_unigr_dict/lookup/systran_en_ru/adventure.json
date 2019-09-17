@@ -1,0 +1,119 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "phrase adventure",
+                                "target": "фразой adventure"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:adventures)",
+                            "info": "",
+                            "lemma": "adventure",
+                            "phonetic": "[ədˈvɛntʃə]",
+                            "pos": "noun",
+                            "term": "adventure"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 543,
+                                "expressions": [
+                                    {
+                                        "source": "epic adventure",
+                                        "target": "эпическое приключение"
+                                    },
+                                    {
+                                        "source": "dangerous adventure",
+                                        "target": "опасного приключения"
+                                    },
+                                    {
+                                        "source": "exciting adventure",
+                                        "target": "волнующее приключение"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "приключение",
+                                "rank": "82",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 543,
+                                "expressions": [
+                                    {
+                                        "source": "foreign adventure",
+                                        "target": "зарубежные авантюры"
+                                    },
+                                    {
+                                        "source": "arm adventure",
+                                        "target": "вооруженная авантюра"
+                                    },
+                                    {
+                                        "source": "caudillist adventures",
+                                        "target": "каудиллистскими авантюрами"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "venture",
+                                    "adventurism",
+                                    "gamble",
+                                    "proposed adventure"
+                                ],
+                                "lemma": "авантюра",
+                                "rank": "12",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 543,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "tour",
+                                    "round",
+                                    "runoff"
+                                ],
+                                "lemma": "тура",
+                                "rank": "3",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 543,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "adventures",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

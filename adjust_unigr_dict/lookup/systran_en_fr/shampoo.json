@@ -1,0 +1,91 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "source": {
+                            "inflection": "(pl:shampoos)",
+                            "info": "",
+                            "lemma": "shampoo",
+                            "phonetic": "[ʃæmˈpu]",
+                            "pos": "noun",
+                            "term": "shampoo"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 45135,
+                                "expressions": [
+                                    {
+                                        "source": "tar-based shampoos",
+                                        "target": "shampooings à base de goudron"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "hair shampoos"
+                                ],
+                                "lemma": "shampooing",
+                                "rank": "67",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 45135,
+                                "expressions": [
+                                    {
+                                        "source": "medicated shampoo",
+                                        "target": "shampoings médicamentés"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "shampoing",
+                                "rank": "32",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "source": {
+                            "inflection": "(shampoos/shampooed)",
+                            "info": "",
+                            "lemma": "shampoo",
+                            "phonetic": "[ʃæmˈpu]",
+                            "pos": "verb",
+                            "term": "shampoo"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 45136,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "shampouiner",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

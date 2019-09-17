@@ -1,0 +1,73 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "(pl:cafes)",
+                            "info": "",
+                            "lemma": "cafe",
+                            "phonetic": "[kæfˈeɪ]",
+                            "pos": "noun",
+                            "term": "cafe"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 3435,
+                                "expressions": [
+                                    {
+                                        "source": "local cafe",
+                                        "target": "местном кафе"
+                                    },
+                                    {
+                                        "source": "cosy cafe",
+                                        "target": "уютное кафе"
+                                    },
+                                    {
+                                        "source": "charming cafe",
+                                        "target": "очаровательное кафе"
+                                    },
+                                    {
+                                        "source": "pavement cafes",
+                                        "target": "уличных кафе"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "café",
+                                    "coffee shop",
+                                    "cafeteria",
+                                    "coffee"
+                                ],
+                                "lemma": "кафе",
+                                "rank": "98",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 3435,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "cafeteria"
+                                ],
+                                "lemma": "кафетерий",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

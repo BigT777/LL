@@ -1,0 +1,541 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "fire",
+                            "phonetic": "",
+                            "pos": "adj",
+                            "term": "fire"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 9243,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "пожарный",
+                                "rank": "48",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 9243,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "огневой",
+                                "rank": "33",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 9243,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "дымогарный",
+                                "rank": "6",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 9243,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "refractory",
+                                    "fire-resistant",
+                                    "heat-resistant",
+                                    "fireproof"
+                                ],
+                                "lemma": "огнеупорный",
+                                "rank": "6",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 9243,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "firefighting"
+                                ],
+                                "lemma": "противопожарный",
+                                "rank": "6",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "small-arms fire",
+                                "target": "стрелковое оружие"
+                            },
+                            {
+                                "context": "",
+                                "source": "indirect fire",
+                                "target": "закрытой огневой позиции"
+                            },
+                            {
+                                "context": "",
+                                "source": "fight fire",
+                                "target": "тушение пожара"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:fires)",
+                            "info": "",
+                            "lemma": "fire",
+                            "phonetic": "[ˈfaɪ̯ə(ɹ)]",
+                            "pos": "noun",
+                            "term": "fire"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 9244,
+                                "expressions": [
+                                    {
+                                        "source": "open fire",
+                                        "target": "открытый огонь"
+                                    },
+                                    {
+                                        "source": "enemy fire",
+                                        "target": "огонь противника"
+                                    },
+                                    {
+                                        "source": "return fire",
+                                        "target": "ответный огонь"
+                                    },
+                                    {
+                                        "source": "automatic fire",
+                                        "target": "автоматический огонь"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "light",
+                                    "flame"
+                                ],
+                                "lemma": "огонь",
+                                "rank": "62",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 9244,
+                                "expressions": [
+                                    {
+                                        "source": "forest fire",
+                                        "target": "лесной пожар"
+                                    },
+                                    {
+                                        "source": "electrical fire",
+                                        "target": "электрические пожары"
+                                    },
+                                    {
+                                        "source": "frequent forest fires",
+                                        "target": "частыми лесными пожарами"
+                                    },
+                                    {
+                                        "source": "raging fire",
+                                        "target": "бушующий пожар"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "conflagration",
+                                    "wildfire"
+                                ],
+                                "lemma": "пожар",
+                                "rank": "28",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 9244,
+                                "expressions": [
+                                    {
+                                        "source": "real fire",
+                                        "target": "настоящий камин"
+                                    },
+                                    {
+                                        "source": "cosy open fire",
+                                        "target": "уютный камин"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "fireplace",
+                                    "open fire",
+                                    "open fireplace",
+                                    "fire place",
+                                    "chimney"
+                                ],
+                                "lemma": "камин",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 9244,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "campfire",
+                                    "bonfire",
+                                    "stake",
+                                    "pyre",
+                                    "firewood",
+                                    "fire pit",
+                                    "camp fire"
+                                ],
+                                "lemma": "костер",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 9244,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "bombardment",
+                                    "shooting",
+                                    "gunfire",
+                                    "firing",
+                                    "shelling",
+                                    "fortification",
+                                    "ambush"
+                                ],
+                                "lemma": "обстрел",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 9244,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "shooting",
+                                    "gunfire",
+                                    "firing",
+                                    "marksmanship",
+                                    "aerial firing",
+                                    "gunnery",
+                                    "gunshot"
+                                ],
+                                "lemma": "стрельба",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 9244,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "shootout",
+                                    "gun battle",
+                                    "clash",
+                                    "firefight",
+                                    "shooting",
+                                    "gunfire",
+                                    "gunfight",
+                                    "skirmish"
+                                ],
+                                "lemma": "перестрелка",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "to fire spontaneously",
+                                "target": "самопроизвольно запускаться"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(fires/fired)",
+                            "info": "",
+                            "lemma": "fire",
+                            "phonetic": "[ˈfaɪ̯ə(ɹ)]",
+                            "pos": "verb",
+                            "term": "fire"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 9245,
+                                "expressions": [
+                                    {
+                                        "source": "to simply fire his prime minister",
+                                        "target": "просто уволить своего премьер-министра"
+                                    },
+                                    {
+                                        "source": "to fire his prime minister",
+                                        "target": "уволить своего премьер-министра"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "sack",
+                                    "dismiss",
+                                    "lay off"
+                                ],
+                                "lemma": "уволить",
+                                "rank": "40",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "rocket, missile, round, bullet",
+                                "domain": "",
+                                "entry_id": 9245,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "release",
+                                    "issue",
+                                    "produce",
+                                    "launch",
+                                    "publish",
+                                    "let out",
+                                    "release"
+                                ],
+                                "lemma": "выпустить",
+                                "rank": "13",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 9245,
+                                "expressions": [
+                                    {
+                                        "source": "to fire guns in the air",
+                                        "target": "стрелять в воздух"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "shoot",
+                                    "shoot",
+                                    "go boom"
+                                ],
+                                "lemma": "стрелять",
+                                "rank": "13",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "rocket",
+                                "domain": "",
+                                "entry_id": 9245,
+                                "expressions": [
+                                    {
+                                        "source": "to fire at a border post",
+                                        "target": "обстрелять пограничный пост"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "shell",
+                                    "attack",
+                                    "pound",
+                                    "ambush",
+                                    "target",
+                                    "shoot",
+                                    "bomb",
+                                    "bombard"
+                                ],
+                                "lemma": "обстрелять",
+                                "rank": "6",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 9245,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "открыть огонь",
+                                "rank": "5",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 9245,
+                                "expressions": [
+                                    {
+                                        "source": "to fire employees",
+                                        "target": "увольнять сотрудников"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "lay off",
+                                    "dismiss"
+                                ],
+                                "lemma": "увольнять",
+                                "rank": "5",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 9245,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "shoot",
+                                    "get shot"
+                                ],
+                                "lemma": "выстрелить",
+                                "rank": "5",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "shot",
+                                "domain": "",
+                                "entry_id": 9245,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "produce",
+                                    "make",
+                                    "perform",
+                                    "generate",
+                                    "manufacture",
+                                    "produce"
+                                ],
+                                "lemma": "произвести",
+                                "rank": "4",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "gas",
+                                "domain": "",
+                                "entry_id": 9245,
+                                "expressions": [
+                                    {
+                                        "source": "to fire tear gas",
+                                        "target": "применить слезоточивый газ"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "apply",
+                                    "implement",
+                                    "deploy",
+                                    "apply",
+                                    "impose"
+                                ],
+                                "lemma": "применить",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "(fires/fired)",
+                            "info": "",
+                            "lemma": "fire up",
+                            "phonetic": "[ˈfaɪ̯ə(ɹ)]",
+                            "pos": "verb",
+                            "term": "fire"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 9246,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "run",
+                                    "launch",
+                                    "execute",
+                                    "launch",
+                                    "fly",
+                                    "run",
+                                    "fire",
+                                    "start up",
+                                    "fire up"
+                                ],
+                                "lemma": "запускать",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

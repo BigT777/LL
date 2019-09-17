@@ -1,0 +1,223 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "table",
+                            "phonetic": "",
+                            "pos": "adj",
+                            "term": "table"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 23773,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "tabular"
+                                ],
+                                "lemma": "табличный",
+                                "rank": "50",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 23773,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "desktop"
+                                ],
+                                "lemma": "настольный",
+                                "rank": "50",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "ping-pong table",
+                                "target": "настольный теннис"
+                            },
+                            {
+                                "context": "",
+                                "source": "drop table",
+                                "target": "удаление таблиц"
+                            },
+                            {
+                                "context": "",
+                                "source": "Surface Table",
+                                "target": "Surface Table"
+                            },
+                            {
+                                "context": "",
+                                "source": "bedside table",
+                                "target": "прикроватными тумбочками"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:tables)",
+                            "info": "",
+                            "lemma": "table",
+                            "phonetic": "[ˈteɪbəl]",
+                            "pos": "noun",
+                            "term": "table"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 23774,
+                                "expressions": [
+                                    {
+                                        "source": "round table",
+                                        "target": "круглый стол"
+                                    },
+                                    {
+                                        "source": "dining table",
+                                        "target": "обеденный стол"
+                                    },
+                                    {
+                                        "source": "pool table",
+                                        "target": "бильярдный стол"
+                                    },
+                                    {
+                                        "source": "negotiating table",
+                                        "target": "стол переговоров"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "desk",
+                                    "desktop"
+                                ],
+                                "lemma": "стол",
+                                "rank": "60",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 23774,
+                                "expressions": [
+                                    {
+                                        "source": "routing table",
+                                        "target": "Таблица маршрутизации"
+                                    },
+                                    {
+                                        "source": "following table",
+                                        "target": "следующая таблица"
+                                    },
+                                    {
+                                        "source": "periodic table",
+                                        "target": "периодическая таблица"
+                                    },
+                                    {
+                                        "source": "partition table",
+                                        "target": "таблица разделов"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "chart",
+                                    "spreadsheet",
+                                    "sheet"
+                                ],
+                                "lemma": "таблица",
+                                "rank": "30",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 23774,
+                                "expressions": [
+                                    {
+                                        "source": "coffee table",
+                                        "target": "журнальный столик"
+                                    },
+                                    {
+                                        "source": "dressing table",
+                                        "target": "туалетный столик"
+                                    },
+                                    {
+                                        "source": "small table",
+                                        "target": "небольшим письменным столиком"
+                                    },
+                                    {
+                                        "source": "changing table",
+                                        "target": "пеленальный столик"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "reservation",
+                                    "small table",
+                                    "little table"
+                                ],
+                                "lemma": "столик",
+                                "rank": "9",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "(tables/tabled)",
+                            "info": "",
+                            "lemma": "table",
+                            "phonetic": "[ˈteɪbəl]",
+                            "pos": "verb",
+                            "term": "table"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 23775,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "consider",
+                                    "view",
+                                    "address",
+                                    "examine",
+                                    "treat",
+                                    "regard",
+                                    "see",
+                                    "review",
+                                    "construe"
+                                ],
+                                "lemma": "рассматриваться",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

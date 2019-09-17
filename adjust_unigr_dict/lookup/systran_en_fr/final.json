@@ -1,0 +1,151 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "final",
+                            "phonetic": "[ˈfaɪ.nəl]",
+                            "pos": "adj",
+                            "term": "final"
+                        },
+                        "targets": [
+                            {
+                                "context": "report, decision, vote, product",
+                                "domain": "",
+                                "entry_id": 19035,
+                                "expressions": [
+                                    {
+                                        "source": "almost final",
+                                        "target": "presque final"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "ultimate",
+                                    "end"
+                                ],
+                                "lemma": "final",
+                                "rank": "62",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "agreement, decision, basis, determination",
+                                "domain": "",
+                                "entry_id": 19035,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "definitive",
+                                    "permanent"
+                                ],
+                                "lemma": "définitif",
+                                "rank": "20",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "point, year, stage, comment",
+                                "domain": "",
+                                "entry_id": 19035,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "last",
+                                    "latest",
+                                    "past",
+                                    "recent",
+                                    "last few",
+                                    "latter",
+                                    "most recent",
+                                    "previous"
+                                ],
+                                "lemma": "dernier",
+                                "rank": "17",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "quarter final",
+                                "target": "quart de finale"
+                            },
+                            {
+                                "context": "",
+                                "source": "level final",
+                                "target": "niveau final"
+                            },
+                            {
+                                "context": "",
+                                "source": "final straight",
+                                "target": "ligne d'arrivée"
+                            },
+                            {
+                                "context": "",
+                                "source": "Certificate Final",
+                                "target": "certificat final"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:finals)",
+                            "info": "",
+                            "lemma": "final",
+                            "phonetic": "[ˈfaɪ.nəl]",
+                            "pos": "noun",
+                            "term": "final"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 19036,
+                                "expressions": [
+                                    {
+                                        "source": "grand final",
+                                        "target": "grande finale"
+                                    },
+                                    {
+                                        "source": "national final",
+                                        "target": "finale nationale"
+                                    },
+                                    {
+                                        "source": "regional finals",
+                                        "target": "finale régionale"
+                                    },
+                                    {
+                                        "source": "global finals",
+                                        "target": "finale mondiale"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "finale",
+                                    "finish",
+                                    "quarterfinal",
+                                    "semifinal"
+                                ],
+                                "lemma": "finale",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

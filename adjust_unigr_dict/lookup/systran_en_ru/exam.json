@@ -1,0 +1,107 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "(pl:exams)",
+                            "info": "",
+                            "lemma": "exam",
+                            "phonetic": "[ɪɡˈzæm]",
+                            "pos": "noun",
+                            "term": "exam"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 8489,
+                                "expressions": [
+                                    {
+                                        "source": "entrance exam",
+                                        "target": "вступительный экзамен"
+                                    },
+                                    {
+                                        "source": "state exam",
+                                        "target": "государственный экзамен"
+                                    },
+                                    {
+                                        "source": "final exam",
+                                        "target": "выпускной экзамен"
+                                    },
+                                    {
+                                        "source": "important exam",
+                                        "target": "важный экзамен"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "examination",
+                                    "test"
+                                ],
+                                "lemma": "экзамен",
+                                "rank": "93",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 8489,
+                                "expressions": [
+                                    {
+                                        "source": "free exam",
+                                        "target": "бесплатный осмотр"
+                                    },
+                                    {
+                                        "source": "medical exam",
+                                        "target": "медицинский осмотр"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "inspection",
+                                    "examination",
+                                    "survey",
+                                    "checkup",
+                                    "physical exam",
+                                    "physical",
+                                    "viewing"
+                                ],
+                                "lemma": "осмотр",
+                                "rank": "4",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 8489,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "examination",
+                                    "survey",
+                                    "checkup",
+                                    "inspection",
+                                    "scan",
+                                    "screening",
+                                    "inquiry",
+                                    "medical examination"
+                                ],
+                                "lemma": "обследование",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

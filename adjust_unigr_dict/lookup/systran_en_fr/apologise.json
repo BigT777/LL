@@ -1,0 +1,141 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enfr.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "to apologise to the House",
+                                "target": "présenter ses excuses à la Chambre"
+                            },
+                            {
+                                "context": "",
+                                "source": "to apologise to the rapporteur",
+                                "target": "présenter mes excuses au rapporteur"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(apologizes/apologized)",
+                            "info": "",
+                            "lemma": "apologize",
+                            "phonetic": "[əˈpɒləˌd͡ʒaɪz]",
+                            "pos": "verb",
+                            "term": "apologise"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 3308,
+                                "expressions": [
+                                    {
+                                        "source": "to apologise to the Commissioner",
+                                        "target": "s'excuser auprès du commissaire"
+                                    },
+                                    {
+                                        "source": "to apologise to the interpreters",
+                                        "target": "s'excuser auprès des interprètes"
+                                    },
+                                    {
+                                        "source": "to apologize to the Presidency",
+                                        "target": "s'excuser auprès de la présidence"
+                                    },
+                                    {
+                                        "source": "to apologize to the member",
+                                        "target": "s'excuser auprès du député"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "excuse"
+                                ],
+                                "lemma": "s'excuser",
+                                "rank": "59",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 3308,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "excuse",
+                                    "forgive",
+                                    "condone",
+                                    "pardon"
+                                ],
+                                "lemma": "excuser",
+                                "rank": "14",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 3308,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "présenter des excuses",
+                                "rank": "9",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 3308,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "présenter mes excuses",
+                                "rank": "8",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 3308,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "présenter ses excuses",
+                                "rank": "5",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 3308,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "demander pardon",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

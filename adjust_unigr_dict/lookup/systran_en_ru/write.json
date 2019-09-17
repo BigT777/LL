@@ -1,0 +1,278 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "to write a blog",
+                                "target": "вести блог"
+                            },
+                            {
+                                "context": "",
+                                "source": "to write a query",
+                                "target": "сделать запрос"
+                            },
+                            {
+                                "context": "",
+                                "source": "to write a check",
+                                "target": "выписать чек"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(writes/wrote/written)",
+                            "info": "",
+                            "lemma": "write",
+                            "phonetic": "[ɹaɪt]",
+                            "pos": "verb",
+                            "term": "write"
+                        },
+                        "targets": [
+                            {
+                                "context": "book, program, article, letter",
+                                "domain": "",
+                                "entry_id": 26780,
+                                "expressions": [
+                                    {
+                                        "source": "to write software",
+                                        "target": "писать программы"
+                                    },
+                                    {
+                                        "source": "to write a book",
+                                        "target": "писать книги"
+                                    },
+                                    {
+                                        "source": "to write here",
+                                        "target": "писать здесь"
+                                    },
+                                    {
+                                        "source": "to write off the West",
+                                        "target": "писать о Западе"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "report",
+                                    "paint"
+                                ],
+                                "lemma": "писать",
+                                "rank": "47",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "book, letter, article, page",
+                                "domain": "",
+                                "entry_id": 26780,
+                                "expressions": [
+                                    {
+                                        "source": "to write this page",
+                                        "target": "написать эту страницу"
+                                    },
+                                    {
+                                        "source": "to write a program",
+                                        "target": "написать программу"
+                                    },
+                                    {
+                                        "source": "to write this book",
+                                        "target": "написать эту книгу"
+                                    },
+                                    {
+                                        "source": "to write an article",
+                                        "target": "написать статью"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "contact",
+                                    "label"
+                                ],
+                                "lemma": "написать",
+                                "rank": "46",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "name, card, image, homework",
+                                "domain": "",
+                                "entry_id": 26780,
+                                "expressions": [
+                                    {
+                                        "source": "to write those stories",
+                                        "target": "записать эти истории"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "record",
+                                    "burn",
+                                    "write down",
+                                    "capture",
+                                    "enroll",
+                                    "record",
+                                    "insert"
+                                ],
+                                "lemma": "записать",
+                                "rank": "2",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "answer, information, emotion, code",
+                                "domain": "",
+                                "entry_id": 26780,
+                                "expressions": [
+                                    {
+                                        "source": "to write the genetic code",
+                                        "target": "записывать генетический код"
+                                    },
+                                    {
+                                        "source": "to write messages",
+                                        "target": "записывать сообщения"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "record",
+                                    "write down",
+                                    "burn",
+                                    "record",
+                                    "log",
+                                    "enroll",
+                                    "recode"
+                                ],
+                                "lemma": "записывать",
+                                "rank": "1",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 26780,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "compose"
+                                ],
+                                "lemma": "сочинять",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 26780,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "писаться",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "(writes/wrote/written)",
+                            "info": "",
+                            "lemma": "write down",
+                            "phonetic": "[ɹaɪt]",
+                            "pos": "verb",
+                            "term": "write"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 26781,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "record",
+                                    "write",
+                                    "burn",
+                                    "write down",
+                                    "capture",
+                                    "enroll",
+                                    "record",
+                                    "write",
+                                    "insert"
+                                ],
+                                "lemma": "записать",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 26781,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "record",
+                                    "write",
+                                    "write down",
+                                    "burn",
+                                    "write",
+                                    "record",
+                                    "log",
+                                    "enroll",
+                                    "recode"
+                                ],
+                                "lemma": "записывать",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 26781,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "write down",
+                                    "write off",
+                                    "dispose of"
+                                ],
+                                "lemma": "списать",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 26781,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "discharge",
+                                    "write down",
+                                    "go home"
+                                ],
+                                "lemma": "выписать",
+                                "rank": "0",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

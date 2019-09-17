@@ -1,0 +1,78 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "break",
+            "pos": "verb",
+            "ts": "breɪk",
+            "fl": "broke, broken",
+            "tr": [
+                {
+                    "text": "briser",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "casser",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "rompre",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "décomposer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "éclater",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "smash"
+                        },
+                        {
+                            "text": "rupture"
+                        },
+                        {
+                            "text": "split"
+                        },
+                        {
+                            "text": "erupt"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "break",
+            "pos": "noun",
+            "ts": "breɪk",
+            "tr": [
+                {
+                    "text": "pause",
+                    "pos": "noun",
+                    "gen": "f"
+                },
+                {
+                    "text": "rupture",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "fracture",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rupture"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

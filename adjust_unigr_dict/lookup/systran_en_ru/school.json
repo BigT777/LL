@@ -1,0 +1,123 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "source": {
+                            "inflection": "",
+                            "info": "",
+                            "lemma": "school",
+                            "phonetic": "",
+                            "pos": "adj",
+                            "term": "school"
+                        },
+                        "targets": [
+                            {
+                                "context": "building, meal, lunch, year",
+                                "domain": "",
+                                "entry_id": 21091,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "школьный",
+                                "rank": "53",
+                                "synonym": "",
+                                "variant": ""
+                            },
+                            {
+                                "context": "year",
+                                "domain": "",
+                                "entry_id": 21091,
+                                "expressions": [],
+                                "info": "",
+                                "invmeanings": [
+                                    "educational",
+                                    "academic",
+                                    "instructional",
+                                    "content"
+                                ],
+                                "lemma": "учебный",
+                                "rank": "46",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    },
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "religious school",
+                                "target": "религиозные учебные заведения"
+                            },
+                            {
+                                "context": "",
+                                "source": "elementary school",
+                                "target": "начальные классы"
+                            },
+                            {
+                                "context": "",
+                                "source": "nursery school",
+                                "target": "детский сад"
+                            },
+                            {
+                                "context": "",
+                                "source": "middle school",
+                                "target": "средний класс"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:schools)",
+                            "info": "",
+                            "lemma": "school",
+                            "phonetic": "[skuːl]",
+                            "pos": "noun",
+                            "term": "school"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 21092,
+                                "expressions": [
+                                    {
+                                        "source": "primary school",
+                                        "target": "начальная школа"
+                                    },
+                                    {
+                                        "source": "high school",
+                                        "target": "средняя школа"
+                                    },
+                                    {
+                                        "source": "ski school",
+                                        "target": "лыжная школа"
+                                    },
+                                    {
+                                        "source": "public school",
+                                        "target": "государственная школа"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    ""
+                                ],
+                                "lemma": "школа",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "point",
+            "pos": "noun",
+            "ts": "pɔɪnt",
+            "tr": [
+                {
+                    "text": "точка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "пункт",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "момент",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spot"
+                        },
+                        {
+                            "text": "paragraph"
+                        },
+                        {
+                            "text": "moment"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dew point temperature",
+                            "tr": [
+                                {
+                                    "text": "температура точки росы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "upper dead point",
+                            "tr": [
+                                {
+                                    "text": "верхняя мертвая точка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "zero point energy",
+                            "tr": [
+                                {
+                                    "text": "энергия нулевой точки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "new reference point",
+                            "tr": [
+                                {
+                                    "text": "новая точка отсчета"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "isolated singular point",
+                            "tr": [
+                                {
+                                    "text": "изолированная особая точка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ideal starting point",
+                            "tr": [
+                                {
+                                    "text": "идеальная отправная точка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "good entry point",
+                            "tr": [
+                                {
+                                    "text": "хорошая отправная точка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "basis point",
+                            "tr": [
+                                {
+                                    "text": "базисный пункт"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "tipping point",
+                            "tr": [
+                                {
+                                    "text": "переломный момент"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "очко",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "балл",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "score"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bonus point",
+                            "tr": [
+                                {
+                                    "text": "бонусное очко"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "rating point",
+                            "tr": [
+                                {
+                                    "text": "рейтинговый балл"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "место",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "place"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "weak point",
+                            "tr": [
+                                {
+                                    "text": "слабое место"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вопрос",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "question"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sore point",
+                            "tr": [
+                                {
+                                    "text": "больной вопрос"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пойнт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "поинт",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ]
+                },
+                {
+                    "text": "смысл",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "sense"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "be no point",
+                            "tr": [
+                                {
+                                    "text": "нет никакого смысла"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "этап",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "stage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "completion point",
+                            "tr": [
+                                {
+                                    "text": "этап завершения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "точка зрения",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "point of view"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "point",
+            "pos": "verb",
+            "ts": "pɔɪnt",
+            "tr": [
+                {
+                    "text": "указывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "указать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "indicate"
+                        },
+                        {
+                            "text": "specify"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pointing device",
+                            "tr": [
+                                {
+                                    "text": "указывающее устройство"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дело",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "отмечать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "note"
+                        }
+                    ]
+                },
+                {
+                    "text": "показать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "show"
+                        }
+                    ]
+                },
+                {
+                    "text": "подчеркивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "emphasize"
+                        }
+                    ]
+                },
+                {
+                    "text": "навести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "bring"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "point",
+            "pos": "adjective",
+            "ts": "pɔɪnt",
+            "tr": [
+                {
+                    "text": "точечный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "балльный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spot"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "point light source",
+                            "tr": [
+                                {
+                                    "text": "точечный источник света"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

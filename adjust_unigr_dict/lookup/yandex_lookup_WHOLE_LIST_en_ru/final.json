@@ -1,0 +1,287 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "final",
+            "pos": "adjective",
+            "ts": "faɪnl",
+            "tr": [
+                {
+                    "text": "окончательный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "конечный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "итоговый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "definitive"
+                        },
+                        {
+                            "text": "end"
+                        },
+                        {
+                            "text": "summary"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "final court decision",
+                            "tr": [
+                                {
+                                    "text": "окончательное судебное решение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "final release version",
+                            "tr": [
+                                {
+                                    "text": "окончательная версия"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "draw a final conclusion",
+                            "tr": [
+                                {
+                                    "text": "сделать окончательный вывод"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "final energy consumption",
+                            "tr": [
+                                {
+                                    "text": "конечное потребление энергии"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "final report",
+                            "tr": [
+                                {
+                                    "text": "итоговый отчет"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "заключительный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "финальный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "финишный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "concluding"
+                        },
+                        {
+                            "text": "finishing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "final document",
+                            "tr": [
+                                {
+                                    "text": "заключительный документ"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "final stage",
+                            "tr": [
+                                {
+                                    "text": "заключительный этап"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "event final table",
+                            "tr": [
+                                {
+                                    "text": "финальный стол"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "final straight",
+                            "tr": [
+                                {
+                                    "text": "финишная прямая"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "последний",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "last"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "final betting round",
+                            "tr": [
+                                {
+                                    "text": "последний раунд"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выпускной",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "graduation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "final exams at school",
+                            "tr": [
+                                {
+                                    "text": "выпускные экзамены в школе"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "готовый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "ready"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "final",
+            "pos": "participle",
+            "ts": "faɪnl",
+            "tr": [
+                {
+                    "text": "завершающий",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "finishing"
+                        }
+                    ]
+                },
+                {
+                    "text": "решающий",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "decisive"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "final",
+            "pos": "noun",
+            "ts": "faɪnl",
+            "tr": [
+                {
+                    "text": "финал",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "финальный матч",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "finale"
+                        },
+                        {
+                            "text": "final match"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "world cup final",
+                            "tr": [
+                                {
+                                    "text": "финал кубка мира"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "завершение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "completion"
+                        }
+                    ]
+                },
+                {
+                    "text": "выпускной экзамен",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "final examination"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "final",
+            "pos": "adverb",
+            "ts": "faɪnl",
+            "tr": [
+                {
+                    "text": "окончательно",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "finally"
+                        }
+                    ]
+                },
+                {
+                    "text": "конечно",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "sure"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

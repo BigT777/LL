@@ -1,0 +1,116 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "electricity",
+            "pos": "noun",
+            "ts": "ɪlekˈtrɪsɪtɪ",
+            "tr": [
+                {
+                    "text": "электричество",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "электроэнергия",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "электроснабжение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "электроэнергетика",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "power"
+                        },
+                        {
+                            "text": "electric power"
+                        },
+                        {
+                            "text": "supply"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "charges of static electricity",
+                            "tr": [
+                                {
+                                    "text": "заряды статического электричества"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "свет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "light"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "electricity",
+            "pos": "adjective",
+            "ts": "ɪlekˈtrɪsɪtɪ",
+            "tr": [
+                {
+                    "text": "электрический",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "электроэнергетический",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "electric"
+                        },
+                        {
+                            "text": "electropower"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "national electricity grid",
+                            "tr": [
+                                {
+                                    "text": "национальная электрическая сеть"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "electricity generation capacity",
+                            "tr": [
+                                {
+                                    "text": "электрическая мощность"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "electricity industry",
+                            "tr": [
+                                {
+                                    "text": "электроэнергетическая промышленность"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

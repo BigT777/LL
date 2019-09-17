@@ -1,0 +1,234 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "select",
+            "pos": "verb",
+            "ts": "sɪˈlekt",
+            "tr": [
+                {
+                    "text": "выбирать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отбирать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подбирать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выбрать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отобрать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подобрать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "choose"
+                        },
+                        {
+                            "text": "pick"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "select only",
+                            "tr": [
+                                {
+                                    "text": "выбирать только"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "select words",
+                            "tr": [
+                                {
+                                    "text": "подбирать слова"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "selected property",
+                            "tr": [
+                                {
+                                    "text": "выбранное свойство"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "selected project",
+                            "tr": [
+                                {
+                                    "text": "отобранный проект"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "избирать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "избрать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "elect"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "selected topic",
+                            "tr": [
+                                {
+                                    "text": "избранная тема"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выделить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выделять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "highlight"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "selected text",
+                            "tr": [
+                                {
+                                    "text": "выделенный текст"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "указать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "specify"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "select",
+            "pos": "adjective",
+            "ts": "sɪˈlekt",
+            "tr": [
+                {
+                    "text": "отборный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "selected"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "select group",
+                            "tr": [
+                                {
+                                    "text": "отборная группа"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "select",
+            "pos": "noun",
+            "ts": "sɪˈlekt",
+            "tr": [
+                {
+                    "text": "отбор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "выбор",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "выделение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "выборка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "selection"
+                        },
+                        {
+                            "text": "choose"
+                        },
+                        {
+                            "text": "sample"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "selected applicants",
+                            "tr": [
+                                {
+                                    "text": "отбор претендентов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "select menu",
+                            "tr": [
+                                {
+                                    "text": "меню выбора"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

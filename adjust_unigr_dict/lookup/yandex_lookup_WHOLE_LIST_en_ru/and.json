@@ -1,0 +1,89 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "and",
+            "pos": "conjunction",
+            "ts": "ænd",
+            "tr": [
+                {
+                    "text": "и",
+                    "pos": "conjunction",
+                    "syn": [
+                        {
+                            "text": "а",
+                            "pos": "conjunction"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "or"
+                        },
+                        {
+                            "text": "as"
+                        }
+                    ]
+                },
+                {
+                    "text": "а также",
+                    "pos": "conjunction",
+                    "mean": [
+                        {
+                            "text": "as well as"
+                        }
+                    ]
+                },
+                {
+                    "text": "причем",
+                    "pos": "conjunction",
+                    "syn": [
+                        {
+                            "text": "но",
+                            "pos": "conjunction"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "while"
+                        },
+                        {
+                            "text": "but"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "and",
+            "pos": "adverb",
+            "ts": "ænd",
+            "tr": [
+                {
+                    "text": "так и",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "as well as"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "and",
+            "pos": "preposition",
+            "ts": "ænd",
+            "tr": [
+                {
+                    "text": "с",
+                    "pos": "preposition",
+                    "mean": [
+                        {
+                            "text": "with"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

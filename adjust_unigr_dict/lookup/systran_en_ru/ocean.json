@@ -1,0 +1,73 @@
+{
+    "outputs": [
+        {
+            "output": {
+                "matches": [
+                    {
+                        "auto_complete": false,
+                        "model_name": "mono-enru.mod",
+                        "other_expressions": [
+                            {
+                                "context": "",
+                                "source": "deep ocean",
+                                "target": "глубина океана"
+                            },
+                            {
+                                "context": "",
+                                "source": "moving ocean",
+                                "target": "электронной модели океана"
+                            },
+                            {
+                                "context": "",
+                                "source": "Southern Ocean",
+                                "target": "южной широты"
+                            }
+                        ],
+                        "source": {
+                            "inflection": "(pl:oceans)",
+                            "info": "",
+                            "lemma": "ocean",
+                            "phonetic": "[ˈoʊ.ʃən]",
+                            "pos": "noun",
+                            "term": "ocean"
+                        },
+                        "targets": [
+                            {
+                                "context": "",
+                                "domain": "",
+                                "entry_id": 16444,
+                                "expressions": [
+                                    {
+                                        "source": "pacific ocean",
+                                        "target": "тихий океан"
+                                    },
+                                    {
+                                        "source": "world ocean",
+                                        "target": "мировой океан"
+                                    },
+                                    {
+                                        "source": "Arctic Ocean",
+                                        "target": "Северный Ледовитый океан"
+                                    },
+                                    {
+                                        "source": "open ocean",
+                                        "target": "открытый океан"
+                                    }
+                                ],
+                                "info": "",
+                                "invmeanings": [
+                                    "sea"
+                                ],
+                                "lemma": "океан",
+                                "rank": "100",
+                                "synonym": "",
+                                "variant": ""
+                            }
+                        ]
+                    }
+                ],
+                "sDictSearch": true
+            }
+        }
+    ]
+}
