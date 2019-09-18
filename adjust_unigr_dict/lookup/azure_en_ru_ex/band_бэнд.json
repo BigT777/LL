@@ -1,0 +1,54 @@
+{
+    "normalizedSource": "band",
+    "normalizedTarget": "бэнд",
+    "examples": [
+        {
+            "sourcePrefix": "This isn't your ",
+            "sourceTerm": "band",
+            "sourceSuffix": ".",
+            "targetPrefix": "Это не твой ",
+            "targetTerm": "бэнд",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "No Jazz ",
+            "sourceTerm": "band",
+            "sourceSuffix": ", he says.",
+            "targetPrefix": "Это не джаз-",
+            "targetTerm": "бэнд",
+            "targetSuffix": ", он сказал."
+        },
+        {
+            "sourcePrefix": "The Boathouse, the big ",
+            "sourceTerm": "band",
+            "sourceSuffix": ", ceremony at sunset ...",
+            "targetPrefix": "\"Палуба\", биг-",
+            "targetTerm": "бэнд",
+            "targetSuffix": ", церемония на закате ..."
+        },
+        {
+            "sourcePrefix": "- \"Page header\" ",
+            "sourceTerm": "band",
+            "sourceSuffix": " is displayed at the ...",
+            "targetPrefix": "- ",
+            "targetTerm": "бэнд",
+            "targetSuffix": " \"Заголовок страницы\" выводится в ..."
+        },
+        {
+            "sourcePrefix": "Cover ",
+            "sourceTerm": "band",
+            "sourceSuffix": " \"No Comments\" entertained the guests ...",
+            "targetPrefix": "Гостей развлекал известный украинский кавер-",
+            "targetTerm": "бэнд",
+            "targetSuffix": " \"No Comments\" ..."
+        },
+        {
+            "sourcePrefix": "Now let us add a new ",
+            "sourceTerm": "band",
+            "sourceSuffix": " (\"Page header ...",
+            "targetPrefix": "Теперь добавим новый ",
+            "targetTerm": "бэнд",
+            "targetSuffix": " - \"Заголовок страницы ..."
+        }
+    ]
+}

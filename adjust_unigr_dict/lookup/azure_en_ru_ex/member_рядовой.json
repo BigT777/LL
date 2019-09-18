@@ -1,0 +1,70 @@
+{
+    "normalizedSource": "member",
+    "normalizedTarget": "рядовой",
+    "examples": [
+        {
+            "sourcePrefix": "The network contains a ",
+            "sourceTerm": "member",
+            "sourceSuffix": " server that is configured to ...",
+            "targetPrefix": "В сети находится ",
+            "targetTerm": "рядовой",
+            "targetSuffix": " сервер, настроенный для ..."
+        },
+        {
+            "sourcePrefix": "... primary server to each ",
+            "sourceTerm": "member",
+            "sourceSuffix": " server.",
+            "targetPrefix": "... основного сервера на каждый ",
+            "targetTerm": "рядовой",
+            "targetSuffix": " сервер."
+        },
+        {
+            "sourcePrefix": "The recommended role is ",
+            "sourceTerm": "member",
+            "sourceSuffix": " server.",
+            "targetPrefix": "Рекомендованная роль — ",
+            "targetTerm": "рядовой",
+            "targetSuffix": " сервер."
+        },
+        {
+            "sourcePrefix": "A ",
+            "sourceTerm": "member",
+            "sourceSuffix": " computer in an exADNoMk domain is disjoint ...",
+            "targetPrefix": "",
+            "targetTerm": "Рядовой",
+            "targetSuffix": " компьютер в домене exADNoMk является несвязанным ..."
+        },
+        {
+            "sourcePrefix": "Promote the ",
+            "sourceTerm": "member",
+            "sourceSuffix": " server to a domain controller and configure ...",
+            "targetPrefix": "Повысить ",
+            "targetTerm": "рядовой",
+            "targetSuffix": " сервер до уровня контроллера домена и настроить ..."
+        },
+        {
+            "sourcePrefix": "... same domain role (either ",
+            "sourceTerm": "member",
+            "sourceSuffix": " server or domain controller) ...",
+            "targetPrefix": "... одинаковую роль домена (",
+            "targetTerm": "рядовой",
+            "targetSuffix": " сервер или контроллер домена) ..."
+        },
+        {
+            "sourcePrefix": "The domain contains a ",
+            "sourceTerm": "member",
+            "sourceSuffix": " server named Server1.",
+            "targetPrefix": "Домен содержит ",
+            "targetTerm": "рядовой",
+            "targetSuffix": " сервер с именем Server1."
+        },
+        {
+            "sourcePrefix": "... a DNS server and one ",
+            "sourceTerm": "member",
+            "sourceSuffix": " server that is configured ...",
+            "targetPrefix": "... DNS-сервер, и один ",
+            "targetTerm": "рядовой",
+            "targetSuffix": " сервер, который настроен ..."
+        }
+    ]
+}

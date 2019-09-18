@@ -1,0 +1,46 @@
+{
+    "normalizedSource": "pen",
+    "normalizedTarget": "карандаш",
+    "examples": [
+        {
+            "sourcePrefix": "You got a ",
+            "sourceTerm": "pen",
+            "sourceSuffix": " nearby?",
+            "targetPrefix": "У вас есть ",
+            "targetTerm": "карандаш",
+            "targetSuffix": "?"
+        },
+        {
+            "sourcePrefix": "... notebook and pencil or ",
+            "sourceTerm": "pen",
+            "sourceSuffix": ".",
+            "targetPrefix": "... блокнот, ручку или ",
+            "targetTerm": "карандаш",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "... to bring a notebook a pencil or ",
+            "sourceTerm": "pen",
+            "sourceSuffix": ".",
+            "targetPrefix": "... взять с собой блокнот и ручку или ",
+            "targetTerm": "карандаш",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "... notebook and pencil or ",
+            "sourceTerm": "pen",
+            "sourceSuffix": ".",
+            "targetPrefix": "... блокнот и ручку или ",
+            "targetTerm": "карандаш",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "",
+            "sourceTerm": "Pen",
+            "sourceSuffix": " and eraser in PDF - add / modify ...",
+            "targetPrefix": "",
+            "targetTerm": "Карандаш",
+            "targetSuffix": " и ластик: добавление и редактирование \" ..."
+        }
+    ]
+}

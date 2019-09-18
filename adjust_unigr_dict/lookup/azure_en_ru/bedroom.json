@@ -1,0 +1,48 @@
+{
+    "normalizedSource": "bedroom",
+    "displaySource": "bedroom",
+    "translations": [
+        {
+            "normalizedTarget": "спальня",
+            "displayTarget": "спальня",
+            "posTag": "NOUN",
+            "confidence": 0.7636,
+            "prefixWord": "",
+            "backTranslations": [
+                {
+                    "normalizedText": "bedroom",
+                    "displayText": "bedroom",
+                    "numExamples": 15,
+                    "frequencyCount": 6318
+                },
+                {
+                    "normalizedText": "master bedroom",
+                    "displayText": "master bedroom",
+                    "numExamples": 5,
+                    "frequencyCount": 505
+                }
+            ]
+        },
+        {
+            "normalizedTarget": "комнатная",
+            "displayTarget": "комнатная",
+            "posTag": "NOUN",
+            "confidence": 0.2364,
+            "prefixWord": "",
+            "backTranslations": [
+                {
+                    "normalizedText": "room",
+                    "displayText": "room",
+                    "numExamples": 15,
+                    "frequencyCount": 307
+                },
+                {
+                    "normalizedText": "bedroom",
+                    "displayText": "bedroom",
+                    "numExamples": 15,
+                    "frequencyCount": 294
+                }
+            ]
+        }
+    ]
+}

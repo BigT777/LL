@@ -1,0 +1,30 @@
+{
+    "normalizedSource": "advertisement",
+    "normalizedTarget": "объявления",
+    "examples": [
+        {
+            "sourcePrefix": "to describe more then one vacancy in one ",
+            "sourceTerm": "advertisement",
+            "sourceSuffix": ";",
+            "targetPrefix": "описывать более одной должности в тексте одного ",
+            "targetTerm": "объявления",
+            "targetSuffix": ";"
+        },
+        {
+            "sourcePrefix": "Can I target my ",
+            "sourceTerm": "advertisement",
+            "sourceSuffix": " to specific users of your website ...",
+            "targetPrefix": "Могу ли я показывать свои ",
+            "targetTerm": "объявления",
+            "targetSuffix": " только определенным пользователям сайта ..."
+        },
+        {
+            "sourcePrefix": "... Show Ads button to show full-screen ",
+            "sourceTerm": "advertisement",
+            "sourceSuffix": ".",
+            "targetPrefix": "... Show Ads внизу окна для показа ",
+            "targetTerm": "объявления",
+            "targetSuffix": "."
+        }
+    ]
+}

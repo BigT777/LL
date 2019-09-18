@@ -1,0 +1,38 @@
+{
+    "normalizedSource": "plate",
+    "normalizedTarget": "латы",
+    "examples": [
+        {
+            "sourcePrefix": "... to ground balance, Up ",
+            "sourceTerm": "plate",
+            "sourceSuffix": " 1.5m from ground ...",
+            "targetPrefix": "... с землей баланс, ",
+            "targetTerm": "Латы",
+            "targetSuffix": " 1,5 м от земли ..."
+        },
+        {
+            "sourcePrefix": "... , Mail, Leather, ",
+            "sourceTerm": "Plate",
+            "sourceSuffix": ", Shields",
+            "targetPrefix": "... , Кольчуга, Кожа, ",
+            "targetTerm": "Латы",
+            "targetSuffix": ", Щиты"
+        },
+        {
+            "sourcePrefix": "... , Leather, Mail, ",
+            "sourceTerm": "Plate",
+            "sourceSuffix": "",
+            "targetPrefix": "... , Кожа, Кольчуга, ",
+            "targetTerm": "Латы",
+            "targetSuffix": ""
+        },
+        {
+            "sourcePrefix": "... , Leather, Mail, ",
+            "sourceTerm": "Plate",
+            "sourceSuffix": ", Shields",
+            "targetPrefix": "... , Кожа, Кольчуга, ",
+            "targetTerm": "Латы",
+            "targetSuffix": ", Щиты"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "normalizedSource": "buzzer",
+    "normalizedTarget": "домофон",
+    "examples": [
+        {
+            "sourcePrefix": "The ",
+            "sourceTerm": "buzzer",
+            "sourceSuffix": " on the building connects through her phone.",
+            "targetPrefix": "",
+            "targetTerm": "Домофон",
+            "targetSuffix": " в здании соединен с телефоном."
+        },
+        {
+            "sourcePrefix": "The ",
+            "sourceTerm": "buzzer",
+            "sourceSuffix": " on the building connects through her phone.",
+            "targetPrefix": "",
+            "targetTerm": "Домофон",
+            "targetSuffix": " в том здании проходит по телефонной линии."
+        },
+        {
+            "sourcePrefix": "Your ",
+            "sourceTerm": "buzzer",
+            "sourceSuffix": " is broken.",
+            "targetPrefix": "Ваш ",
+            "targetTerm": "домофон",
+            "targetSuffix": " был сломан."
+        },
+        {
+            "sourcePrefix": "Their ",
+            "sourceTerm": "buzzer",
+            "sourceSuffix": " doesn't work.",
+            "targetPrefix": "У них ",
+            "targetTerm": "домофон",
+            "targetSuffix": " не работает."
+        },
+        {
+            "sourcePrefix": "Hello, I was ringing your ",
+            "sourceTerm": "buzzer",
+            "sourceSuffix": " but no one answered ...",
+            "targetPrefix": "Здравствуйте, я звонила в ",
+            "targetTerm": "домофон",
+            "targetSuffix": " но никто не ответил ..."
+        }
+    ]
+}

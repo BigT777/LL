@@ -1,0 +1,46 @@
+{
+    "normalizedSource": "buzzer",
+    "normalizedTarget": "зуммер",
+    "examples": [
+        {
+            "sourcePrefix": "The mounting base has an integrated ",
+            "sourceTerm": "buzzer",
+            "sourceSuffix": ".",
+            "targetPrefix": "База имеет встроенный ",
+            "targetTerm": "зуммер",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "Don't even think about the ",
+            "sourceTerm": "buzzer",
+            "sourceSuffix": ".",
+            "targetPrefix": "Даже не думайте о ",
+            "targetTerm": "зуммер",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "alarm ",
+            "sourceTerm": "buzzer",
+            "sourceSuffix": " and buzzer reset button.",
+            "targetPrefix": " аварийный ",
+            "targetTerm": "зуммер",
+            "targetSuffix": " и сигнал кнопки «Сброс»."
+        },
+        {
+            "sourcePrefix": "alarm ",
+            "sourceTerm": "buzzer",
+            "sourceSuffix": " (not available in model ...",
+            "targetPrefix": "",
+            "targetTerm": "зуммер",
+            "targetSuffix": " (отсутствует в модели ..."
+        },
+        {
+            "sourcePrefix": "... set to silent mode (",
+            "sourceTerm": "buzzer",
+            "sourceSuffix": " off)",
+            "targetPrefix": "... установлен в беззвучный режим (",
+            "targetTerm": "зуммер",
+            "targetSuffix": " выключен)"
+        }
+    ]
+}

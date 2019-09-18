@@ -1,0 +1,63 @@
+{
+    "normalizedSource": "finger",
+    "displaySource": "finger",
+    "translations": [
+        {
+            "normalizedTarget": "палец",
+            "displayTarget": "палец",
+            "posTag": "NOUN",
+            "confidence": 0.6421,
+            "prefixWord": "",
+            "backTranslations": [
+                {
+                    "normalizedText": "finger",
+                    "displayText": "finger",
+                    "numExamples": 15,
+                    "frequencyCount": 1687
+                },
+                {
+                    "normalizedText": "thumb",
+                    "displayText": "thumb",
+                    "numExamples": 15,
+                    "frequencyCount": 165
+                },
+                {
+                    "normalizedText": "toe",
+                    "displayText": "toe",
+                    "numExamples": 15,
+                    "frequencyCount": 134
+                }
+            ]
+        },
+        {
+            "normalizedTarget": "перст",
+            "displayTarget": "перст",
+            "posTag": "NOUN",
+            "confidence": 0.246,
+            "prefixWord": "",
+            "backTranslations": [
+                {
+                    "normalizedText": "finger",
+                    "displayText": "finger",
+                    "numExamples": 1,
+                    "frequencyCount": 109
+                }
+            ]
+        },
+        {
+            "normalizedTarget": "фингер",
+            "displayTarget": "Фингер",
+            "posTag": "NOUN",
+            "confidence": 0.1119,
+            "prefixWord": "",
+            "backTranslations": [
+                {
+                    "normalizedText": "finger",
+                    "displayText": "finger",
+                    "numExamples": 1,
+                    "frequencyCount": 26
+                }
+            ]
+        }
+    ]
+}
