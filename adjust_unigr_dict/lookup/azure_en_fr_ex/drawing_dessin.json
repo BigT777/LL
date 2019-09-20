@@ -1,0 +1,30 @@
+{
+    "normalizedSource": "drawing",
+    "normalizedTarget": "dessin",
+    "examples": [
+        {
+            "sourcePrefix": "He’s good at ",
+            "sourceTerm": "drawing",
+            "sourceSuffix": ".",
+            "targetPrefix": "Il est bon en ",
+            "targetTerm": "dessin",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "He’s good at ",
+            "sourceTerm": "drawing",
+            "sourceSuffix": ".",
+            "targetPrefix": "Il ",
+            "targetTerm": "dessin",
+            "targetSuffix": "e bien."
+        },
+        {
+            "sourcePrefix": "To make/do a ",
+            "sourceTerm": "drawing",
+            "sourceSuffix": " of the bridge.",
+            "targetPrefix": "",
+            "targetTerm": "Dessin",
+            "targetSuffix": "er le pont."
+        }
+    ]
+}

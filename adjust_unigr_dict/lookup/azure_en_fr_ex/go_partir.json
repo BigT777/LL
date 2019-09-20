@@ -1,0 +1,22 @@
+{
+    "normalizedSource": "go",
+    "normalizedTarget": "partir",
+    "examples": [
+        {
+            "sourcePrefix": "I have to ",
+            "sourceTerm": "go",
+            "sourceSuffix": " at 5:00.",
+            "targetPrefix": "Je dois ",
+            "targetTerm": "partir",
+            "targetSuffix": " à cinq h."
+        },
+        {
+            "sourcePrefix": "It’s time to ",
+            "sourceTerm": "go",
+            "sourceSuffix": ".",
+            "targetPrefix": "Il est temps de ",
+            "targetTerm": "partir",
+            "targetSuffix": "."
+        }
+    ]
+}

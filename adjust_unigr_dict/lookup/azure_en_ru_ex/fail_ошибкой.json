@@ -1,0 +1,126 @@
+{
+    "normalizedSource": "fail",
+    "normalizedTarget": "ошибкой",
+    "examples": [
+        {
+            "sourcePrefix": "If not, the entire operation will ",
+            "sourceTerm": "fail",
+            "sourceSuffix": ".",
+            "targetPrefix": "В противном случае вся операция завершится ",
+            "targetTerm": "ошибкой",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "... the call to open the file will ",
+            "sourceTerm": "fail",
+            "sourceSuffix": ".",
+            "targetPrefix": "... вызов открытия файла завершится ",
+            "targetTerm": "ошибкой",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "... any failures are returned, the whole operation will ",
+            "sourceTerm": "fail",
+            "sourceSuffix": ".",
+            "targetPrefix": "... какие-либо ошибки возвращаются, вся операция завершится ",
+            "targetTerm": "ошибкой",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "... the current transaction will ",
+            "sourceTerm": "fail",
+            "sourceSuffix": ".",
+            "targetPrefix": "... текущая транзакция завершится с ",
+            "targetTerm": "ошибкой",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "The test will ",
+            "sourceTerm": "fail",
+            "sourceSuffix": " if the thrown exception inherits from the ...",
+            "targetPrefix": "Метод теста завершится с ",
+            "targetTerm": "ошибкой",
+            "targetSuffix": ", если возникшее исключение наследует от ..."
+        },
+        {
+            "sourcePrefix": "... won't work and will ",
+            "sourceTerm": "fail",
+            "sourceSuffix": " on installation.",
+            "targetPrefix": "... работать не будет, и на установка завершится с ",
+            "targetTerm": "ошибкой",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "The request will ",
+            "sourceTerm": "fail",
+            "sourceSuffix": " with error code 400 ( ...",
+            "targetPrefix": "Запрос завершится ",
+            "targetTerm": "ошибкой",
+            "targetSuffix": " с кодом 400 ( ..."
+        },
+        {
+            "sourcePrefix": "... distributed transaction operations will ",
+            "sourceTerm": "fail",
+            "sourceSuffix": " if the computer is located ...",
+            "targetPrefix": "... распределенную транзакцию операций завершится ",
+            "targetTerm": "ошибкой",
+            "targetSuffix": ", если компьютер находится ..."
+        },
+        {
+            "sourcePrefix": "... programs, the command will ",
+            "sourceTerm": "fail",
+            "sourceSuffix": " if you do not have ...",
+            "targetPrefix": "... программ, команда завершится ",
+            "targetTerm": "ошибкой",
+            "targetSuffix": ", если у нас нет ..."
+        },
+        {
+            "sourcePrefix": "Otherwise, deployment will ",
+            "sourceTerm": "fail",
+            "sourceSuffix": ".",
+            "targetPrefix": "В противном случае развертывание завершится ",
+            "targetTerm": "ошибкой",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "... data within a buffer ",
+            "sourceTerm": "fail",
+            "sourceSuffix": " on buffers that have not ...",
+            "targetPrefix": "... данным в буфере, завершаются с ",
+            "targetTerm": "ошибкой",
+            "targetSuffix": " в буферах, не ..."
+        },
+        {
+            "sourcePrefix": "... the exception or the program will ",
+            "sourceTerm": "fail",
+            "sourceSuffix": ".",
+            "targetPrefix": "... исключения, либо программа завершится ",
+            "targetTerm": "ошибкой",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "... that your command will ",
+            "sourceTerm": "fail",
+            "sourceSuffix": " with the following error message:",
+            "targetPrefix": "... это, команда завершится ",
+            "targetTerm": "ошибкой",
+            "targetSuffix": ":"
+        },
+        {
+            "sourcePrefix": "... can cause the test to ",
+            "sourceTerm": "fail",
+            "sourceSuffix": ".",
+            "targetPrefix": "... может привести к завершению теста с ",
+            "targetTerm": "ошибкой",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "... access policy, the request will ",
+            "sourceTerm": "fail",
+            "sourceSuffix": " with status code 400 ...",
+            "targetPrefix": "... политике доступа, запрос завершится ",
+            "targetTerm": "ошибкой",
+            "targetSuffix": " с кодом состояния 400 ..."
+        }
+    ]
+}

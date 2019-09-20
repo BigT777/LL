@@ -1,0 +1,22 @@
+{
+    "normalizedSource": "fact",
+    "normalizedTarget": "en fait",
+    "examples": [
+        {
+            "sourcePrefix": "The brook trout is in ",
+            "sourceTerm": "fact",
+            "sourceSuffix": " a char.",
+            "targetPrefix": "L’omble de fontaine est ",
+            "targetTerm": "en fait",
+            "targetSuffix": " un char."
+        },
+        {
+            "sourcePrefix": "It seems complicated, but in ",
+            "sourceTerm": "fact",
+            "sourceSuffix": " it’s not.",
+            "targetPrefix": "Ça semble très compliqué mais, ",
+            "targetTerm": "en fait",
+            "targetSuffix": "/réalité, ça ne l ’ est pas."
+        }
+    ]
+}

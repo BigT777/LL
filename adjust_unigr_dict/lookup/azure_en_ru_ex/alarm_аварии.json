@@ -1,0 +1,70 @@
+{
+    "normalizedSource": "alarm",
+    "normalizedTarget": "аварии",
+    "examples": [
+        {
+            "sourcePrefix": "switch to 1 to cancel ",
+            "sourceTerm": "alarm",
+            "sourceSuffix": " memory",
+            "targetPrefix": "изменить значение на 1 для удаления ",
+            "targetTerm": "аварии",
+            "targetSuffix": " из памяти"
+        },
+        {
+            "sourcePrefix": "... any buttons to silence the buzzer during an ",
+            "sourceTerm": "alarm",
+            "sourceSuffix": " condition.",
+            "targetPrefix": "... любую кнопку, чтобы заглушить зуммер при сохранении условий ",
+            "targetTerm": "аварии",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "Engine speed ",
+            "sourceTerm": "alarm",
+            "sourceSuffix": ": it contributes to ...",
+            "targetPrefix": "",
+            "targetTerm": "аварии",
+            "targetSuffix": " скорости двигателя: она способствует ..."
+        },
+        {
+            "sourcePrefix": "temperature ",
+            "sourceTerm": "alarm",
+            "sourceSuffix": " condition at the end of ...",
+            "targetPrefix": "условий ",
+            "targetTerm": "аварии",
+            "targetSuffix": " по температуре в конце ..."
+        },
+        {
+            "sourcePrefix": "... associated with fan 6 has changed into ",
+            "sourceTerm": "alarm",
+            "sourceSuffix": " state (safety",
+            "targetPrefix": "... , связанный с вентилятором 6 перешел в состояние ",
+            "targetTerm": "аварии",
+            "targetSuffix": ""
+        },
+        {
+            "sourcePrefix": "The operation in the ",
+            "sourceTerm": "alarm",
+            "sourceSuffix": " window is described in § 8.2 ...",
+            "targetPrefix": "Операция в окне ",
+            "targetTerm": "аварии",
+            "targetSuffix": " описана в § 8.2 ..."
+        },
+        {
+            "sourcePrefix": "... in § 8.2 \"",
+            "sourceTerm": "Alarm",
+            "sourceSuffix": " window\" on page 52.",
+            "targetPrefix": "... в § 8.2 \"Окно ",
+            "targetTerm": "аварии",
+            "targetSuffix": "\" на стр."
+        },
+        {
+            "sourcePrefix": "... - device reported an ",
+            "sourceTerm": "alarm",
+            "sourceSuffix": "",
+            "targetPrefix": "... – устройство сообщило об ",
+            "targetTerm": "аварии",
+            "targetSuffix": ""
+        }
+    ]
+}

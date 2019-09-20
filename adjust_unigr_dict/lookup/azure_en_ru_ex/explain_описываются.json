@@ -1,0 +1,30 @@
+{
+    "normalizedSource": "explain",
+    "normalizedTarget": "описываются",
+    "examples": [
+        {
+            "sourcePrefix": "... links take you to tutorials that ",
+            "sourceTerm": "explain",
+            "sourceSuffix": " the steps.",
+            "targetPrefix": "... ссылки на учебники, в которых ",
+            "targetTerm": "описываются",
+            "targetSuffix": " нужные шаги."
+        },
+        {
+            "sourcePrefix": "The following topics ",
+            "sourceTerm": "explain",
+            "sourceSuffix": " more complex scenarios with ...",
+            "targetPrefix": "В следующих разделах ",
+            "targetTerm": "описываются",
+            "targetSuffix": " более сложные сценарии с ..."
+        },
+        {
+            "sourcePrefix": "The sections below ",
+            "sourceTerm": "explain",
+            "sourceSuffix": " the BI capabilities that ...",
+            "targetPrefix": "В последующих разделах ",
+            "targetTerm": "описываются",
+            "targetSuffix": " возможности бизнес-аналитики, которые ..."
+        }
+    ]
+}

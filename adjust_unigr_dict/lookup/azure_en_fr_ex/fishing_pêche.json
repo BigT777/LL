@@ -1,0 +1,30 @@
+{
+    "normalizedSource": "fishing",
+    "normalizedTarget": "pêche",
+    "examples": [
+        {
+            "sourcePrefix": "My hobby is ",
+            "sourceTerm": "fishing",
+            "sourceSuffix": ".",
+            "targetPrefix": "La ",
+            "targetTerm": "pêche",
+            "targetSuffix": " est mon passe-temps favori."
+        },
+        {
+            "sourcePrefix": "The ",
+            "sourceTerm": "fishing",
+            "sourceSuffix": " industry.",
+            "targetPrefix": "L ’ industrie de la ",
+            "targetTerm": "pêche",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "They worried about an FBI ",
+            "sourceTerm": "fishing",
+            "sourceSuffix": " expedition.",
+            "targetPrefix": "Ils craignaient une expédition de ",
+            "targetTerm": "pêche",
+            "targetSuffix": " du FBI."
+        }
+    ]
+}

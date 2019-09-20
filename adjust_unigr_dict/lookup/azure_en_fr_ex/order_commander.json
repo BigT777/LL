@@ -1,0 +1,38 @@
+{
+    "normalizedSource": "order",
+    "normalizedTarget": "commander",
+    "examples": [
+        {
+            "sourcePrefix": "We told the waitress we needed to ",
+            "sourceTerm": "order",
+            "sourceSuffix": ".",
+            "targetPrefix": "Nous avons dit à la serveuse que nous devions ",
+            "targetTerm": "commander",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "Are you ready to ",
+            "sourceTerm": "order",
+            "sourceSuffix": ", sir?",
+            "targetPrefix": "Êtes-vous prêt à ",
+            "targetTerm": "commander",
+            "targetSuffix": ", monsieur?"
+        },
+        {
+            "sourcePrefix": "The jumpers are knitted to ",
+            "sourceTerm": "order",
+            "sourceSuffix": ".",
+            "targetPrefix": "Les cavaliers sont tricotés pour ",
+            "targetTerm": "commander",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "I asked the security guard to ",
+            "sourceTerm": "order",
+            "sourceSuffix": " me a taxi.",
+            "targetPrefix": "J’ai demandé au garde de sécurité de me ",
+            "targetTerm": "commander",
+            "targetSuffix": " un taxi."
+        }
+    ]
+}

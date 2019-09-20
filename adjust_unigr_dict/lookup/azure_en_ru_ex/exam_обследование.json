@@ -1,0 +1,38 @@
+{
+    "normalizedSource": "exam",
+    "normalizedTarget": "обследование",
+    "examples": [
+        {
+            "sourcePrefix": "I think it's time for a neuro ",
+            "sourceTerm": "exam",
+            "sourceSuffix": ".",
+            "targetPrefix": "Думаю, пора провести неврологическое ",
+            "targetTerm": "обследование",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "We need to do a full neuro ",
+            "sourceTerm": "exam",
+            "sourceSuffix": ".",
+            "targetPrefix": "Да, нам нужно провести полное_BAR_неврологическое ",
+            "targetTerm": "обследование",
+            "targetSuffix": ""
+        },
+        {
+            "sourcePrefix": "You pay $0 for a routine physical ",
+            "sourceTerm": "exam",
+            "sourceSuffix": " every year.",
+            "targetPrefix": "Вы платите $0 за плановое ежегодное ",
+            "targetTerm": "обследование",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "... we need to do a full neuro ",
+            "sourceTerm": "exam",
+            "sourceSuffix": ".",
+            "targetPrefix": "... нам нужно провести полное неврологическое ",
+            "targetTerm": "обследование",
+            "targetSuffix": ""
+        }
+    ]
+}

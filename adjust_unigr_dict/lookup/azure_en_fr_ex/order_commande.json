@@ -1,0 +1,54 @@
+{
+    "normalizedSource": "order",
+    "normalizedTarget": "commande",
+    "examples": [
+        {
+            "sourcePrefix": "The waiter took our ",
+            "sourceTerm": "order",
+            "sourceSuffix": ".",
+            "targetPrefix": "Le garçon a pris notre ",
+            "targetTerm": "commande",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "The elevator was out of ",
+            "sourceTerm": "order",
+            "sourceSuffix": ".",
+            "targetPrefix": "L’ascenseur était hors de ",
+            "targetTerm": "commande",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "The firm has won an ",
+            "sourceTerm": "order",
+            "sourceSuffix": " for 6 tankers.",
+            "targetPrefix": "L’entreprise a gagné une ",
+            "targetTerm": "commande",
+            "targetSuffix": " pour 6 pétroliers."
+        },
+        {
+            "sourcePrefix": "I put in an ",
+            "sourceTerm": "order",
+            "sourceSuffix": " for 10 new laptops.",
+            "targetPrefix": "J ’ ai passé une ",
+            "targetTerm": "commande",
+            "targetSuffix": " de un 0 nouveaux ordinateurs portables."
+        },
+        {
+            "sourcePrefix": "The helicopters have been on ",
+            "sourceTerm": "order",
+            "sourceSuffix": " for two years.",
+            "targetPrefix": "Les hélicoptères sont en ",
+            "targetTerm": "commande",
+            "targetSuffix": " depuis deux ans."
+        },
+        {
+            "sourcePrefix": "He would deliver special ",
+            "sourceTerm": "order",
+            "sourceSuffix": "s for the Sunday dinner.",
+            "targetPrefix": "Il livrerait des ",
+            "targetTerm": "commande",
+            "targetSuffix": "s spéciales pour le dîner du dimanche."
+        }
+    ]
+}

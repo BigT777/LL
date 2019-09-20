@@ -1,0 +1,22 @@
+{
+    "normalizedSource": "fire",
+    "normalizedTarget": "radiateur",
+    "examples": [
+        {
+            "sourcePrefix": "Turn on the ",
+            "sourceTerm": "Fire",
+            "sourceSuffix": ".",
+            "targetPrefix": "Allume le ",
+            "targetTerm": "radiateur",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "Turn the ",
+            "sourceTerm": "fire",
+            "sourceSuffix": " on.",
+            "targetPrefix": "Allume le ",
+            "targetTerm": "radiateur",
+            "targetSuffix": "."
+        }
+    ]
+}

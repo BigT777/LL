@@ -1,0 +1,30 @@
+{
+    "normalizedSource": "fish",
+    "normalizedTarget": "poisson",
+    "examples": [
+        {
+            "sourcePrefix": "I caught three ",
+            "sourceTerm": "fish",
+            "sourceSuffix": ".",
+            "targetPrefix": "J ’ ai pêché trois ",
+            "targetTerm": "poisson",
+            "targetSuffix": "s."
+        },
+        {
+            "sourcePrefix": "I don’t eat much ",
+            "sourceTerm": "fish",
+            "sourceSuffix": ".",
+            "targetPrefix": "Je ne mange pas beaucoup de ",
+            "targetTerm": "poisson",
+            "targetSuffix": "."
+        },
+        {
+            "sourcePrefix": "I don’t like ",
+            "sourceTerm": "fish",
+            "sourceSuffix": ".",
+            "targetPrefix": "Je n ’ aime pas le ",
+            "targetTerm": "poisson",
+            "targetSuffix": "."
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "normalizedSource": "journey",
+    "normalizedTarget": "trajet",
+    "examples": [
+        {
+            "sourcePrefix": "The ",
+            "sourceTerm": "journey",
+            "sourceSuffix": " to school takes about half an hour.",
+            "targetPrefix": "Il ya une demi-heure de ",
+            "targetTerm": "trajet",
+            "targetSuffix": " pour aller à l ’ école."
+        },
+        {
+            "sourcePrefix": "A three-hour ",
+            "sourceTerm": "journey",
+            "sourceSuffix": " there and a three-hour journey back.",
+            "targetPrefix": "Un ",
+            "targetTerm": "trajet",
+            "targetSuffix": " de 3:00 pour s ’ y rendre et un autre trajet de 3:00 pour revenir."
+        },
+        {
+            "sourcePrefix": "An 8-hour train ",
+            "sourceTerm": "journey",
+            "sourceSuffix": ".",
+            "targetPrefix": "Un ",
+            "targetTerm": "trajet",
+            "targetSuffix": " en train de 8:00."
+        },
+        {
+            "sourcePrefix": "The return train ",
+            "sourceTerm": "journey",
+            "sourceSuffix": ".",
+            "targetPrefix": "Le ",
+            "targetTerm": "trajet",
+            "targetSuffix": " retour en train."
+        }
+    ]
+}
