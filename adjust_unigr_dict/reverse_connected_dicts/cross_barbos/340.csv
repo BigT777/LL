@@ -8,1030 +8,595 @@
 6,for,для,au
 7,for,для,en
 8,for,для,sur
-9,for,для,puisque | qui
-10,for,ради,pour | pourquoi
-11,for,ради,permettant | argent
-12,for,ради,durant | argent
-13,for,в течение,pendant | à destination de | moyennant
-14,for,в течение,par
-15,for,в течение,durant
-16,for,в течение,pour | pour une période
-17,for,в течение,depuis | sur une période
-18,for,в течение,puisque | sur une période
-19,for,в отношении,pendant | concernant
-20,for,в отношении,au titre de | en matière | au titre
-21,for,в отношении,à destination de | en matière | à l'encontre | dans le domaine
-22,for,в отношении,durant | quant au
-23,for,в отношении,moyennant | concernant
-24,for,для целей,pour
-25,for,для целей,au titre de | en matière | au titre
-26,for,для целей,à destination de | en matière
-27,for,ибо,car
-28,for,ибо,puisque | depuis | que | puisqu'
-29,for,чтобы,pour | pour que | pouvoir
-30,cafe,кофейня,café
-31,cafe,буфет,no_equality
-32,cafe,кафе-ресторан,café
-33,cafe,кафе-ресторан,cafétéria
-34,cafe,кафе-ресторан,bar
-35,follow,следовать,suivre | poursuivre | faire suite | s'ensuivre | suivez-moi
-36,follow,следовать,respecter | se conformer | prendre | observer | emprunter
-37,follow,следовать,poursuivre
-38,follow,следовать,appliquer | pratiquer
-39,follow,следовать,obéir
-40,follow,следовать,adopter | accompagner
-41,follow,следовать,se conformer
-42,follow,следить,suivre | surveiller | superviser | poursuivre | faire suite | s'ensuivre | suivez-moi
-43,follow,следить,observer | respecter | regarder
-44,follow,следить,prendre | regarder
-45,follow,следить,adopter | faire attention
-46,follow,следить,se conformer | contrôler | observer | occuper
-47,follow,следить,emprunter | contrôler
-48,follow,следить,longer | contrôler
-49,follow,следить,pratiquer | faire attention
-50,follow,соблюдать,suivre | poursuivre | faire suite | s'ensuivre | suivez-moi
-51,follow,соблюдать,respecter | observer | se conformer à | respect | prendre | se conformer | emprunter
-52,follow,соблюдать,appliquer | pratiquer
-53,follow,соблюдать,observer
-54,follow,соблюдать,adopter | se conformer aux | se conformer au
-55,follow,соблюдать,imiter | maintenir
-56,follow,соблюдать,accompagner | se conformer aux
-57,follow,соблюдать,longer | honorer | se conformer aux
-58,follow,сопровождать,accompagner | adopter | se conformer | enchaîner
-59,follow,сопровождать,respecter | escorter
-60,follow,сопровождать,observer | escorter
-61,follow,идти,suivre | venir | poursuivre | faire suite | s'ensuivre | suivez-moi
-62,follow,идти,poursuivre
-63,follow,идти,prendre
-64,follow,идти,respecter | rentrer | prendre | retourner | entrer
-65,follow,идти,observer | rentrer
-66,follow,идти,se conformer | continuer
-67,follow,идти,emprunter | rentrer | continuer
-68,follow,идти,accompagner | marcher
-69,follow,идти,pratiquer | partir
-70,follow,выполнять,respecter | exercer | exécuter | se conformer | mettre en œuvre | prendre | observer | emprunter
-71,follow,выполнять,appliquer | remplir
-72,follow,выполнять,se conformer
-73,follow,выполнять,poursuivre | jouer
-74,follow,выполнять,imiter | tenir
-75,follow,выполнять,accompagner | accomplir
-76,follow,выполнять,faire suite | s'acquitter | faire | tenir | satisfaire
-77,follow,выполнять,longer | honorer
-78,follow,выполнять,pratiquer | s'acquitter | appliquer
-79,follow,вытекать,découler | succéder
-80,follow,далее следовать,suivre | poursuivre
-81,follow,далее следовать,respecter | se conformer | prendre | observer
-82,follow,далее следовать,poursuivre
-83,follow,далее следовать,appliquer | par ailleurs | pratiquer
-84,follow,далее следовать,se conformer
-85,follow,далее следовать,adopter | en outre
-86,follow,далее следовать,emprunter | en outre | respecter
-87,follow,далее следовать,faire suite | ensuite | suivre
-88,follow,далее следовать,longer | en outre
-89,follow,далее следовать,s'ensuivre | ensuite
-90,follow,повторять,no_equality
-91,follow,последующий,poursuivre | ultérieur | ultérieurement
-92,follow,последующий,pratiquer | ultérieur
-93,warm,теплый,chaud
-94,warm,теплый,chaleureux | chauffer | se réchauffer | chaleur | accueil | chaleureusement | accueillante
-95,warm,сердечный,cordial | cardiaque
-96,warm,сердечный,chaleur | cardiaque
-97,warm,сердечный,accueil | cardiaque
-98,warm,сердечный,accueillante | cardiaque
-99,warm,согревать,chaud
-100,warm,согревать,réchauffer | chauffer | échauffer | se réchauffer | chaleur
-101,warm,погреться,se réchauffer | chaleureux | réchauffer | chauffer | échauffer | chaleur | chaleureusement
-102,warm,утеплить,no_equality
-103,warm,тепло,chaud
-104,warm,тепло,chaleureux | chaleur | chaleureusement | chauffer | se réchauffer | accueil | accueillante
-105,warm,тепло,chaleur
-106,warm,тепло,chaleureusement
-107,warm,тепло,conviviale | vivement
-108,warm,разминка,chaleureux | un exercice
-109,warm,разминка,réchauffer | échauffement
-110,warm,разминка,chauffer | échauffement
-111,warm,разминка,échauffer | échauffement
-112,warm,разминка,se réchauffer | échauffement
-113,warm,разминка,accueil | occupe l' | un exercice
-114,warm,разминка,chaleureusement | échauffement | entrainement
-115,collide,сталкиваться,entrer en collision | rencontrer
-116,collide,сталкиваться,heurter | rencontrer | se heurter
-117,collide,сталкиваться,se heurtent | rencontrer
-118,collide,сталкиваться,s'entrechoquent | rencontrer | confrontés
-119,collide,сталкиваться,se rencontrent | rencontrer
-120,collide,конфликтовать,no_equality
-121,collide,наехать,se heurtent | tomberont dessus
-122,collide,наехать,s'entrechoquent | tomberont dessus
-123,collide,наехать,se rencontrent | tomberont dessus
-124,collide,соударяться,no_equality
-125,collide,в конфликт,entrer en collision | en conflit | dans le conflit | au conflit
-126,collide,в конфликт,s'entrechoquent | en conflit
-127,collide,в конфликт,se rencontrent | en conflit
-128,break,ломать,briser | se briser
-129,break,ломать,casser | cassure | se casser
-130,break,нарушать,briser | se briser
-131,break,нарушать,enfreindre
-132,break,нарушать,violer
-133,break,разбивать,briser | se briser
-134,break,разбивать,casser | cassure | se casser
-135,break,разорвать,briser | se briser
-136,break,разорвать,rompre | percer | rompu | repos | se rompre
-137,break,разорвать,sortir | interruption
-138,break,прорваться,percer | rompre | forcer | se rompre | relâche
-139,break,прорваться,briser | traverser | retraverser
-140,break,прорваться,arrêter | traverser
-141,break,прорваться,fracture | traverser
-142,break,прорваться,se briser | traverser
-143,break,разрушить,briser | ruiner | se briser
-144,break,разрушить,rompre | percer | rompu | repos | se rompre
-145,break,разрушить,rupture | détruire
-146,break,разрушить,relâche | gâcher
-147,break,вырваться,rompre | percer | rompu | repos | se rompre
-148,break,вырваться,sortir | interruption
-149,break,вырваться,échappée | échapper
-150,break,разбиться,casser | s'écraser | se crasher
-151,break,разбиться,rupture | te tuer
-152,break,разбиться,cassure | s'écraser
-153,break,разбиться,fracture | te tuer
-154,break,разразиться,no_equality
-155,break,пробить,briser | se briser
-156,break,пробить,percer | rompre | perforer | tracer | frapper | se rompre | relâche
-157,break,пробить,enfreindre | perforer | transpercer
-158,break,пробить,interruption | immatriculation
-159,break,пробить,coupure | coque
-160,break,пробить,péter | pénétrer
-161,break,преодолеть,sortir | surmonter | interruption
-162,break,преодолеть,rompre | surmonter | combler
-163,break,преодолеть,enfreindre | transcender
-164,break,преодолеть,percer | relever
-165,break,преодолеть,fracture | franchir | combattre
-166,break,отколоться,no_equality
-167,break,вырывать,arrêter | arracher
-168,break,вырывать,fracture | arracher
-169,break,преломлять,no_equality
-170,break,перерыв,pause | suspendue
-171,break,перерыв,break
-172,break,перерыв,interruption | sortir | rupture
-173,break,разрыв,rupture | fracture | interruption | coupure
-174,break,разрыв,fracture | arrêter
-175,break,разрыв,enfreindre | différence
-176,break,пролом,relâche | brèche
-177,break,каникулы,vacance | chance
-178,break,передышка,enfreindre | faire une pause
-179,break,передышка,pause | d'une pause | faire une pause
-180,break,передышка,fracture | du retard
-181,break,передышка,péter | répit
-182,tiger,тигр,tigre | tiger | tigrée
-183,tiger,тигр,tiger
-184,tiger,зверь,no_equality
-185,tiger,тигриный,no_equality
-186,lion,лев,lion
-187,lion,лев,lev
-188,lion,львиный,no_equality
-189,background,фон,fond | de fond | fond d'écran
-190,background,фон,arrière-plan | arrière plan | arrière-fond
-191,background,предпосылка,arrière-plan | condition préalable
-192,background,предпосылка,information | condition préalable | condition
-193,background,предпосылка,arrière plan | condition préalable
-194,background,предпосылка,formation | condition préalable
-195,background,предпосылка,background | condition préalable
-196,background,предпосылка,second plan | condition préalable
-197,background,предпосылка,arrière-fond | condition préalable
-198,background,происхождение,origine | information | histoire
-199,background,происхождение,expérience | provenance
-200,background,происхождение,second plan | provenance | ascendance
-201,background,происхождение,arrière-fond | provenance
-202,background,подготовка,formation | information | élaboration | rédaction | production | arrière-fond
-203,background,подготовка,contexte | entraînement
-204,background,подготовка,arrière-plan | préparation
-205,background,подготовка,antécédent | rédaction
-206,background,подготовка,historique | production
-207,background,подготовка,arrière plan | préparation
-208,background,история,antécédent
-209,background,история,historique | histoire | version
-210,background,история,passé
-211,background,история,histoire | origine
-212,background,история,contexte | conte
-213,background,сведения,information | intention | origine | formation | arrière-fond
-214,background,сведения,contexte | attention
-215,background,сведения,expérience | renseignement | renseignement
-216,background,сведения,second plan | connaissance
-217,background,фоновый режим,de fond | fond | fond d'écran
-218,background,фоновый режим,contexte | traitement
-219,background,фоновый режим,arrière-plan | en arrière-plan
-220,background,фоновый режим,information | situation
-221,background,фоновый режим,historique | situation
-222,background,фоновый режим,arrière plan | en arrière-plan
-223,background,фоновый режим,histoire | situation
-224,background,фоновый режим,arrière-fond | en arrière-plan
-225,background,опыт,expérience | référence | expertise
-226,background,опыт,contexte | compétence
-227,background,опыт,arrière-plan | savoir-faire
-228,background,опыт,historique | pratique
-229,background,опыт,arrière plan | savoir-faire
-230,background,опыт,arrière-fond | savoir-faire
-231,background,справочная информация,historique | histoire
-232,background,справочная информация,information | informations générales
-233,background,справочная информация,formation | informations générales
-234,background,справочная информация,arrière-fond | informations générales
-235,background,история вопроса,historique | histoire
-236,background,прошлое,antécédent
-237,background,прошлое,passé
-238,background,прошлое,histoire | origine | historique
-239,background,образование,formation | information | instruction | arrière-fond
-240,background,образование,historique | instruction | scolarisation
-241,background,корень,arrière-plan | racine
-242,background,корень,arrière plan | racine
-243,background,корень,arrière-fond | racine
-244,background,исходная информация,information | informations générales
-245,background,исходная информация,formation | informations générales
-246,background,исходная информация,arrière-fond | informations générales
-247,background,контекст,contexte
-248,background,общие сведения,historique | histoire
-249,background,общие сведения,arrière-plan | renseignements de caractère général
-250,background,общие сведения,information | informations générales | information de base
-251,background,общие сведения,référence | cadre général
-252,background,общие сведения,arrière plan | renseignements de caractère général
-253,background,общие сведения,formation | informations générales
-254,background,общие сведения,expérience | renseignements généraux | renseignements de caractère général
-255,background,общие сведения,arrière-fond | informations générales
-256,background,исток,historique | istok
-257,background,исток,histoire | istok
-258,background,фоновое изображение,arrière-plan | d'arrière-plan | représentation
-259,background,фоновое изображение,arrière plan | d'arrière-plan
-260,background,фоновое изображение,arrière-fond | d'arrière-plan
-261,background,фоновая,contexte | concentration
-262,background,фоновая,information | concentration
-263,background,фоновая,formation | concentration
-264,background,фоновая,second plan | concentration
-265,background,фоновый,de fond | fond | fond d'écran
-266,background,фоновый,arrière-plan | en arrière-plan
-267,background,фоновый,arrière plan | en arrière-plan
-268,background,фоновый,arrière-fond | en arrière-plan
-269,background,справочный,référence | expérience
-270,background,второстепенный,no_equality
-271,write,писать,écrire | écriture | rédiger | prescrire
-272,write,писать,écriture
-273,write,писать,inscrire | peindre
-274,write,писать,enregistrer | peindre
-275,write,записывать,écrire | rédiger | écriture
-276,write,записывать,enregistrer | inscrire | graver | prescrire | noter
-277,write,записывать,noter
-278,write,выписывать,prescrire | écrire | inscrire | enregistrer
-279,write,выписывать,noter | contravention
-280,write,выписывать,note | contravention
-281,write,вписать,écrire | rédiger | prescrire | écriture
-282,write,вписать,faire | faire rentrer | faire entrer
-283,write,вписать,inscrire | faire rentrer
-284,write,вписать,graver | faire rentrer
-285,write,вписать,enregistrer | replacer | faire rentrer
-286,write,списать,no_equality
-287,write,письменный,écrire | écrit | écrite | par écrit
-288,write,письменный,écriture | écrit
-289,apologise,извиниться,s'excuser | excuser | m'excuser | t'excuser | m'excuse | vous excuser | des excuses | m'en excuse | t'excuse | vous excusez
-290,apologise,извиниться,demander pardon
-291,apologise,извиниться,m'excuser
-292,apologise,извиниться,suis désolé
-293,apologise,извиниться,m'excuse
-294,fly,летать,voler | vol | survoler | s'envoler | faire voler
-295,fly,летать,piloter
-296,fly,летать,vol
-297,fly,вылететь,s'envoler | voler | survoler | prendre l'avion | faire voler
-298,fly,вылететь,décoller
-299,fly,вылететь,piloter | prendre l'avion
-300,fly,вылететь,braguette | être exclu
-301,fly,влететь,no_equality
-302,fly,подлететь,no_equality
-303,fly,отлететь,no_equality
-304,fly,слетаться,no_equality
-305,fly,муха,mouche
-306,fly,полет,voler | vol | survoler | s'envoler | faire voler
-307,fly,полет,vol
-308,beaver,бобр,castor
-309,beaver,бобр,beaver | beav
-310,beaver,Бобрик,beaver
-311,beaver,Бивер,beaver
-312,beaver,работяга,no_equality
-313,beaver,бородач,beaver | beardface
-314,beaver,бобровый,castor | castral rock
-315,coincide,совпадать,coïncider | correspondre | concordent | coïncidence
-316,coincide,совмещаться,coïncider | compatible
-317,anything,что угодно,quelque chose | que vous voulez | quoi que ce soit | que vous voudrez | autre chose
-318,anything,что угодно,quoi que ce soit
-319,anything,что угодно,n'importe quoi | peu importe | qu'on veut | quoique ce soit | contraire
-320,anything,ничего,quelque chose | quoi que ce soit | autre chose | quoique ce soit
-321,anything,ничего,tout
-322,anything,ничего,ça
-323,anything,ничего,mal
-324,anything,ничего,personne
-325,anything,ничего,n'importe quoi | quoi
-326,anything,ничего,nouveau | aucun
-327,anything,ничего,contraire | rien
-328,anything,все,tout | tu
-329,anything,все,ça
-330,anything,все,autre chose | tout le monde
-331,anything,все,reste | est
-332,anything,все,compte | tout le monde
-333,exhaustively,исчерпывающе,exhaustivement | façon exhaustive | manière exhaustive
-334,exhaustively,полностью,exhaustivement | pleinement | entièrement | totalement | intégralement | parfaitement | vraiment | exclusivement
-335,exhaustively,тщательно,exhaustivement | soigneusement | attentivement | minutieusement | méticuleusement | scrupuleusement
-336,exhaustively,тщательно,façon exhaustive | soigneusement | avec soin | manière approfondie
-337,exhaustively,тщательно,manière exhaustive | soigneusement
-338,apoplexy,удар,no_equality
-339,apoplexy,инсульт,no_equality
-340,apoplexy,кровоизлияние,no_equality
-341,apoplexy,апоплексический,no_equality
-342,coconut,кокос,noix de coco | coconut | cocotier | cocoteraie
-343,coconut,мякоть кокоса,noix de coco | coconut | cocotier | cocoteraie
-344,coconut,кокосовый,noix de coco | de coco | cocoanut
-345,coconut,кокосовый,cocoteraie | de coco
-346,not,не,pas
-347,not,не,ne
-348,not,не,sans
-349,not,не,jamais
-350,not,не,n
-351,not,не,rien
-352,not,не,non | on
-353,not,не,ni
-354,not,не,tout | tu
-355,not,нет,pas
-356,not,нет,ne
-357,not,нет,sans
-358,not,нет,non
-359,not,нет,plus
-360,not,нет,tout | tu
-361,international,международный,international | organisation | internationalement | internationalisation | internacional
-362,international,международный,mondial | mondiale
-363,international,Интернационал,international | internationale | liberal international | isis international
-364,international,Интернационал,internationalement | internationale
-365,international,Интернационал,internationalisation | internationale
-366,international,Интернационал,internacional | internationale
-367,parent,родитель,parent | parental
-368,parent,родитель,père
-369,parent,предок,parent | ancêtre | ancêtre
-370,parent,отец,parent | parental
-371,parent,отец,père
-372,parent,отец,principale | parrain
-373,parent,родительский элемент,parental | parent
-374,parent,родительский элемент,géniteur | entrée
-375,parent,родительница,no_equality
-376,parent,родительский,parental | parent
-377,parent,исходный,no_equality
-378,parent,вышестоящий,parent | notateur | notateur
-379,parent,вышестоящий,origine | juridiction supérieure
-380,parent,вышестоящий,géniteur | supérieur | juridiction supérieure | instance supérieure
-381,parent,один из родителей,parent | l'un des parents | un parent | l'un des parents
-382,ocean,океан,océan | océane
-383,ocean,океан,mer
-384,ocean,океан,atlantique | paquebot
-385,ocean,дно океана,no_equality
-386,ocean,океанский,océane | ocean
-387,ocean,океанский,ocean's | ocean
-388,coincidental,случайный,fortuit
-389,coincidental,случайный,hasard
-390,coincidental,случайный,coïncidence | accidentel | occasionnel | accident | accidentellement
-391,coincidental,совпадающий,no_equality
-392,coincidental,случайное совпадение,coïncidence | simple coïncidence
-393,coincidental,случайное совпадение,hasard | un hasard
-394,buzzer,сирена,sonnerie | serena | sirène
-395,buzzer,сирена,avertisseur sonore | serena
-396,buzzer,звонок,sonnette
-397,buzzer,звонок,sonnerie | sonne | sonner | avertisseur sonore
-398,buzzer,звонок,ronfleur | coup de fil
-399,buzzer,пищалка,no_equality
-400,buzzer,зуммерный,no_equality
-401,dynamite,динамит,dynamite | dynamiter
-402,dynamite,динамитная шашка,no_equality
-403,dynamite,динамитный,dynamite | dynamique
-404,dynamite,динамитный,dynamiter | dynamique
-405,dynamite,взрывной,explosif
-406,buy,купить,acheter | racheter | chercher | s'acheter
-407,buy,купить,payer
-408,buy,купить,offrir
-409,buy,купить,racheter
-410,buy,купить,procurer | trouver
-411,buy,купить,se procurer | prendre | trouver
-412,buy,продать,acheter | racheter | s'acheter
-413,buy,накупить,no_equality
-414,buy,подкупить,acheter | racheter | s'acheter
-415,buy,подкупить,procurer | corrompre
-416,buy,подкупить,souscrire | soudoyer
-417,buy,подкупить,se procurer | corrompre
-418,buy,подкупить,gober | corrompre
-419,buy,покупка,acheter | racheter | s'acheter
-420,buy,покупка,achat
-421,peremptory,императивный,impératif | impérative | péremptoire
-422,peremptory,императивный,récusations péremptoires | obligatoire
-423,peremptory,безапелляционный,no_equality
-424,member,член,membre
-425,member,член,député
-426,member,член,partie | fait partie | fais partie
-427,member,член,collègue | couille | conseiller
-428,member,член,militaire | fait partie
-429,member,представитель,membre
-430,member,представитель,partie | porte-parole | haut-représentant
-431,member,представитель,adhérent | représentant | représentant
-432,member,элемент,élément
-433,member,элемент,adhérent | entrée | entrée
-434,member,депутат,député
-435,member,член организации,membre
-436,member,член организации,organe | organisation | organisation | organisme | organiser
-437,member,членский,membre | le nombre
-438,childhood,детство,enfance | jeune enfant
-439,childhood,детский,enfance | enfant
-440,childhood,детский,infantile | orphelinat
-441,childhood,детский,jeune enfant | enfant
-442,go,идти,aller
-443,go,идти,partir
-444,go,идти,passer
-445,go,идти,faire | filer
-446,go,идти,sortir
-447,go,идти,rentrer | prendre | retourner | entrer | monter | se rendre
-448,go,идти,retourner
-449,go,идти,continuer
-450,go,идти,venir | suivre
-451,go,идти,entrer
-452,go,идти,prendre
-453,go,идти,chercher | marcher
-454,go,проходить,passer
-455,go,проходить,faire | se faire
-456,go,проходить,rentrer | traverser | se tenir
-457,go,проходить,retourner | traverser | recevoir | se dérouleront
-458,go,проходить,venir | suivre | avoir lieu
-459,go,проходить,entrer | traverser | se tiendra
-460,go,проходить,se rendre | se dérouler
-461,go,ехать,aller
-462,go,ехать,partir
-463,go,ехать,rentrer | retourner | monter | entrer | prendre | se rendre
-464,go,ехать,retourner
-465,go,ехать,continuer | conduire | route
-466,go,ехать,monter
-467,go,ехать,venir
-468,go,отправиться,aller
-469,go,отправиться,partir
-470,go,отправиться,faire
-471,go,отправиться,rentrer | se rendre | retourner | monter | entrer | prendre
-472,go,отправиться,retourner
-473,go,отправиться,venir
-474,go,отправиться,se rendre
-475,go,перейти,aller
-476,go,перейти,passer
-477,go,перейти,rentrer | traverser
-478,go,перейти,retourner | traverser
-479,go,перейти,monter | adopter
-480,go,перейти,entrer | traverser
-481,go,перейти,chercher | changer
-482,go,перейти,prendre | adopter
-483,go,происходить,passer | se passer
-484,go,происходить,faire | se faire
-485,go,происходить,retourner | se produire
-486,go,происходить,venir | arriver | avoir lieu
-487,go,происходить,prendre | se produire
-488,go,происходить,se rendre | se produire
-489,plate,пластина,plaque | plaquette | plaquer
-490,plate,пластина,planche
-491,plate,пластина,platine | titane
-492,plate,плита,no_equality
-493,plate,тарелка,assiette
-494,plate,лист,assiette | liste
-495,plate,номерной знак,platine | plaque d'immatriculation
-496,plate,номерной знак,plaquette | plaque d'immatriculation
-497,plate,номерной знак,plaquer | plaque d'immatriculation
-498,plate,номерной знак,immatriculation | plaque d'immatriculation
-499,plate,дощечка,plaquette | tablette
-500,plate,панель,panneau
-501,plate,накладка,no_equality
-502,plate,платформа,plaquette | plate-forme | plateforme
-503,plate,платформа,plate | plate-forme
-504,plate,стяжка,no_equality
-505,plate,бляха,plaque | plaquette | plaquer
-506,plate,толстый лист,assiette | liste
-507,plate,толстый лист,platine | questionnaire
-508,plate,толстый лист,plaquette | corpulent
-509,plate,толстый лист,plaquer | corpulent
-510,plate,толстый лист,immatriculation | questionnaire
-511,plate,листовой,no_equality
-512,plate,пластинчатый,no_equality
-513,fish,рыба,poisson | poissonnier
-514,fish,Фиш,fish
-515,fish,рыбный,poisson | de poisson | poissonnerie | poissonnier
-516,fish,рыбный,fish | fishy
-517,fish,рыбный,halieutique | hauturière
-518,fish,рыбный,pisciculture | hauturière
-519,fish,ловить рыбу,pêcher | pêche | pêcheur
-520,fish,удить,no_equality
-521,fish,выудить,pêche | padiche
-522,fish,выудить,halieutique | me soutirer
-523,fish,выудить,morue | me soutirer
-524,fish,выудить,pisciculture | me soutirer
-525,stand,стоять,rester | se tenir | être | reposer | se tenir debout | mettre
-526,stand,стоять,se tenir
-527,stand,стоять,tenir debout | attendre | me tenir | tribune | être debout
-528,stand,стоять,peuplement | me tenir
-529,stand,устоять,résister
-530,stand,выдерживать,supporter | support | reposer
-531,stand,отстаивать,supporter | protéger
-532,stand,отстаивать,tolérer | protéger
-533,stand,отстаивать,blairer | faire valoir
-534,stand,выступать,parole | parler
-535,stand,выступать,rester | présenter
-536,stand,выступать,supporter | constituer | présenter
-537,stand,выступать,se tenir | intervenir | constituer | s'exprimer
-538,stand,выступать,tenir debout | intervenir
-539,stand,выступать,tribune | intervenir
-540,stand,выступать,blairer | parler
-541,stand,остановиться,rester | s'arrêter | s'arrête | être | se tenir | reposer | se tenir debout | mettre
-542,stand,остановиться,barre | aborder | m'arrêter
-543,stand,остановиться,parole | loger | parler
-544,stand,остановиться,blairer | aborder
-545,stand,предстать,parole | comparaître
-546,stand,остаться,rester | être | se tenir | reposer | se tenir debout | mettre
-547,stand,остаться,barre | garder
-548,stand,замереть,parole | pas bouger
-549,stand,замереть,supporter | pas bouger
-550,stand,замереть,reposer | pas bouger
-551,stand,замереть,se tenir debout | pas bouger
-552,stand,стенд,stand
-553,stand,подставка,support | supporter
-554,stand,подставка,peuplement | plumier
-555,stand,позиция,position
-556,stand,позиция,support | poste
-557,stand,позиция,supporter | poste
-558,stand,позиция,tenir debout | attitude
-559,stand,позиция,tribune | rubrique
-560,stand,позиция,être debout | attitude
-561,stand,трибуна,tribune | se tenir | tenir debout | se tenir debout | tribun | être debout
-562,precedent,прецедент,précédent | antécédent | précédente
-563,precedent,прецедент,jurisprudence
-564,precedent,предыдущий,précédent | antécédent | précédente
-565,precedent,предыдущий,jurisprudence | dernier
-566,precedent,прецедентный,no_equality
-567,precedent,предшествующий,précédent | précédant | antécédent | précédente
-568,issue,вопрос,question | interrogation | problématique | publication | sortie
-569,issue,вопрос,problème | publier | promulguer
-570,issue,вопрос,sujet
-571,issue,вопрос,point
-572,issue,вопрос,thème
-573,issue,выпуск,numéro
-574,issue,выпуск,émission
-575,issue,выпуск,édition
-576,issue,выпуск,publication | question | point | publier | problématique | production
-577,issue,выпуск,fournir | production
-578,issue,выдача,délivrance | délivrer | édicter | décerner
-579,issue,выдача,question | extradition
-580,issue,выдача,matière | extradition
-581,issue,выдача,publication | extradition
-582,issue,выдача,sortie | extradition | octroi
-583,issue,выдача,distribuer | extradition
-584,issue,номер,numéro
-585,issue,номер,problème | nombre | portable
-586,issue,номер,sujet | suite
-587,issue,номер,donner | nombre
-588,issue,номер,problématique | immatriculation
-589,issue,номер,matière | immatriculation
-590,issue,номер,publication | immatriculation
-591,issue,номер,sortie | suite
-592,issue,номер,distribuer | suite
-593,issue,вытекание,problème | couper
-594,issue,вытекание,promulguer | couper
-595,issue,эмиссия,émission
-596,issue,выдавать,donner
-597,issue,выдавать,délivrer | à délivrer
-598,issue,выдавать,édicter | à délivrer
-599,issue,выдавать,délivrance | à délivrer
-600,issue,выпускать,publier | problème | produire | promulguer | problématique | publication | distribuer
-601,issue,издавать,publier | problème | promulguer | problématique | publication | distribuer
-602,issue,оформить,question | institutionnaliser
-603,issue,оформить,problème | remplir | formaliser | formuler
-604,issue,оформить,point | institutionnaliser
-605,issue,оформить,délivrer | régulariser
-606,issue,оформить,publier | remplir
-607,issue,оформить,promulguer | remplir | régulariser
-608,issue,оформить,édicter | décorer
-609,issue,оформить,décerner | décorer
-610,issue,оформить,problématique | remplir
-611,issue,оформить,publication | institutionnaliser
-612,issue,оформить,sortie | institutionnaliser
-613,issue,оформить,distribuer | institutionnaliser
-614,issue,эмиссионный,émission | d'émission
-615,thousand,тыс.,no_equality
-616,thousand,тысячелетие,millénaire | millier | millième | milliard | million
-617,thousand,множество,mille | multiple
-618,thousand,множество,millier | multiple
-619,thousand,множество,centaine de | plein de
-620,thousand,множество,rouble | nombreux | beaucoup de
-621,thousand,тысяча долларов,mille | mille dollars | millier de dollars
-622,thousand,тысяча долларов,millier | mille dollars
-623,thousand,тысяча долларов,dollar | mille dollars | 1000 dollars | 1 000 dollars
-624,thousand,тысяча долларов,milliard | mille dollars
-625,thousand,тысяча долларов,mille-îles | mille dollars
-626,thousand,тысяча,mille | millier | des milliers | millième | mil | milliard | mille-îles
-627,thousand,тысяча,millier
-628,thousand,тысячный,millième | mille | millier | mil | millénaire | milliard | million
-629,thousand,тысячный,centaine de | la centième
-630,pen,ручка,stylo
-631,pen,ручка,pénitencier | poignée
-632,pen,рейсфедер,no_equality
-633,pen,фломастер,feutre | le marqueur
-634,pen,фломастер,plume | le marqueur
-635,pen,загон,enclos
-636,pen,Перу,pénitencier | péruvien | péruvien
-637,pen,пена,no_equality
-638,pen,пенал,plume | plumier
-639,pen,пенал,crayon | la boîte à crayons
-640,pen,пенал,enclos | la boîte à crayons
-641,pen,световое перо,plume
-642,pen,световое перо,feutre | feather
-643,pen,писать,écrire
-644,pen,писать,pénitencier | peindre | écriture
-645,pen,перьевой,no_equality
-646,pasta,паста,pâtes alimentaires | dentifrice
-647,pasta,блюда из макарон,no_equality
-648,hot,горячий,chaud | à chaud
-649,hot,горячий,sexy
-650,hot,острый,épicé
-651,hot,острый,piquant | piquante
-652,hot,популярный,no_equality
-653,hot,жгучий,brûlant | bouillant
-654,hot,горячительный,no_equality
-655,hot,жарко,chaleur
-656,hot,горячо,no_equality
-657,hot,разгоряченный,no_equality
-658,hot,горящий,no_equality
-659,hot,накалиться,no_equality
-660,that,что,que | qu | qu'est-ce que | quel | qu'est-ce qui | qu'est ce que
-661,that,что,qui | quoi
-662,that,что,le | telle
-663,that,что,je
-664,that,будто,no_equality
-665,that,дабы,no_equality
-666,that,который,qui
-667,that,который,celui | celui-là
-668,that,который,dont
-669,that,который,que | auquel | duquel
-670,that,который,cela | capable
-671,that,это,c
-672,that,это,ce | ceci
-673,that,это,cela
-674,that,это,le | telle
-675,that,это,il
-676,that,это,je
-677,that,это,celui | celui-ci
-678,that,это,celui-là | celui-ci
-679,that,тот самый,celui | celui-là
-680,that,так,telle | tellement
-681,that,таковой,telle | tel
-682,be,быть,être | rester | peut-être | mettre
-683,be,быть,avoir | arriver | pouvoir
-684,be,быть,faire
-685,be,быть,trouver
-686,be,быть,se
-687,be,быть,pas
-688,be,происходить,avoir | arriver | avoir lieu
-689,be,происходить,faire | se faire
-690,be,происходить,prendre | se produire
-691,be,происходить,devenir | se produire
-692,be,происходить,trouver | se produire
-693,be,находиться,avoir | pouvoir
-694,be,находиться,être | rester
-695,be,находиться,mettre | rester
-696,be,находиться,trouver | se trouver
-697,be,составлять,faire
-698,be,составлять,être | atteindre
-699,be,составлять,prendre | représenter | durer
-700,be,составлять,mettre | atteindre
-701,be,составлять,trouver | constituer
-702,be,составлять,convient | constituer
-703,be,заключаться,avoir | pouvoir
-704,be,заключаться,possible | consister
-705,be,идти,faire | filer
-706,be,идти,prendre | rentrer
-707,be,идти,être | rentrer | retourner | entrer
-708,be,идти,pouvoir | poursuivre
-709,be,идти,devenir | venir | prendre
-710,be,идти,trouver | sortir | continuer | poursuivre
-711,be,идти,convient | venir
-712,be,относиться,prendre | devenir
-713,be,относиться,être | traiter
-714,be,относиться,mettre | traiter
-715,be,равно,comme
-716,be,равно,être | reste
-717,be,равно,faire | finira
-718,be,равно,devenir | rien
-719,be,равно,mettre | reste
-720,be,равно,convient | importance
-721,but,но,mai
-722,but,но,toutefois
-723,but,но,cependant
-724,but,но,sans
-725,but,но,sauf
-726,but,но,pourtant
-727,but,но,alors
-728,but,но,puis | puisque
-729,but,но,mais bien | bien
-730,but,а,no_equality
-731,but,однако,mai
-732,but,однако,toutefois | outre
-733,but,однако,néanmoins
-734,but,однако,cependant | en revanche | par contre
-735,but,однако,pourtant
-736,but,однако,or
-737,but,однако,seulement | reste
-738,but,однако,alors | alors que
-739,but,только,mai
-740,but,только,seulement | uniquement | simplement | seule
-741,but,только,sauf
-742,but,кроме,mai
-743,but,кроме,seulement
-744,but,кроме,sauf
-745,but,кроме,hormis
-746,but,кроме,néanmoins | sinon
-747,but,кроме,que | autre que
-748,and,и,no_equality
-749,and,а также,no_equality
-750,and,причем,no_equality
-751,and,так и,no_equality
-752,and,с,no_equality
-753,expertise,экспертиза,spécialisation | évaluation
-754,expertise,компетентность,compétence
-755,expertise,мастерство,no_equality
-756,expertise,квалификация,savoir-faire | qualification
-757,expertise,квалификация,spécialisation | qualification
-758,expertise,квалификация,savoir faire | qualification
-759,expertise,опыт,expertise | expérience | exemple | expert
-760,expertise,опыт,savoir-faire | savoir faire
-761,expertise,опыт,compétence
-762,expertise,опыт,expérience
-763,expertise,опыт,connaissances spécialisées | spécialisation | spécialiste | services spécialisés
-764,expertise,экспертные знания,compétence
-765,expertise,эксперт,expert | expertise | expérience | experte
-766,expertise,эксперт,spécialiste | connaissances spécialisées | spécialisation | spécialité | spécialisé | services spécialisés
-767,expertise,профессионализм,connaissances spécialisées | professionnalisme
-768,expertise,профессионализм,spécialisation | professionnalisme
-769,expertise,экспертный потенциал,expertise | expérience | expert
-770,expertise,экспертный потенциал,savoir-faire | savoir faire
-771,expertise,экспертный потенциал,connaissances spécialisées | spécialisation | spécialiste | services spécialisés
-772,expertise,экспертный потенциал,compétence | compétences techniques
-773,expertise,экспертный потенциал,champs d'intérêt | compétences techniques
-774,expertise,знание дела,maîtrise
-775,expertise,знание дела,savoir-faire | savoir
-776,expertise,знание дела,connaissances spécialisées | connaissance | connaissance
-777,expertise,знание дела,savoir faire | savoir
-778,expertise,деловой опыт,expertise | expérience | expert
-779,expertise,деловой опыт,savoir-faire | savoir faire
-780,expertise,деловой опыт,compétence | économique
-781,expertise,деловой опыт,expérience
-782,expertise,экспертный,compétence
-783,expertise,экспертный,expertise | d'experts
-784,expertise,экспертный,expert | d'experts | d'experts
-785,tell,рассказывать,dire | indiquer
-786,tell,рассказывать,raconter | en parler | informer | conter | relater | compter
-787,tell,рассказывать,parler | en parler
-788,tell,рассказывать,distinguer | histoire
-789,tell,говорить,dire | indiquer
-790,tell,говорить,parler | apprendre | relater
-791,tell,говорить,raconter | informer | conter | compter
-792,tell,говорить,annoncer | donner
-793,tell,говорить,faire | taire | affirmer
-794,tell,говорить,répéter
-795,tell,говорить,prévenir | préciser | rien
-796,tell,говорить,expliquer | exprimer
-797,tell,говорить,distinguer | discuter
-798,tell,сообщать,dire | indiquer
-799,tell,сообщать,annoncer | dénoncer | donner
-800,tell,сообщать,indiquer
-801,tell,сообщать,informer | raconter | communiquer | rendre compte | distinguer
-802,tell,сообщать,parler | rapporter | faire rapport
-803,tell,сообщать,apprendre | rapporter
-804,tell,сообщать,compter | rapporter
-805,tell,указывать,dire | indiquer
-806,tell,указывать,indiquer
-807,tell,указывать,raconter | mentionner
-808,tell,указывать,prévenir | préciser | spécifier
-809,tell,указывать,annoncer | mentionner
-810,tell,указывать,informer | mentionner
-811,tell,указывать,donner | mentionner
-812,tell,указывать,conter | mentionner
-813,tell,уверять,no_equality
-814,tell,велеть,raconter | ordonner
-815,tell,велеть,annoncer | ordonner
-816,tell,велеть,informer | ordonner
-817,tell,велеть,donner | ordonner
-818,tell,велеть,conter | ordonner
-819,tell,подсказать,dire | indiquer la direction
-820,tell,подсказать,expliquer | m'indiquer | indiquer la direction
-821,tell,подсказать,indiquer | m'indiquer
-822,tell,подсказать,informer | m'indiquer
-823,tell,подсказать,distinguer | m'indiquer
-824,tell,поведать,dire | indiquer
-825,tell,поведать,raconter | informer | conter | relater | compter
-826,tell,объяснить,dire
-827,tell,объяснить,parler | apprendre | relater
-828,tell,объяснить,expliquer | explication | indiquer
-829,tell,объяснить,distinguer | justifier
-830,tell,передать,dire | indiquer
-831,tell,передать,donner | annoncer
-832,tell,передать,raconter | transmettre | transférer | renvoyer | confier
-833,tell,передать,prévenir | présenter
-834,tell,передать,expliquer | exprimer
-835,tell,передать,informer | communiquer | exprimer
-836,tell,передать,avouer | envoyer
-837,tell,передать,relater | transmettre | remettre
-838,tell,передать,compter | soumettre
-839,tell,попросить,faire | faveur
-840,tell,попросить,dire | dire à
-841,tell,попросить,parler | prier
-842,tell,попросить,savoir | avoir
-843,tell,попросить,prévenir | prier
-844,tell,попросить,expliquer | prier
-845,tell,поделиться,parler | partager | faire part
-846,tell,поделиться,raconter | partager | faire connaître | faire profiter
-847,tell,поделиться,prévenir | présenter
-848,tell,поделиться,indiquer | communiquer
-849,tell,поделиться,informer | communiquer
-850,tell,поделиться,relater | partager
-851,tell,отличить,distinguer | indiquer | informer
-852,tell,отличить,dire | différencier
-853,tell,отличить,faire | différencier
-854,tell,сказаться,raconter | compromettre
-855,tell,сказаться,expliquer | nuire
-856,tell,сказаться,indiquer | avoir une incidence | nuire
-857,tell,сказаться,informer | avoir une incidence | compromettre
-858,tell,сказаться,distinguer | avoir une incidence
-859,feel,чувствовать,sentir | ressentir | se sentir | impression | estimer | sentiment | sensation | senti | se sentent
-860,feel,чувствовать,ressentir
-861,feel,чувствовать,penser
-862,feel,чувствовать,se sentir
-863,feel,чувствовать,fait
-864,feel,чувствовать,avoir | avoir l'impression | avoir pitié
-865,feel,чувствовать,percevoir | croire | culpabiliser
-866,feel,полагать,penser | ressentir | se sentir
-867,feel,полагать,éprouver | considérer
-868,feel,полагать,avoir l'impression | considérer
-869,feel,полагать,percevoir | croire | considérer
-870,feel,ощупывать,no_equality
-871,feel,испытывать,ressentir | sentir | tester | penser | se sentir | estimer | sentiment | senti | se sentent
-872,feel,испытывать,éprouver | percevoir
-873,feel,испытывать,avoir | avoir l'impression | avoir pitié
-874,feel,стесняться,sentir | être timide
-875,feel,стесняться,ressentir | être embarrassé
-876,feel,стесняться,estimer | être embarrassé | être timide
-877,feel,стесняться,toucher | avoir honte
-878,feel,стесняться,atmosphère | avoir honte
-879,feel,стесняться,estimé | hésiter
-880,feel,стесняться,avoir l'impression | avoir honte
-881,feel,стесняться,percevoir | avoir honte
-882,feel,ощущение,sens
-883,feel,ощущение,sentiment | sentir | ressentir | se sentir | estimer | sensation | senti | se sentent
-884,feel,ощущение,sensation
-885,feel,ощущение,avoir l'impression | j'ai l'impression | on dirait
-886,news,новость,nouvelle
-887,news,новость,info | information
-888,news,новость,nouveau | nouveauté
-889,news,весточка,nouvelle | tu as des nouvelles | tu as des nouvelles
-890,news,Ньюс,news
-891,news,новинка,nouveauté | nouveau
-892,news,выпуск новостей,nouvelle
-893,news,выпуск новостей,news
-894,news,выпуск новостей,actualité
-895,news,выпуск новостей,information | publication | production | info
-896,news,выпуск новостей,journal
-897,news,известия,nouvelle
-898,news,новостной,journal | un journal
-899,news,новостной,nouveau | un journal
-900,start,начать,démarrer | démarrage
-901,start,начать,débuter | début
-902,start,начать,entamer
-903,start,начать,mettre | se mettre
-904,start,начать,départ | point de départ
-905,start,начать,lancer
-906,start,начать,engager
-907,start,начать,entreprendre
-908,start,начать,reprendre
-909,start,начать,déclencher
-910,start,начать,commencer | commencer à | déclencher | amorcer
-911,start,начать,recommencer | commencer à | lancer | entamer | prendre | reprendre | entreprendre
-912,start,начать,partir | repartir
-913,start,начать,lancement | commencer à
-914,start,начать,commencement | commencer à
-915,start,начать,déclenchement | commencer à
-916,start,запустить,démarrer | démarrage
-917,start,запустить,faire
-918,start,запустить,mettre | entamer | se mettre
-919,start,запустить,lancer | recommencer | lancement | déclencher | déclenchement | se lancer
-920,start,запустить,déclencher | commencer
-921,start,вздрагивать,no_equality
-922,start,завести,démarrer | démarrage
-923,start,завести,faire
-924,start,завести,recommencer | fonder | prendre
-925,start,завести,entreprendre | fonder
-926,start,завести,reprendre | fonder
-927,start,заняться,commencer | s'occuper
-928,start,заняться,faire
-929,start,заняться,entreprendre
-930,start,заняться,débuter | étudier
-931,start,заняться,recommencer | se pencher sur | entreprendre | commencer
-932,start,заняться,entamer | examiner
-933,start,заняться,partir | traiter
-934,start,заняться,mettre | traiter
-935,start,заняться,abord | aborder
-936,start,заняться,reprendre | aborder | se pencher sur
-937,start,затеять,no_equality
-938,start,начало,début | débuter
-939,start,начало,départ | point de départ
-940,start,начало,démarrage | démarrer
-941,start,начало,lancement | commencer | recommencer | entamer | commencement | ça commence | lancer | entreprendre | déclenchement | se lancer
-942,start,начало,commencement
-943,start,начало,partir | a entrepris
-944,start,начало,reprendre | a entrepris
-945,start,старт,début | débuter
-946,start,старт,départ | point de départ
-947,start,начальный,no_equality
-948,intelligent,умный,intelligent | brillant | intelligence | intelligemment
-949,intelligent,разумный,no_equality
-950,intelligent,осмысленный,no_equality
-951,intelligent,продуманный,no_equality
-952,intelligent,неглупый,intelligent | intelligence | intelligemment
-953,intelligent,микропроцессорный,no_equality
-954,intelligent,понятливый,no_equality
-955,intelligent,мыслящий,no_equality
-956,intelligent,программируемый,no_equality
-957,intelligent,настраиваемый,intelligence | personnalisable
-958,intelligent,понимающий,intelligence | compréhensible
-959,refugee,беженец,réfugié
-960,refugee,беженка,réfugié
-961,refugee,беглец,no_equality
-962,refugee,беженский,no_equality
-963,create,создавать,créer | élaborer
-964,create,создавать,établir
-965,create,создавать,instaurer | constituer | construire | produire | susciter | faire naître
-966,create,создавать,produire
-967,create,создавать,constituer
-968,create,создавать,former | fonder | offrir
-969,create,создавать,offrir
-970,create,создавать,causer
-971,create,создавать,donner | fonder
-972,create,создавать,engendrer | mettre en place des
-973,create,создавать,mettre en place | mettre en place des
-974,create,порождать,produire | instaurer
-975,create,вызывать,susciter | instaurer | constituer | causer
-976,create,вызывать,causer
-977,create,вызывать,donner | entraîner
-978,create,вызывать,produire | provoquer
-979,create,вызывать,engendrer | entraîner
-980,create,вызывать,mettre en place | appeler | entraîner
-981,create,производить,produire | instaurer | fabriquer | procéder à
-982,create,производить,créer | procéder à
-983,create,производить,mettre en place | effectuer
-984,create,производить,faire naître | faire
-985,create,разработать,créer | élaborer | rédiger
-986,create,разработать,établir
-987,create,разработать,élaborer
-988,create,разработать,mettre en place | engendrer | mettre au point | faire naître | entraînent
-989,create,разработать,instaurer | mettre au point | trouver | mettre sur pied
-990,create,разработать,produire | formuler | adopter | proposer
-991,create,разработать,constituer | mettre au point
-992,create,разработать,former | formuler
-993,create,разработать,offrir | formuler
-994,create,образовать,constituer | instaurer | susciter
-995,create,образовать,former | offrir
-996,create,образовать,créer | créer un
-997,create,образовать,élaborer | créer un
-998,nobody,никто,personne | personne ne | on ne | moins que rien
-999,nobody,никто,rien
-1000,nobody,никто,nul | nul ne | nul n'
-1001,nobody,никто,ni
-1002,nobody,никто,on n' | non
-1003,nobody,никто,tout le monde | monde
-1004,nobody,некого,personne ne | n'ai personne à | y a personne d'autre | n'ai plus personne à | n'ai personne d'autre à qui | n'as personne d'autre à
-1005,nobody,некого,personne | n'ai personne à
-1006,nobody,некого,on ne | n'ai personne à
-1007,nobody,некого,rien | n'ai personne à
-1008,nobody,некого,moins que rien | n'ai personne à
-1009,nobody,ничей,no_equality
-1010,nobody,ничтожество,nul | nul ne | nul n'
-1011,nobody,ничтожество,personne ne | bon à rien | n'es rien
-1012,nobody,ничтожество,personne | bon à rien
-1013,nobody,ничтожество,rien | bon à rien | ne suis rien
-1014,nobody,ничтожество,moins que rien | bon à rien
-1015,word,слово,mot
-1016,word,слово,parole | remplacer | parler
-1017,word,слово,terme | promets
-1018,word,слово,dit
-1019,word,слово,dire
-1020,word,слово,expression | exprimer | promesse
-1021,word,слово,parlé
-1022,word,слово,promesse
-1023,word,слово,verbe
-1024,word,известие,nouvelle
-1025,word,слова,mot
-1026,word,слова,parole | parle | parler
-1027,word,слова,terme
-1028,word,слова,dit
-1029,word,слова,expression | exprimer | promesse
-1030,word,слова,propos
-1031,word,говорить,rien | exprimer
-1032,word,говорить,parler | parole
-1033,word,говорить,dire
-1034,word,говорить,exprimer
-1035,word,говорить,ordre | raconter
+9,for,ради,pour
+10,for,в течение,pendant
+11,for,в течение,par
+12,for,в течение,durant
+13,for,в отношении,au titre de | au titre
+14,for,для целей,pour
+15,for,для целей,au titre de | au titre
+16,for,ибо,car
+17,for,ибо,puisque
+18,for,чтобы,pour
+19,cafe,кофейня,café
+20,cafe,буфет,no_equality
+21,cafe,кафе-ресторан,café
+22,cafe,кафе-ресторан,cafétéria
+23,cafe,кафе-ресторан,bar
+24,follow,следовать,suivre
+25,follow,следовать,respecter
+26,follow,следовать,poursuivre
+27,follow,следовать,appliquer
+28,follow,следовать,obéir
+29,follow,следовать,adopter
+30,follow,следовать,se conformer
+31,follow,следить,suivre
+32,follow,следить,observer
+33,follow,соблюдать,suivre
+34,follow,соблюдать,respecter
+35,follow,соблюдать,appliquer
+36,follow,соблюдать,observer
+37,follow,соблюдать,se conformer | se conformer à
+38,follow,сопровождать,accompagner
+39,follow,идти,suivre
+40,follow,идти,poursuivre
+41,follow,идти,prendre
+42,follow,выполнять,respecter
+43,follow,выполнять,appliquer
+44,follow,выполнять,se conformer
+45,follow,вытекать,découler
+46,follow,далее следовать,suivre
+47,follow,далее следовать,respecter
+48,follow,далее следовать,poursuivre
+49,follow,далее следовать,appliquer
+50,follow,далее следовать,se conformer
+51,follow,повторять,no_equality
+52,follow,последующий,no_equality
+53,warm,теплый,chaud
+54,warm,теплый,chaleureux
+55,warm,сердечный,no_equality
+56,warm,согревать,chaud
+57,warm,согревать,réchauffer | chauffer | échauffer
+58,warm,погреться,se réchauffer
+59,warm,утеплить,no_equality
+60,warm,тепло,chaud
+61,warm,тепло,chaleureux
+62,warm,тепло,chaleur
+63,warm,тепло,chaleureusement
+64,warm,разминка,no_equality
+65,collide,сталкиваться,no_equality
+66,collide,конфликтовать,no_equality
+67,collide,наехать,no_equality
+68,collide,соударяться,no_equality
+69,collide,в конфликт,no_equality
+70,break,ломать,briser
+71,break,ломать,casser
+72,break,нарушать,briser
+73,break,нарушать,enfreindre
+74,break,нарушать,violer
+75,break,разбивать,briser
+76,break,разбивать,casser
+77,break,разорвать,briser
+78,break,разорвать,rompre
+79,break,разорвать,sortir
+80,break,прорваться,percer
+81,break,разрушить,briser
+82,break,разрушить,rompre
+83,break,вырваться,rompre
+84,break,вырваться,sortir
+85,break,разбиться,no_equality
+86,break,разразиться,no_equality
+87,break,пробить,briser
+88,break,пробить,percer
+89,break,преодолеть,sortir
+90,break,отколоться,no_equality
+91,break,вырывать,no_equality
+92,break,преломлять,no_equality
+93,break,перерыв,pause
+94,break,перерыв,break
+95,break,перерыв,interruption
+96,break,разрыв,rupture
+97,break,разрыв,fracture
+98,break,пролом,no_equality
+99,break,каникулы,vacance
+100,break,передышка,no_equality
+101,tiger,тигр,tigre
+102,tiger,тигр,tiger
+103,tiger,зверь,no_equality
+104,tiger,тигриный,no_equality
+105,lion,лев,lion
+106,lion,лев,lev
+107,lion,львиный,no_equality
+108,background,фон,fond
+109,background,фон,arrière-plan
+110,background,предпосылка,no_equality
+111,background,происхождение,origine
+112,background,подготовка,formation
+113,background,история,antécédent
+114,background,история,historique
+115,background,история,passé
+116,background,история,histoire
+117,background,сведения,information
+118,background,фоновый режим,de fond
+119,background,опыт,expérience
+120,background,справочная информация,historique
+121,background,история вопроса,historique
+122,background,прошлое,antécédent
+123,background,прошлое,passé
+124,background,прошлое,histoire
+125,background,образование,formation
+126,background,корень,no_equality
+127,background,исходная информация,no_equality
+128,background,контекст,contexte
+129,background,общие сведения,historique
+130,background,исток,no_equality
+131,background,фоновое изображение,no_equality
+132,background,фоновая,no_equality
+133,background,фоновый,de fond
+134,background,справочный,référence
+135,background,второстепенный,no_equality
+136,write,писать,écrire
+137,write,писать,écriture
+138,write,записывать,écrire
+139,write,записывать,enregistrer
+140,write,записывать,noter
+141,write,выписывать,prescrire
+142,write,вписать,écrire
+143,write,списать,no_equality
+144,write,письменный,no_equality
+145,apologise,извиниться,s'excuser
+146,apologise,извиниться,demander pardon
+147,apologise,извиниться,m'excuser | t'excuser
+148,apologise,извиниться,suis désolé
+149,apologise,извиниться,m'excuse | t'excuse
+150,fly,летать,voler
+151,fly,летать,piloter
+152,fly,летать,vol
+153,fly,вылететь,s'envoler
+154,fly,вылететь,décoller
+155,fly,влететь,no_equality
+156,fly,подлететь,no_equality
+157,fly,отлететь,no_equality
+158,fly,слетаться,no_equality
+159,fly,муха,mouche
+160,fly,полет,voler
+161,fly,полет,vol
+162,beaver,бобр,castor
+163,beaver,Бобрик,beaver
+164,beaver,Бивер,beaver
+165,beaver,работяга,no_equality
+166,beaver,бородач,no_equality
+167,beaver,бобровый,no_equality
+168,coincide,совпадать,coïncider
+169,coincide,совмещаться,no_equality
+170,anything,что угодно,quelque chose
+171,anything,что угодно,quoi que ce soit
+172,anything,что угодно,n'importe quoi
+173,anything,ничего,quelque chose
+174,anything,ничего,tout
+175,anything,ничего,ça
+176,anything,ничего,mal
+177,anything,ничего,personne
+178,anything,все,tout
+179,anything,все,ça
+180,exhaustively,исчерпывающе,exhaustivement
+181,exhaustively,полностью,no_equality
+182,exhaustively,тщательно,no_equality
+183,apoplexy,удар,no_equality
+184,apoplexy,инсульт,no_equality
+185,apoplexy,кровоизлияние,no_equality
+186,apoplexy,апоплексический,no_equality
+187,coconut,кокос,noix de coco
+188,coconut,мякоть кокоса,noix de coco
+189,coconut,кокосовый,no_equality
+190,not,не,pas
+191,not,не,ne
+192,not,не,sans
+193,not,не,jamais
+194,not,не,n
+195,not,не,rien
+196,not,не,non
+197,not,не,ni
+198,not,нет,pas
+199,not,нет,ne
+200,not,нет,sans
+201,not,нет,non
+202,not,нет,plus
+203,international,международный,international
+204,international,международный,mondial
+205,international,Интернационал,no_equality
+206,parent,родитель,parent
+207,parent,родитель,père
+208,parent,предок,no_equality
+209,parent,отец,parent
+210,parent,отец,père
+211,parent,родительский элемент,parental
+212,parent,родительница,no_equality
+213,parent,родительский,parental
+214,parent,исходный,no_equality
+215,parent,вышестоящий,no_equality
+216,parent,один из родителей,no_equality
+217,ocean,океан,océan
+218,ocean,океан,mer
+219,ocean,океан,atlantique
+220,ocean,дно океана,no_equality
+221,ocean,океанский,no_equality
+222,coincidental,случайный,fortuit
+223,coincidental,случайный,hasard
+224,coincidental,совпадающий,no_equality
+225,coincidental,случайное совпадение,coïncidence
+226,buzzer,сирена,no_equality
+227,buzzer,звонок,sonnette
+228,buzzer,звонок,sonnerie
+229,buzzer,пищалка,no_equality
+230,buzzer,зуммерный,no_equality
+231,dynamite,динамит,dynamite
+232,dynamite,динамитная шашка,no_equality
+233,dynamite,динамитный,no_equality
+234,dynamite,взрывной,explosif
+235,buy,купить,acheter
+236,buy,купить,payer
+237,buy,купить,offrir
+238,buy,купить,racheter
+239,buy,продать,acheter
+240,buy,накупить,no_equality
+241,buy,подкупить,acheter
+242,buy,покупка,acheter
+243,buy,покупка,achat
+244,peremptory,императивный,impératif
+245,peremptory,безапелляционный,no_equality
+246,member,член,membre
+247,member,член,député
+248,member,представитель,membre
+249,member,элемент,élément
+250,member,депутат,député
+251,member,член организации,membre
+252,member,членский,membre
+253,childhood,детство,enfance
+254,childhood,детский,no_equality
+255,go,идти,aller
+256,go,идти,partir
+257,go,идти,passer
+258,go,идти,faire
+259,go,идти,sortir
+260,go,идти,rentrer
+261,go,идти,retourner
+262,go,идти,continuer
+263,go,идти,venir
+264,go,идти,entrer
+265,go,идти,prendre
+266,go,проходить,passer
+267,go,ехать,aller
+268,go,ехать,partir
+269,go,ехать,rentrer
+270,go,ехать,retourner
+271,go,ехать,continuer
+272,go,ехать,monter
+273,go,ехать,venir
+274,go,отправиться,aller
+275,go,отправиться,partir
+276,go,отправиться,faire
+277,go,отправиться,rentrer
+278,go,отправиться,retourner
+279,go,отправиться,venir
+280,go,отправиться,se rendre
+281,go,перейти,aller
+282,go,перейти,passer
+283,go,происходить,no_equality
+284,plate,пластина,plaque
+285,plate,пластина,planche
+286,plate,плита,no_equality
+287,plate,тарелка,assiette
+288,plate,лист,no_equality
+289,plate,номерной знак,no_equality
+290,plate,дощечка,no_equality
+291,plate,панель,panneau
+292,plate,накладка,no_equality
+293,plate,платформа,no_equality
+294,plate,стяжка,no_equality
+295,plate,бляха,plaque
+296,plate,толстый лист,no_equality
+297,plate,листовой,no_equality
+298,plate,пластинчатый,no_equality
+299,fish,рыба,poisson
+300,fish,Фиш,fish
+301,fish,рыбный,poisson
+302,fish,рыбный,fish
+303,fish,ловить рыбу,pêcher
+304,fish,удить,no_equality
+305,fish,выудить,no_equality
+306,stand,стоять,rester
+307,stand,стоять,se tenir
+308,stand,стоять,tenir debout
+309,stand,устоять,résister
+310,stand,выдерживать,supporter
+311,stand,отстаивать,no_equality
+312,stand,выступать,no_equality
+313,stand,остановиться,rester
+314,stand,предстать,no_equality
+315,stand,остаться,rester
+316,stand,замереть,no_equality
+317,stand,стенд,stand
+318,stand,подставка,support
+319,stand,позиция,position
+320,stand,трибуна,tribune
+321,precedent,прецедент,précédent
+322,precedent,прецедент,jurisprudence
+323,precedent,предыдущий,précédent
+324,precedent,прецедентный,no_equality
+325,precedent,предшествующий,précédent
+326,issue,вопрос,question
+327,issue,вопрос,problème
+328,issue,вопрос,sujet
+329,issue,вопрос,point
+330,issue,вопрос,thème
+331,issue,выпуск,numéro
+332,issue,выпуск,émission
+333,issue,выпуск,édition
+334,issue,выпуск,publication
+335,issue,выдача,délivrance
+336,issue,номер,numéro
+337,issue,вытекание,no_equality
+338,issue,эмиссия,émission
+339,issue,выдавать,donner
+340,issue,выпускать,publier
+341,issue,издавать,publier
+342,issue,оформить,no_equality
+343,issue,эмиссионный,no_equality
+344,thousand,тыс.,no_equality
+345,thousand,тысячелетие,millénaire
+346,thousand,множество,no_equality
+347,thousand,тысяча долларов,no_equality
+348,thousand,тысяча,mille
+349,thousand,тысяча,millier
+350,thousand,тысячный,millième
+351,pen,ручка,stylo
+352,pen,рейсфедер,no_equality
+353,pen,фломастер,feutre
+354,pen,загон,enclos
+355,pen,Перу,no_equality
+356,pen,пена,no_equality
+357,pen,пенал,no_equality
+358,pen,световое перо,plume
+359,pen,писать,écrire
+360,pen,перьевой,no_equality
+361,pasta,паста,no_equality
+362,pasta,блюда из макарон,no_equality
+363,hot,горячий,chaud | à chaud
+364,hot,горячий,sexy
+365,hot,острый,épicé
+366,hot,популярный,no_equality
+367,hot,жгучий,brûlant
+368,hot,горячительный,no_equality
+369,hot,жарко,chaleur
+370,hot,горячо,no_equality
+371,hot,разгоряченный,no_equality
+372,hot,горящий,no_equality
+373,hot,накалиться,no_equality
+374,that,что,que
+375,that,что,qui
+376,that,что,le
+377,that,что,je
+378,that,будто,no_equality
+379,that,дабы,no_equality
+380,that,который,qui
+381,that,который,celui
+382,that,который,dont
+383,that,это,c
+384,that,это,ce
+385,that,это,cela
+386,that,это,le
+387,that,это,il
+388,that,это,je
+389,that,тот самый,celui
+390,that,так,no_equality
+391,that,таковой,no_equality
+392,be,быть,être
+393,be,быть,avoir
+394,be,быть,faire
+395,be,быть,trouver
+396,be,быть,se
+397,be,быть,pas
+398,be,происходить,no_equality
+399,be,находиться,avoir
+400,be,составлять,faire
+401,be,заключаться,avoir
+402,be,идти,faire
+403,be,идти,prendre
+404,be,относиться,prendre
+405,be,равно,comme
+406,but,но,mai
+407,but,но,toutefois
+408,but,но,cependant
+409,but,но,sans
+410,but,но,sauf
+411,but,но,pourtant
+412,but,но,alors
+413,but,но,puis
+414,but,а,no_equality
+415,but,однако,mai
+416,but,однако,toutefois
+417,but,однако,néanmoins
+418,but,однако,cependant
+419,but,однако,pourtant
+420,but,однако,or
+421,but,только,mai
+422,but,только,seulement
+423,but,только,sauf
+424,but,кроме,mai
+425,but,кроме,seulement
+426,but,кроме,sauf
+427,but,кроме,hormis
+428,and,и,no_equality
+429,and,а также,no_equality
+430,and,причем,no_equality
+431,and,так и,no_equality
+432,and,с,no_equality
+433,expertise,экспертиза,no_equality
+434,expertise,компетентность,compétence
+435,expertise,мастерство,no_equality
+436,expertise,квалификация,no_equality
+437,expertise,опыт,expertise
+438,expertise,опыт,savoir-faire
+439,expertise,опыт,compétence
+440,expertise,опыт,expérience
+441,expertise,опыт,connaissances spécialisées
+442,expertise,экспертные знания,compétence
+443,expertise,эксперт,expert
+444,expertise,эксперт,spécialiste
+445,expertise,профессионализм,no_equality
+446,expertise,экспертный потенциал,expertise
+447,expertise,экспертный потенциал,savoir-faire
+448,expertise,экспертный потенциал,connaissances spécialisées
+449,expertise,знание дела,maîtrise
+450,expertise,деловой опыт,expertise
+451,expertise,деловой опыт,savoir-faire
+452,expertise,деловой опыт,compétence
+453,expertise,деловой опыт,expérience
+454,expertise,экспертный,compétence
+455,tell,рассказывать,dire
+456,tell,рассказывать,raconter
+457,tell,говорить,dire
+458,tell,говорить,parler
+459,tell,говорить,raconter
+460,tell,говорить,annoncer
+461,tell,говорить,faire
+462,tell,говорить,répéter
+463,tell,сообщать,dire
+464,tell,сообщать,annoncer
+465,tell,сообщать,indiquer
+466,tell,сообщать,informer
+467,tell,указывать,dire
+468,tell,указывать,indiquer
+469,tell,уверять,no_equality
+470,tell,велеть,no_equality
+471,tell,подсказать,no_equality
+472,tell,поведать,dire
+473,tell,поведать,raconter
+474,tell,объяснить,dire
+475,tell,объяснить,parler
+476,tell,объяснить,expliquer
+477,tell,передать,dire
+478,tell,передать,donner
+479,tell,попросить,faire
+480,tell,поделиться,no_equality
+481,tell,отличить,distinguer
+482,tell,сказаться,no_equality
+483,feel,чувствовать,sentir
+484,feel,чувствовать,ressentir
+485,feel,чувствовать,penser
+486,feel,чувствовать,se sentir
+487,feel,чувствовать,fait
+488,feel,чувствовать,avoir
+489,feel,полагать,penser
+490,feel,ощупывать,no_equality
+491,feel,испытывать,ressentir
+492,feel,испытывать,éprouver
+493,feel,испытывать,avoir
+494,feel,стесняться,no_equality
+495,feel,ощущение,sens
+496,feel,ощущение,sentiment
+497,feel,ощущение,sensation
+498,news,новость,nouvelle
+499,news,новость,info
+500,news,новость,nouveau
+501,news,весточка,no_equality
+502,news,Ньюс,news
+503,news,новинка,nouveauté
+504,news,выпуск новостей,nouvelle
+505,news,выпуск новостей,news
+506,news,выпуск новостей,actualité
+507,news,выпуск новостей,information
+508,news,выпуск новостей,journal | journal télévisé
+509,news,известия,nouvelle
+510,news,новостной,no_equality
+511,start,начать,démarrer
+512,start,начать,débuter
+513,start,начать,entamer
+514,start,начать,mettre
+515,start,начать,départ
+516,start,начать,lancer
+517,start,начать,engager
+518,start,начать,entreprendre
+519,start,начать,reprendre
+520,start,начать,déclencher
+521,start,запустить,démarrer
+522,start,запустить,faire
+523,start,запустить,mettre
+524,start,запустить,lancer
+525,start,запустить,déclencher
+526,start,вздрагивать,no_equality
+527,start,завести,démarrer
+528,start,завести,faire
+529,start,заняться,commencer
+530,start,заняться,faire
+531,start,заняться,entreprendre
+532,start,затеять,no_equality
+533,start,начало,début
+534,start,начало,départ
+535,start,начало,démarrage
+536,start,начало,lancement
+537,start,начало,commencement
+538,start,старт,début
+539,start,старт,départ
+540,start,начальный,no_equality
+541,intelligent,умный,intelligent
+542,intelligent,разумный,no_equality
+543,intelligent,осмысленный,no_equality
+544,intelligent,продуманный,no_equality
+545,intelligent,неглупый,intelligent
+546,intelligent,микропроцессорный,no_equality
+547,intelligent,понятливый,no_equality
+548,intelligent,мыслящий,no_equality
+549,intelligent,программируемый,no_equality
+550,intelligent,настраиваемый,no_equality
+551,intelligent,понимающий,no_equality
+552,refugee,беженец,réfugié
+553,refugee,беженка,réfugié
+554,refugee,беглец,no_equality
+555,refugee,беженский,no_equality
+556,create,создавать,créer
+557,create,создавать,établir
+558,create,создавать,instaurer
+559,create,создавать,produire
+560,create,создавать,constituer
+561,create,создавать,former
+562,create,создавать,offrir
+563,create,создавать,causer
+564,create,порождать,produire
+565,create,вызывать,susciter
+566,create,вызывать,causer
+567,create,производить,produire
+568,create,разработать,créer
+569,create,разработать,établir
+570,create,разработать,élaborer
+571,create,разработать,mettre en place
+572,create,образовать,constituer
+573,create,образовать,former
+574,nobody,никто,personne
+575,nobody,никто,rien
+576,nobody,никто,nul
+577,nobody,никто,ni
+578,nobody,некого,no_equality
+579,nobody,ничей,no_equality
+580,nobody,ничтожество,nul
+581,word,слово,mot
+582,word,слово,parole
+583,word,слово,terme
+584,word,слово,dit
+585,word,слово,dire
+586,word,слово,expression
+587,word,слово,parlé
+588,word,слово,promesse
+589,word,слово,verbe
+590,word,известие,nouvelle
+591,word,слова,mot
+592,word,слова,parole
+593,word,слова,terme
+594,word,слова,dit
+595,word,слова,expression
+596,word,слова,propos
+597,word,говорить,rien
+598,word,говорить,parler
+599,word,говорить,dire
+600,word,говорить,exprimer

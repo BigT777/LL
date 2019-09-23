@@ -8,176 +8,95 @@
 6,for,для,au
 7,for,для,en
 8,for,для,sur
-9,for,для,puisque | qui
-10,for,ради,pour | pourquoi
-11,for,ради,permettant | argent
-12,for,ради,durant | argent
-13,for,в течение,pendant | à destination de | moyennant
-14,for,в течение,par
-15,for,в течение,durant
-16,for,в течение,pour | pour une période
-17,for,в течение,depuis | sur une période
-18,for,в течение,puisque | sur une période
-19,for,в отношении,pendant | concernant
-20,for,в отношении,au titre de | en matière | au titre
-21,for,в отношении,à destination de | en matière | à l'encontre | dans le domaine
-22,for,в отношении,durant | quant au
-23,for,в отношении,moyennant | concernant
-24,for,для целей,pour
-25,for,для целей,au titre de | en matière | au titre
-26,for,для целей,à destination de | en matière
-27,for,ибо,car
-28,for,ибо,puisque | depuis | que | puisqu'
-29,for,чтобы,pour | pour que | pouvoir
-30,cafe,кофейня,café
-31,cafe,буфет,no_equality
-32,cafe,кафе-ресторан,café
-33,cafe,кафе-ресторан,cafétéria
-34,cafe,кафе-ресторан,bar
-35,follow,следовать,suivre | poursuivre | faire suite | s'ensuivre | suivez-moi
-36,follow,следовать,respecter | se conformer | prendre | observer | emprunter
-37,follow,следовать,poursuivre
-38,follow,следовать,appliquer | pratiquer
-39,follow,следовать,obéir
-40,follow,следовать,adopter | accompagner
-41,follow,следовать,se conformer
-42,follow,следить,suivre | surveiller | superviser | poursuivre | faire suite | s'ensuivre | suivez-moi
-43,follow,следить,observer | respecter | regarder
-44,follow,следить,prendre | regarder
-45,follow,следить,adopter | faire attention
-46,follow,следить,se conformer | contrôler | observer | occuper
-47,follow,следить,emprunter | contrôler
-48,follow,следить,longer | contrôler
-49,follow,следить,pratiquer | faire attention
-50,follow,соблюдать,suivre | poursuivre | faire suite | s'ensuivre | suivez-moi
-51,follow,соблюдать,respecter | observer | se conformer à | respect | prendre | se conformer | emprunter
-52,follow,соблюдать,appliquer | pratiquer
-53,follow,соблюдать,observer
-54,follow,соблюдать,adopter | se conformer aux | se conformer au
-55,follow,соблюдать,imiter | maintenir
-56,follow,соблюдать,accompagner | se conformer aux
-57,follow,соблюдать,longer | honorer | se conformer aux
-58,follow,сопровождать,accompagner | adopter | se conformer | enchaîner
-59,follow,сопровождать,respecter | escorter
-60,follow,сопровождать,observer | escorter
-61,follow,идти,suivre | venir | poursuivre | faire suite | s'ensuivre | suivez-moi
-62,follow,идти,poursuivre
-63,follow,идти,prendre
-64,follow,идти,respecter | rentrer | prendre | retourner | entrer
-65,follow,идти,observer | rentrer
-66,follow,идти,se conformer | continuer
-67,follow,идти,emprunter | rentrer | continuer
-68,follow,идти,accompagner | marcher
-69,follow,идти,pratiquer | partir
-70,follow,выполнять,respecter | exercer | exécuter | se conformer | mettre en œuvre | prendre | observer | emprunter
-71,follow,выполнять,appliquer | remplir
-72,follow,выполнять,se conformer
-73,follow,выполнять,poursuivre | jouer
-74,follow,выполнять,imiter | tenir
-75,follow,выполнять,accompagner | accomplir
-76,follow,выполнять,faire suite | s'acquitter | faire | tenir | satisfaire
-77,follow,выполнять,longer | honorer
-78,follow,выполнять,pratiquer | s'acquitter | appliquer
-79,follow,вытекать,découler | succéder
-80,follow,далее следовать,suivre | poursuivre
-81,follow,далее следовать,respecter | se conformer | prendre | observer
-82,follow,далее следовать,poursuivre
-83,follow,далее следовать,appliquer | par ailleurs | pratiquer
-84,follow,далее следовать,se conformer
-85,follow,далее следовать,adopter | en outre
-86,follow,далее следовать,emprunter | en outre | respecter
-87,follow,далее следовать,faire suite | ensuite | suivre
-88,follow,далее следовать,longer | en outre
-89,follow,далее следовать,s'ensuivre | ensuite
-90,follow,повторять,no_equality
-91,follow,последующий,poursuivre | ultérieur | ultérieurement
-92,follow,последующий,pratiquer | ultérieur
-93,warm,теплый,chaud
-94,warm,теплый,chaleureux | chauffer | se réchauffer | chaleur | accueil | chaleureusement | accueillante
-95,warm,сердечный,cordial | cardiaque
-96,warm,сердечный,chaleur | cardiaque
-97,warm,сердечный,accueil | cardiaque
-98,warm,сердечный,accueillante | cardiaque
-99,warm,согревать,chaud
-100,warm,согревать,réchauffer | chauffer | échauffer | se réchauffer | chaleur
-101,warm,погреться,se réchauffer | chaleureux | réchauffer | chauffer | échauffer | chaleur | chaleureusement
-102,warm,утеплить,no_equality
-103,warm,тепло,chaud
-104,warm,тепло,chaleureux | chaleur | chaleureusement | chauffer | se réchauffer | accueil | accueillante
-105,warm,тепло,chaleur
-106,warm,тепло,chaleureusement
-107,warm,тепло,conviviale | vivement
-108,warm,разминка,chaleureux | un exercice
-109,warm,разминка,réchauffer | échauffement
-110,warm,разминка,chauffer | échauffement
-111,warm,разминка,échauffer | échauffement
-112,warm,разминка,se réchauffer | échauffement
-113,warm,разминка,accueil | occupe l' | un exercice
-114,warm,разминка,chaleureusement | échauffement | entrainement
-115,collide,сталкиваться,entrer en collision | rencontrer
-116,collide,сталкиваться,heurter | rencontrer | se heurter
-117,collide,сталкиваться,se heurtent | rencontrer
-118,collide,сталкиваться,s'entrechoquent | rencontrer | confrontés
-119,collide,сталкиваться,se rencontrent | rencontrer
-120,collide,конфликтовать,no_equality
-121,collide,наехать,se heurtent | tomberont dessus
-122,collide,наехать,s'entrechoquent | tomberont dessus
-123,collide,наехать,se rencontrent | tomberont dessus
-124,collide,соударяться,no_equality
-125,collide,в конфликт,entrer en collision | en conflit | dans le conflit | au conflit
-126,collide,в конфликт,s'entrechoquent | en conflit
-127,collide,в конфликт,se rencontrent | en conflit
-128,break,ломать,briser | se briser
-129,break,ломать,casser | cassure | se casser
-130,break,нарушать,briser | se briser
-131,break,нарушать,enfreindre
-132,break,нарушать,violer
-133,break,разбивать,briser | se briser
-134,break,разбивать,casser | cassure | se casser
-135,break,разорвать,briser | se briser
-136,break,разорвать,rompre | percer | rompu | repos | se rompre
-137,break,разорвать,sortir | interruption
-138,break,прорваться,percer | rompre | forcer | se rompre | relâche
-139,break,прорваться,briser | traverser | retraverser
-140,break,прорваться,arrêter | traverser
-141,break,прорваться,fracture | traverser
-142,break,прорваться,se briser | traverser
-143,break,разрушить,briser | ruiner | se briser
-144,break,разрушить,rompre | percer | rompu | repos | se rompre
-145,break,разрушить,rupture | détruire
-146,break,разрушить,relâche | gâcher
-147,break,вырваться,rompre | percer | rompu | repos | se rompre
-148,break,вырваться,sortir | interruption
-149,break,вырваться,échappée | échapper
-150,break,разбиться,casser | s'écraser | se crasher
-151,break,разбиться,rupture | te tuer
-152,break,разбиться,cassure | s'écraser
-153,break,разбиться,fracture | te tuer
-154,break,разразиться,no_equality
-155,break,пробить,briser | se briser
-156,break,пробить,percer | rompre | perforer | tracer | frapper | se rompre | relâche
-157,break,пробить,enfreindre | perforer | transpercer
-158,break,пробить,interruption | immatriculation
-159,break,пробить,coupure | coque
-160,break,пробить,péter | pénétrer
-161,break,преодолеть,sortir | surmonter | interruption
-162,break,преодолеть,rompre | surmonter | combler
-163,break,преодолеть,enfreindre | transcender
-164,break,преодолеть,percer | relever
-165,break,преодолеть,fracture | franchir | combattre
-166,break,отколоться,no_equality
-167,break,вырывать,arrêter | arracher
-168,break,вырывать,fracture | arracher
-169,break,преломлять,no_equality
-170,break,перерыв,pause | suspendue
-171,break,перерыв,break
-172,break,перерыв,interruption | sortir | rupture
-173,break,разрыв,rupture | fracture | interruption | coupure
-174,break,разрыв,fracture | arrêter
-175,break,разрыв,enfreindre | différence
-176,break,пролом,relâche | brèche
-177,break,каникулы,vacance | chance
-178,break,передышка,enfreindre | faire une pause
-179,break,передышка,pause | d'une pause | faire une pause
-180,break,передышка,fracture | du retard
-181,break,передышка,péter | répit
+9,for,ради,pour
+10,for,в течение,pendant
+11,for,в течение,par
+12,for,в течение,durant
+13,for,в отношении,au titre de | au titre
+14,for,для целей,pour
+15,for,для целей,au titre de | au titre
+16,for,ибо,car
+17,for,ибо,puisque
+18,for,чтобы,pour
+19,cafe,кофейня,café
+20,cafe,буфет,no_equality
+21,cafe,кафе-ресторан,café
+22,cafe,кафе-ресторан,cafétéria
+23,cafe,кафе-ресторан,bar
+24,follow,следовать,suivre
+25,follow,следовать,respecter
+26,follow,следовать,poursuivre
+27,follow,следовать,appliquer
+28,follow,следовать,obéir
+29,follow,следовать,adopter
+30,follow,следовать,se conformer
+31,follow,следить,suivre
+32,follow,следить,observer
+33,follow,соблюдать,suivre
+34,follow,соблюдать,respecter
+35,follow,соблюдать,appliquer
+36,follow,соблюдать,observer
+37,follow,соблюдать,se conformer | se conformer à
+38,follow,сопровождать,accompagner
+39,follow,идти,suivre
+40,follow,идти,poursuivre
+41,follow,идти,prendre
+42,follow,выполнять,respecter
+43,follow,выполнять,appliquer
+44,follow,выполнять,se conformer
+45,follow,вытекать,découler
+46,follow,далее следовать,suivre
+47,follow,далее следовать,respecter
+48,follow,далее следовать,poursuivre
+49,follow,далее следовать,appliquer
+50,follow,далее следовать,se conformer
+51,follow,повторять,no_equality
+52,follow,последующий,no_equality
+53,warm,теплый,chaud
+54,warm,теплый,chaleureux
+55,warm,сердечный,no_equality
+56,warm,согревать,chaud
+57,warm,согревать,réchauffer | chauffer | échauffer
+58,warm,погреться,se réchauffer
+59,warm,утеплить,no_equality
+60,warm,тепло,chaud
+61,warm,тепло,chaleureux
+62,warm,тепло,chaleur
+63,warm,тепло,chaleureusement
+64,warm,разминка,no_equality
+65,collide,сталкиваться,no_equality
+66,collide,конфликтовать,no_equality
+67,collide,наехать,no_equality
+68,collide,соударяться,no_equality
+69,collide,в конфликт,no_equality
+70,break,ломать,briser
+71,break,ломать,casser
+72,break,нарушать,briser
+73,break,нарушать,enfreindre
+74,break,нарушать,violer
+75,break,разбивать,briser
+76,break,разбивать,casser
+77,break,разорвать,briser
+78,break,разорвать,rompre
+79,break,разорвать,sortir
+80,break,прорваться,percer
+81,break,разрушить,briser
+82,break,разрушить,rompre
+83,break,вырваться,rompre
+84,break,вырваться,sortir
+85,break,разбиться,no_equality
+86,break,разразиться,no_equality
+87,break,пробить,briser
+88,break,пробить,percer
+89,break,преодолеть,sortir
+90,break,отколоться,no_equality
+91,break,вырывать,no_equality
+92,break,преломлять,no_equality
+93,break,перерыв,pause
+94,break,перерыв,break
+95,break,перерыв,interruption
+96,break,разрыв,rupture
+97,break,разрыв,fracture
+98,break,пролом,no_equality
+99,break,каникулы,vacance
+100,break,передышка,no_equality
