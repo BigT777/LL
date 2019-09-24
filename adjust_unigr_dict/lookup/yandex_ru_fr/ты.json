@@ -1,0 +1,58 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ты",
+            "pos": "pronoun",
+            "tr": [
+                {
+                    "text": "tu",
+                    "pos": "pronoun",
+                    "syn": [
+                        {
+                            "text": "toi",
+                            "pos": "pronoun"
+                        },
+                        {
+                            "text": "te",
+                            "pos": "pronoun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "вы"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "благодарить тебя",
+                            "tr": [
+                                {
+                                    "text": "te remercier"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ton",
+                    "pos": "determiner",
+                    "mean": [
+                        {
+                            "text": "ваш"
+                        }
+                    ]
+                },
+                {
+                    "text": "vous",
+                    "pos": "pronoun",
+                    "mean": [
+                        {
+                            "text": "вы"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

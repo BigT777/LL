@@ -1,0 +1,54 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "вздрагивать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "tressaillir",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "sursauter",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "содрогаться"
+                        },
+                        {
+                            "text": "подпрыгивать"
+                        }
+                    ]
+                },
+                {
+                    "text": "grimacer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "гримасничать"
+                        }
+                    ]
+                },
+                {
+                    "text": "trembler",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "frémir",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "дрожать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

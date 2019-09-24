@@ -1,0 +1,182 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "предмет",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "objet",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "article",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "chapitre",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "объект"
+                        },
+                        {
+                            "text": "пункт"
+                        },
+                        {
+                            "text": "тема"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "предмет договора",
+                            "tr": [
+                                {
+                                    "text": "objet du contrat"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "предметы роскоши",
+                            "tr": [
+                                {
+                                    "text": "articles de luxe"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "sujet",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "propos",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "субъект"
+                        },
+                        {
+                            "text": "тема"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "основной предмет",
+                            "tr": [
+                                {
+                                    "text": "sujet majeur"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "matière",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "produit",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "тема"
+                        },
+                        {
+                            "text": "товар"
+                        }
+                    ]
+                },
+                {
+                    "text": "discipline",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "branche",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "дисциплина"
+                        }
+                    ]
+                },
+                {
+                    "text": "chose",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "histoire",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "truc",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "bidule",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "вещь"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "предмет времени",
+                            "tr": [
+                                {
+                                    "text": "chose du temps"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "bien",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "вещь"
+                        }
+                    ]
+                },
+                {
+                    "text": "mascotte",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "талисман"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

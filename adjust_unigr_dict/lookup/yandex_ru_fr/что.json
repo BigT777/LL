@@ -1,0 +1,114 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "что",
+            "pos": "conjunction",
+            "tr": [
+                {
+                    "text": "que",
+                    "pos": "conjunction",
+                    "syn": [
+                        {
+                            "text": "pour",
+                            "pos": "conjunction"
+                        },
+                        {
+                            "text": "quoi",
+                            "pos": "conjunction"
+                        },
+                        {
+                            "text": "pourquoi",
+                            "pos": "conjunction"
+                        },
+                        {
+                            "text": "lequel",
+                            "pos": "conjunction"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "чем"
+                        },
+                        {
+                            "text": "чтобы"
+                        },
+                        {
+                            "text": "а"
+                        },
+                        {
+                            "text": "почему"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "так что",
+                            "tr": [
+                                {
+                                    "text": "sorte que"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "что",
+            "pos": "pronoun",
+            "tr": [
+                {
+                    "text": "ce",
+                    "pos": "pronoun",
+                    "mean": [
+                        {
+                            "text": "то"
+                        }
+                    ]
+                },
+                {
+                    "text": "le",
+                    "pos": "determiner",
+                    "mean": [
+                        {
+                            "text": "она"
+                        }
+                    ]
+                },
+                {
+                    "text": "qui",
+                    "pos": "pronoun",
+                    "syn": [
+                        {
+                            "text": "quel",
+                            "pos": "pronoun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "который"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "что это",
+                            "tr": [
+                                {
+                                    "text": "qui n'est"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "dire",
+                    "pos": "adjective"
+                },
+                {
+                    "text": "hein",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

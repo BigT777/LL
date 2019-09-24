@@ -16,10 +16,10 @@ def write_response (json_to_write):
 
 def iterate_within_wall(wall_owner_id, print_comments = False, print_detections = False):
     posts_info ={}
-    wall = api.wall.get(owner_id = wall_owner_id, count = 2)
+    wall = api.wall.get(owner_id = wall_owner_id, count = 30)
     posts = wall['items']
     for post in posts:
-        
+        print(post)
         #print(post['text'])
         print(post['id'])
         post_comments = api.wall.getComments(owner_id = wall_owner_id ,post_id = post['id'],sort = "asc")

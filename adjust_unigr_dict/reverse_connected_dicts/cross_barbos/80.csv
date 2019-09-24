@@ -1,143 +1,83 @@
 ,eng_word,rus,fr
 0,for,для,pour
-1,for,для,de
-2,for,для,à
-3,for,для,aux
-4,for,для,par
-5,for,для,dans
-6,for,для,au
-7,for,для,en
-8,for,для,sur
-9,for,ради,pour
-10,for,в течение,pendant
-11,for,в течение,par
-12,for,в течение,durant
-13,for,в отношении,au titre de | au titre
-14,for,для целей,pour
-15,for,для целей,au titre de | au titre
-16,for,ибо,car
-17,for,ибо,puisque
-18,for,чтобы,pour
-19,cafe,кофейня,café
-20,cafe,буфет,no_equality
-21,cafe,кафе-ресторан,café
-22,cafe,кафе-ресторан,cafétéria
-23,cafe,кафе-ресторан,bar
-24,follow,следовать,suivre
-25,follow,следовать,respecter
-26,follow,следовать,poursuivre
-27,follow,следовать,appliquer
-28,follow,следовать,obéir
-29,follow,следовать,adopter
-30,follow,следовать,se conformer
-31,follow,следить,suivre
-32,follow,следить,observer
-33,follow,соблюдать,suivre
-34,follow,соблюдать,respecter
-35,follow,соблюдать,appliquer
-36,follow,соблюдать,observer
-37,follow,соблюдать,se conformer | se conformer à
-38,follow,сопровождать,accompagner
-39,follow,идти,suivre
-40,follow,идти,poursuivre
-41,follow,идти,prendre
-42,follow,выполнять,respecter
-43,follow,выполнять,appliquer
-44,follow,выполнять,se conformer
-45,follow,вытекать,découler
-46,follow,далее следовать,suivre
-47,follow,далее следовать,respecter
-48,follow,далее следовать,poursuivre
-49,follow,далее следовать,appliquer
-50,follow,далее следовать,se conformer
-51,follow,повторять,no_equality
-52,follow,последующий,no_equality
-53,warm,теплый,chaud
-54,warm,теплый,chaleureux
-55,warm,сердечный,no_equality
-56,warm,согревать,chaud
-57,warm,согревать,réchauffer | chauffer | échauffer
-58,warm,погреться,se réchauffer
-59,warm,утеплить,no_equality
-60,warm,тепло,chaud
-61,warm,тепло,chaleureux
-62,warm,тепло,chaleur
-63,warm,тепло,chaleureusement
-64,warm,разминка,no_equality
-65,collide,сталкиваться,no_equality
-66,collide,конфликтовать,no_equality
-67,collide,наехать,no_equality
-68,collide,соударяться,no_equality
-69,collide,в конфликт,no_equality
-70,break,ломать,briser
-71,break,ломать,casser
-72,break,нарушать,briser
-73,break,нарушать,enfreindre
-74,break,нарушать,violer
-75,break,разбивать,briser
-76,break,разбивать,casser
-77,break,разорвать,briser
-78,break,разорвать,rompre
-79,break,разорвать,sortir
-80,break,прорваться,percer
-81,break,разрушить,briser
-82,break,разрушить,rompre
-83,break,вырваться,rompre
-84,break,вырваться,sortir
-85,break,разбиться,no_equality
-86,break,разразиться,no_equality
-87,break,пробить,briser
-88,break,пробить,percer
-89,break,преодолеть,sortir
-90,break,отколоться,no_equality
-91,break,вырывать,no_equality
-92,break,преломлять,no_equality
-93,break,перерыв,pause
-94,break,перерыв,break
-95,break,перерыв,interruption
-96,break,разрыв,rupture
-97,break,разрыв,fracture
-98,break,пролом,no_equality
-99,break,каникулы,vacance
-100,break,передышка,no_equality
-101,tiger,тигр,tigre
-102,tiger,тигр,tiger
-103,tiger,зверь,no_equality
-104,tiger,тигриный,no_equality
-105,lion,лев,lion
-106,lion,лев,lev
-107,lion,львиный,no_equality
-108,background,фон,fond
-109,background,фон,arrière-plan
-110,background,предпосылка,no_equality
-111,background,происхождение,origine
-112,background,подготовка,formation
-113,background,история,antécédent
-114,background,история,historique
-115,background,история,passé
-116,background,история,histoire
-117,background,сведения,information
-118,background,фоновый режим,de fond
-119,background,опыт,expérience
-120,background,справочная информация,historique
-121,background,история вопроса,historique
-122,background,прошлое,antécédent
-123,background,прошлое,passé
-124,background,прошлое,histoire
-125,background,образование,formation
-126,background,корень,no_equality
-127,background,исходная информация,no_equality
-128,background,контекст,contexte
-129,background,общие сведения,historique
-130,background,исток,no_equality
-131,background,фоновое изображение,no_equality
-132,background,фоновая,no_equality
-133,background,фоновый,de fond
-134,background,справочный,référence
-135,background,второстепенный,no_equality
-136,write,писать,écrire
-137,write,писать,écriture
-138,write,записывать,écrire
-139,write,записывать,enregistrer
-140,write,записывать,noter
-141,write,выписывать,prescrire
+1,for,ради,pour
+2,for,в течение,no_equality
+3,for,в отношении,no_equality
+4,for,для целей,no_equality
+5,for,ибо,no_equality
+6,for,чтобы,pour
+7,cafe,кофейня,café
+8,cafe,буфет,no_equality
+9,cafe,кафе-ресторан,no_equality
+10,follow,следовать,suivre
+11,follow,следить,no_equality
+12,follow,соблюдать,suivre
+13,follow,сопровождать,suivre
+14,follow,идти,suivre
+15,follow,выполнять,suivre
+16,follow,вытекать,no_equality
+17,follow,далее следовать,no_equality
+18,follow,повторять,no_equality
+19,follow,последующий,suivi
+20,warm,теплый,chaud
+21,warm,сердечный,no_equality
+22,warm,согревать,réchauffer
+23,warm,погреться,no_equality
+24,warm,утеплить,no_equality
+25,warm,тепло,no_equality
+26,warm,разминка,no_equality
+27,collide,сталкиваться,no_equality
+28,collide,конфликтовать,no_equality
+29,collide,наехать,no_equality
+30,collide,соударяться,no_equality
+31,collide,в конфликт,no_equality
+32,break,ломать,no_equality
+33,break,нарушать,no_equality
+34,break,разбивать,briser
+35,break,разорвать,no_equality
+36,break,прорваться,no_equality
+37,break,разрушить,briser
+38,break,вырваться,no_equality
+39,break,разбиться,no_equality
+40,break,разразиться,no_equality
+41,break,пробить,no_equality
+42,break,преодолеть,no_equality
+43,break,отколоться,no_equality
+44,break,вырывать,no_equality
+45,break,преломлять,no_equality
+46,break,перерыв,pause
+47,break,перерыв,rupture
+48,break,разрыв,rupture
+49,break,пролом,no_equality
+50,break,каникулы,no_equality
+51,break,передышка,no_equality
+52,tiger,тигр,tigre
+53,tiger,зверь,no_equality
+54,tiger,тигриный,no_equality
+55,lion,лев,lion
+56,lion,львиный,no_equality
+57,background,фон,fond
+58,background,предпосылка,no_equality
+59,background,происхождение,no_equality
+60,background,подготовка,no_equality
+61,background,история,no_equality
+62,background,сведения,no_equality
+63,background,фоновый режим,no_equality
+64,background,опыт,no_equality
+65,background,справочная информация,no_equality
+66,background,история вопроса,no_equality
+67,background,прошлое,antécédent
+68,background,образование,no_equality
+69,background,корень,no_equality
+70,background,исходная информация,no_equality
+71,background,контекст,no_equality
+72,background,общие сведения,no_equality
+73,background,исток,no_equality
+74,background,фоновое изображение,no_equality
+75,background,фоновая,no_equality
+76,background,фоновый,no_equality
+77,background,справочный,no_equality
+78,background,второстепенный,no_equality
+79,write,писать,écrire
+80,write,записывать,no_equality
+81,write,выписывать,no_equality

@@ -1,0 +1,184 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "только",
+            "pos": "particle",
+            "tr": [
+                {
+                    "text": "seulement",
+                    "pos": "particle",
+                    "syn": [
+                        {
+                            "text": "uniquement",
+                            "pos": "particle"
+                        },
+                        {
+                            "text": "seul",
+                            "pos": "particle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "всего"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "зависеть не только",
+                            "tr": [
+                                {
+                                    "text": "dépendre non seulement"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "применять только",
+                            "tr": [
+                                {
+                                    "text": "appliquer uniquement"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "только побочные эффекты",
+                            "tr": [
+                                {
+                                    "text": "seuls effets secondaires"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "juste",
+                    "pos": "particle",
+                    "mean": [
+                        {
+                            "text": "точно"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "только что купить",
+                            "tr": [
+                                {
+                                    "text": "juste achet"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "simplement",
+                    "pos": "particle",
+                    "mean": [
+                        {
+                            "text": "просто"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "принимать только",
+                            "tr": [
+                                {
+                                    "text": "prenant simplement"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "exclusivement",
+                    "pos": "particle",
+                    "ex": [
+                        {
+                            "text": "содержать только",
+                            "tr": [
+                                {
+                                    "text": "contenant exclusivement"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "только",
+            "pos": "adverb",
+            "tr": [
+                {
+                    "text": "que",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "как"
+                        }
+                    ]
+                },
+                {
+                    "text": "ne",
+                    "pos": "adverb",
+                    "ex": [
+                        {
+                            "text": "платить только",
+                            "tr": [
+                                {
+                                    "text": "ne paiera"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "au moins",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "по крайней мере"
+                        }
+                    ]
+                },
+                {
+                    "text": "à peine",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "только что"
+                        }
+                    ]
+                },
+                {
+                    "text": "rien que",
+                    "pos": "adverb"
+                },
+                {
+                    "text": "purement",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "просто"
+                        }
+                    ]
+                },
+                {
+                    "text": "c'est tout",
+                    "pos": "adverb"
+                },
+                {
+                    "text": "n'avoir d'égal que",
+                    "pos": "adverb"
+                },
+                {
+                    "text": "ne que",
+                    "pos": "adverb"
+                },
+                {
+                    "text": "tout court",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}
