@@ -1,0 +1,40 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "выстирать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "wash",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "launder",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "вымыть"
+                        },
+                        {
+                            "text": "отмывать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "выстирать белье",
+                            "tr": [
+                                {
+                                    "text": "wash linen"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

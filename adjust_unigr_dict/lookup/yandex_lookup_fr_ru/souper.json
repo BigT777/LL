@@ -1,0 +1,78 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "souper",
+            "pos": "noun",
+            "gen": "m",
+            "ts": "supe",
+            "tr": [
+                {
+                    "text": "ужин",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "поздний ужин",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dîner"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "souper léger",
+                            "tr": [
+                                {
+                                    "text": "легкий ужин"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вечеря",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "ex": [
+                        {
+                            "text": "le dernier souper",
+                            "tr": [
+                                {
+                                    "text": "тайная вечеря"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "souper",
+            "pos": "verb",
+            "ts": "supe",
+            "tr": [
+                {
+                    "text": "ужинать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "поужинать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dîner"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

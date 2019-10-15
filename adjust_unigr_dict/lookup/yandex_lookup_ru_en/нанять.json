@@ -1,0 +1,63 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "нанять",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "hire",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "employ",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "recruit",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "нанимать"
+                        },
+                        {
+                            "text": "завербовать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "нанять консультанта",
+                            "tr": [
+                                {
+                                    "text": "hire a consultant"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "engage",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "привлекать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "нанять адвоката",
+                            "tr": [
+                                {
+                                    "text": "engage a lawyer"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

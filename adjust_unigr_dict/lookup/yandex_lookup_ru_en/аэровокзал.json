@@ -1,0 +1,66 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "аэровокзал",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "air terminal",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "воздушный терминал"
+                        }
+                    ]
+                },
+                {
+                    "text": "terminal",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "терминал"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "здание аэровокзала",
+                            "tr": [
+                                {
+                                    "text": "terminal building"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "terminal building",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "airport terminal",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "airport building",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "здание терминала"
+                        },
+                        {
+                            "text": "терминал аэропорта"
+                        },
+                        {
+                            "text": "здание аэропорта"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

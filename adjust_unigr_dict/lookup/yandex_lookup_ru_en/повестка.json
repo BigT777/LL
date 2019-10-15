@@ -1,0 +1,57 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "повестка",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "subpoena",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "summons",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "writ",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "повестка в суд"
+                        },
+                        {
+                            "text": "призыв"
+                        },
+                        {
+                            "text": "приказ"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "судебная повестка",
+                            "tr": [
+                                {
+                                    "text": "court summons"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "agenda",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "повестка дня"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "пить",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "drink",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "sip",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "выпить"
+                        },
+                        {
+                            "text": "потягивать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "пить виски",
+                            "tr": [
+                                {
+                                    "text": "drink whisky"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

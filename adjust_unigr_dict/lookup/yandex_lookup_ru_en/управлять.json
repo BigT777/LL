@@ -1,0 +1,356 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "управлять",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "manage",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "control",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "lead",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "superintend",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "руководить"
+                        },
+                        {
+                            "text": "контролировать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "управлять рисками",
+                            "tr": [
+                                {
+                                    "text": "manage risk"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "управляющий сигнал",
+                            "tr": [
+                                {
+                                    "text": "control signal"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "operate",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "run",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "work",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "работать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "управлять судном",
+                            "tr": [
+                                {
+                                    "text": "operate the vessel"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "управлять кораблем",
+                            "tr": [
+                                {
+                                    "text": "run the ship"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "rule",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "govern",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "править"
+                        },
+                        {
+                            "text": "регулировать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "управлять днем",
+                            "tr": [
+                                {
+                                    "text": "rule the day"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "управлять страной",
+                            "tr": [
+                                {
+                                    "text": "govern a country"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "drive",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "ride",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "водить"
+                        },
+                        {
+                            "text": "ездить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "управляющий ток",
+                            "tr": [
+                                {
+                                    "text": "drive current"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "administer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "administrate",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "администрировать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "управляющая власть",
+                            "tr": [
+                                {
+                                    "text": "administering authority"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "handle",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "обрабатывать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "управлять лодкой",
+                            "tr": [
+                                {
+                                    "text": "handle the boat"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "manipulate",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "манипулировать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "управляющая переменная",
+                            "tr": [
+                                {
+                                    "text": "manipulated variable"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ruling",
+                    "pos": "verb"
+                },
+                {
+                    "text": "command",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "командовать"
+                        }
+                    ]
+                },
+                {
+                    "text": "master",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "овладеть"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "управляющее уравнение",
+                            "tr": [
+                                {
+                                    "text": "master equation"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "steer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "рулить"
+                        }
+                    ]
+                },
+                {
+                    "text": "direct",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "sway",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "направлять"
+                        }
+                    ]
+                },
+                {
+                    "text": "navigate",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "move",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "перемещаться"
+                        },
+                        {
+                            "text": "двигаться"
+                        }
+                    ]
+                },
+                {
+                    "text": "manageable",
+                    "pos": "verb"
+                },
+                {
+                    "text": "pilot",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "пилотировать"
+                        }
+                    ]
+                },
+                {
+                    "text": "keep",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "держать"
+                        }
+                    ]
+                },
+                {
+                    "text": "sail",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "плыть"
+                        }
+                    ]
+                },
+                {
+                    "text": "rein",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "сдерживать"
+                        }
+                    ]
+                },
+                {
+                    "text": "serve",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "служить"
+                        }
+                    ]
+                },
+                {
+                    "text": "husband",
+                    "pos": "verb"
+                },
+                {
+                    "text": "police",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "охранять"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

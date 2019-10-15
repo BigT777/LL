@@ -1,0 +1,53 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "выигрывать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "gain",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "benefit",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "получить"
+                        },
+                        {
+                            "text": "приносить пользу"
+                        }
+                    ]
+                },
+                {
+                    "text": "win",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "выиграть"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "выигрывать деньги",
+                            "tr": [
+                                {
+                                    "text": "win money"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "score",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "nouveau",
+            "pos": "adjective",
+            "ts": "nuvo",
+            "tr": [
+                {
+                    "text": "новое",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "новый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "свежий",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "новенький",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "neuf"
+                        },
+                        {
+                            "text": "récent"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "nouveau roman",
+                            "tr": [
+                                {
+                                    "text": "новый роман"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "un nouveau look",
+                            "tr": [
+                                {
+                                    "text": "свежий вид"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "другой",
+                    "pos": "pronoun",
+                    "mean": [
+                        {
+                            "text": "autre"
+                        }
+                    ]
+                },
+                {
+                    "text": "молодой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "недавний",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "récent"
+                        }
+                    ]
+                },
+                {
+                    "text": "неопытный",
+                    "pos": "adjective"
+                }
+            ]
+        },
+        {
+            "text": "nouveau",
+            "pos": "noun",
+            "ts": "nuvo",
+            "tr": [
+                {
+                    "text": "новичок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "ex": [
+                        {
+                            "text": "nouveau en ville",
+                            "tr": [
+                                {
+                                    "text": "новичок в городе"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "новинка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "новость",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ]
+                },
+                {
+                    "text": "новизна",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "подданный",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "national",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "citizen",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "гражданин"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "подданный",
+            "pos": "participle",
+            "tr": [
+                {
+                    "text": "subject",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "предмет"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "верный подданный",
+                            "tr": [
+                                {
+                                    "text": "loyal subject"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

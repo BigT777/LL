@@ -1,0 +1,122 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "заказ",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "order",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "ordering",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "приказ"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "индивидуальный заказ",
+                            "tr": [
+                                {
+                                    "text": "individual order"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "booking",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "reservation",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "бронирование"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "подтверждение заказа",
+                            "tr": [
+                                {
+                                    "text": "booking confirmation"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "сделать заказ",
+                            "tr": [
+                                {
+                                    "text": "make a reservation"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "commission",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "комиссия"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "многочисленные заказы",
+                            "tr": [
+                                {
+                                    "text": "numerous commissions"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "request",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "запрос"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "специальный заказ",
+                            "tr": [
+                                {
+                                    "text": "special request"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "custom",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "таможня"
+                        }
+                    ]
+                },
+                {
+                    "text": "bespoke",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

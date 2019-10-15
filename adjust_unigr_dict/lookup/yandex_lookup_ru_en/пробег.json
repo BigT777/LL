@@ -1,0 +1,60 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "пробег",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "run",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "трасса"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "испытательный пробег",
+                            "tr": [
+                                {
+                                    "text": "test run"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "mileage",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "odometer",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "километраж"
+                        },
+                        {
+                            "text": "одометр"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "годовой пробег",
+                            "tr": [
+                                {
+                                    "text": "annual mileage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

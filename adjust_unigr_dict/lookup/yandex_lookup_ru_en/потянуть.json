@@ -1,0 +1,56 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "потянуть",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "pull",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "draw",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "drag",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "тянуть"
+                        },
+                        {
+                            "text": "вытащить"
+                        },
+                        {
+                            "text": "перетащить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "потянуть вверх",
+                            "tr": [
+                                {
+                                    "text": "pull upwards"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "stretch",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "протянуть"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

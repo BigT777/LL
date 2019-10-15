@@ -1,0 +1,49 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "стрелять",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "shoot",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "fire",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "выстрелить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "стрелять пушки",
+                            "tr": [
+                                {
+                                    "text": "shoot guns"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "стрелять снова",
+                            "tr": [
+                                {
+                                    "text": "fire again"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "gun",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "каждый",
+            "pos": "pronoun",
+            "tr": [
+                {
+                    "text": "each",
+                    "pos": "pronoun",
+                    "syn": [
+                        {
+                            "text": "all",
+                            "pos": "pronoun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "все"
+                        },
+                        {
+                            "text": "любой"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "каждый год",
+                            "tr": [
+                                {
+                                    "text": "each year"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "every",
+                    "pos": "pronoun",
+                    "syn": [
+                        {
+                            "text": "a",
+                            "pos": "pronoun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "все"
+                        },
+                        {
+                            "text": "один"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "каждый день",
+                            "tr": [
+                                {
+                                    "text": "every day"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "everyone",
+                    "pos": "pronoun",
+                    "syn": [
+                        {
+                            "text": "everybody",
+                            "pos": "pronoun"
+                        },
+                        {
+                            "text": "anyone",
+                            "pos": "pronoun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "все"
+                        },
+                        {
+                            "text": "никто"
+                        }
+                    ]
+                },
+                {
+                    "text": "per",
+                    "pos": "pronoun"
+                }
+            ]
+        }
+    ]
+}

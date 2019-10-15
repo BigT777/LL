@@ -1,0 +1,104 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "вытащить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "pull out",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "pull",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "draw",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "drag",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "вытаскивать"
+                        },
+                        {
+                            "text": "достать"
+                        },
+                        {
+                            "text": "извлечь"
+                        },
+                        {
+                            "text": "перетащить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "вытащить пистолет",
+                            "tr": [
+                                {
+                                    "text": "pull a gun"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "вытащить меч",
+                            "tr": [
+                                {
+                                    "text": "draw the sword"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "get",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "take",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "взять"
+                        }
+                    ]
+                },
+                {
+                    "text": "bring",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "принести"
+                        }
+                    ]
+                },
+                {
+                    "text": "withdraw",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "снять"
+                        }
+                    ]
+                },
+                {
+                    "text": "haul",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "тащить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

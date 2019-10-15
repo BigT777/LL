@@ -1,0 +1,35 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "на стол",
+            "pos": "adverb",
+            "tr": [
+                {
+                    "text": "at the table",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "за столом"
+                        }
+                    ]
+                },
+                {
+                    "text": "upon the table",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "onto the table",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "по столу"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

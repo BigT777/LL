@@ -1,0 +1,73 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "сказать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "say",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "tell",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "speak",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "mention",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "говорить"
+                        },
+                        {
+                            "text": "упомянуть"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "лучше сказать",
+                            "tr": [
+                                {
+                                    "text": "better to say"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "сказать господу",
+                            "tr": [
+                                {
+                                    "text": "tell the lord"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "сказать правду",
+                            "tr": [
+                                {
+                                    "text": "speak truly"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "observe",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "заметить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "встраивать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "embed",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "вставлять"
+                        }
+                    ]
+                },
+                {
+                    "text": "build",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "построить"
+                        }
+                    ]
+                },
+                {
+                    "text": "inline",
+                    "pos": "verb",
+                    "ex": [
+                        {
+                            "text": "встраиваемая функция",
+                            "tr": [
+                                {
+                                    "text": "inline function"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

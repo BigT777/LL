@@ -1,0 +1,39 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "увернуться",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "duck",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "нырнуть"
+                        }
+                    ]
+                },
+                {
+                    "text": "dodge",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "evade",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "уклониться"
+                        },
+                        {
+                            "text": "уклоняться"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

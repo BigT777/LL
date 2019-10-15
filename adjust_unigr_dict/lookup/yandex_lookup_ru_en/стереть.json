@@ -1,0 +1,86 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "стереть",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "erase",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "delete",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "remove",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "obliterate",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "efface",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "blur",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "стирать"
+                        },
+                        {
+                            "text": "удалить"
+                        },
+                        {
+                            "text": "уничтожить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "стереть память",
+                            "tr": [
+                                {
+                                    "text": "erase the memory"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "wipe",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "rub",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "вытереть"
+                        },
+                        {
+                            "text": "потереть"
+                        }
+                    ]
+                },
+                {
+                    "text": "blot",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "промокать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

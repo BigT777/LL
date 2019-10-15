@@ -1,0 +1,63 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "пусть",
+            "pos": "conjunction",
+            "tr": [
+                {
+                    "text": "if",
+                    "pos": "conjunction",
+                    "syn": [
+                        {
+                            "text": "though",
+                            "pos": "conjunction"
+                        },
+                        {
+                            "text": "albeit",
+                            "pos": "conjunction"
+                        },
+                        {
+                            "text": "even if",
+                            "pos": "conjunction"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "если бы"
+                        },
+                        {
+                            "text": "хотя"
+                        }
+                    ]
+                },
+                {
+                    "text": "let",
+                    "pos": "conjunction"
+                },
+                {
+                    "text": "may",
+                    "pos": "conjunction"
+                },
+                {
+                    "text": "even",
+                    "pos": "conjunction",
+                    "syn": [
+                        {
+                            "text": "maybe",
+                            "pos": "conjunction"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "еще"
+                        },
+                        {
+                            "text": "возможно"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

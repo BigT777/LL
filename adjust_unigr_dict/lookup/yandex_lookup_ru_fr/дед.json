@@ -1,0 +1,57 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "дед",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "grand-père",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "дедушка"
+                        }
+                    ]
+                },
+                {
+                    "text": "père",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "aïeul",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "papi",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "дедушка"
+                        },
+                        {
+                            "text": "предок"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "дед мороза",
+                            "tr": [
+                                {
+                                    "text": "père noël"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

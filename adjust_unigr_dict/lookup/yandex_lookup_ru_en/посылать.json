@@ -1,0 +1,57 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "посылать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "send",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "transmit",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "послать"
+                        },
+                        {
+                            "text": "передавать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "посылать сообщение",
+                            "tr": [
+                                {
+                                    "text": "send a message"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "dispatch",
+                    "pos": "verb"
+                },
+                {
+                    "text": "forward",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "направить"
+                        }
+                    ]
+                },
+                {
+                    "text": "shoot",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

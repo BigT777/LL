@@ -1,0 +1,73 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "предпринять",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "launch",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "запустить"
+                        }
+                    ]
+                },
+                {
+                    "text": "take",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "undertake",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "make",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "принять"
+                        },
+                        {
+                            "text": "предпринимать"
+                        },
+                        {
+                            "text": "сделать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "предпринять шаги",
+                            "tr": [
+                                {
+                                    "text": "take steps"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "предпринять попытку",
+                            "tr": [
+                                {
+                                    "text": "make the attempt"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "embark",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "начать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

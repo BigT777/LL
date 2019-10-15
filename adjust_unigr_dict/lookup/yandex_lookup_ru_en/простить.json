@@ -1,0 +1,49 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "простить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "forgive",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "excuse",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "прощать"
+                        },
+                        {
+                            "text": "извинить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "простить долг",
+                            "tr": [
+                                {
+                                    "text": "forgive the debt"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "pardon",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "извинить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

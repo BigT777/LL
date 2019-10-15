@@ -1,0 +1,67 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "комната",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "room",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "apartment",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "lodging",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "номер"
+                        },
+                        {
+                            "text": "апартамент"
+                        },
+                        {
+                            "text": "жилье"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "игровая комната",
+                            "tr": [
+                                {
+                                    "text": "game room"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "chamber",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "камера"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "тайная комната",
+                            "tr": [
+                                {
+                                    "text": "chamber of secrets"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

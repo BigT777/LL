@@ -1,0 +1,131 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "запустить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "run",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "работать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "запустить приложение",
+                            "tr": [
+                                {
+                                    "text": "run the application"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "start",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "launch",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "initiate",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "начать"
+                        },
+                        {
+                            "text": "запускать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "запустить службу",
+                            "tr": [
+                                {
+                                    "text": "start the service"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "запустить программу",
+                            "tr": [
+                                {
+                                    "text": "launch the program"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "restart",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "перезапустить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "запустить двигатель",
+                            "tr": [
+                                {
+                                    "text": "restart the engine"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "execute",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "выполнить"
+                        }
+                    ]
+                },
+                {
+                    "text": "trigger",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "вызвать"
+                        }
+                    ]
+                },
+                {
+                    "text": "neglect",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "пренебречь"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "запущенный случай",
+                            "tr": [
+                                {
+                                    "text": "neglected case"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "by running",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

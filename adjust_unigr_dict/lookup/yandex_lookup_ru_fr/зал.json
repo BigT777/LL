@@ -1,0 +1,69 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "зал",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "salle",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "local",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "halle",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "комната"
+                        },
+                        {
+                            "text": "помещение"
+                        },
+                        {
+                            "text": "холл"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "тронный зал",
+                            "tr": [
+                                {
+                                    "text": "salle du trône"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "от концертный зал",
+                            "tr": [
+                                {
+                                    "text": "de la halle"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "auditoire",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "аудитория"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

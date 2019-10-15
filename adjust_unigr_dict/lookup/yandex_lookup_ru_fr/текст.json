@@ -1,0 +1,91 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "текст",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "texte",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "libellé",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "légende",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "документ"
+                        },
+                        {
+                            "text": "надпись"
+                        },
+                        {
+                            "text": "заголовок"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "пояснительный текст",
+                            "tr": [
+                                {
+                                    "text": "texte explicatif"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "écrit",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "документ"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "письменные тексты",
+                            "tr": [
+                                {
+                                    "text": "textes écrits"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "parole",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "слово"
+                        }
+                    ]
+                },
+                {
+                    "text": "paroles",
+                    "pos": "noun",
+                    "gen": "f",
+                    "num": "pl",
+                    "mean": [
+                        {
+                            "text": "лирика"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

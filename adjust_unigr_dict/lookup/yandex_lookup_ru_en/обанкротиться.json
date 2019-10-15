@@ -1,0 +1,54 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "обанкротиться",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "fail",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "не смочь"
+                        }
+                    ]
+                },
+                {
+                    "text": "bust",
+                    "pos": "verb"
+                },
+                {
+                    "text": "bankrupt",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "go bankrupt",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "разориться"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "обанкротившаяся компания",
+                            "tr": [
+                                {
+                                    "text": "bankrupt company"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "bankruptcy",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

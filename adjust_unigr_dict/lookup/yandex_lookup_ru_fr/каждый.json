@@ -1,0 +1,83 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "каждый",
+            "pos": "pronoun",
+            "tr": [
+                {
+                    "text": "chaque",
+                    "pos": "determiner",
+                    "mean": [
+                        {
+                            "text": "всякий"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "почти каждый день",
+                            "tr": [
+                                {
+                                    "text": "presque chaque jour"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "chacun",
+                    "pos": "pronoun",
+                    "syn": [
+                        {
+                            "text": "on",
+                            "pos": "pronoun"
+                        },
+                        {
+                            "text": "tout",
+                            "pos": "pronoun"
+                        },
+                        {
+                            "text": "quiconque",
+                            "pos": "pronoun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "всякий"
+                        },
+                        {
+                            "text": "один"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "в каждом номере",
+                            "tr": [
+                                {
+                                    "text": "chacune est équipée"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "каждый молодой человек",
+                            "tr": [
+                                {
+                                    "text": "tout jeune homme"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "le",
+                    "pos": "pronoun",
+                    "mean": [
+                        {
+                            "text": "тот"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

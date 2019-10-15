@@ -1,0 +1,64 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "наклониться",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "lean",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "податься"
+                        }
+                    ]
+                },
+                {
+                    "text": "bend",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "tilt",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "bow",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "согнуть"
+                        },
+                        {
+                            "text": "наклонить"
+                        },
+                        {
+                            "text": "склониться"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "наклониться вперед",
+                            "tr": [
+                                {
+                                    "text": "bend forward"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "наклониться назад",
+                            "tr": [
+                                {
+                                    "text": "tilt back"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

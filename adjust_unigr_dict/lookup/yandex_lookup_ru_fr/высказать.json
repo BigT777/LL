@@ -1,0 +1,88 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "высказать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "exprimer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "formuler",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "émettre",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "énoncer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "выразить"
+                        },
+                        {
+                            "text": "высказывать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "высказать свое мнение",
+                            "tr": [
+                                {
+                                    "text": "exprimer leur opinion"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "donner",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "apporter",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "offrir",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "дать"
+                        },
+                        {
+                            "text": "предложить"
+                        }
+                    ]
+                },
+                {
+                    "text": "dire",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "рассказать"
+                        }
+                    ]
+                },
+                {
+                    "text": "soulever",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "выдвинуть"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

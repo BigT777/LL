@@ -1,0 +1,95 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "incendie",
+            "pos": "noun",
+            "gen": "f",
+            "ts": "ɛ̃sɑ̃di",
+            "tr": [
+                {
+                    "text": "пожар",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "огонь",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "поджог",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "пламя",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "feu"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "extinction des incendies",
+                            "tr": [
+                                {
+                                    "text": "тушение пожаров"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пожарный",
+                    "pos": "noun",
+                    "gen": "м",
+                    "ex": [
+                        {
+                            "text": "sécurité incendies",
+                            "tr": [
+                                {
+                                    "text": "пожарная безопасность"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пожаробезопасность",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "горение",
+                    "pos": "noun",
+                    "gen": "ср"
+                }
+            ]
+        },
+        {
+            "text": "incendié",
+            "pos": "adjective",
+            "ts": "ɛ̃sɑ̃dje",
+            "tr": [
+                {
+                    "text": "сгоревший",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "brûlé"
+                        }
+                    ]
+                },
+                {
+                    "text": "пострадавший от пожара",
+                    "pos": "participle"
+                }
+            ]
+        }
+    ]
+}

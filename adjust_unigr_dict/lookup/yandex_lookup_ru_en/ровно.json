@@ -1,0 +1,90 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ровно",
+            "pos": "particle",
+            "tr": [
+                {
+                    "text": "exactly",
+                    "pos": "particle",
+                    "syn": [
+                        {
+                            "text": "precisely",
+                            "pos": "particle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "именно"
+                        },
+                        {
+                            "text": "точно"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "содержать ровно",
+                            "tr": [
+                                {
+                                    "text": "contain exactly"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "even",
+                    "pos": "particle",
+                    "mean": [
+                        {
+                            "text": "даже"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ровно",
+            "pos": "adverb",
+            "tr": [
+                {
+                    "text": "smoothly",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "плавно"
+                        }
+                    ]
+                },
+                {
+                    "text": "evenly",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "equally",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "равномерно"
+                        },
+                        {
+                            "text": "одинаково"
+                        }
+                    ]
+                },
+                {
+                    "text": "flatly",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "категорически"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "помыть",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "laver",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "nettoyer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "вымыть"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "помыть пол",
+                            "tr": [
+                                {
+                                    "text": "nettoyer le sol"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

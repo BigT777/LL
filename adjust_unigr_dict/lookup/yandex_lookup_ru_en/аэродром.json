@@ -1,0 +1,89 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "аэродром",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "airfield",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "aerodrome",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "airdrome",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "airport",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "летное поле"
+                        },
+                        {
+                            "text": "аэропорт"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "военный аэродром",
+                            "tr": [
+                                {
+                                    "text": "military airfield"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "запасной аэродром",
+                            "tr": [
+                                {
+                                    "text": "alternate airport"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "air station",
+                    "pos": "noun"
+                },
+                {
+                    "text": "airstrip",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "взлетная полоса"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "частный аэродром",
+                            "tr": [
+                                {
+                                    "text": "private airstrip"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "landing field",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "посадочная площадка"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

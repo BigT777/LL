@@ -1,0 +1,75 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "дополнить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "compléter",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "enrichir",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "étoffer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "parfaire",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "дополнять"
+                        },
+                        {
+                            "text": "пополнить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "дополнить альбом",
+                            "tr": [
+                                {
+                                    "text": "compléter l'album"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ajouter",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "добавить"
+                        }
+                    ]
+                },
+                {
+                    "text": "augmenter",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "élargir",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "расширить"
+                        },
+                        {
+                            "text": "пополнить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

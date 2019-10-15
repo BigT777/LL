@@ -1,0 +1,55 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "смыть",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "rincer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "laver",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "смывать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "затем смыть",
+                            "tr": [
+                                {
+                                    "text": "puis rincer"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "emporter",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "enlever",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "унести"
+                        },
+                        {
+                            "text": "удалить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "всего",
+            "pos": "particle",
+            "tr": [
+                {
+                    "text": "seulement",
+                    "pos": "particle",
+                    "mean": [
+                        {
+                            "text": "только"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "всего несколько минут",
+                            "tr": [
+                                {
+                                    "text": "seulement quelques minutes"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "всего",
+            "pos": "pronoun",
+            "tr": [
+                {
+                    "text": "total",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "все"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "всего",
+            "pos": "adverb",
+            "tr": [
+                {
+                    "text": "ci",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "здесь"
+                        }
+                    ]
+                },
+                {
+                    "text": "en tout",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "итого"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "очистить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "clean",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "clear",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "cleanse",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "purify",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "purge",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "refine",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "очищать"
+                        },
+                        {
+                            "text": "снять"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "очищенный газ",
+                            "tr": [
+                                {
+                                    "text": "cleaned gas"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "очистить фильтр",
+                            "tr": [
+                                {
+                                    "text": "clear filter"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "очищенная кожа",
+                            "tr": [
+                                {
+                                    "text": "cleansed skin"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "очищенная вода",
+                            "tr": [
+                                {
+                                    "text": "purified water"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "очищенное масло",
+                            "tr": [
+                                {
+                                    "text": "refined oil"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "peel",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "почистить"
+                        }
+                    ]
+                },
+                {
+                    "text": "empty",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "опорожнить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "очистить корзину",
+                            "tr": [
+                                {
+                                    "text": "empty the trash"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "wipe",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "erase",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "протереть"
+                        },
+                        {
+                            "text": "стереть"
+                        }
+                    ]
+                },
+                {
+                    "text": "flush",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "промыть"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

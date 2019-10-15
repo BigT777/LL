@@ -24,7 +24,6 @@ for link in soup.find_all(["span","b"]):
 
 МОЖНО ИСКАТЬ ЛИНКИ findall И ПОТОМ К НИМ ТАКЖЕ ОБРАЩАТЬСЯ ТЕМИ ЖЕ ФУНКЦИЯМИ findall
 for link in soup.find_all(["span","b"]):
-    
     classes = link.get('class')
     if classes and "def" in classes:
         print("DEFINITION", link.text.strip())

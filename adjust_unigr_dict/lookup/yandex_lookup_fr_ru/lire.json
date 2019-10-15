@@ -1,0 +1,222 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "lire",
+            "pos": "verb",
+            "ts": "liʁ",
+            "tr": [
+                {
+                    "text": "читать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "прочитать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прочесть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "почитать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "прочитывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "дочитать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перечитывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "перечитать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "réciter"
+                        },
+                        {
+                            "text": "vénérer"
+                        },
+                        {
+                            "text": "relire"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lire ensuite",
+                            "tr": [
+                                {
+                                    "text": "читать далее"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lire cet article",
+                            "tr": [
+                                {
+                                    "text": "прочитать эту статью"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lire un livre",
+                            "tr": [
+                                {
+                                    "text": "почитать книги"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "считывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "просматривать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сканировать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "visionner"
+                        },
+                        {
+                            "text": "scanner"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lire les données",
+                            "tr": [
+                                {
+                                    "text": "считывать данные"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lire le contenu",
+                            "tr": [
+                                {
+                                    "text": "просматривать содержимое"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "зачитывать",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "интерпретировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "расшифровывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "interpréter"
+                        }
+                    ]
+                },
+                {
+                    "text": "начитаться",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "читать с листа",
+                    "pos": "verb"
+                },
+                {
+                    "text": "вычитать",
+                    "pos": "verb"
+                },
+                {
+                    "text": "разбирать",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "lire",
+            "pos": "noun",
+            "gen": "f",
+            "ts": "liʁ",
+            "tr": [
+                {
+                    "text": "лира",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "livre"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lire turque",
+                            "tr": [
+                                {
+                                    "text": "турецкая лира"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "чтение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "считывание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "programme pour lire",
+                            "tr": [
+                                {
+                                    "text": "программа для чтения"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

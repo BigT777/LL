@@ -1,0 +1,57 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "вернее",
+            "pos": "parenthetic",
+            "tr": [
+                {
+                    "text": "more truly",
+                    "pos": "parenthetic"
+                },
+                {
+                    "text": "actually",
+                    "pos": "parenthetic",
+                    "mean": [
+                        {
+                            "text": "фактически"
+                        }
+                    ]
+                },
+                {
+                    "text": "more precisely",
+                    "pos": "parenthetic",
+                    "mean": [
+                        {
+                            "text": "точнее"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "вернее",
+            "pos": "adverb",
+            "tr": [
+                {
+                    "text": "rather",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "скорее"
+                        }
+                    ]
+                },
+                {
+                    "text": "more correctly",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "точнее"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

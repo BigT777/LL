@@ -1,0 +1,105 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "закончить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "conclude",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "заключить"
+                        }
+                    ]
+                },
+                {
+                    "text": "terminate",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "stop",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "прекратить"
+                        }
+                    ]
+                },
+                {
+                    "text": "finish",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "end",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "complete",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "end up",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "завершить"
+                        },
+                        {
+                            "text": "заканчивать"
+                        },
+                        {
+                            "text": "оказаться"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "закончить гонку",
+                            "tr": [
+                                {
+                                    "text": "finish the race"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "закончить день",
+                            "tr": [
+                                {
+                                    "text": "end the day"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "закончить игру",
+                            "tr": [
+                                {
+                                    "text": "complete the game"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "graduate",
+                    "pos": "verb",
+                    "ex": [
+                        {
+                            "text": "закончить университет",
+                            "tr": [
+                                {
+                                    "text": "graduate from the university"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

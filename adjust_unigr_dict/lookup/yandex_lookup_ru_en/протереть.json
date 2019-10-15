@@ -1,0 +1,58 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "протереть",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "wipe",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "rub",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "вытереть"
+                        },
+                        {
+                            "text": "потереть"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "протереть пыль",
+                            "tr": [
+                                {
+                                    "text": "wipe the dust"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "scrub",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "почистить"
+                        }
+                    ]
+                },
+                {
+                    "text": "grate",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "раздражать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

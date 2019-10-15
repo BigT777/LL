@@ -1,0 +1,56 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "услышать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "hear",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "listen",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "overhear",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "слышать"
+                        },
+                        {
+                            "text": "послушать"
+                        },
+                        {
+                            "text": "подслушать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "услышать шепот",
+                            "tr": [
+                                {
+                                    "text": "hear a whisper"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "understand",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "понимать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

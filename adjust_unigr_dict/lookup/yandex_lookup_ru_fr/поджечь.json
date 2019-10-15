@@ -1,0 +1,57 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "поджечь",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "incendier",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "brûler",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "поджигать"
+                        },
+                        {
+                            "text": "сжечь"
+                        }
+                    ]
+                },
+                {
+                    "text": "enflammer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "allumer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "поджигать"
+                        },
+                        {
+                            "text": "зажечь"
+                        }
+                    ]
+                },
+                {
+                    "text": "mettre en feu",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "сжечь"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

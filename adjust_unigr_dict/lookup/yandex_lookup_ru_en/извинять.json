@@ -1,0 +1,39 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "извинять",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "excuse",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "apologise",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "извинить"
+                        },
+                        {
+                            "text": "извиниться"
+                        }
+                    ]
+                },
+                {
+                    "text": "pardon",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "простить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

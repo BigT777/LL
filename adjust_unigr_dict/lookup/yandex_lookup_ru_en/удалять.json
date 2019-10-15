@@ -1,0 +1,114 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "удалять",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "remove",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "delete",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "eliminate",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "erase",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "удалить"
+                        },
+                        {
+                            "text": "устранять"
+                        },
+                        {
+                            "text": "стереть"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "удалять грязь",
+                            "tr": [
+                                {
+                                    "text": "remove dirt"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "безвозвратно удалять",
+                            "tr": [
+                                {
+                                    "text": "permanently delete"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "extract",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "извлечь"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "удалять зубы",
+                            "tr": [
+                                {
+                                    "text": "extract teeth"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "purge",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "продувать"
+                        }
+                    ]
+                },
+                {
+                    "text": "expel",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "dislodge",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "исключить"
+                        },
+                        {
+                            "text": "сместить"
+                        }
+                    ]
+                },
+                {
+                    "text": "prune",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "подрезать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

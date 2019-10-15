@@ -1,0 +1,107 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "присутствовать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "present",
+                    "pos": "verb",
+                    "ex": [
+                        {
+                            "text": "присутствовать лично",
+                            "tr": [
+                                {
+                                    "text": "present in person"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "attend",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "посещать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "присутствовать на похоронах",
+                            "tr": [
+                                {
+                                    "text": "attend a funeral"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "be",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "have",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "be there",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "находиться"
+                        },
+                        {
+                            "text": "иметься"
+                        },
+                        {
+                            "text": "быть там"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "присутствовать везде",
+                            "tr": [
+                                {
+                                    "text": "be everywhere"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "contain",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "include",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "содержаться"
+                        },
+                        {
+                            "text": "включать"
+                        }
+                    ]
+                },
+                {
+                    "text": "assist",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "помочь"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

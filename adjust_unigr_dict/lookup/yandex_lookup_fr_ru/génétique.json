@@ -1,0 +1,107 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "génétique",
+            "pos": "adjective",
+            "ts": "ʒenetik",
+            "tr": [
+                {
+                    "text": "генетический",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "генный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "génique"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "code génétique",
+                            "tr": [
+                                {
+                                    "text": "генетический код"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "génie génétique",
+                            "tr": [
+                                {
+                                    "text": "генная инженерия"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "наследственный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "врожденный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "héréditaire"
+                        },
+                        {
+                            "text": "inné"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "maladie génétique",
+                            "tr": [
+                                {
+                                    "text": "наследственное заболевание"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "génétique",
+            "pos": "noun",
+            "gen": "f",
+            "ts": "ʒenetik",
+            "tr": [
+                {
+                    "text": "генетика",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "генная инженерия",
+                            "pos": "noun"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "génétique médicale",
+                            "tr": [
+                                {
+                                    "text": "медицинская генетика"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "генофонд",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        }
+    ]
+}

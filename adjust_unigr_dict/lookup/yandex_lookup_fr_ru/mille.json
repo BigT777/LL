@@ -1,0 +1,84 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "mille",
+            "pos": "numeral",
+            "ts": "mil",
+            "tr": [
+                {
+                    "text": "тысяч",
+                    "pos": "numeral"
+                },
+                {
+                    "text": "тысяча",
+                    "pos": "numeral",
+                    "mean": [
+                        {
+                            "text": "cent"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mille",
+            "pos": "noun",
+            "gen": "m",
+            "ts": "mil",
+            "tr": [
+                {
+                    "text": "миля",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "ex": [
+                        {
+                            "text": "mille nautique",
+                            "tr": [
+                                {
+                                    "text": "морская миля"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "яблочко",
+                    "pos": "noun",
+                    "gen": "ср"
+                },
+                {
+                    "text": "тьма",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "nuée"
+                        }
+                    ]
+                },
+                {
+                    "text": "множество",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "millier"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mille",
+            "pos": "adjective",
+            "ts": "mil",
+            "tr": [
+                {
+                    "text": "тысячный",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

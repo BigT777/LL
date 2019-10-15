@@ -1,0 +1,57 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "вымыть",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "wash",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "clean",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "мыть"
+                        },
+                        {
+                            "text": "очистить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "вымыть руки",
+                            "tr": [
+                                {
+                                    "text": "wash hands"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "вымыть посуду",
+                            "tr": [
+                                {
+                                    "text": "clean the dishes"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "flush",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "покраснеть"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

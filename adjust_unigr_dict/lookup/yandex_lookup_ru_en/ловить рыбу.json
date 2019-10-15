@@ -1,0 +1,35 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ловить рыбу",
+            "pos": "verb",
+            "tr": [
+                {
+                    "text": "fish",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "рыбачить"
+                        }
+                    ]
+                },
+                {
+                    "text": "go fishing",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "catch fish",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "поймать рыбу"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

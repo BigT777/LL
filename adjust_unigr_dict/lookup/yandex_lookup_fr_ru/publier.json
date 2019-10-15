@@ -1,0 +1,163 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "publier",
+            "pos": "verb",
+            "ts": "pyblije",
+            "tr": [
+                {
+                    "text": "опубликовать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "публиковать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "издать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "издавать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "опубликовывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обнародовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "promulguer"
+                        },
+                        {
+                            "text": "éditer"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rapport publié",
+                            "tr": [
+                                {
+                                    "text": "опубликованный отчет"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "publier régulièrement",
+                            "tr": [
+                                {
+                                    "text": "регулярно публиковать"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выпустить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выпускать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выдать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "émettre"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "précédemment publiée",
+                            "tr": [
+                                {
+                                    "text": "ранее выпущенное обновление"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "publier périodiquement",
+                            "tr": [
+                                {
+                                    "text": "периодически выпускать"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "размещать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "помещать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "publier des photos",
+                            "tr": [
+                                {
+                                    "text": "размещать фотографии"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "огласить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "оглашать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "разглашать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "divulguer"
+                        }
+                    ]
+                },
+                {
+                    "text": "выпускать в свет",
+                    "pos": "verb"
+                },
+                {
+                    "text": "выложить",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        }
+    ]
+}

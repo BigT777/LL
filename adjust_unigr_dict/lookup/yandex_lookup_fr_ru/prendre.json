@@ -1,0 +1,286 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "prendre",
+            "pos": "verb",
+            "ts": "pʁɑ̃dʁ",
+            "tr": [
+                {
+                    "text": "принять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "принимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "accepter"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "prendre le relais",
+                            "tr": [
+                                {
+                                    "text": "принять эстафету"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "engager à prendre",
+                            "tr": [
+                                {
+                                    "text": "обязаться принимать"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "взять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "брать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "делать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "получить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "получать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "забрать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "attraper"
+                        },
+                        {
+                            "text": "tenir"
+                        },
+                        {
+                            "text": "tirer"
+                        },
+                        {
+                            "text": "reprendre"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "prendre un congé",
+                            "tr": [
+                                {
+                                    "text": "взять отпуск"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "prendre naissance",
+                            "tr": [
+                                {
+                                    "text": "брать начало"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "prendre des clichés",
+                            "tr": [
+                                {
+                                    "text": "делать снимки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "prendre le contrôle",
+                            "tr": [
+                                {
+                                    "text": "получить контроль"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "prendre plaisir",
+                            "tr": [
+                                {
+                                    "text": "получать удовольствие"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "prendre des passagers",
+                            "tr": [
+                                {
+                                    "text": "забрать пассажиров"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "приняться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "commencer"
+                        }
+                    ]
+                },
+                {
+                    "text": "занять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "занимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "захватить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "occuper"
+                        },
+                        {
+                            "text": "tenir"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "prendre du temps",
+                            "tr": [
+                                {
+                                    "text": "занять некоторое время"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "prendre la place",
+                            "tr": [
+                                {
+                                    "text": "занимать место"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "есть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "avoir"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "prendre un petit",
+                            "tr": [
+                                {
+                                    "text": "есть завтрак"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выпить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "boire"
+                        }
+                    ]
+                },
+                {
+                    "text": "надеть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "mettre"
+                        }
+                    ]
+                },
+                {
+                    "text": "поймать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "tenir"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "prendre au piège",
+                            "tr": [
+                                {
+                                    "text": "поймать в ловушку"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "идти",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "sortir"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "prendre pour obtenir",
+                            "tr": [
+                                {
+                                    "text": "идти о получении"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "требовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "vouloir"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

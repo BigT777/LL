@@ -1,0 +1,60 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "вскрывать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "open",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "reveal",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "expose",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "uncover",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "открывать"
+                        },
+                        {
+                            "text": "раскрывать"
+                        },
+                        {
+                            "text": "разоблачать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "вскрывать конверт",
+                            "tr": [
+                                {
+                                    "text": "open the envelope"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "dissect",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "препарировать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

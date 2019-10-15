@@ -1,0 +1,68 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "слушать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "écouter",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "entendre",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "suivre",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "послушать"
+                        },
+                        {
+                            "text": "услышать"
+                        },
+                        {
+                            "text": "прослушать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "слушать слов моих",
+                            "tr": [
+                                {
+                                    "text": "écouter mes paroles"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "слушать слова",
+                            "tr": [
+                                {
+                                    "text": "entendre les paroles"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "s'entendre",
+                    "pos": "verb"
+                },
+                {
+                    "text": "consulter",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "прочитать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

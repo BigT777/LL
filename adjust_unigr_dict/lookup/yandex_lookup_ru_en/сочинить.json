@@ -1,0 +1,58 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "сочинить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "compose",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "create",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "сочинять"
+                        },
+                        {
+                            "text": "создать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "сочинить песню",
+                            "tr": [
+                                {
+                                    "text": "compose a song"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "invent",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "concoct",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "изобрести"
+                        },
+                        {
+                            "text": "состряпать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

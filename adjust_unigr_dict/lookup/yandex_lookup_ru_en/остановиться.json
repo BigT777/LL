@@ -1,0 +1,113 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "остановиться",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "stop",
+                    "pos": "verb",
+                    "ex": [
+                        {
+                            "text": "остановиться вовремя",
+                            "tr": [
+                                {
+                                    "text": "stop in time"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "stay",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "остаться"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "остановиться снова",
+                            "tr": [
+                                {
+                                    "text": "stay again"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "pause",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "stop there",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "останавливаться"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "остановиться здесь",
+                            "tr": [
+                                {
+                                    "text": "pause here"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "halt",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "will stop",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "прекратиться"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "резко остановиться",
+                            "tr": [
+                                {
+                                    "text": "halt abruptly"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "hesitate",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "стесняться"
+                        }
+                    ]
+                },
+                {
+                    "text": "stall",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "заглохнуть"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

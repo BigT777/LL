@@ -1,0 +1,54 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "слишком много",
+            "pos": "adverb",
+            "tr": [
+                {
+                    "text": "too much",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "far too much",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "слишком"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "слишком много",
+            "pos": "predicative",
+            "tr": [
+                {
+                    "text": "too many",
+                    "pos": "predicative",
+                    "mean": [
+                        {
+                            "text": "очень много"
+                        }
+                    ]
+                },
+                {
+                    "text": "overmuch",
+                    "pos": "predicative",
+                    "mean": [
+                        {
+                            "text": "слишком"
+                        }
+                    ]
+                },
+                {
+                    "text": "be too much",
+                    "pos": "predicative"
+                }
+            ]
+        }
+    ]
+}

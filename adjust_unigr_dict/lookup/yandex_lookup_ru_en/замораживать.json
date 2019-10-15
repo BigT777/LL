@@ -1,0 +1,67 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "замораживать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "freeze",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "refrigerate",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "заморозить"
+                        },
+                        {
+                            "text": "охладить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "замораживать врагов",
+                            "tr": [
+                                {
+                                    "text": "freeze enemies"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ice",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "морозить"
+                        }
+                    ]
+                },
+                {
+                    "text": "block",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "блокировать"
+                        }
+                    ]
+                },
+                {
+                    "text": "congeal",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "застыть"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "отбирать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "sélectionner",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "choisir",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "trier",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "filtrer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "подбирать"
+                        },
+                        {
+                            "text": "отобрать"
+                        },
+                        {
+                            "text": "фильтровать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "отбирать кандидатов",
+                            "tr": [
+                                {
+                                    "text": "sélectionner les candidats"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "prélever",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "confisquer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "enlever",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "récupérer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "отобрать"
+                        },
+                        {
+                            "text": "забирать"
+                        },
+                        {
+                            "text": "отнимать"
+                        },
+                        {
+                            "text": "собирать"
+                        }
+                    ]
+                },
+                {
+                    "text": "faire le tri",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "сортировать"
+                        }
+                    ]
+                },
+                {
+                    "text": "démunir",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "лишать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

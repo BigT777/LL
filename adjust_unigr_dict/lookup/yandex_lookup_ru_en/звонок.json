@@ -1,0 +1,111 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "звонок",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "bell",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "doorbell",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "колокол"
+                        },
+                        {
+                            "text": "дверной звонок"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "дверной звонок",
+                            "tr": [
+                                {
+                                    "text": "door bell"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ring",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "звенеть"
+                        }
+                    ]
+                },
+                {
+                    "text": "ringer",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "рингер"
+                        }
+                    ]
+                },
+                {
+                    "text": "buzzer",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "зуммер"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "тревожный звонок",
+                            "tr": [
+                                {
+                                    "text": "alarm buzzer"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "call",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "calling",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "вызов"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "телефонный звонок",
+                            "tr": [
+                                {
+                                    "text": "phone call"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "холодный звонок",
+                            "tr": [
+                                {
+                                    "text": "cold calling"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

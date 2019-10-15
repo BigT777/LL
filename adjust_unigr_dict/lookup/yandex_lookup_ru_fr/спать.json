@@ -1,0 +1,76 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "спать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "dormir",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "coucher",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "reposer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "заснуть"
+                        },
+                        {
+                            "text": "ночевать"
+                        },
+                        {
+                            "text": "лечь"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "спокойно спать",
+                            "tr": [
+                                {
+                                    "text": "dormir confortablement"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "спать рано",
+                            "tr": [
+                                {
+                                    "text": "coucher tôt"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "endormir",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "уснуть"
+                        }
+                    ]
+                },
+                {
+                    "text": "faire dodo",
+                    "pos": "verb"
+                },
+                {
+                    "text": "pieuter",
+                    "pos": "verb"
+                },
+                {
+                    "text": "zoner",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

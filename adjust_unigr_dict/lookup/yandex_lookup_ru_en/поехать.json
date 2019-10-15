@@ -1,0 +1,102 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "поехать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "drive",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "ездить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "поехать туда",
+                            "tr": [
+                                {
+                                    "text": "drive there"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "go",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "come",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "leave",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "пойти"
+                        },
+                        {
+                            "text": "прийти"
+                        },
+                        {
+                            "text": "выйти"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "поехать поездом",
+                            "tr": [
+                                {
+                                    "text": "go by train"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "поехать завтра",
+                            "tr": [
+                                {
+                                    "text": "leave tomorrow"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "travel",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "путешествовать"
+                        }
+                    ]
+                },
+                {
+                    "text": "ride",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "ехать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "поехать обратно",
+                            "tr": [
+                                {
+                                    "text": "ride back"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

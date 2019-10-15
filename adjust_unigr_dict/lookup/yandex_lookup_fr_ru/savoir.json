@@ -1,0 +1,152 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "savoir",
+            "pos": "verb",
+            "ts": "savwaʁ",
+            "tr": [
+                {
+                    "text": "знать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выяснить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "понимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "понять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "познать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "ведать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "connaître"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "savoir par cœur",
+                            "tr": [
+                                {
+                                    "text": "знать наизусть"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "мочь",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "уметь",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "суметь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pouvoir"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "savoir nager",
+                            "tr": [
+                                {
+                                    "text": "уметь плавать"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "же знать",
+                    "pos": "verb"
+                },
+                {
+                    "text": "выучить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "apprendre"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "savoir",
+            "pos": "noun",
+            "ts": "savwaʁ",
+            "tr": [
+                {
+                    "text": "знание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "умение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "accès au surent",
+                            "tr": [
+                                {
+                                    "text": "доступ к знаниям"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "savoir lire",
+                            "tr": [
+                                {
+                                    "text": "умение читать"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "знания",
+                    "pos": "noun",
+                    "gen": "ср"
+                },
+                {
+                    "text": "ученость",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        }
+    ]
+}

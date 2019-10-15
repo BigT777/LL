@@ -1,0 +1,68 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "балл",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "score",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "note",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "оценка"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "высокий балл",
+                            "tr": [
+                                {
+                                    "text": "meilleur score"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "общий балл",
+                            "tr": [
+                                {
+                                    "text": "note globale"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "point",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "очко"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "штрафные баллы",
+                            "tr": [
+                                {
+                                    "text": "points de pénalité"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

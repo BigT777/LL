@@ -1,0 +1,45 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "транслировать",
+            "pos": "verb",
+            "tr": [
+                {
+                    "text": "translate",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "перевести"
+                        }
+                    ]
+                },
+                {
+                    "text": "broadcast",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "transmit",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "передавать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "транслировать видео",
+                            "tr": [
+                                {
+                                    "text": "broadcast video"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

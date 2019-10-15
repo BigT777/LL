@@ -1,0 +1,69 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "применить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "apply",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "implement",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "enforce",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "применять"
+                        },
+                        {
+                            "text": "реализовать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "применить фильтр",
+                            "tr": [
+                                {
+                                    "text": "apply filter"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "use",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "employ",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "использовать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "применить силу",
+                            "tr": [
+                                {
+                                    "text": "use force"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

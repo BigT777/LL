@@ -1,0 +1,110 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "отобрать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "take away",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "deprive",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "забрать"
+                        },
+                        {
+                            "text": "лишить"
+                        }
+                    ]
+                },
+                {
+                    "text": "select",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "pick",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "выбрать"
+                        },
+                        {
+                            "text": "подобрать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "отобранный проект",
+                            "tr": [
+                                {
+                                    "text": "selected project"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "seize",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "grab",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "snatch",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "захватить"
+                        },
+                        {
+                            "text": "схватить"
+                        },
+                        {
+                            "text": "выхватить"
+                        }
+                    ]
+                },
+                {
+                    "text": "confiscate",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "конфисковать"
+                        }
+                    ]
+                },
+                {
+                    "text": "rob",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "отнять"
+                        }
+                    ]
+                },
+                {
+                    "text": "revoke",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "отозвать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

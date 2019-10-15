@@ -1,0 +1,77 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "являться",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "be",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "constitute",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "include",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "быть"
+                        },
+                        {
+                            "text": "составлять"
+                        },
+                        {
+                            "text": "входить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "являться результатом",
+                            "tr": [
+                                {
+                                    "text": "be the result"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "являться проблемой",
+                            "tr": [
+                                {
+                                    "text": "constitute a problem"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "offer",
+                    "pos": "verb"
+                },
+                {
+                    "text": "haunt",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "преследовать"
+                        }
+                    ]
+                },
+                {
+                    "text": "report",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "сообщать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

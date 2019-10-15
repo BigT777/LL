@@ -1,0 +1,103 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "подобрать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "select",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "pick",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "choose",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "pick up",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "выбрать"
+                        },
+                        {
+                            "text": "взять"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "подобрать топор",
+                            "tr": [
+                                {
+                                    "text": "pick axe"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "подобрать одежду",
+                            "tr": [
+                                {
+                                    "text": "choose clothes"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "find",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "найти"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "подобрать слова",
+                            "tr": [
+                                {
+                                    "text": "find the words"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "match",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "соответствовать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "подобранная пара",
+                            "tr": [
+                                {
+                                    "text": "matched pair"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "retrieve",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "получить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

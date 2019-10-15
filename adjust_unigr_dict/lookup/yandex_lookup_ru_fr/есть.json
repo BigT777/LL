@@ -1,0 +1,152 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "есть",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "avoir",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "иметь"
+                        }
+                    ]
+                },
+                {
+                    "text": "il y a",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "быть"
+                        }
+                    ]
+                },
+                {
+                    "text": "prendre",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "получить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "есть завтрак",
+                            "tr": [
+                                {
+                                    "text": "prendre un petit"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "il existe",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "имеется"
+                        }
+                    ]
+                },
+                {
+                    "text": "manger",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "consommer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "кушать"
+                        },
+                        {
+                            "text": "съесть"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "перестать есть",
+                            "tr": [
+                                {
+                                    "text": "cesser de manger"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "есть ежедневно",
+                            "tr": [
+                                {
+                                    "text": "consommer par jour"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "cacher",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "таить"
+                        }
+                    ]
+                },
+                {
+                    "text": "dîner",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "поесть"
+                        }
+                    ]
+                },
+                {
+                    "text": "piquer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "укусить"
+                        }
+                    ]
+                },
+                {
+                    "text": "paré",
+                    "pos": "verb"
+                },
+                {
+                    "text": "harceler",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "грызть"
+                        }
+                    ]
+                },
+                {
+                    "text": "ronger",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "croquer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "съедать"
+                        },
+                        {
+                            "text": "жевать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

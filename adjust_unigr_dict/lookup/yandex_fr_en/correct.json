@@ -1,0 +1,48 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "correct",
+            "pos": "adjective",
+            "tr": [
+                {
+                    "text": "correct",
+                    "pos": "verb"
+                },
+                {
+                    "text": "proper",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "right",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "adéquat"
+                        },
+                        {
+                            "text": "droit"
+                        }
+                    ]
+                },
+                {
+                    "text": "incorrect",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "adequate",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "adéquat"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

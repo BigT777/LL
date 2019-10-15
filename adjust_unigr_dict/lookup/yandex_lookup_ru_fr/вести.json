@@ -1,0 +1,251 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "вести",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "aller",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "идти"
+                        }
+                    ]
+                },
+                {
+                    "text": "mener",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "conduire",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "водить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "вести переговоры",
+                            "tr": [
+                                {
+                                    "text": "mener des négociations"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "вести людей",
+                            "tr": [
+                                {
+                                    "text": "conduire les gens"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "garder",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "conserver",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "maintenir",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "poursuivre",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "продолжать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "вести список",
+                            "tr": [
+                                {
+                                    "text": "maintenir une liste"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "effectuer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "exécuter",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "accomplir",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "осуществлять"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "вести поиск",
+                            "tr": [
+                                {
+                                    "text": "effectuer des recherches"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "tenir",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "поддерживать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "вести учет",
+                            "tr": [
+                                {
+                                    "text": "tenir la comptabilité"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "diriger",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "animer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "guider",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "возглавить"
+                        },
+                        {
+                            "text": "проводить"
+                        },
+                        {
+                            "text": "сопровождать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "продолжать вести",
+                            "tr": [
+                                {
+                                    "text": "continuer à diriger"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "gérer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "поддерживать"
+                        }
+                    ]
+                },
+                {
+                    "text": "comporter",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "нести"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "вести себя как",
+                            "tr": [
+                                {
+                                    "text": "comporter comme"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "mener à",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "привести"
+                        }
+                    ]
+                },
+                {
+                    "text": "conduire à",
+                    "pos": "verb"
+                },
+                {
+                    "text": "entraîner",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "приносить"
+                        }
+                    ]
+                },
+                {
+                    "text": "amener",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "приводить"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "вести",
+            "pos": "noun",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "conduite",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "поведение"
+                        }
+                    ]
+                },
+                {
+                    "text": "conductrice",
+                    "pos": "noun",
+                    "gen": "f"
+                }
+            ]
+        }
+    ]
+}

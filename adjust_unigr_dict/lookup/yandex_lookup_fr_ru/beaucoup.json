@@ -1,0 +1,142 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "beaucoup",
+            "pos": "pronoun",
+            "ts": "boku",
+            "tr": [
+                {
+                    "text": "многие",
+                    "pos": "pronoun",
+                    "mean": [
+                        {
+                            "text": "maint"
+                        }
+                    ]
+                },
+                {
+                    "text": "многое",
+                    "pos": "pronoun"
+                }
+            ]
+        },
+        {
+            "text": "beaucoup",
+            "pos": "particle",
+            "ts": "boku",
+            "tr": [
+                {
+                    "text": "гораздо",
+                    "pos": "particle",
+                    "syn": [
+                        {
+                            "text": "намного",
+                            "pos": "particle"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "beaucoup plus",
+                            "tr": [
+                                {
+                                    "text": "намного больше"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "beaucoup",
+            "pos": "adverb",
+            "ts": "boku",
+            "tr": [
+                {
+                    "text": "много",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "очень много",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "немало",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "extrêmement"
+                        },
+                        {
+                            "text": "énormément"
+                        },
+                        {
+                            "text": "passablement"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "économiser beaucoup",
+                            "tr": [
+                                {
+                                    "text": "сэкономить много"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "beaucoup d'efforts",
+                            "tr": [
+                                {
+                                    "text": "немало усилий"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "значительно",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "сильно",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "considérablement"
+                        },
+                        {
+                            "text": "énormément"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "beaucoup moins",
+                            "tr": [
+                                {
+                                    "text": "значительно меньший"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "est beaucoup",
+                            "tr": [
+                                {
+                                    "text": "очень сильно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "помногу",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "часы",
+            "pos": "noun",
+            "gen": "м",
+            "num": "мн",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "clock",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "timer",
+                            "pos": "noun"
+                        }
+                    ]
+                },
+                {
+                    "text": "watch",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "timepiece",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "вахта"
+                        },
+                        {
+                            "text": "хронометр"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "отвезти",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "take",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "bring",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "get",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "взять"
+                        },
+                        {
+                            "text": "принести"
+                        },
+                        {
+                            "text": "добраться"
+                        }
+                    ]
+                },
+                {
+                    "text": "drive",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "проехать"
+                        }
+                    ]
+                },
+                {
+                    "text": "transport",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "транспортировать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "меньше",
+            "pos": "adverb",
+            "tr": [
+                {
+                    "text": "less",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "менее"
+                        }
+                    ]
+                },
+                {
+                    "text": "below",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "under",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ниже"
+                        },
+                        {
+                            "text": "вниз"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

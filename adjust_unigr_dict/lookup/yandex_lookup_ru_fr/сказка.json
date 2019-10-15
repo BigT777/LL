@@ -1,0 +1,73 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "сказка",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "conte",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "история"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "сказки братьев гримм",
+                            "tr": [
+                                {
+                                    "text": "contes de grimm"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "histoire",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "fable",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "récit",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "повесть"
+                        },
+                        {
+                            "text": "басня"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "сказки на ночь",
+                            "tr": [
+                                {
+                                    "text": "histoires au coucher"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "liste",
+                    "pos": "noun",
+                    "gen": "f"
+                }
+            ]
+        }
+    ]
+}

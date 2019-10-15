@@ -1,0 +1,170 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "полет",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "vol",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "navigation",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "survol",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "croisière",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "traversée",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "рейс"
+                        },
+                        {
+                            "text": "плавание"
+                        },
+                        {
+                            "text": "перелет"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "план полета",
+                            "tr": [
+                                {
+                                    "text": "plan de vol"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "высота полета",
+                            "tr": [
+                                {
+                                    "text": "altitude de croisière"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "avion",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "самолет"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "режим полета",
+                            "tr": [
+                                {
+                                    "text": "mode avion"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "marche",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "volée",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "путь"
+                        },
+                        {
+                            "text": "перелет"
+                        }
+                    ]
+                },
+                {
+                    "text": "mission",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "космический полет"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "космические полеты",
+                            "tr": [
+                                {
+                                    "text": "des missions spatiales"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "circuit",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "маршрут"
+                        }
+                    ]
+                },
+                {
+                    "text": "envolée",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "взлет"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "полет",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "voler",
+                    "pos": "verb",
+                    "ex": [
+                        {
+                            "text": "ощущение полета",
+                            "tr": [
+                                {
+                                    "text": "sensation de voler"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

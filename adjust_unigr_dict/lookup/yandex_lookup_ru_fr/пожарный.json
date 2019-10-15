@@ -1,0 +1,67 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "пожарный",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "pompier",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "пожарник"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "пожарные станции",
+                            "tr": [
+                                {
+                                    "text": "casernes de pompier"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "incendie",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "пожар"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "пожарная безопасность",
+                            "tr": [
+                                {
+                                    "text": "sécurité incendies"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "пожарный",
+            "pos": "adjective",
+            "tr": [
+                {
+                    "text": "d'incendie",
+                    "pos": "adjective"
+                },
+                {
+                    "text": "sapeur-pompier",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

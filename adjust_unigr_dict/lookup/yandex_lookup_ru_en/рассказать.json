@@ -1,0 +1,122 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "рассказать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "tell",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "tell us",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "tell you",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "tell me",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "speak",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "сказать"
+                        },
+                        {
+                            "text": "рассказать нам"
+                        },
+                        {
+                            "text": "рассказать вам"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "рассказать журналистам",
+                            "tr": [
+                                {
+                                    "text": "tell reporters"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "describe",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "explain",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "relate",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "описывать"
+                        },
+                        {
+                            "text": "объяснить"
+                        },
+                        {
+                            "text": "относиться"
+                        }
+                    ]
+                },
+                {
+                    "text": "inform",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "сообщить"
+                        }
+                    ]
+                },
+                {
+                    "text": "recount",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "narrate",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "рассказывать"
+                        }
+                    ]
+                },
+                {
+                    "text": "let",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "давать"
+                        }
+                    ]
+                },
+                {
+                    "text": "teach",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "учить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

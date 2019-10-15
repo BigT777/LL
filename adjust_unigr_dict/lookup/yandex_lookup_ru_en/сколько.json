@@ -1,0 +1,80 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "сколько",
+            "pos": "numeral",
+            "tr": [
+                {
+                    "text": "what",
+                    "pos": "numeral",
+                    "syn": [
+                        {
+                            "text": "how many",
+                            "pos": "numeral"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "что"
+                        },
+                        {
+                            "text": "как много"
+                        }
+                    ]
+                },
+                {
+                    "text": "how",
+                    "pos": "numeral",
+                    "syn": [
+                        {
+                            "text": "how much",
+                            "pos": "numeral"
+                        },
+                        {
+                            "text": "how long",
+                            "pos": "numeral"
+                        },
+                        {
+                            "text": "as you",
+                            "pos": "numeral"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "как"
+                        },
+                        {
+                            "text": "насколько"
+                        },
+                        {
+                            "text": "как долго"
+                        }
+                    ]
+                },
+                {
+                    "text": "much",
+                    "pos": "numeral",
+                    "syn": [
+                        {
+                            "text": "as much",
+                            "pos": "numeral"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "много"
+                        },
+                        {
+                            "text": "столько"
+                        }
+                    ]
+                },
+                {
+                    "text": "as",
+                    "pos": "numeral"
+                }
+            ]
+        }
+    ]
+}

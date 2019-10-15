@@ -1,0 +1,88 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "поместить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "put",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "place",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "post",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "положить"
+                        },
+                        {
+                            "text": "разместить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "поместить курсор",
+                            "tr": [
+                                {
+                                    "text": "put the cursor"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "поместить файл",
+                            "tr": [
+                                {
+                                    "text": "place the file"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "fit",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "помещаться"
+                        }
+                    ]
+                },
+                {
+                    "text": "position",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "позиционировать"
+                        }
+                    ]
+                },
+                {
+                    "text": "move",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "переместить"
+                        }
+                    ]
+                },
+                {
+                    "text": "insert",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "вставить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

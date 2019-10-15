@@ -1,0 +1,247 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "dire",
+            "pos": "verb",
+            "ts": "diʁ",
+            "tr": [
+                {
+                    "text": "сказать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "говорить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "рассказать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "рассказывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сообщить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "ответить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "передать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сообщать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поведать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "parler"
+                        },
+                        {
+                            "text": "raconter"
+                        },
+                        {
+                            "text": "révéler"
+                        },
+                        {
+                            "text": "passer"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dire deux mots",
+                            "tr": [
+                                {
+                                    "text": "сказать два слова"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "dire des bêtises",
+                            "tr": [
+                                {
+                                    "text": "говорить глупости"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "dire aux gens",
+                            "tr": [
+                                {
+                                    "text": "рассказать людям"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "également dire",
+                            "tr": [
+                                {
+                                    "text": "также сообщить"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "означать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "signifier"
+                        }
+                    ]
+                },
+                {
+                    "text": "утверждать",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "произнести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "произносить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "молвить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "proférer"
+                        },
+                        {
+                            "text": "réciter"
+                        }
+                    ]
+                },
+                {
+                    "text": "гласить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "annoncer"
+                        }
+                    ]
+                },
+                {
+                    "text": "показывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "montrer"
+                        }
+                    ]
+                },
+                {
+                    "text": "читать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "lire"
+                        }
+                    ]
+                },
+                {
+                    "text": "высказать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "exprimer"
+                        }
+                    ]
+                },
+                {
+                    "text": "заметить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "remarquer"
+                        }
+                    ]
+                },
+                {
+                    "text": "наказать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "punir"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dire",
+            "pos": "adjective",
+            "ts": "diʁ",
+            "tr": [
+                {
+                    "text": "что",
+                    "pos": "pronoun",
+                    "mean": [
+                        {
+                            "text": "quel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dire",
+            "pos": "noun",
+            "ts": "diʁ",
+            "tr": [
+                {
+                    "text": "заявление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "высказывание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ]
+                },
+                {
+                    "text": "глагол",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        }
+    ]
+}

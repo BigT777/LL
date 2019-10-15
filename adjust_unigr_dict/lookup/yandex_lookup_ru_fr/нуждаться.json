@@ -1,0 +1,54 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "нуждаться",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "avoir besoin",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "требовать"
+                        }
+                    ]
+                },
+                {
+                    "text": "nécessiter",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "vouloir",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "appeler",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "требовать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "нуждаться в уходе",
+                            "tr": [
+                                {
+                                    "text": "nécessiter des soins"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "manquer de",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

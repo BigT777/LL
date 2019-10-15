@@ -1,0 +1,66 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ужинать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "dine",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "have dinner",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "have supper",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "eat dinner",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "обедать"
+                        },
+                        {
+                            "text": "поужинать"
+                        }
+                    ]
+                },
+                {
+                    "text": "sup",
+                    "pos": "verb"
+                },
+                {
+                    "text": "dinner",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "supper",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "поужинать"
+                        }
+                    ]
+                },
+                {
+                    "text": "eat",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "поесть"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

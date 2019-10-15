@@ -1,0 +1,81 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "подхватить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "catch",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "grab",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "grasp",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "поймать"
+                        },
+                        {
+                            "text": "схватить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "подхватить простуду",
+                            "tr": [
+                                {
+                                    "text": "catch a cold"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "pick",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "pick up",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "подобрать"
+                        },
+                        {
+                            "text": "поднять"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "подхватить вирус",
+                            "tr": [
+                                {
+                                    "text": "pick up a virus"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "contract",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "заразиться"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "пасть",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "tomber",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "périr",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "succomber",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "падать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "пасть жертвами",
+                            "tr": [
+                                {
+                                    "text": "tomber victimes"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "gueule",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "bouche",
+                            "pos": "verb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "пасть",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "goule",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "рот"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

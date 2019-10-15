@@ -1,0 +1,73 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "публиковать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "publish",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "post",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "опубликовать"
+                        },
+                        {
+                            "text": "размещать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "публикуемая таблица",
+                            "tr": [
+                                {
+                                    "text": "published table"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "release",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "выпустить"
+                        }
+                    ]
+                },
+                {
+                    "text": "publicize",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "publicise",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "обнародовать"
+                        }
+                    ]
+                },
+                {
+                    "text": "announce",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "объявлять"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

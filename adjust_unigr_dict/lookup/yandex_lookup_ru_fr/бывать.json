@@ -1,0 +1,124 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "бывать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "être",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "находиться"
+                        }
+                    ]
+                },
+                {
+                    "text": "aller",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "voir",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "arriver",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "приходить"
+                        },
+                        {
+                            "text": "посещать"
+                        },
+                        {
+                            "text": "случаться"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "часто бывать",
+                            "tr": [
+                                {
+                                    "text": "aller souvent"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "se trouver",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "встречаться"
+                        }
+                    ]
+                },
+                {
+                    "text": "avoir lieu",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "случиться"
+                        }
+                    ]
+                },
+                {
+                    "text": "se présenter",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "случаться"
+                        }
+                    ]
+                },
+                {
+                    "text": "visiter",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "fréquenter",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "побывать"
+                        },
+                        {
+                            "text": "часто бывать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "никогда не бывать",
+                            "tr": [
+                                {
+                                    "text": "jamais visiter"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "se voir",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "случаться"
+                        }
+                    ]
+                },
+                {
+                    "text": "en général",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

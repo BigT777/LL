@@ -1,0 +1,120 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "посадить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "land",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "приземлиться"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "посадить самолет",
+                            "tr": [
+                                {
+                                    "text": "land the plane"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "set",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "put",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "поставить"
+                        },
+                        {
+                            "text": "положить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "посадить в тюрьму",
+                            "tr": [
+                                {
+                                    "text": "put in prison"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "plant",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "imprison",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "сажать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "посадить дерево",
+                            "tr": [
+                                {
+                                    "text": "plant a tree"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "sit",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "seat",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "сидеть"
+                        },
+                        {
+                            "text": "усадить"
+                        }
+                    ]
+                },
+                {
+                    "text": "get",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "взять"
+                        }
+                    ]
+                },
+                {
+                    "text": "throw",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "бросить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

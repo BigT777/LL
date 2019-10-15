@@ -1,0 +1,67 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "проиграть",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "perdre",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "jouer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "проигрывать"
+                        },
+                        {
+                            "text": "сыграть"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "проиграть войну",
+                            "tr": [
+                                {
+                                    "text": "perdre la guerre"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "perdre la partie",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "проиграть партию"
+                        }
+                    ]
+                },
+                {
+                    "text": "rejouer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "переиграть"
+                        }
+                    ]
+                },
+                {
+                    "text": "échouer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "потерпеть поражение"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

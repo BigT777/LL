@@ -1,0 +1,86 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "снижаться",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "decrease",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "decline",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "уменьшаться"
+                        },
+                        {
+                            "text": "сократиться"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "резко снижаться",
+                            "tr": [
+                                {
+                                    "text": "decrease sharply"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "fall",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "drop",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "падать"
+                        }
+                    ]
+                },
+                {
+                    "text": "descend",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "go down",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "be down",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "опуститься"
+                        },
+                        {
+                            "text": "снизиться"
+                        }
+                    ]
+                },
+                {
+                    "text": "degrade",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "деградировать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

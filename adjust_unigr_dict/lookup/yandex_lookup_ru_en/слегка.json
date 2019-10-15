@@ -1,0 +1,78 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "слегка",
+            "pos": "adverb",
+            "tr": [
+                {
+                    "text": "slightly",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "somewhat",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "little",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "rather",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "немного"
+                        },
+                        {
+                            "text": "довольно"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "слегка изогнутый",
+                            "tr": [
+                                {
+                                    "text": "slightly curved"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "lightly",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "mildly",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "gently",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "легко"
+                        },
+                        {
+                            "text": "мягко"
+                        }
+                    ]
+                },
+                {
+                    "text": "faintly",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "слабо"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

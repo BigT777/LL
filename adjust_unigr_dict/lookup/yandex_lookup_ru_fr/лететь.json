@@ -1,0 +1,101 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "лететь",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "voler",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "fuir",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "courir",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "летать"
+                        },
+                        {
+                            "text": "бежать"
+                        },
+                        {
+                            "text": "мчаться"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "лететь внутри",
+                            "tr": [
+                                {
+                                    "text": "voler dedans"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "passer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "aller",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "идти"
+                        },
+                        {
+                            "text": "ехать"
+                        }
+                    ]
+                },
+                {
+                    "text": "piloter",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "летать"
+                        }
+                    ]
+                },
+                {
+                    "text": "survoler",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "прилететь"
+                        }
+                    ]
+                },
+                {
+                    "text": "tirer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "стрелять"
+                        }
+                    ]
+                },
+                {
+                    "text": "naviguer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "путешествовать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

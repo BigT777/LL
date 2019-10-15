@@ -1,0 +1,56 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "подпитывать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "energize",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "nourish",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "nurture",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "заряжать"
+                        },
+                        {
+                            "text": "питать"
+                        }
+                    ]
+                },
+                {
+                    "text": "feed",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "feed off",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "кормить"
+                        },
+                        {
+                            "text": "питаться"
+                        }
+                    ]
+                },
+                {
+                    "text": "fuel",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

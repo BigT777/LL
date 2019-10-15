@@ -1,0 +1,68 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "не",
+            "pos": "particle",
+            "tr": [
+                {
+                    "text": "not",
+                    "pos": "particle",
+                    "ex": [
+                        {
+                            "text": "не только",
+                            "tr": [
+                                {
+                                    "text": "not only"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "nor",
+                    "pos": "particle",
+                    "syn": [
+                        {
+                            "text": "neither",
+                            "pos": "particle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ни"
+                        }
+                    ]
+                },
+                {
+                    "text": "never",
+                    "pos": "particle",
+                    "mean": [
+                        {
+                            "text": "никогда"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "не беда",
+                            "tr": [
+                                {
+                                    "text": "never mind"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "nothing",
+                    "pos": "particle",
+                    "mean": [
+                        {
+                            "text": "ничто"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

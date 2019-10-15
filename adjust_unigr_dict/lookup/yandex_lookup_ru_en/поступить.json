@@ -1,0 +1,68 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "поступить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "enrol",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "записаться"
+                        }
+                    ]
+                },
+                {
+                    "text": "do",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "come",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "сделать"
+                        },
+                        {
+                            "text": "прийти"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "поступить иначе",
+                            "tr": [
+                                {
+                                    "text": "do otherwise"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "act",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "действовать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "поступить правильно",
+                            "tr": [
+                                {
+                                    "text": "act correctly"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

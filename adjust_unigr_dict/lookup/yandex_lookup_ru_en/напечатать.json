@@ -1,0 +1,49 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "напечатать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "print",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "publish",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "печатать"
+                        },
+                        {
+                            "text": "опубликовать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "напечатать опровержение",
+                            "tr": [
+                                {
+                                    "text": "print a retraction"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "type",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "набрать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "путешествовать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "travel",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "ездить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "путешествовать налегке",
+                            "tr": [
+                                {
+                                    "text": "travel light"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "tour",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "объездить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "путешествовать снова",
+                            "tr": [
+                                {
+                                    "text": "tour again"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "journey",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "voyage",
+                            "pos": "verb"
+                        }
+                    ]
+                },
+                {
+                    "text": "hike",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "гулять"
+                        }
+                    ]
+                },
+                {
+                    "text": "go",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "ходить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

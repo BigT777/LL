@@ -1,0 +1,145 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "décrire",
+            "pos": "verb",
+            "ts": "dekʁiʁ",
+            "tr": [
+                {
+                    "text": "описать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "описывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "изображать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обрисовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "изобразить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "объяснить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dépeindre"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "décrite comme suit",
+                            "tr": [
+                                {
+                                    "text": "описать следующим образом"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "article décrit",
+                            "tr": [
+                                {
+                                    "text": "статьи описывать"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "содержать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "ex": [
+                        {
+                            "text": "image décrit",
+                            "tr": [
+                                {
+                                    "text": "образа содержать"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "излагать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выражать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "relater"
+                        }
+                    ]
+                },
+                {
+                    "text": "представить",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "характеризовать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "определять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обозначить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ]
+                },
+                {
+                    "text": "назвать",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "написать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "saisir"
+                        }
+                    ]
+                },
+                {
+                    "text": "сообщать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "raconter"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

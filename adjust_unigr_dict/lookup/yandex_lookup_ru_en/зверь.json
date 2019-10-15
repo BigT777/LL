@@ -1,0 +1,69 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "зверь",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "beast",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "animal",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "brute",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "животное"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "хищный зверь",
+                            "tr": [
+                                {
+                                    "text": "beast of prey"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "огромный зверь",
+                            "tr": [
+                                {
+                                    "text": "huge brute"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "mammal",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "млекопитающее"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "хищные звери",
+                            "tr": [
+                                {
+                                    "text": "predatory mammals"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

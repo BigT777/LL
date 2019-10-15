@@ -1,0 +1,81 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fantastique",
+            "pos": "adjective",
+            "ts": "fɑ̃tastik",
+            "tr": [
+                {
+                    "text": "фантастический",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "сказочный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "невероятный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fabuleux"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "paysages fantastiques",
+                            "tr": [
+                                {
+                                    "text": "фантастические пейзажи"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "créatures fantastiques",
+                            "tr": [
+                                {
+                                    "text": "сказочные существа"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "воображаемый",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "imaginaire"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fantastique",
+            "pos": "noun",
+            "gen": "m",
+            "ts": "fɑ̃tastik",
+            "tr": [
+                {
+                    "text": "фантастика",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "fiction"
+                        }
+                    ]
+                },
+                {
+                    "text": "фантастичность",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        }
+    ]
+}

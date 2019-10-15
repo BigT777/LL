@@ -1,0 +1,91 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "положить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "lay",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "put",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "place",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "класть"
+                        },
+                        {
+                            "text": "поставить"
+                        },
+                        {
+                            "text": "поместить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "положить обратно",
+                            "tr": [
+                                {
+                                    "text": "lay back"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "положить конец",
+                            "tr": [
+                                {
+                                    "text": "put an end"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "положить туда",
+                            "tr": [
+                                {
+                                    "text": "place there"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "set",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "установить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "положить на музыку",
+                            "tr": [
+                                {
+                                    "text": "set to music"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "misplace",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "потерять"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

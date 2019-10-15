@@ -1,0 +1,129 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "дать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "give",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "let",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "provide",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "enable",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "давать"
+                        },
+                        {
+                            "text": "предоставлять"
+                        },
+                        {
+                            "text": "позволять"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "данный период",
+                            "tr": [
+                                {
+                                    "text": "given period"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "дать миру",
+                            "tr": [
+                                {
+                                    "text": "let the world"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "дать представление",
+                            "tr": [
+                                {
+                                    "text": "provide insight"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "дать участникам",
+                            "tr": [
+                                {
+                                    "text": "enable participants"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "make",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "produce",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "сделать"
+                        },
+                        {
+                            "text": "произвести"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "дать обет",
+                            "tr": [
+                                {
+                                    "text": "make a vow"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "дать хорошие результаты",
+                            "tr": [
+                                {
+                                    "text": "produce good results"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "get",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "получить"
+                        }
+                    ]
+                },
+                {
+                    "text": "bring",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "принести"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

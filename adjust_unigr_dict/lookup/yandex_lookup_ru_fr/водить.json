@@ -1,0 +1,67 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "водить",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "mener",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "conduire",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "piloter",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "вести"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "работами водить",
+                            "tr": [
+                                {
+                                    "text": "travaux menés"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "водить грузовик",
+                            "tr": [
+                                {
+                                    "text": "conduire un camion"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "emmener",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "везти"
+                        }
+                    ]
+                },
+                {
+                    "text": "promener",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "катать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

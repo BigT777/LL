@@ -1,0 +1,95 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "фермер",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "agriculteur",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "fermier",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "cultivateur",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "paysan",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "métayer",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "крестьянин"
+                        },
+                        {
+                            "text": "земледелец"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "молодой фермер",
+                            "tr": [
+                                {
+                                    "text": "jeune agriculteur"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "бедный фермер",
+                            "tr": [
+                                {
+                                    "text": "fermier pauvre"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "мелкие фермеры",
+                            "tr": [
+                                {
+                                    "text": "petits cultivateurs"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "бедные фермеры",
+                            "tr": [
+                                {
+                                    "text": "paysans pauvres"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "exploitant agricole",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "сельскохозяйственный производитель"
+                        }
+                    ]
+                },
+                {
+                    "text": "propriétaire exploitant",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "произнести",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "speak",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "say",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "pronounce",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "utter",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "говорить"
+                        },
+                        {
+                            "text": "сказать"
+                        },
+                        {
+                            "text": "произносить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "произнесенное слово",
+                            "tr": [
+                                {
+                                    "text": "spoken word"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "произнести вслух",
+                            "tr": [
+                                {
+                                    "text": "say aloud"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "произнести слова",
+                            "tr": [
+                                {
+                                    "text": "pronounce the words"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "произнести фразу",
+                            "tr": [
+                                {
+                                    "text": "utter the phrase"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "give",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "deliver",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "дать"
+                        },
+                        {
+                            "text": "доставить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "произнести речь",
+                            "tr": [
+                                {
+                                    "text": "deliver a speech"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "make",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "сделать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "произнести тост",
+                            "tr": [
+                                {
+                                    "text": "make a toast"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

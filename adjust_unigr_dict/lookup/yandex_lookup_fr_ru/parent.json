@@ -1,0 +1,159 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "parent",
+            "pos": "noun",
+            "gen": "m",
+            "ts": "paʁ, paʁɑ̃",
+            "tr": [
+                {
+                    "text": "родители",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "родитель",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mère"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "parent biologique",
+                            "tr": [
+                                {
+                                    "text": "биологический родитель"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "родственник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "родственница",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "родня",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "родич",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "сородич",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cousin"
+                        },
+                        {
+                            "text": "famille"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "proche parent",
+                            "tr": [
+                                {
+                                    "text": "близкий родственник"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "родительский организм",
+                    "pos": "noun"
+                },
+                {
+                    "text": "предки",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "père"
+                        }
+                    ]
+                },
+                {
+                    "text": "исходный элемент",
+                    "pos": "noun"
+                },
+                {
+                    "text": "исходное вещество",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "parent",
+            "pos": "adjective",
+            "ts": "paʁ, paʁɑ̃",
+            "tr": [
+                {
+                    "text": "родительский",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "parental"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "formulaire parent",
+                            "tr": [
+                                {
+                                    "text": "родительская форма"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "родственный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "сходный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "apparenté"
+                        },
+                        {
+                            "text": "semblable"
+                        }
+                    ]
+                },
+                {
+                    "text": "исходный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "initial"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

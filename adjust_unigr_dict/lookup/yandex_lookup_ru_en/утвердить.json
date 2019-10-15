@@ -1,0 +1,106 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "утвердить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "approve",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "adopt",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "ratify",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "одобрить"
+                        },
+                        {
+                            "text": "принять"
+                        },
+                        {
+                            "text": "ратифицировать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "утвержденный бюджет",
+                            "tr": [
+                                {
+                                    "text": "approved budget"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "утвердить повестку дня",
+                            "tr": [
+                                {
+                                    "text": "adopt the agenda"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "establish",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "установить"
+                        }
+                    ]
+                },
+                {
+                    "text": "validate",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "confirm",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "проверить"
+                        },
+                        {
+                            "text": "подтвердить"
+                        }
+                    ]
+                },
+                {
+                    "text": "assert",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "affirm",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "утверждать"
+                        }
+                    ]
+                },
+                {
+                    "text": "sanction",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "санкционировать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

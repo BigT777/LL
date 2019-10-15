@@ -1,0 +1,38 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "сверх того",
+            "pos": "adverb",
+            "tr": [
+                {
+                    "text": "moreover",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "более того"
+                        }
+                    ]
+                },
+                {
+                    "text": "besides",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "in addition",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "к тому же"
+                        },
+                        {
+                            "text": "помимо этого"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

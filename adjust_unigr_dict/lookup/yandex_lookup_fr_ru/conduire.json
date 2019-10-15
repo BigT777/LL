@@ -1,0 +1,241 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "conduire",
+            "pos": "verb",
+            "ts": "kɔ̃dɥiʁ",
+            "tr": [
+                {
+                    "text": "водить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вести",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "управлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "повести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "проводить",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "провести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "править",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "руководить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отвести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "свести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mener"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "conduire un camion",
+                            "tr": [
+                                {
+                                    "text": "водить грузовик"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "conduire les gens",
+                            "tr": [
+                                {
+                                    "text": "вести людей"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "aptitude à conduire",
+                            "tr": [
+                                {
+                                    "text": "способность управлять"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ездить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ехать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "piloter"
+                        },
+                        {
+                            "text": "aller"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "conduire une moto",
+                            "tr": [
+                                {
+                                    "text": "ездить на мотоцикле"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "conduire lentement",
+                            "tr": [
+                                {
+                                    "text": "ехать медленно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отвезти",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "подвезти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ramener"
+                        },
+                        {
+                            "text": "amener"
+                        }
+                    ]
+                },
+                {
+                    "text": "гнать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подвести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "завести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "amener"
+                        }
+                    ]
+                },
+                {
+                    "text": "заставить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "вынудить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pousser"
+                        }
+                    ]
+                },
+                {
+                    "text": "обслуживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "servir"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "conduire",
+            "pos": "noun",
+            "gen": "m",
+            "ts": "kɔ̃dɥiʁ",
+            "tr": [
+                {
+                    "text": "труба",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "трубопровод",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "канал",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "conduite"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "conduire de ventilation",
+                            "tr": [
+                                {
+                                    "text": "вентиляционные каналы"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

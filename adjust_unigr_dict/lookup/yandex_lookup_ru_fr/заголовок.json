@@ -1,0 +1,102 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "заголовок",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "en-tête",
+                    "pos": "noun"
+                },
+                {
+                    "text": "tête",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "голова"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "заголовки сообщений",
+                            "tr": [
+                                {
+                                    "text": "têtes de message"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "titre",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "rubrique",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "intitulé",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "название"
+                        },
+                        {
+                            "text": "рубрика"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "броский заголовок",
+                            "tr": [
+                                {
+                                    "text": "un titre accrocheur"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "légende",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "надпись"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "строка заголовка",
+                            "tr": [
+                                {
+                                    "text": "barre de légende"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "bandeau",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "заставка"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

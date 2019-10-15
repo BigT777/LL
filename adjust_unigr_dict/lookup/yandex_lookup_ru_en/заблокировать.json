@@ -1,0 +1,57 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "заблокировать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "block",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "lock",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "блокировать"
+                        },
+                        {
+                            "text": "запереть"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "заблокировать дверь",
+                            "tr": [
+                                {
+                                    "text": "block the door"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "заблокировать экран",
+                            "tr": [
+                                {
+                                    "text": "lock screen"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "inhibit",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "ингибировать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

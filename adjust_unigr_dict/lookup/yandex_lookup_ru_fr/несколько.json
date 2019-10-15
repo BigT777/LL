@@ -1,0 +1,107 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "несколько",
+            "pos": "numeral",
+            "tr": [
+                {
+                    "text": "plusieurs",
+                    "pos": "numeral",
+                    "syn": [
+                        {
+                            "text": "quelques",
+                            "pos": "numeral"
+                        }
+                    ]
+                },
+                {
+                    "text": "différents",
+                    "pos": "noun"
+                },
+                {
+                    "text": "divers",
+                    "pos": "noun",
+                    "gen": "m"
+                }
+            ]
+        },
+        {
+            "text": "несколько",
+            "pos": "adverb",
+            "tr": [
+                {
+                    "text": "quelque",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "приблизительно"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "играть несколько",
+                            "tr": [
+                                {
+                                    "text": "jouer quelque"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "un peu",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "немного"
+                        }
+                    ]
+                },
+                {
+                    "text": "quelque peu",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "немного"
+                        }
+                    ]
+                },
+                {
+                    "text": "légèrement",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "vaguement",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "немного"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "несколько иначе",
+                            "tr": [
+                                {
+                                    "text": "façon légèrement différente"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "sur les bords",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "немного"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

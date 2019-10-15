@@ -1,0 +1,108 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "папка",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "folder",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "file",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "directory",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "каталог"
+                        },
+                        {
+                            "text": "файл"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "общая папка",
+                            "tr": [
+                                {
+                                    "text": "shared folder"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "зеленая папка",
+                            "tr": [
+                                {
+                                    "text": "green file"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "текущая папка",
+                            "tr": [
+                                {
+                                    "text": "current directory"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "location",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "местоположение"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "следующая папка",
+                            "tr": [
+                                {
+                                    "text": "following locations"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "mailbox",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "почтовый ящик"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "сообщение в папке",
+                            "tr": [
+                                {
+                                    "text": "message in the mailbox"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "portfolio",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "портфель"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

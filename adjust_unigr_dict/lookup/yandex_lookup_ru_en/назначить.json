@@ -1,0 +1,106 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "назначить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "appoint",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "assign",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "designate",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "nominate",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "prescribe",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "назначать"
+                        },
+                        {
+                            "text": "выдвинуть"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "назначенное время",
+                            "tr": [
+                                {
+                                    "text": "appointed time"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "назначенный ресурс",
+                            "tr": [
+                                {
+                                    "text": "assigned resource"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "назначенное авиапредприятие",
+                            "tr": [
+                                {
+                                    "text": "designated airline"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "set",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "устанавливать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "назначить дату",
+                            "tr": [
+                                {
+                                    "text": "set a date"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "schedule",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "запланировать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "назначенное задание",
+                            "tr": [
+                                {
+                                    "text": "scheduled task"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "заказать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "order",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "buy",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "купить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "заказанное оборудование",
+                            "tr": [
+                                {
+                                    "text": "ordered equipment"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "request",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "запросить"
+                        }
+                    ]
+                },
+                {
+                    "text": "reserve",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "сохранять"
+                        }
+                    ]
+                },
+                {
+                    "text": "commission",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "поручать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "пасть",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "fall",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "fall down",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "collapse",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "crumble",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "упасть"
+                        },
+                        {
+                            "text": "рухнуть"
+                        }
+                    ]
+                },
+                {
+                    "text": "sink",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "опуститься"
+                        }
+                    ]
+                },
+                {
+                    "text": "fail",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "неудача"
+                        }
+                    ]
+                },
+                {
+                    "text": "stoop",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "нагнуться"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "пасть",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "jaw",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "mouth",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "maw",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "челюсть"
+                        },
+                        {
+                            "text": "рот"
+                        },
+                        {
+                            "text": "утроба"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "огромная пасть",
+                            "tr": [
+                                {
+                                    "text": "huge mouth"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "черная пасть",
+                            "tr": [
+                                {
+                                    "text": "black maw"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "chap",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "щель"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

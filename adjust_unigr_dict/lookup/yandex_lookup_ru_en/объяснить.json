@@ -1,0 +1,59 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "объяснить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "explain",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "clarify",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "объяснять"
+                        },
+                        {
+                            "text": "разъяснить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "объяснить феномены",
+                            "tr": [
+                                {
+                                    "text": "explain the phenomena"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "tell",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "сказать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "объяснить царю",
+                            "tr": [
+                                {
+                                    "text": "tell the king"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

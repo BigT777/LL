@@ -1,0 +1,103 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ехать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "go",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "come",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "пойти"
+                        },
+                        {
+                            "text": "идти"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ехать на машине",
+                            "tr": [
+                                {
+                                    "text": "go by car"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ехать обратно",
+                            "tr": [
+                                {
+                                    "text": "come back"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ride",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "drive",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "riding",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "прокатиться"
+                        },
+                        {
+                            "text": "гнать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ехать в автобусе",
+                            "tr": [
+                                {
+                                    "text": "ride the bus"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "travel",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "проехать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ехать далеко",
+                            "tr": [
+                                {
+                                    "text": "travel far"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "fare",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

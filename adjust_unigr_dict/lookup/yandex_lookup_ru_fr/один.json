@@ -1,0 +1,112 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "один",
+            "pos": "pronoun",
+            "tr": [
+                {
+                    "text": "un",
+                    "pos": "pronoun",
+                    "mean": [
+                        {
+                            "text": "тот"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "одна двуспальная кровать",
+                            "tr": [
+                                {
+                                    "text": "un lit double"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "seul",
+                    "pos": "pronoun",
+                    "syn": [
+                        {
+                            "text": "même",
+                            "pos": "pronoun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "сам"
+                        },
+                        {
+                            "text": "тот же"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "один телефонный звонок",
+                            "tr": [
+                                {
+                                    "text": "seul appel téléphonique"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "одна горизонтальная линия",
+                            "tr": [
+                                {
+                                    "text": "même ligne horizontale"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "on",
+                    "pos": "pronoun",
+                    "mean": [
+                        {
+                            "text": "каждый"
+                        }
+                    ]
+                },
+                {
+                    "text": "autre",
+                    "pos": "determiner",
+                    "ex": [
+                        {
+                            "text": "один замечательный способ",
+                            "tr": [
+                                {
+                                    "text": "autre excellent moyen"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "unique",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "единственный"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "один щелчок мыши",
+                            "tr": [
+                                {
+                                    "text": "souris unique"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "solo",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

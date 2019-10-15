@@ -1,0 +1,73 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "светофор",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "traffic lights",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "traffic light",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "stoplight",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "traffic signal",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "дорожный знак"
+                        }
+                    ]
+                },
+                {
+                    "text": "light",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "lights",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "свет"
+                        },
+                        {
+                            "text": "фонарь"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "сигнал светофора",
+                            "tr": [
+                                {
+                                    "text": "light signal"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "light signal",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "световой сигнал"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

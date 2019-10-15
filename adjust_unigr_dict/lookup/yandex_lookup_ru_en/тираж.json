@@ -1,0 +1,96 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "тираж",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "edition",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "издание"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "массовый тираж",
+                            "tr": [
+                                {
+                                    "text": "mass edition"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "printing",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "печатание"
+                        }
+                    ]
+                },
+                {
+                    "text": "pressrun",
+                    "pos": "noun"
+                },
+                {
+                    "text": "circulation",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "print run",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "number of copies",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "циркуляция"
+                        },
+                        {
+                            "text": "количество копий"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "малый тираж",
+                            "tr": [
+                                {
+                                    "text": "small circulation"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "run",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "бег"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "общий тираж",
+                            "tr": [
+                                {
+                                    "text": "total run"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

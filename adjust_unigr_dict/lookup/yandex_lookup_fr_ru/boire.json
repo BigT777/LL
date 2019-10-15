@@ -1,0 +1,206 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "boire",
+            "pos": "verb",
+            "ts": "bwaʁ",
+            "tr": [
+                {
+                    "text": "пить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выпивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выпить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "испить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "попить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "попивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "употреблять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "siroter"
+                        },
+                        {
+                            "text": "absorber"
+                        },
+                        {
+                            "text": "avaler"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "boire du thé",
+                            "tr": [
+                                {
+                                    "text": "пьет чай"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "boire quotidiennement",
+                            "tr": [
+                                {
+                                    "text": "ежедневно выпивать"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "boire un verre",
+                            "tr": [
+                                {
+                                    "text": "выпить любимый напиток"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "recommandé de boire",
+                            "tr": [
+                                {
+                                    "text": "рекомендуется употреблять"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пить вино",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "пьянствовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sucer"
+                        }
+                    ]
+                },
+                {
+                    "text": "напиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "prendre"
+                        }
+                    ]
+                },
+                {
+                    "text": "поить",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "сильно пить",
+                    "pos": "verb"
+                },
+                {
+                    "text": "распить",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "утолять жажду",
+                    "pos": "verb"
+                },
+                {
+                    "text": "впитать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "впитывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вбирать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "absorber"
+                        }
+                    ]
+                },
+                {
+                    "text": "хлебать",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "пропускать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "oublier"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "boire",
+            "pos": "noun",
+            "ts": "bwaʁ",
+            "tr": [
+                {
+                    "text": "питие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "питье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ]
+                },
+                {
+                    "text": "алкоголь",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "выпивка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

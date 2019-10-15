@@ -1,0 +1,49 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "отмывать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "wash",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "clean",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "мыть"
+                        },
+                        {
+                            "text": "очищать"
+                        }
+                    ]
+                },
+                {
+                    "text": "launder",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "отмыть"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "отмывать деньги",
+                            "tr": [
+                                {
+                                    "text": "launder money"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

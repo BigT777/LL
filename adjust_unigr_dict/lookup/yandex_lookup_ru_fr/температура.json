@@ -1,0 +1,65 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "температура",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "température",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "point",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "погода"
+                        },
+                        {
+                            "text": "степень"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "температура хранения",
+                            "tr": [
+                                {
+                                    "text": "température de stockage"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "температура каплепадения",
+                            "tr": [
+                                {
+                                    "text": "point de goutte"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Temp.",
+                    "pos": "noun"
+                },
+                {
+                    "text": "PVT",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "давление"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

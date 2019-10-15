@@ -1,0 +1,75 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "peu",
+            "pos": "adverb",
+            "ts": "pø",
+            "tr": [
+                {
+                    "text": "немного",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "мало",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "маловато",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "légèrement"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "peu compliquer",
+                            "tr": [
+                                {
+                                    "text": "немного сложное"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "encore trop peu",
+                            "tr": [
+                                {
+                                    "text": "еще слишком мало"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "понемногу",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "понемножку",
+                            "pos": "adverb"
+                        }
+                    ]
+                },
+                {
+                    "text": "конечно",
+                    "pos": "adverb"
+                }
+            ]
+        },
+        {
+            "text": "peu",
+            "pos": "noun",
+            "gen": "m",
+            "ts": "pø",
+            "tr": [
+                {
+                    "text": "малое",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

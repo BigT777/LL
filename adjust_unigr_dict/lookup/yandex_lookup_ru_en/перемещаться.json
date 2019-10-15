@@ -1,0 +1,91 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "перемещаться",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "move",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "shift",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "migrate",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "relocate",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "двигаться"
+                        },
+                        {
+                            "text": "смещаться"
+                        },
+                        {
+                            "text": "мигрировать"
+                        },
+                        {
+                            "text": "переехать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "перемещаться вверх",
+                            "tr": [
+                                {
+                                    "text": "move upward"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "travel",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "путешествовать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "перемещаться вперед",
+                            "tr": [
+                                {
+                                    "text": "travel forward"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "navigate",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "переходить"
+                        }
+                    ]
+                },
+                {
+                    "text": "roam",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "бродить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

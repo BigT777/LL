@@ -1,0 +1,76 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "горение",
+            "pos": "noun",
+            "gen": "ср",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "combustion",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "сгорание"
+                        }
+                    ]
+                },
+                {
+                    "text": "burning",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "burn",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "сжигание"
+                        },
+                        {
+                            "text": "ожог"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "процесс горения",
+                            "tr": [
+                                {
+                                    "text": "burning process"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "скорость горения",
+                            "tr": [
+                                {
+                                    "text": "burn rate"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "fire",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "flame",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "пожар"
+                        },
+                        {
+                            "text": "пламя"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

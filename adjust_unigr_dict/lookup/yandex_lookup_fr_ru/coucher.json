@@ -1,0 +1,171 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "coucher",
+            "pos": "verb",
+            "ts": "kuʃe",
+            "tr": [
+                {
+                    "text": "спать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "лежать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "ночевать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dormir"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "coucher tôt",
+                            "tr": [
+                                {
+                                    "text": "спать рано"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "coucher par terre",
+                            "tr": [
+                                {
+                                    "text": "лежать на земле"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "уложить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "укладывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "положить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "класть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "empiler"
+                        },
+                        {
+                            "text": "reposer"
+                        },
+                        {
+                            "text": "poser"
+                        }
+                    ]
+                },
+                {
+                    "text": "ставить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "camper"
+                        }
+                    ]
+                },
+                {
+                    "text": "остановиться на ночлег",
+                    "pos": "verb"
+                },
+                {
+                    "text": "внести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "déposer"
+                        }
+                    ]
+                },
+                {
+                    "text": "повалить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "tomber"
+                        }
+                    ]
+                },
+                {
+                    "text": "путаться",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "вписать",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "coucher",
+            "pos": "noun",
+            "gen": "m",
+            "ts": "kuʃe",
+            "tr": [
+                {
+                    "text": "заход",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "escale"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "couchers du soleil",
+                            "tr": [
+                                {
+                                    "text": "заходы солнца"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отход ко сну",
+                    "pos": "noun"
+                },
+                {
+                    "text": "ночлег",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "nuitée"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

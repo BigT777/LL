@@ -1,0 +1,71 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "дергать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "pull",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "twitch",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "jerk",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "yank",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "tug",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "тянуть"
+                        },
+                        {
+                            "text": "дернуться"
+                        },
+                        {
+                            "text": "рвануть"
+                        },
+                        {
+                            "text": "дернуть"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "дергать за ниточки",
+                            "tr": [
+                                {
+                                    "text": "pull the strings"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "pluck",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "срывать"
+                        }
+                    ]
+                },
+                {
+                    "text": "jerky",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

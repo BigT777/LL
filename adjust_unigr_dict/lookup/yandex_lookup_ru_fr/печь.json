@@ -1,0 +1,115 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "печь",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "four",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "fourneau",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "poêle",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "boulanger",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "духовка"
+                        },
+                        {
+                            "text": "печка"
+                        },
+                        {
+                            "text": "пекарь"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "трубчатая печь",
+                            "tr": [
+                                {
+                                    "text": "four tubulaire"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "доменная печь",
+                            "tr": [
+                                {
+                                    "text": "haut fourneau"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "керамическая печь",
+                            "tr": [
+                                {
+                                    "text": "poêle en céramique"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "feu",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "brûler",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "foyer",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "топка"
+                        }
+                    ]
+                },
+                {
+                    "text": "braiser",
+                    "pos": "noun",
+                    "gen": "m"
+                }
+            ]
+        },
+        {
+            "text": "печь",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "cuire",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "испечь"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

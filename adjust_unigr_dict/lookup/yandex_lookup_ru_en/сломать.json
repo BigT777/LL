@@ -1,0 +1,81 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "сломать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "break",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "crush",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "smash",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "разбить"
+                        },
+                        {
+                            "text": "раздавить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "сломанная нога",
+                            "tr": [
+                                {
+                                    "text": "broken leg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "snap",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "привязать"
+                        }
+                    ]
+                },
+                {
+                    "text": "fracture",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "crack",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ломать"
+                        },
+                        {
+                            "text": "взломать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "сломать ребро",
+                            "tr": [
+                                {
+                                    "text": "crack a rib"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

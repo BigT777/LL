@@ -1,0 +1,50 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "одобрить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "approuver",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "entériner",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "valider",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "утвердить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "одобрить сделку",
+                            "tr": [
+                                {
+                                    "text": "approuver la transaction"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "donner son approbation",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "согласиться"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

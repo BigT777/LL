@@ -1,0 +1,217 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "вывести",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "remove",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "удалить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "вывести токсины",
+                            "tr": [
+                                {
+                                    "text": "remove toxins"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "bring",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "принести"
+                        }
+                    ]
+                },
+                {
+                    "text": "take",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "get",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "взять"
+                        },
+                        {
+                            "text": "получить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "вывести детей",
+                            "tr": [
+                                {
+                                    "text": "get the children"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "deduce",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "derive",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "infer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "выводить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "вывести формулу",
+                            "tr": [
+                                {
+                                    "text": "derive the formula"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "display",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "show",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "отображать"
+                        },
+                        {
+                            "text": "показывать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "вывести сообщение",
+                            "tr": [
+                                {
+                                    "text": "display a message"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "withdraw",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "снять"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "вывести войска",
+                            "tr": [
+                                {
+                                    "text": "withdraw troops"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "lead",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "вести"
+                        }
+                    ]
+                },
+                {
+                    "text": "output",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "выпускать"
+                        }
+                    ]
+                },
+                {
+                    "text": "print",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "распечатать"
+                        }
+                    ]
+                },
+                {
+                    "text": "put",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "поставить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "вывести на орбиту",
+                            "tr": [
+                                {
+                                    "text": "put into orbit"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "pull",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "вытащить"
+                        }
+                    ]
+                },
+                {
+                    "text": "disable",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "отключить"
+                        }
+                    ]
+                },
+                {
+                    "text": "introduce",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "ввести"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

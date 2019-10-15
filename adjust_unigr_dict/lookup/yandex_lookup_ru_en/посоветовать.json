@@ -1,0 +1,50 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "посоветовать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "advise",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "recommend",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "suggest",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "counsel",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "советовать"
+                        },
+                        {
+                            "text": "рекомендовать"
+                        },
+                        {
+                            "text": "предлагать"
+                        }
+                    ]
+                },
+                {
+                    "text": "advice",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "советовать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

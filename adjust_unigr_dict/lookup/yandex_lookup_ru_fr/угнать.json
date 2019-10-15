@@ -1,0 +1,48 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "угнать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "détourner",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "угонять"
+                        }
+                    ]
+                },
+                {
+                    "text": "voler",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "chasser",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "похитить"
+                        },
+                        {
+                            "text": "отогнать"
+                        }
+                    ]
+                },
+                {
+                    "text": "pirater",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "красть"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

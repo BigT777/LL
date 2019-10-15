@@ -1,0 +1,215 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "quitter",
+            "pos": "verb",
+            "ts": "kite",
+            "tr": [
+                {
+                    "text": "покинуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "покидать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "оставить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "уйти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оставлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "бросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "уходить",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "расстаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "бросать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "abandonner"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "quitter cette page",
+                            "tr": [
+                                {
+                                    "text": "покинуть эту страницу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "quitter le nid",
+                            "tr": [
+                                {
+                                    "text": "покидать гнездо"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "quitter la scène",
+                            "tr": [
+                                {
+                                    "text": "оставить сцену"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "quitter la maison",
+                            "tr": [
+                                {
+                                    "text": "уйти из дома"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "quitter une fonction",
+                            "tr": [
+                                {
+                                    "text": "оставлять должность"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "quitter votre emploi",
+                            "tr": [
+                                {
+                                    "text": "бросить свою работу"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выйти",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выходить",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sortir"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "quitter la partie",
+                            "tr": [
+                                {
+                                    "text": "выйти из игры"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "закрыть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "arrêter"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "puis quitter",
+                            "tr": [
+                                {
+                                    "text": "затем закрыть"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "уехать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "уезжать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выехать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "съехать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сойти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поехать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fuir"
+                        },
+                        {
+                            "text": "déménager"
+                        },
+                        {
+                            "text": "descendre"
+                        }
+                    ]
+                },
+                {
+                    "text": "выбыть",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "выпустить из рук",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "échapper"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

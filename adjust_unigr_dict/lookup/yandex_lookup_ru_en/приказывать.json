@@ -1,0 +1,91 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "приказывать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "order",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "bid",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "приказать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "приказывать снова",
+                            "tr": [
+                                {
+                                    "text": "order again"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "command",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "владеть"
+                        }
+                    ]
+                },
+                {
+                    "text": "require",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "требовать"
+                        }
+                    ]
+                },
+                {
+                    "text": "tell",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "instruct",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "велеть"
+                        },
+                        {
+                            "text": "инструктировать"
+                        }
+                    ]
+                },
+                {
+                    "text": "enjoin",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "повелевать"
+                        }
+                    ]
+                },
+                {
+                    "text": "direct",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "направлять"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

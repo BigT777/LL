@@ -1,0 +1,49 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "опорожнить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "void",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "empty",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "аннулировать"
+                        },
+                        {
+                            "text": "опустеть"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "опорожнить мочевой пузырь",
+                            "tr": [
+                                {
+                                    "text": "empty the bladder"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "drain",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "осушить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "войти",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "enter",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "ввести"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "войти в комнату",
+                            "tr": [
+                                {
+                                    "text": "enter the room"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "get",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "come in",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "go in",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "walk in",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "get in",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "попасть"
+                        },
+                        {
+                            "text": "входить"
+                        },
+                        {
+                            "text": "ходить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "войти в контакт",
+                            "tr": [
+                                {
+                                    "text": "get in touch"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "login",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "зайти"
+                        }
+                    ]
+                },
+                {
+                    "text": "step",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "выйти"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "войти внутрь",
+                            "tr": [
+                                {
+                                    "text": "step inside"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "make",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "сделать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

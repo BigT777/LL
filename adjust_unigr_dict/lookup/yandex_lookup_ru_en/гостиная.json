@@ -1,0 +1,88 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "гостиная",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "lounge",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "комната отдыха"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "просторная гостиная",
+                            "tr": [
+                                {
+                                    "text": "spacious lounge"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "parlor",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "parlour",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "drawing room",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "salon",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "салон"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "передняя гостиная",
+                            "tr": [
+                                {
+                                    "text": "front parlor"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "задняя гостиная",
+                            "tr": [
+                                {
+                                    "text": "back parlour"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "living room",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "sitting room",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "гостиная комната"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

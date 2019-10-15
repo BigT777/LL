@@ -1,0 +1,62 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "выучить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "apprendre",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "étudier",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "enseigner",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "усвоить"
+                        },
+                        {
+                            "text": "учить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "выучить испанский язык",
+                            "tr": [
+                                {
+                                    "text": "apprendre l'espagnol"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "savoir",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "уметь"
+                        }
+                    ]
+                },
+                {
+                    "text": "enseigner à",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "учить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

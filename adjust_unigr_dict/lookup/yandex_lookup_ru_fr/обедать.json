@@ -1,0 +1,58 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "обедать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "dîner",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "déjeuner",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ужинать"
+                        },
+                        {
+                            "text": "завтракать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "предпочитать обедать",
+                            "tr": [
+                                {
+                                    "text": "préférer dîner"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "manger",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "поесть"
+                        }
+                    ]
+                },
+                {
+                    "text": "diner",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "ужинать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

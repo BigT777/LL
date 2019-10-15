@@ -1,0 +1,50 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "прибавлять",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "add",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "append",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "добавлять"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "прибавлять звук",
+                            "tr": [
+                                {
+                                    "text": "add sound"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "augment",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "увеличивать"
+                        }
+                    ]
+                },
+                {
+                    "text": "intercalate",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "допустить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "admit",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "accept",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "concede",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "признать"
+                        },
+                        {
+                            "text": "принять"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "допустить ошибок",
+                            "tr": [
+                                {
+                                    "text": "admit error"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "allow",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "let",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "make",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "разрешить"
+                        },
+                        {
+                            "text": "позволить"
+                        },
+                        {
+                            "text": "сделать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "допустить ошибку",
+                            "tr": [
+                                {
+                                    "text": "make a mistake"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "suppose",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "предположить"
+                        }
+                    ]
+                },
+                {
+                    "text": "tolerate",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "терпеть"
+                        }
+                    ]
+                },
+                {
+                    "text": "commit",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "совершать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "допущенная ошибка",
+                            "tr": [
+                                {
+                                    "text": "committed error"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

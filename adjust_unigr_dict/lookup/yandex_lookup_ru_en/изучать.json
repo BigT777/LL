@@ -1,0 +1,125 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "изучать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "study",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "learn",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "teach",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "учиться"
+                        },
+                        {
+                            "text": "учить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "изучать право",
+                            "tr": [
+                                {
+                                    "text": "study law"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "изучать русский",
+                            "tr": [
+                                {
+                                    "text": "learn russian"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "examine",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "explore",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "investigate",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "scrutinize",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "inspect",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "рассматривать"
+                        },
+                        {
+                            "text": "исследовать"
+                        },
+                        {
+                            "text": "осматривать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "изучать доказательства",
+                            "tr": [
+                                {
+                                    "text": "examine evidence"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "изучать мир",
+                            "tr": [
+                                {
+                                    "text": "explore the world"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "studied",
+                    "pos": "verb"
+                },
+                {
+                    "text": "read",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "читать"
+                        }
+                    ]
+                },
+                {
+                    "text": "scan",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "проверять"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

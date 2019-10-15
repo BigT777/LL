@@ -1,0 +1,80 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "возвращаться",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "return",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "revert",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "вернуться"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "возвращаться немедленно",
+                            "tr": [
+                                {
+                                    "text": "return immediately"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "back",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "come back",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "вернуться"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "возвращаться домой",
+                            "tr": [
+                                {
+                                    "text": "coming back home"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "recur",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "повторять"
+                        }
+                    ]
+                },
+                {
+                    "text": "retrace",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "проследить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

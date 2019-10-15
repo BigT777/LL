@@ -1,0 +1,305 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "цель",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "purpose",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "goal",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "objective",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "aim",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "target",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "object",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "destination",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "designation",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "задача"
+                        },
+                        {
+                            "text": "назначение"
+                        },
+                        {
+                            "text": "объект"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "коммерческая цель",
+                            "tr": [
+                                {
+                                    "text": "commercial purpose"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "стратегическая цель",
+                            "tr": [
+                                {
+                                    "text": "strategic goal"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "основная цель",
+                            "tr": [
+                                {
+                                    "text": "main objective"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "новая цель",
+                            "tr": [
+                                {
+                                    "text": "new target"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "достичь цели",
+                            "tr": [
+                                {
+                                    "text": "achieve the object"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "особая цель",
+                            "tr": [
+                                {
+                                    "text": "special destination"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "end",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "конец"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "политическая цель",
+                            "tr": [
+                                {
+                                    "text": "political end"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "intent",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "intention",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "ambition",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "намерение"
+                        },
+                        {
+                            "text": "стремление"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "преступная цель",
+                            "tr": [
+                                {
+                                    "text": "criminal intent"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "единственная цель",
+                            "tr": [
+                                {
+                                    "text": "sole intention"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "благородная цель",
+                            "tr": [
+                                {
+                                    "text": "noble ambition"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "order",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "заказ"
+                        }
+                    ]
+                },
+                {
+                    "text": "view",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "взгляд"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "поставленная цель",
+                            "tr": [
+                                {
+                                    "text": "object in view"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "reason",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "причина"
+                        }
+                    ]
+                },
+                {
+                    "text": "use",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "назначение"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "различных целей",
+                            "tr": [
+                                {
+                                    "text": "different uses"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "mission",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "миссия"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "конечная цель",
+                            "tr": [
+                                {
+                                    "text": "ultimate mission"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "design",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "дизайн"
+                        }
+                    ]
+                },
+                {
+                    "text": "effect",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "эффект"
+                        }
+                    ]
+                },
+                {
+                    "text": "mark",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "знак"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "попасть в цель",
+                            "tr": [
+                                {
+                                    "text": "hit the mark"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "scope",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "сфера"
+                        }
+                    ]
+                },
+                {
+                    "text": "purport",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "смысл"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

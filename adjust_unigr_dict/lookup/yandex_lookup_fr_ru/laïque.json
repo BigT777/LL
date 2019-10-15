@@ -1,0 +1,88 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "laïque",
+            "pos": "adjective",
+            "ts": "laik",
+            "tr": [
+                {
+                    "text": "светский",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "нерелигиозный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "мирской",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "séculier"
+                        },
+                        {
+                            "text": "irréligieux"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "état laïque",
+                            "tr": [
+                                {
+                                    "text": "светское государство"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "laïque",
+            "pos": "noun",
+            "ts": "laik",
+            "tr": [
+                {
+                    "text": "светское государство",
+                    "pos": "noun"
+                },
+                {
+                    "text": "мирянин",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "неспециалист",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "profane"
+                        }
+                    ]
+                },
+                {
+                    "text": "светский характер",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "светскость",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ]
+                },
+                {
+                    "text": "мирянка",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        }
+    ]
+}

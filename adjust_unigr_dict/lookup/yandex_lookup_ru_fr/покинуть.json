@@ -1,0 +1,80 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "покинуть",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "quitter",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "abandonner",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "laisser",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "évacuer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "lâcher",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "покидать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "покинуть эту страницу",
+                            "tr": [
+                                {
+                                    "text": "quitter cette page"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "quitter la scène",
+                    "pos": "verb"
+                },
+                {
+                    "text": "échapper",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "уйти"
+                        }
+                    ]
+                },
+                {
+                    "text": "laisser de côté",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "отбросить"
+                        }
+                    ]
+                },
+                {
+                    "text": "faire défaut",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "отказать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

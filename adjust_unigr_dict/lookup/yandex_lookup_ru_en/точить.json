@@ -1,0 +1,55 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "точить",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "sharpen",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "whet",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "hone",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "заточить"
+                        },
+                        {
+                            "text": "возбудить"
+                        },
+                        {
+                            "text": "оттачивать"
+                        }
+                    ]
+                },
+                {
+                    "text": "grind",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "молоть"
+                        }
+                    ]
+                },
+                {
+                    "text": "turn",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "повернуть"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

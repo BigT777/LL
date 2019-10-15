@@ -1,0 +1,87 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "слишком",
+            "pos": "adverb",
+            "tr": [
+                {
+                    "text": "too",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "очень"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "слишком маленький",
+                            "tr": [
+                                {
+                                    "text": "too small"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "overly",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "excessively",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "чрезмерно"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "слишком так",
+                            "tr": [
+                                {
+                                    "text": "overly so"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "very",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "очень"
+                        }
+                    ]
+                },
+                {
+                    "text": "excessive",
+                    "pos": "adverb",
+                    "ex": [
+                        {
+                            "text": "слишком много",
+                            "tr": [
+                                {
+                                    "text": "excessive amount"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "over",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "чересчур"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

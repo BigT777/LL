@@ -1,0 +1,106 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "заработать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "get",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "make",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "gain",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "получить"
+                        },
+                        {
+                            "text": "сделать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "заработать деньги",
+                            "tr": [
+                                {
+                                    "text": "make cash"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "earn",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "make money",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "зарабатывать"
+                        },
+                        {
+                            "text": "делать деньги"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "заработанный доход",
+                            "tr": [
+                                {
+                                    "text": "earned income"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "work",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "работать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "заработать снова",
+                            "tr": [
+                                {
+                                    "text": "work again"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "win",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "score",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "выиграть"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

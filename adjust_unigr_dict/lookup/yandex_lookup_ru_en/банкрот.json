@@ -1,0 +1,50 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "банкрот",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "bankrupt",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "insolvent",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "банкротство"
+                        },
+                        {
+                            "text": "несостоятельный должник"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "потенциальный банкрот",
+                            "tr": [
+                                {
+                                    "text": "potential bankrupt"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "defaulter",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "неплательщик"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

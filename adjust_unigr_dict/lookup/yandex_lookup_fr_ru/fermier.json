@@ -1,0 +1,67 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fermier",
+            "pos": "noun",
+            "gen": "m",
+            "tr": [
+                {
+                    "text": "фермер",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "хуторянин",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "земледелец",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "agriculteur"
+                        },
+                        {
+                            "text": "fermière"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fermier pauvre",
+                            "tr": [
+                                {
+                                    "text": "бедный фермер"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "арендатор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "tenancier"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fermier",
+            "pos": "adjective",
+            "tr": [
+                {
+                    "text": "фермерский",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

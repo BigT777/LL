@@ -1,0 +1,80 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "сюжет",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "scène",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "эпизод"
+                        }
+                    ]
+                },
+                {
+                    "text": "sujet",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "thème",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "фабула"
+                        },
+                        {
+                            "text": "тема"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "сюжет фильма",
+                            "tr": [
+                                {
+                                    "text": "sujet du film"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "récit",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "рассказ"
+                        }
+                    ]
+                },
+                {
+                    "text": "objet",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "motif",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "тема"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

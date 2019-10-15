@@ -1,0 +1,113 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "возобновить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "resume",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "recommence",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "возобновиться"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "возобновленная сессия",
+                            "tr": [
+                                {
+                                    "text": "resumed session"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "reopen",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "снова открыть"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "возобновить расследование",
+                            "tr": [
+                                {
+                                    "text": "reopen the investigation"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "renew",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "revive",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "reactivate",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "reinstate",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "продлить"
+                        },
+                        {
+                            "text": "возродить"
+                        },
+                        {
+                            "text": "активировать"
+                        },
+                        {
+                            "text": "восстановить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "возобновить переговоры",
+                            "tr": [
+                                {
+                                    "text": "renew negotiations"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "restart",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "relaunch",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "перезапустить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

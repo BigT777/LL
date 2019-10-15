@@ -1,0 +1,38 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "высыпать",
+            "pos": "verb",
+            "tr": [
+                {
+                    "text": "empty",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "опорожнить"
+                        }
+                    ]
+                },
+                {
+                    "text": "pour",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "spill",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "налить"
+                        },
+                        {
+                            "text": "разлить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

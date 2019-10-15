@@ -1,0 +1,53 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "даже",
+            "pos": "particle",
+            "tr": [
+                {
+                    "text": "même",
+                    "pos": "particle",
+                    "syn": [
+                        {
+                            "text": "voire",
+                            "pos": "particle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "хоть"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "даже мобильный телефон",
+                            "tr": [
+                                {
+                                    "text": "même téléphone mobile"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "даже сотни",
+                            "tr": [
+                                {
+                                    "text": "voire des centaines"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "seulement",
+                    "pos": "particle",
+                    "mean": [
+                        {
+                            "text": "только"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

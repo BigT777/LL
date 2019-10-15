@@ -1,0 +1,66 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "возле",
+            "pos": "preposition",
+            "tr": [
+                {
+                    "text": "near",
+                    "pos": "preposition",
+                    "syn": [
+                        {
+                            "text": "beside",
+                            "pos": "preposition"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "вблизи"
+                        },
+                        {
+                            "text": "рядом"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "сад возле дома",
+                            "tr": [
+                                {
+                                    "text": "garden near the house"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "by",
+                    "pos": "preposition",
+                    "mean": [
+                        {
+                            "text": "на"
+                        }
+                    ]
+                },
+                {
+                    "text": "next",
+                    "pos": "preposition",
+                    "syn": [
+                        {
+                            "text": "next to",
+                            "pos": "preposition"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "рядом"
+                        },
+                        {
+                            "text": "рядом с"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

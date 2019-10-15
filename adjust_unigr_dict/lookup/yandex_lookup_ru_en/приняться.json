@@ -1,0 +1,57 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "приняться",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "proceed",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "begin",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "start",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "продолжать"
+                        },
+                        {
+                            "text": "начать"
+                        }
+                    ]
+                },
+                {
+                    "text": "set",
+                    "pos": "verb",
+                    "ex": [
+                        {
+                            "text": "приняться за дело",
+                            "tr": [
+                                {
+                                    "text": "set to work"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "take",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "брать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

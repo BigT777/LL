@@ -1,0 +1,83 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "mieux",
+            "pos": "adjective",
+            "ts": "mjø",
+            "tr": [
+                {
+                    "text": "лучшее",
+                    "pos": "adjective"
+                },
+                {
+                    "text": "лучше",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "plutôt"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mieux",
+            "pos": "adverb",
+            "ts": "mjø",
+            "tr": [
+                {
+                    "text": "больше",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "davantage"
+                        }
+                    ]
+                },
+                {
+                    "text": "скорее",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "охотнее",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "plutôt"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mieux",
+            "pos": "noun",
+            "ts": "mjø",
+            "tr": [
+                {
+                    "text": "улучшение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "plus"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "mieux coordonner",
+                            "tr": [
+                                {
+                                    "text": "улучшения координации"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

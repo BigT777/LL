@@ -1,0 +1,131 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "même",
+            "pos": "particle",
+            "ts": "mɛm",
+            "tr": [
+                {
+                    "text": "даже",
+                    "pos": "particle",
+                    "syn": [
+                        {
+                            "text": "хоть",
+                            "pos": "particle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "voire"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "même téléphone mobile",
+                            "tr": [
+                                {
+                                    "text": "даже мобильный телефон"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "же",
+                    "pos": "particle",
+                    "syn": [
+                        {
+                            "text": "именно",
+                            "pos": "particle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "non"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "mêmes effets secondaires",
+                            "tr": [
+                                {
+                                    "text": "же побочные эффекты"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "même",
+            "pos": "pronoun",
+            "ts": "mɛm",
+            "tr": [
+                {
+                    "text": "тот же",
+                    "pos": "pronoun",
+                    "syn": [
+                        {
+                            "text": "сам",
+                            "pos": "pronoun"
+                        },
+                        {
+                            "text": "самый",
+                            "pos": "pronoun"
+                        },
+                        {
+                            "text": "один",
+                            "pos": "pronoun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "seul"
+                        },
+                        {
+                            "text": "tout"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "même ligne horizontale",
+                            "tr": [
+                                {
+                                    "text": "одна горизонтальная линия"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "même",
+            "pos": "adjective",
+            "ts": "mɛm",
+            "tr": [
+                {
+                    "text": "одинаковый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "pareil"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "même longueur",
+                            "tr": [
+                                {
+                                    "text": "одинаковая длина"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

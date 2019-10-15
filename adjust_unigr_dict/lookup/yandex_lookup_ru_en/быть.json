@@ -1,0 +1,87 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "быть",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "be",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "have",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "get",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "являться"
+                        },
+                        {
+                            "text": "иметь"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "быть дома",
+                            "tr": [
+                                {
+                                    "text": "be home"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "быть немного",
+                            "tr": [
+                                {
+                                    "text": "have a bit"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "быть рядом",
+                            "tr": [
+                                {
+                                    "text": "get close"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "exist",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "существовать"
+                        }
+                    ]
+                },
+                {
+                    "text": "lead",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "приводить"
+                        }
+                    ]
+                },
+                {
+                    "text": "fare",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "жить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

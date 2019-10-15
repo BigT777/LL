@@ -1,0 +1,168 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "несколько",
+            "pos": "numeral",
+            "tr": [
+                {
+                    "text": "several",
+                    "pos": "numeral",
+                    "ex": [
+                        {
+                            "text": "несколько раз",
+                            "tr": [
+                                {
+                                    "text": "several times"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "few",
+                    "pos": "numeral",
+                    "mean": [
+                        {
+                            "text": "мало"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "несколько дней",
+                            "tr": [
+                                {
+                                    "text": "few days"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "some",
+                    "pos": "numeral",
+                    "mean": [
+                        {
+                            "text": "то"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "несколько лет",
+                            "tr": [
+                                {
+                                    "text": "some years"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "multiple",
+                    "pos": "numeral",
+                    "syn": [
+                        {
+                            "text": "multi",
+                            "pos": "numeral"
+                        }
+                    ]
+                },
+                {
+                    "text": "couple",
+                    "pos": "numeral",
+                    "syn": [
+                        {
+                            "text": "handful",
+                            "pos": "numeral"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "два"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "несколько человек",
+                            "tr": [
+                                {
+                                    "text": "handful of people"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "number",
+                    "pos": "numeral"
+                }
+            ]
+        },
+        {
+            "text": "несколько",
+            "pos": "adverb",
+            "tr": [
+                {
+                    "text": "somewhat",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "slightly",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "little",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "rather",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "немного"
+                        },
+                        {
+                            "text": "довольно"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "несколько особняком",
+                            "tr": [
+                                {
+                                    "text": "somewhat apart"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "несколько позднее",
+                            "tr": [
+                                {
+                                    "text": "slightly later"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "несколько странно",
+                            "tr": [
+                                {
+                                    "text": "little odd"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "несколько иначе",
+                            "tr": [
+                                {
+                                    "text": "rather differently"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "разбиться",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "crash",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "грохнуть"
+                        }
+                    ]
+                },
+                {
+                    "text": "break",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "shatter",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "smash",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "split",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "разбить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "разбиться вдребезги",
+                            "tr": [
+                                {
+                                    "text": "break into pieces"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "мыть",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "wash",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "bathe",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "clean",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "rinse",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "вымыть"
+                        },
+                        {
+                            "text": "купать"
+                        },
+                        {
+                            "text": "чистить"
+                        },
+                        {
+                            "text": "промыть"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "мыть машины",
+                            "tr": [
+                                {
+                                    "text": "wash cars"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "мыть туалеты",
+                            "tr": [
+                                {
+                                    "text": "clean toilets"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "scrub",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "тереть"
+                        }
+                    ]
+                },
+                {
+                    "text": "shampoo",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "шампунь"
+                        }
+                    ]
+                },
+                {
+                    "text": "bath",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

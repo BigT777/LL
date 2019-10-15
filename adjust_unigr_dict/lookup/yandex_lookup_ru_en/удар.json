@@ -1,0 +1,414 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "удар",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "impact",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "shock",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "воздействие"
+                        },
+                        {
+                            "text": "шок"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "энергия удара",
+                            "tr": [
+                                {
+                                    "text": "impact energy"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "механический удар",
+                            "tr": [
+                                {
+                                    "text": "mechanical shock"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "blow",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "дуновение"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "сокрушительный удар",
+                            "tr": [
+                                {
+                                    "text": "crushing blow"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "strike",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "hit",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "knock",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "kick",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "attack",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "punch",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "забастовка"
+                        },
+                        {
+                            "text": "попадание"
+                        },
+                        {
+                            "text": "стук"
+                        },
+                        {
+                            "text": "пинок"
+                        },
+                        {
+                            "text": "атака"
+                        },
+                        {
+                            "text": "кулак"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ядерный удар",
+                            "tr": [
+                                {
+                                    "text": "nuclear strike"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "немедленный удар",
+                            "tr": [
+                                {
+                                    "text": "instant hit"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "жесткий удар",
+                            "tr": [
+                                {
+                                    "text": "hard knock"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "свободный удар",
+                            "tr": [
+                                {
+                                    "text": "free kick"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "мощный удар",
+                            "tr": [
+                                {
+                                    "text": "powerful punch"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "stroke",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "apoplexy",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "инсульт"
+                        },
+                        {
+                            "text": "апоплексия"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "тепловой удар",
+                            "tr": [
+                                {
+                                    "text": "heat stroke"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "beat",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "бой"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "удар в минуту",
+                            "tr": [
+                                {
+                                    "text": "beat per minute"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "shot",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "выстрел"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "точный удар",
+                            "tr": [
+                                {
+                                    "text": "accurate shot"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "bump",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "шишка"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "маленький удар",
+                            "tr": [
+                                {
+                                    "text": "little bump"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "thrust",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "тяга"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "главный удар",
+                            "tr": [
+                                {
+                                    "text": "main thrust"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "stab",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "jab",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "нож"
+                        },
+                        {
+                            "text": "укол"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "левый удар",
+                            "tr": [
+                                {
+                                    "text": "left jab"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "bang",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "clap",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "взрыв"
+                        },
+                        {
+                            "text": "хлопок"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "громкий удар",
+                            "tr": [
+                                {
+                                    "text": "loud bang"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "jolt",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "push",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "толчок"
+                        }
+                    ]
+                },
+                {
+                    "text": "putt",
+                    "pos": "noun"
+                },
+                {
+                    "text": "thump",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "глухой удар"
+                        }
+                    ]
+                },
+                {
+                    "text": "swipe",
+                    "pos": "noun"
+                },
+                {
+                    "text": "ball",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "мяч"
+                        }
+                    ]
+                },
+                {
+                    "text": "percussion",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "ударный"
+                        }
+                    ]
+                },
+                {
+                    "text": "buffet",
+                    "pos": "noun"
+                },
+                {
+                    "text": "crack",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "трещина"
+                        }
+                    ]
+                },
+                {
+                    "text": "bash",
+                    "pos": "noun"
+                },
+                {
+                    "text": "drive",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "езда"
+                        }
+                    ]
+                },
+                {
+                    "text": "impingement",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "столкновение"
+                        }
+                    ]
+                },
+                {
+                    "text": "swat",
+                    "pos": "noun"
+                },
+                {
+                    "text": "butt",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "приклад"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

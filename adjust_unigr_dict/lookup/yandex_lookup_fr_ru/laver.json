@@ -1,0 +1,202 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "laver",
+            "pos": "verb",
+            "ts": "lave",
+            "tr": [
+                {
+                    "text": "вымыть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "промывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "промыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "помыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "мыть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "стирать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обмыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "очистить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "nettoyer"
+                        },
+                        {
+                            "text": "rincer"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "laver les mains",
+                            "tr": [
+                                {
+                                    "text": "вымыть руки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "laver immédiatement",
+                            "tr": [
+                                {
+                                    "text": "немедленно промыть"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "laver fréquemment",
+                            "tr": [
+                                {
+                                    "text": "часто мыть"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "laver le linge",
+                            "tr": [
+                                {
+                                    "text": "стирать белье"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "смыть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "смывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отмыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вымывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rincer"
+                        }
+                    ]
+                },
+                {
+                    "text": "омыть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "омывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "baigner"
+                        }
+                    ]
+                },
+                {
+                    "text": "умыть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "ex": [
+                        {
+                            "text": "laver les pieds",
+                            "tr": [
+                                {
+                                    "text": "умыть ноги"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выстирать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "постирать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "laver vos vêtements",
+                            "tr": [
+                                {
+                                    "text": "постирать одежду"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отмывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "blanchir"
+                        }
+                    ]
+                },
+                {
+                    "text": "обмывать",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "перемыть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "relaver"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

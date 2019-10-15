@@ -1,0 +1,104 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "seulement",
+            "pos": "particle",
+            "ts": "sœlmɑ̃",
+            "tr": [
+                {
+                    "text": "только",
+                    "pos": "particle",
+                    "syn": [
+                        {
+                            "text": "всего",
+                            "pos": "particle"
+                        },
+                        {
+                            "text": "даже",
+                            "pos": "particle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "seul"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dépendre non seulement",
+                            "tr": [
+                                {
+                                    "text": "зависеть не только"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "seulement quelques minutes",
+                            "tr": [
+                                {
+                                    "text": "всего несколько минут"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "seulement",
+            "pos": "adverb",
+            "ts": "sœlmɑ̃",
+            "tr": [
+                {
+                    "text": "просто",
+                    "pos": "adverb",
+                    "ex": [
+                        {
+                            "text": "seulement bonne",
+                            "tr": [
+                                {
+                                    "text": "просто хорошая"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "единственно",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "исключительно",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "uniquement"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "utiliser seulement",
+                            "tr": [
+                                {
+                                    "text": "использовать исключительно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "однако",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "cependant"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

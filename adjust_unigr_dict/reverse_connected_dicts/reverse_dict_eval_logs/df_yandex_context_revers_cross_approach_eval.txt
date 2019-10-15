@@ -1,0 +1,3841 @@
+letter
+reference pair ('письмо', 'lettre')
+reference pair ('буква', 'lettre')
+reference pair ('буква', 'caractère')
+ev_pair ('письмо', 'lettre')
+ev_pair ('письмо', 'courrier')
+ev_pair ('письмо', 'écrit')
+ev_pair ('письмо', 'message')
+ev_pair ('буква', 'lettre')
+ev_pair ('грамота', 'no_equality')
+ev_pair ('письмена', 'no_equality')
+ev_pair ('буквенный', 'no_equality')
+ev_pair ('письменный', 'écrit')
+ev_pair ('Letters', 'no_equality')
+ev_pair ('писать письмо', 'no_equality')
+*********** письмо ***********
+[('письмо', 'lettre')] [('письмо', 'lettre'), ('письмо', 'courrier'), ('письмо', 'écrit'), ('письмо', 'message')]
+('письмо', 'lettre')
+('письмо', 'lettre') ('письмо', 'lettre')
+positive_abs_eq ('письмо', 'lettre')
+('письмо', 'lettre') ('письмо', 'courrier')
+NO_ABS_EQ
+('письмо', 'lettre') ('письмо', 'écrit')
+NO_ABS_EQ
+('письмо', 'lettre') ('письмо', 'message')
+NO_ABS_EQ
+*********** буква ***********
+[('буква', 'lettre'), ('буква', 'caractère')] [('буква', 'lettre')]
+('буква', 'lettre')
+('буква', 'lettre') ('буква', 'lettre')
+positive_abs_eq ('буква', 'lettre')
+('буква', 'caractère')
+('буква', 'caractère') ('буква', 'lettre')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['письмо_lettre', 'буква_lettre']
+handled_ev_dict_pairs ['письмо_lettre', 'буква_lettre']
+['письмо_lettre', 'буква_lettre'] ['письмо_lettre', 'буква_lettre']
+{'письмо_lettre', 'буква_lettre'} 0.6666666666666666
+{'письмо_lettre', 'буква_lettre'} eval_intersect 2 all_var_ev_dict_pairs_set 11 0.18181818181818182
+****************
+
+plate
+reference pair ('тарелка', 'assiette')
+reference pair ('тарелка', 'plat')
+ev_pair ('пластина', 'plaque')
+ev_pair ('пластина', 'planche')
+ev_pair ('плита', 'no_equality')
+ev_pair ('тарелка', 'assiette')
+ev_pair ('лист', 'no_equality')
+ev_pair ('номерной знак', 'no_equality')
+ev_pair ('дощечка', 'no_equality')
+ev_pair ('панель', 'panneau')
+ev_pair ('накладка', 'no_equality')
+ev_pair ('платформа', 'no_equality')
+ev_pair ('стяжка', 'no_equality')
+ev_pair ('бляха', 'plaque')
+ev_pair ('толстый лист', 'no_equality')
+ev_pair ('листовой', 'no_equality')
+ev_pair ('пластинчатый', 'no_equality')
+*********** тарелка ***********
+[('тарелка', 'assiette'), ('тарелка', 'plat')] [('тарелка', 'assiette')]
+('тарелка', 'assiette')
+('тарелка', 'assiette') ('тарелка', 'assiette')
+positive_abs_eq ('тарелка', 'assiette')
+('тарелка', 'plat')
+('тарелка', 'plat') ('тарелка', 'assiette')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['тарелка_assiette']
+handled_ev_dict_pairs ['тарелка_assiette']
+['тарелка_assiette'] ['тарелка_assiette']
+{'тарелка_assiette'} 0.5
+{'тарелка_assiette'} eval_intersect 1 all_var_ev_dict_pairs_set 15 0.06666666666666667
+****************
+
+dinner
+reference pair ('обед', 'déjeuner')
+reference pair ('ужин', 'dîner')
+ev_pair ('обед', 'dîner')
+ev_pair ('обед', 'souper')
+ev_pair ('обед', 'repas')
+ev_pair ('обед', 'déjeuner')
+ev_pair ('обед', 'à manger | manger')
+ev_pair ('торжественный обед', 'dîner')
+ev_pair ('торжественный обед', 'repas')
+ev_pair ('торжественный обед', 'déjeuner')
+ev_pair ('торжественный обед', 'à manger | manger')
+ev_pair ('обеденный', 'no_equality')
+ev_pair ('званый', 'dîner')
+*********** обед ***********
+[('обед', 'déjeuner')] [('обед', 'dîner'), ('обед', 'souper'), ('обед', 'repas'), ('обед', 'déjeuner'), ('обед', 'à manger | manger')]
+('обед', 'déjeuner')
+('обед', 'déjeuner') ('обед', 'dîner')
+NO_ABS_EQ
+('обед', 'déjeuner') ('обед', 'souper')
+NO_ABS_EQ
+('обед', 'déjeuner') ('обед', 'repas')
+NO_ABS_EQ
+('обед', 'déjeuner') ('обед', 'déjeuner')
+positive_abs_eq ('обед', 'déjeuner')
+('обед', 'déjeuner') ('обед', 'à manger | manger')
+NO_ABS_EQ
+ужин not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['обед_déjeuner']
+handled_ev_dict_pairs ['обед_déjeuner']
+ужин обед 0.8418325624220971
+l1_word_sim worked
+('ужин', 'dîner') ('обед', 'dîner')
+match_found ('ужин', 'dîner')
+('ужин', 'dîner') ('обед', 'souper')
+no_match
+('ужин', 'dîner') ('обед', 'repas')
+no_match
+('ужин', 'dîner') ('обед', 'déjeuner')
+no_match
+('ужин', 'dîner') ('обед', 'à manger | manger')
+no_match
+ужин торжественный обед 0.636520567784271
+l1_word_sim worked
+('ужин', 'dîner') ('торжественный обед', 'dîner')
+match_found ('ужин', 'dîner')
+('ужин', 'dîner') ('торжественный обед', 'repas')
+no_match
+('ужин', 'dîner') ('торжественный обед', 'déjeuner')
+no_match
+('ужин', 'dîner') ('торжественный обед', 'à manger | manger')
+no_match
+ужин обеденный 0.26815043678990347
+ужин званый 0.27428439393095644
+['обед_déjeuner', 'ужин_dîner', 'ужин_dîner'] ['обед_déjeuner', 'обед_dîner', 'торжественный обед_dîner']
+{'обед_déjeuner', 'ужин_dîner'} 1.0
+{'обед_déjeuner', 'обед_dîner', 'торжественный обед_dîner'} eval_intersect 3 all_var_ev_dict_pairs_set 11 0.2727272727272727
+****************
+
+necessary
+reference pair ('необходимый', 'nécessaire')
+ev_pair ('необходимый', 'nécessaire')
+ev_pair ('необходимый', 'indispensable')
+ev_pair ('необходимый', 'requis')
+ev_pair ('необходимый', 'besoin')
+ev_pair ('неизбежный', 'no_equality')
+ev_pair ('надобный', 'no_equality')
+ev_pair ('требуемый', 'nécessaire')
+ev_pair ('требуемый', 'requis')
+ev_pair ('надо', 'besoin')
+ev_pair ('надобность', 'besoin')
+*********** необходимый ***********
+[('необходимый', 'nécessaire')] [('необходимый', 'nécessaire'), ('необходимый', 'indispensable'), ('необходимый', 'requis'), ('необходимый', 'besoin')]
+('необходимый', 'nécessaire')
+('необходимый', 'nécessaire') ('необходимый', 'nécessaire')
+positive_abs_eq ('необходимый', 'nécessaire')
+('необходимый', 'nécessaire') ('необходимый', 'indispensable')
+NO_ABS_EQ
+('необходимый', 'nécessaire') ('необходимый', 'requis')
+NO_ABS_EQ
+('необходимый', 'nécessaire') ('необходимый', 'besoin')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['необходимый_nécessaire']
+handled_ev_dict_pairs ['необходимый_nécessaire']
+['необходимый_nécessaire'] ['необходимый_nécessaire']
+{'необходимый_nécessaire'} 1.0
+{'необходимый_nécessaire'} eval_intersect 1 all_var_ev_dict_pairs_set 10 0.1
+****************
+
+no_equality
+no_equality eng_word_out_of_eval_dict
+secret
+reference pair ('секрет', 'secret')
+reference pair ('секретный', 'secret')
+reference pair ('тайный', 'secret')
+ev_pair ('секрет', 'secret')
+ev_pair ('тайный', 'secret')
+ev_pair ('потайной', 'no_equality')
+ev_pair ('скрытный', 'secret')
+ev_pair ('негласный', 'no_equality')
+ev_pair ('закулисный', 'no_equality')
+ev_pair ('конспиративный', 'secret')
+ev_pair ('засекреченный', 'secret')
+ev_pair ('скрытый', 'caché')
+ev_pair ('закрытый', 'no_equality')
+ev_pair ('затаенный', 'no_equality')
+ev_pair ('тайно', 'secrètement')
+ev_pair ('в секрете', 'secret')
+*********** секрет ***********
+[('секрет', 'secret')] [('секрет', 'secret')]
+('секрет', 'secret')
+('секрет', 'secret') ('секрет', 'secret')
+positive_abs_eq ('секрет', 'secret')
+секретный not_in_eval_dict
+*********** тайный ***********
+[('тайный', 'secret')] [('тайный', 'secret')]
+('тайный', 'secret')
+('тайный', 'secret') ('тайный', 'secret')
+positive_abs_eq ('тайный', 'secret')
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['секрет_secret', 'тайный_secret']
+handled_ev_dict_pairs ['секрет_secret', 'тайный_secret']
+секретный секрет 0.41197042579780596
+секретный тайный 0.6498497619867984
+l1_word_sim worked
+('секретный', 'secret') ('тайный', 'secret')
+match_found ('секретный', 'secret')
+секретный потайной 0.34169504526274913
+секретный скрытный 0.5274605479887357
+l1_word_sim worked
+('секретный', 'secret') ('скрытный', 'secret')
+no_match
+секретный негласный 0.4215031695501526
+секретный закулисный 0.5171132504880996
+l1_word_sim worked
+('секретный', 'secret') ('закулисный', 'no_equality')
+no_match
+секретный конспиративный 0.6082815214087179
+l1_word_sim worked
+('секретный', 'secret') ('конспиративный', 'secret')
+match_found ('секретный', 'secret')
+секретный засекреченный 0.33915712899071726
+секретный скрытый 0.3858355366511119
+секретный закрытый 0.36706270683834297
+секретный затаенный 0.36402678649377784
+секретный тайно 0.20602452489808287
+секретный в секрете 0.13176646562597943
+['секрет_secret', 'тайный_secret', 'секретный_secret', 'секретный_secret'] ['секрет_secret', 'тайный_secret', 'тайный_secret', 'конспиративный_secret']
+{'секрет_secret', 'тайный_secret', 'секретный_secret'} 1.0
+{'секрет_secret', 'тайный_secret', 'конспиративный_secret'} eval_intersect 3 all_var_ev_dict_pairs_set 13 0.23076923076923078
+****************
+
+table
+reference pair ('стол', 'table')
+reference pair ('таблица', 'table')
+reference pair ('таблица', 'tableau')
+reference pair ('люди, сидящие за столом в контекстах типа "наш столик"', 'tablée')
+ev_pair ('таблица', 'tableau')
+ev_pair ('таблица', 'table')
+ev_pair ('стол', 'table')
+ev_pair ('стол', 'bureau')
+ev_pair ('скрижаль', 'tablette')
+ev_pair ('расписание', 'no_equality')
+ev_pair ('табель', 'no_equality')
+ev_pair ('столовая', 'no_equality')
+ev_pair ('табличка', 'no_equality')
+ev_pair ('настольный', 'no_equality')
+ev_pair ('табличный', 'no_equality')
+ev_pair ('застольный', 'no_equality')
+ev_pair ('на стол', 'no_equality')
+*********** стол ***********
+[('стол', 'table')] [('стол', 'table'), ('стол', 'bureau')]
+('стол', 'table')
+('стол', 'table') ('стол', 'table')
+positive_abs_eq ('стол', 'table')
+('стол', 'table') ('стол', 'bureau')
+NO_ABS_EQ
+*********** таблица ***********
+[('таблица', 'table'), ('таблица', 'tableau')] [('таблица', 'tableau'), ('таблица', 'table')]
+('таблица', 'table')
+('таблица', 'table') ('таблица', 'tableau')
+NO_ABS_EQ
+('таблица', 'table') ('таблица', 'table')
+positive_abs_eq ('таблица', 'table')
+('таблица', 'tableau')
+('таблица', 'tableau') ('таблица', 'tableau')
+positive_abs_eq ('таблица', 'tableau')
+('таблица', 'tableau') ('таблица', 'table')
+NO_ABS_EQ
+люди, сидящие за столом в контекстах типа "наш столик" not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['стол_table', 'таблица_table', 'таблица_tableau']
+handled_ev_dict_pairs ['стол_table', 'таблица_table', 'таблица_tableau']
+люди, сидящие за столом в контекстах типа "наш столик" таблица -0.06778562606408449
+люди, сидящие за столом в контекстах типа "наш столик" стол 0.4851077531549417
+люди, сидящие за столом в контекстах типа "наш столик" скрижаль 0.16361797573487358
+люди, сидящие за столом в контекстах типа "наш столик" расписание -0.1497493857676091
+люди, сидящие за столом в контекстах типа "наш столик" табель 0.144322846294811
+люди, сидящие за столом в контекстах типа "наш столик" столовая 0.3204608991373511
+люди, сидящие за столом в контекстах типа "наш столик" табличка 0.2665677826686005
+люди, сидящие за столом в контекстах типа "наш столик" настольный -0.03944263214238808
+люди, сидящие за столом в контекстах типа "наш столик" табличный -0.17060981308817025
+люди, сидящие за столом в контекстах типа "наш столик" застольный -0.019228353008231325
+люди, сидящие за столом в контекстах типа "наш столик" на стол 0.5814465114664407
+l1_word_sim worked
+('люди, сидящие за столом в контекстах типа "наш столик"', 'tablée') ('на стол', 'no_equality')
+no_match
+['стол_table', 'таблица_table', 'таблица_tableau'] ['стол_table', 'таблица_table', 'таблица_tableau']
+{'стол_table', 'таблица_table', 'таблица_tableau'} 0.75
+{'стол_table', 'таблица_table', 'таблица_tableau'} eval_intersect 3 all_var_ev_dict_pairs_set 13 0.23076923076923078
+****************
+
+warm
+reference pair ('теплый', 'chaud')
+reference pair ('теплый', 'chaleureux')
+reference pair ('согревать', 'réchauffer')
+ev_pair ('теплый', 'chaud')
+ev_pair ('теплый', 'chaleureux')
+ev_pair ('сердечный', 'no_equality')
+ev_pair ('согревать', 'chaud')
+ev_pair ('согревать', 'réchauffer | chauffer | échauffer')
+ev_pair ('погреться', 'se réchauffer')
+ev_pair ('утеплить', 'no_equality')
+ev_pair ('тепло', 'chaud')
+ev_pair ('тепло', 'chaleureux')
+ev_pair ('тепло', 'chaleur')
+ev_pair ('тепло', 'chaleureusement')
+ev_pair ('разминка', 'no_equality')
+*********** теплый ***********
+[('теплый', 'chaud'), ('теплый', 'chaleureux')] [('теплый', 'chaud'), ('теплый', 'chaleureux')]
+('теплый', 'chaud')
+('теплый', 'chaud') ('теплый', 'chaud')
+positive_abs_eq ('теплый', 'chaud')
+('теплый', 'chaud') ('теплый', 'chaleureux')
+NO_ABS_EQ
+('теплый', 'chaleureux')
+('теплый', 'chaleureux') ('теплый', 'chaud')
+NO_ABS_EQ
+('теплый', 'chaleureux') ('теплый', 'chaleureux')
+positive_abs_eq ('теплый', 'chaleureux')
+*********** согревать ***********
+[('согревать', 'réchauffer')] [('согревать', 'chaud'), ('согревать', 'réchauffer | chauffer | échauffer')]
+('согревать', 'réchauffer')
+('согревать', 'réchauffer') ('согревать', 'chaud')
+NO_ABS_EQ
+('согревать', 'réchauffer') ('согревать', 'réchauffer | chauffer | échauffer')
+positive_abs_eq ('согревать', 'réchauffer')
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['теплый_chaud', 'теплый_chaleureux', 'согревать_réchauffer']
+handled_ev_dict_pairs ['теплый_chaud', 'теплый_chaleureux', 'согревать_réchauffer | chauffer | échauffer']
+['теплый_chaud', 'теплый_chaleureux', 'согревать_réchauffer'] ['теплый_chaud', 'теплый_chaleureux', 'согревать_réchauffer | chauffer | échauffer']
+{'теплый_chaleureux', 'теплый_chaud', 'согревать_réchauffer'} 1.0
+{'теплый_chaleureux', 'теплый_chaud', 'согревать_réchauffer | chauffer | échauffer'} eval_intersect 3 all_var_ev_dict_pairs_set 12 0.25
+****************
+
+America
+reference pair ('Америка', 'Amérique')
+ev_pair ('Америка', 'amérique')
+ev_pair ('Америка', 'états-unis')
+ev_pair ('Америка', 'américain')
+ev_pair ('Америка', 'america')
+*********** Америка ***********
+[('Америка', 'Amérique')] [('Америка', 'amérique'), ('Америка', 'états-unis'), ('Америка', 'américain'), ('Америка', 'america')]
+('Америка', 'Amérique')
+('Америка', 'Amérique') ('Америка', 'amérique')
+NO_ABS_EQ
+('Америка', 'Amérique') ('Америка', 'états-unis')
+NO_ABS_EQ
+('Америка', 'Amérique') ('Америка', 'américain')
+NO_ABS_EQ
+('Америка', 'Amérique') ('Америка', 'america')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs []
+handled_ev_dict_pairs []
+[] []
+set() 0.0
+set() eval_intersect 0 all_var_ev_dict_pairs_set 4 0.0
+****************
+
+entire
+reference pair ('целый', 'entier')
+reference pair ('весь', 'tout')
+ev_pair ('целый', 'entier')
+ev_pair ('целостный', 'no_equality')
+ev_pair ('весь', 'tout')
+ev_pair ('весь', 'complet')
+ev_pair ('целиком', 'tout')
+ev_pair ('целиком', 'entièrement')
+*********** целый ***********
+[('целый', 'entier')] [('целый', 'entier')]
+('целый', 'entier')
+('целый', 'entier') ('целый', 'entier')
+positive_abs_eq ('целый', 'entier')
+*********** весь ***********
+[('весь', 'tout')] [('весь', 'tout'), ('весь', 'complet')]
+('весь', 'tout')
+('весь', 'tout') ('весь', 'tout')
+positive_abs_eq ('весь', 'tout')
+('весь', 'tout') ('весь', 'complet')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['целый_entier', 'весь_tout']
+handled_ev_dict_pairs ['целый_entier', 'весь_tout']
+['целый_entier', 'весь_tout'] ['целый_entier', 'весь_tout']
+{'целый_entier', 'весь_tout'} 1.0
+{'целый_entier', 'весь_tout'} eval_intersect 2 all_var_ev_dict_pairs_set 6 0.3333333333333333
+****************
+
+thousand
+reference pair ('тысяча', 'mille')
+ev_pair ('тыс.', 'no_equality')
+ev_pair ('тысячелетие', 'millénaire')
+ev_pair ('множество', 'no_equality')
+ev_pair ('тысяча долларов', 'no_equality')
+ev_pair ('тысяча', 'mille')
+ev_pair ('тысяча', 'millier')
+ev_pair ('тысячный', 'millième')
+*********** тысяча ***********
+[('тысяча', 'mille')] [('тысяча', 'mille'), ('тысяча', 'millier')]
+('тысяча', 'mille')
+('тысяча', 'mille') ('тысяча', 'mille')
+positive_abs_eq ('тысяча', 'mille')
+('тысяча', 'mille') ('тысяча', 'millier')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['тысяча_mille']
+handled_ev_dict_pairs ['тысяча_mille']
+['тысяча_mille'] ['тысяча_mille']
+{'тысяча_mille'} 1.0
+{'тысяча_mille'} eval_intersect 1 all_var_ev_dict_pairs_set 7 0.14285714285714285
+****************
+
+Belgium
+reference pair ('Бельгия', 'Belgique')
+ev_pair ('Бельгия', 'belgique')
+*********** Бельгия ***********
+[('Бельгия', 'Belgique')] [('Бельгия', 'belgique')]
+('Бельгия', 'Belgique')
+('Бельгия', 'Belgique') ('Бельгия', 'belgique')
+positive_abs_eq ('Бельгия', 'Belgique')
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['Бельгия_Belgique']
+handled_ev_dict_pairs ['Бельгия_belgique']
+['Бельгия_Belgique'] ['Бельгия_belgique']
+{'Бельгия_Belgique'} 1.0
+{'Бельгия_belgique'} eval_intersect 1 all_var_ev_dict_pairs_set 1 1.0
+****************
+
+background
+reference pair ('окружение', 'milieu')
+reference pair ('происхождение', 'origines')
+reference pair ('задний план', 'arrière-plan')
+reference pair ('фон', 'fond')
+ev_pair ('фон', 'fond')
+ev_pair ('фон', 'arrière-plan')
+ev_pair ('предпосылка', 'no_equality')
+ev_pair ('происхождение', 'origine')
+ev_pair ('подготовка', 'formation')
+ev_pair ('история', 'antécédent')
+ev_pair ('история', 'historique')
+ev_pair ('история', 'passé')
+ev_pair ('история', 'histoire')
+ev_pair ('сведения', 'information')
+ev_pair ('фоновый режим', 'de fond')
+ev_pair ('опыт', 'expérience')
+ev_pair ('справочная информация', 'historique')
+ev_pair ('история вопроса', 'historique')
+ev_pair ('прошлое', 'antécédent')
+ev_pair ('прошлое', 'passé')
+ev_pair ('прошлое', 'histoire')
+ev_pair ('образование', 'formation')
+ev_pair ('корень', 'no_equality')
+ev_pair ('исходная информация', 'no_equality')
+ev_pair ('контекст', 'contexte')
+ev_pair ('общие сведения', 'historique')
+ev_pair ('исток', 'no_equality')
+ev_pair ('фоновое изображение', 'no_equality')
+ev_pair ('фоновая', 'no_equality')
+ev_pair ('фоновый', 'de fond')
+ev_pair ('справочный', 'référence')
+ev_pair ('второстепенный', 'no_equality')
+окружение not_in_eval_dict
+*********** происхождение ***********
+[('происхождение', 'origines')] [('происхождение', 'origine')]
+('происхождение', 'origines')
+('происхождение', 'origines') ('происхождение', 'origine')
+NO_ABS_EQ
+задний план not_in_eval_dict
+*********** фон ***********
+[('фон', 'fond')] [('фон', 'fond'), ('фон', 'arrière-plan')]
+('фон', 'fond')
+('фон', 'fond') ('фон', 'fond')
+positive_abs_eq ('фон', 'fond')
+('фон', 'fond') ('фон', 'arrière-plan')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['фон_fond']
+handled_ev_dict_pairs ['фон_fond']
+окружение фон 0.21811363588063534
+окружение предпосылка 0.3019512506341671
+окружение происхождение 0.3652661965438945
+окружение подготовка 0.13112323611875373
+окружение история 0.06686117507946322
+окружение сведения 0.22042853562585887
+окружение фоновый режим 0.28193443997937584
+окружение опыт 0.07929415252449085
+окружение справочная информация 0.08954019010701456
+окружение история вопроса 0.059314270191829714
+окружение прошлое 0.1442797555474299
+окружение образование 0.33712999884959954
+окружение корень 0.07367547503452106
+окружение исходная информация 0.20366933042354726
+окружение контекст 0.27809087800261634
+окружение общие сведения 0.2791894020026981
+окружение исток 0.16269797018053828
+окружение фоновое изображение 0.29767457281556475
+окружение фоновая 0.11574771155444435
+окружение фоновый 0.2041773870116094
+окружение справочный 0.07756350376754213
+окружение второстепенный 0.28845748661859744
+задний план фон 0.11968364448827246
+задний план предпосылка 0.09878941678433997
+задний план происхождение -0.11335369718040157
+задний план подготовка 0.14135717251691468
+задний план история -0.06271703671083027
+задний план сведения 0.07872774589741574
+задний план фоновый режим 0.1695135051114638
+задний план опыт -0.01273627812465448
+задний план справочная информация -0.018626044194577453
+задний план история вопроса -0.051729609760525035
+задний план прошлое 0.03175567773946473
+задний план образование 0.027851917958012954
+задний план корень 0.046283817083361704
+задний план исходная информация 0.025454497500818157
+задний план контекст 0.0416505795541116
+задний план общие сведения 0.017106568108916483
+задний план исток -0.04501350205441391
+задний план фоновое изображение 0.14841152709175137
+задний план фоновая 0.038664275127394225
+задний план фоновый 0.16104478097103045
+задний план справочный 0.04523974004382916
+задний план второстепенный 0.22945257275801534
+['фон_fond'] ['фон_fond']
+{'фон_fond'} 0.25
+{'фон_fond'} eval_intersect 1 all_var_ev_dict_pairs_set 28 0.03571428571428571
+****************
+
+child
+reference pair ('ребенок', 'enfant')
+ev_pair ('ребенок', 'enfant')
+ev_pair ('ребенок', 'fil')
+ev_pair ('ребенок', 'fille')
+ev_pair ('ребенок', 'bébé')
+ev_pair ('ребенок', 'petit')
+ev_pair ('ребенок', 'gosse')
+ev_pair ('ребенок', 'gamin')
+ev_pair ('дитя', 'enfant')
+ev_pair ('дитя', 'bébé')
+ev_pair ('дитя', 'petit')
+ev_pair ('детище', 'bébé')
+ev_pair ('сын', 'enfant')
+ev_pair ('сын', 'fil')
+ev_pair ('сын', 'bébé')
+ev_pair ('сын', 'petit')
+ev_pair ('сын', 'gosse')
+ev_pair ('сын', 'gamin')
+ev_pair ('потомок', 'no_equality')
+ev_pair ('чадо', 'no_equality')
+ev_pair ('детский', 'enfant')
+ev_pair ('дочерний', 'no_equality')
+ev_pair ('несовершеннолетний', 'mineur')
+*********** ребенок ***********
+[('ребенок', 'enfant')] [('ребенок', 'enfant'), ('ребенок', 'fil'), ('ребенок', 'fille'), ('ребенок', 'bébé'), ('ребенок', 'petit'), ('ребенок', 'gosse'), ('ребенок', 'gamin')]
+('ребенок', 'enfant')
+('ребенок', 'enfant') ('ребенок', 'enfant')
+positive_abs_eq ('ребенок', 'enfant')
+('ребенок', 'enfant') ('ребенок', 'fil')
+NO_ABS_EQ
+('ребенок', 'enfant') ('ребенок', 'fille')
+NO_ABS_EQ
+('ребенок', 'enfant') ('ребенок', 'bébé')
+NO_ABS_EQ
+('ребенок', 'enfant') ('ребенок', 'petit')
+NO_ABS_EQ
+('ребенок', 'enfant') ('ребенок', 'gosse')
+NO_ABS_EQ
+('ребенок', 'enfant') ('ребенок', 'gamin')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['ребенок_enfant']
+handled_ev_dict_pairs ['ребенок_enfant']
+['ребенок_enfant'] ['ребенок_enfant']
+{'ребенок_enfant'} 1.0
+{'ребенок_enfant'} eval_intersect 1 all_var_ev_dict_pairs_set 22 0.045454545454545456
+****************
+
+childhood
+reference pair ('детство', 'enfance')
+ev_pair ('детство', 'enfance')
+ev_pair ('детский', 'no_equality')
+*********** детство ***********
+[('детство', 'enfance')] [('детство', 'enfance')]
+('детство', 'enfance')
+('детство', 'enfance') ('детство', 'enfance')
+positive_abs_eq ('детство', 'enfance')
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['детство_enfance']
+handled_ev_dict_pairs ['детство_enfance']
+['детство_enfance'] ['детство_enfance']
+{'детство_enfance'} 1.0
+{'детство_enfance'} eval_intersect 1 all_var_ev_dict_pairs_set 2 0.5
+****************
+
+dependable
+reference pair ('надежный', 'fiable')
+reference pair ('надежный', 'digne de confiance')
+ev_pair ('надежный', 'fiable')
+ev_pair ('надежный', 'sûr')
+ev_pair ('зависимый', 'no_equality')
+ev_pair ('заслуживающий доверия', 'no_equality')
+ev_pair ('зависящий', 'no_equality')
+*********** надежный ***********
+[('надежный', 'fiable'), ('надежный', 'digne de confiance')] [('надежный', 'fiable'), ('надежный', 'sûr')]
+('надежный', 'fiable')
+('надежный', 'fiable') ('надежный', 'fiable')
+positive_abs_eq ('надежный', 'fiable')
+('надежный', 'fiable') ('надежный', 'sûr')
+NO_ABS_EQ
+('надежный', 'digne de confiance')
+('надежный', 'digne de confiance') ('надежный', 'fiable')
+NO_ABS_EQ
+('надежный', 'digne de confiance') ('надежный', 'sûr')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['надежный_fiable']
+handled_ev_dict_pairs ['надежный_fiable']
+['надежный_fiable'] ['надежный_fiable']
+{'надежный_fiable'} 0.5
+{'надежный_fiable'} eval_intersect 1 all_var_ev_dict_pairs_set 5 0.2
+****************
+
+grandchild
+reference pair ('внук', 'petit-fils')
+reference pair ('внучка', 'petite-fille')
+ev_pair ('внук', 'petit-fils')
+ev_pair ('внук', 'petit fils')
+*********** внук ***********
+[('внук', 'petit-fils')] [('внук', 'petit-fils'), ('внук', 'petit fils')]
+('внук', 'petit-fils')
+('внук', 'petit-fils') ('внук', 'petit-fils')
+positive_abs_eq ('внук', 'petit-fils')
+('внук', 'petit-fils') ('внук', 'petit fils')
+NO_ABS_EQ
+внучка not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['внук_petit-fils']
+handled_ev_dict_pairs ['внук_petit-fils']
+внучка внук 0.7348052349404806
+l1_word_sim worked
+('внучка', 'petite-fille') ('внук', 'petit-fils')
+no_match
+('внучка', 'petite-fille') ('внук', 'petit fils')
+no_match
+['внук_petit-fils'] ['внук_petit-fils']
+{'внук_petit-fils'} 0.5
+{'внук_petit-fils'} eval_intersect 1 all_var_ev_dict_pairs_set 2 0.5
+****************
+
+ketchup
+reference pair ('кетчуп', 'ketchup')
+ev_pair ('кетчуп', 'ketchup')
+*********** кетчуп ***********
+[('кетчуп', 'ketchup')] [('кетчуп', 'ketchup')]
+('кетчуп', 'ketchup')
+('кетчуп', 'ketchup') ('кетчуп', 'ketchup')
+positive_abs_eq ('кетчуп', 'ketchup')
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['кетчуп_ketchup']
+handled_ev_dict_pairs ['кетчуп_ketchup']
+['кетчуп_ketchup'] ['кетчуп_ketchup']
+{'кетчуп_ketchup'} 1.0
+{'кетчуп_ketchup'} eval_intersect 1 all_var_ev_dict_pairs_set 1 1.0
+****************
+
+point
+reference pair ('момент', 'moment')
+reference pair ('точка', 'point')
+reference pair ('точка', 'stade')
+reference pair ('суть, смысл', 'intérêt')
+reference pair ('идея, замечание', 'point')
+reference pair ('качество, отличительная особенность', 'point')
+reference pair ('очко, гол', 'point')
+reference pair ('кончик, острие', 'pointe')
+reference pair ('запятая (в числах)', 'virgule')
+reference pair ('показывать', 'montrer')
+reference pair ('указывать', 'indiquer')
+reference pair ('нацеливать', 'pointer')
+reference pair ('нацеливать', 'braquer')
+ev_pair ('точка', 'point')
+ev_pair ('очко', 'point')
+ev_pair ('место', 'lieu')
+ev_pair ('место', 'endroit')
+ev_pair ('вопрос', 'point')
+ev_pair ('вопрос', 'question')
+ev_pair ('вопрос', 'sujet')
+ev_pair ('пойнт', 'point')
+ev_pair ('смысл', 'point')
+ev_pair ('смысл', 'but')
+ev_pair ('смысл', 'intérêt')
+ev_pair ('смысл', 'raison')
+ev_pair ('смысл', 'sens')
+ev_pair ('этап', 'moment')
+ev_pair ('этап', 'stade')
+ev_pair ('точка зрения', 'no_equality')
+ev_pair ('указывать', 'indiquer')
+ev_pair ('дело', 'question')
+ev_pair ('дело', 'fait')
+ev_pair ('отмечать', 'no_equality')
+ev_pair ('показать', 'indiquer')
+ev_pair ('показать', 'montrer')
+ev_pair ('подчеркивать', 'no_equality')
+ev_pair ('навести', 'pointer')
+ev_pair ('точечный', 'no_equality')
+момент not_in_eval_dict
+*********** точка ***********
+[('точка', 'point'), ('точка', 'stade')] [('точка', 'point')]
+('точка', 'point')
+('точка', 'point') ('точка', 'point')
+positive_abs_eq ('точка', 'point')
+('точка', 'stade')
+('точка', 'stade') ('точка', 'point')
+NO_ABS_EQ
+суть, смысл not_in_eval_dict
+идея, замечание not_in_eval_dict
+качество, отличительная особенность not_in_eval_dict
+очко, гол not_in_eval_dict
+кончик, острие not_in_eval_dict
+запятая (в числах) not_in_eval_dict
+показывать not_in_eval_dict
+*********** указывать ***********
+[('указывать', 'indiquer')] [('указывать', 'indiquer')]
+('указывать', 'indiquer')
+('указывать', 'indiquer') ('указывать', 'indiquer')
+positive_abs_eq ('указывать', 'indiquer')
+нацеливать not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['точка_point', 'указывать_indiquer']
+handled_ev_dict_pairs ['точка_point', 'указывать_indiquer']
+момент точка 0.23403079825510828
+момент очко 0.026810600895793634
+момент место 0.1734222258073601
+момент вопрос 0.25787432343001776
+момент пойнт 0.049479934411698026
+момент смысл 0.1725089149230377
+момент этап 0.415688079555512
+момент точка зрения 0.2264654103411362
+момент указывать -0.05534983325502369
+момент дело 0.16759140993932545
+момент отмечать -0.05306857996417568
+момент показать 0.2002429089476438
+момент подчеркивать -0.10479085374242847
+момент навести -0.0631235725219643
+момент точечный -0.015080269018710589
+суть, смысл точка 0.16182616494235277
+суть, смысл очко -0.025996453067187394
+суть, смысл место -0.03542505861124043
+суть, смысл вопрос 0.1301287113094764
+суть, смысл пойнт -0.053813095313385746
+суть, смысл смысл 0.8695020864800758
+l1_word_sim worked
+('суть, смысл', 'intérêt') ('смысл', 'point')
+no_match
+('суть, смысл', 'intérêt') ('смысл', 'but')
+no_match
+('суть, смысл', 'intérêt') ('смысл', 'intérêt')
+match_found ('суть, смысл', 'intérêt')
+('суть, смысл', 'intérêt') ('смысл', 'raison')
+no_match
+('суть, смысл', 'intérêt') ('смысл', 'sens')
+no_match
+суть, смысл этап 0.07045221616242811
+суть, смысл точка зрения 0.19011683127629364
+суть, смысл указывать 0.06900863739282873
+суть, смысл дело 0.2175178752653471
+суть, смысл отмечать -0.11902651926070482
+суть, смысл показать 0.08700977526771485
+суть, смысл подчеркивать 0.08772466358915992
+суть, смысл навести 0.23349548599614725
+суть, смысл точечный 0.05148275846211907
+идея, замечание точка 0.09907459535582444
+идея, замечание очко -0.11421300007516354
+идея, замечание место -0.06684419192611987
+идея, замечание вопрос 0.37962828839761437
+идея, замечание пойнт -0.06389009169796994
+идея, замечание смысл 0.3232832070298913
+идея, замечание этап 0.202249509139196
+идея, замечание точка зрения 0.167081903737945
+идея, замечание указывать 0.024156059167762582
+идея, замечание дело 0.1476096138194675
+идея, замечание отмечать 0.047311340606545946
+идея, замечание показать 0.11854974223906722
+идея, замечание подчеркивать 0.12436737679471967
+идея, замечание навести 0.08409153130011301
+идея, замечание точечный 0.02389948619181939
+качество, отличительная особенность точка 0.10588469655413398
+качество, отличительная особенность очко -0.10410549489160921
+качество, отличительная особенность место -0.09079331142006859
+качество, отличительная особенность вопрос 0.17058835932323266
+качество, отличительная особенность пойнт -0.1486753397496645
+качество, отличительная особенность смысл 0.19059880811136587
+качество, отличительная особенность этап 0.2405517901913106
+качество, отличительная особенность точка зрения 0.14747350189081926
+качество, отличительная особенность указывать 0.07864677075712352
+качество, отличительная особенность дело -0.06698125679340412
+качество, отличительная особенность отмечать 0.13509488937772016
+качество, отличительная особенность показать 0.07274638277120885
+качество, отличительная особенность подчеркивать 0.21441392817955296
+качество, отличительная особенность навести 0.10954878894053949
+качество, отличительная особенность точечный 0.3997819599781071
+очко, гол точка 0.12335821156019063
+очко, гол очко 0.8787453113756811
+l1_word_sim worked
+('очко, гол', 'point') ('очко', 'point')
+match_found ('очко, гол', 'point')
+очко, гол место 0.1333274725568086
+очко, гол вопрос -0.11509939558559269
+очко, гол пойнт 0.3071688143773103
+очко, гол смысл 0.001723548253239603
+очко, гол этап 0.06045635431679818
+очко, гол точка зрения 0.12576149813409981
+очко, гол указывать -0.22741898612492187
+очко, гол дело -0.0548911850619959
+очко, гол отмечать -0.16715987490139894
+очко, гол показать 0.2051616732513234
+очко, гол подчеркивать -0.1543135092994592
+очко, гол навести -0.07683198350047647
+очко, гол точечный -0.05168848358552178
+кончик, острие точка 0.27328860693272133
+кончик, острие очко 0.13683074167768713
+кончик, острие место 0.05192161897214521
+кончик, острие вопрос -0.03990689949168359
+кончик, острие пойнт 0.08543177360766663
+кончик, острие смысл 0.07927725554530958
+кончик, острие этап -0.015922033541317333
+кончик, острие точка зрения 0.2747783061260052
+кончик, острие указывать -0.1295436039816327
+кончик, острие дело -0.03245780458801574
+кончик, острие отмечать -0.13586246150885017
+кончик, острие показать 0.007468321152535039
+кончик, острие подчеркивать -0.0010127394009810749
+кончик, острие навести -0.017370344773355063
+кончик, острие точечный 0.22043962523129762
+запятая (в числах) точка 0.16780496359844388
+запятая (в числах) очко 0.09996512543258905
+запятая (в числах) место 0.11612926225615797
+запятая (в числах) вопрос 0.1125583509686064
+запятая (в числах) пойнт -0.021064026776184318
+запятая (в числах) смысл 0.12768242972620014
+запятая (в числах) этап 0.057759194235369314
+запятая (в числах) точка зрения 0.15865272342957107
+запятая (в числах) указывать 0.20805186803341488
+запятая (в числах) дело -0.06239311262557192
+запятая (в числах) отмечать 0.007625528444579791
+запятая (в числах) показать 0.06885374813291872
+запятая (в числах) подчеркивать 0.02398588304777031
+запятая (в числах) навести 0.037427150801877924
+запятая (в числах) точечный 0.06207347530315356
+показывать точка -0.07146897915999614
+показывать очко -0.05904986754122569
+показывать место -0.18958334425842968
+показывать вопрос -0.02039794752143561
+показывать пойнт -0.007604416540310881
+показывать смысл -0.05226358981569865
+показывать этап -0.1260335341330459
+показывать точка зрения -0.05299245138955073
+показывать указывать 0.6434769295480264
+l1_word_sim worked
+('показывать', 'montrer') ('указывать', 'indiquer')
+no_match
+показывать дело -0.06931293798506659
+показывать отмечать 0.5840862863517428
+l1_word_sim worked
+('показывать', 'montrer') ('отмечать', 'no_equality')
+no_match
+показывать показать 0.18219186039765103
+показывать подчеркивать 0.5699748567737932
+l1_word_sim worked
+('показывать', 'montrer') ('подчеркивать', 'no_equality')
+no_match
+показывать навести 0.07809642093652402
+показывать точечный -0.022235282030248556
+нацеливать точка -0.05929747954506622
+нацеливать очко -0.09625499103908422
+нацеливать место -0.18864443562723104
+нацеливать вопрос 0.03308740342956078
+нацеливать пойнт -0.03355593945122533
+нацеливать смысл 0.02499227362755556
+нацеливать этап -0.030143808286576687
+нацеливать точка зрения -0.025249980437705023
+нацеливать указывать 0.41402490174250656
+нацеливать дело -0.0711388476568139
+нацеливать отмечать 0.41604602805222235
+нацеливать показать -0.09125259427300768
+нацеливать подчеркивать 0.5146568505493643
+l1_word_sim worked
+('нацеливать', 'pointer') ('подчеркивать', 'no_equality')
+no_match
+('нацеливать', 'braquer') ('подчеркивать', 'no_equality')
+no_match
+нацеливать навести 0.1409246013059418
+нацеливать точечный 0.08308587613628543
+['точка_point', 'указывать_indiquer', 'суть, смысл_intérêt', 'очко, гол_point'] ['точка_point', 'указывать_indiquer', 'смысл_intérêt', 'очко_point']
+{'указывать_indiquer', 'точка_point', 'очко, гол_point', 'суть, смысл_intérêt'} 0.3076923076923077
+{'смысл_intérêt', 'очко_point', 'указывать_indiquer', 'точка_point'} eval_intersect 4 all_var_ev_dict_pairs_set 25 0.16
+****************
+
+star
+reference pair ('звезда', 'étoile')
+reference pair ('звезда', 'vedette')
+reference pair ('звезда', 'star ')
+reference pair ('звезда (первый ученик)', 'meilleur')
+reference pair ('играть главную роль', 'être la vedette')
+reference pair ('играть главную роль', 'tenir le rôle principal')
+ev_pair ('звезда', 'star')
+ev_pair ('звезда', 'étoile')
+ev_pair ('звезда', 'vedette')
+ev_pair ('светило', 'astre')
+ev_pair ('кинозвезда', 'no_equality')
+ev_pair ('стар', 'star')
+ev_pair ('главные роли', 'no_equality')
+ev_pair ('дива', 'no_equality')
+ev_pair ('звездный', 'stellaire')
+ev_pair ('сниматься', 'jouer')
+ev_pair ('играть главные роли', 'jouer')
+*********** звезда ***********
+[('звезда', 'étoile'), ('звезда', 'vedette'), ('звезда', 'star ')] [('звезда', 'star'), ('звезда', 'étoile'), ('звезда', 'vedette')]
+('звезда', 'étoile')
+('звезда', 'étoile') ('звезда', 'star')
+NO_ABS_EQ
+('звезда', 'étoile') ('звезда', 'étoile')
+positive_abs_eq ('звезда', 'étoile')
+('звезда', 'étoile') ('звезда', 'vedette')
+NO_ABS_EQ
+('звезда', 'vedette')
+('звезда', 'vedette') ('звезда', 'star')
+NO_ABS_EQ
+('звезда', 'vedette') ('звезда', 'étoile')
+NO_ABS_EQ
+('звезда', 'vedette') ('звезда', 'vedette')
+positive_abs_eq ('звезда', 'vedette')
+('звезда', 'star ')
+('звезда', 'star ') ('звезда', 'star')
+positive_abs_eq ('звезда', 'star ')
+('звезда', 'star ') ('звезда', 'étoile')
+NO_ABS_EQ
+('звезда', 'star ') ('звезда', 'vedette')
+NO_ABS_EQ
+звезда (первый ученик) not_in_eval_dict
+играть главную роль not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['звезда_étoile', 'звезда_vedette', 'звезда_star ']
+handled_ev_dict_pairs ['звезда_étoile', 'звезда_vedette', 'звезда_star']
+звезда (первый ученик) звезда 0.6145184998958503
+l1_word_sim worked
+('звезда (первый ученик)', 'meilleur') ('звезда', 'star')
+no_match
+('звезда (первый ученик)', 'meilleur') ('звезда', 'étoile')
+no_match
+('звезда (первый ученик)', 'meilleur') ('звезда', 'vedette')
+no_match
+звезда (первый ученик) светило 0.26192968690395874
+звезда (первый ученик) кинозвезда 0.541662899542417
+l1_word_sim worked
+('звезда (первый ученик)', 'meilleur') ('кинозвезда', 'no_equality')
+no_match
+звезда (первый ученик) стар 0.2641785284133709
+звезда (первый ученик) главные роли 0.1415356521335596
+звезда (первый ученик) дива 0.14994011415620342
+звезда (первый ученик) звездный 0.400193512782556
+звезда (первый ученик) сниматься -0.09012326346113615
+звезда (первый ученик) играть главные роли 0.05922397927995766
+играть главную роль звезда 0.060604119962037885
+играть главную роль светило -0.10943232672993093
+играть главную роль кинозвезда 0.14732874529890636
+играть главную роль стар -0.03183579444872556
+играть главную роль главные роли 0.08253477588557187
+играть главную роль дива 0.031753523680653845
+играть главную роль звездный 0.10972953345877146
+играть главную роль сниматься 0.35247743824059236
+играть главную роль играть главные роли 0.731220299083345
+l1_word_sim worked
+('играть главную роль', 'être la vedette') ('играть главные роли', 'jouer')
+no_match
+('играть главную роль', 'tenir le rôle principal') ('играть главные роли', 'jouer')
+no_match
+['звезда_étoile', 'звезда_vedette', 'звезда_star '] ['звезда_étoile', 'звезда_vedette', 'звезда_star']
+{'звезда_étoile', 'звезда_vedette', 'звезда_star '} 0.5
+{'звезда_star', 'звезда_étoile', 'звезда_vedette'} eval_intersect 3 all_var_ev_dict_pairs_set 11 0.2727272727272727
+****************
+
+strength
+reference pair ('сила', 'force')
+reference pair ('прочность', 'solidité')
+reference pair ('мощь', 'puissance')
+ev_pair ('сила', 'force')
+ev_pair ('сила', 'intensité')
+ev_pair ('сила', 'puissance')
+ev_pair ('сила', 'pouvoir')
+ev_pair ('прочность', 'résistance')
+ev_pair ('напряженность', 'no_equality')
+ev_pair ('крепость', 'fort')
+ev_pair ('численность', 'effectif')
+ev_pair ('достоинство', 'no_equality')
+ev_pair ('мощность', 'puissance')
+ev_pair ('сильная сторона', 'fort')
+ev_pair ('усилие', 'no_equality')
+ev_pair ('силовой', 'no_equality')
+ev_pair ('прочный', 'no_equality')
+*********** сила ***********
+[('сила', 'force')] [('сила', 'force'), ('сила', 'intensité'), ('сила', 'puissance'), ('сила', 'pouvoir')]
+('сила', 'force')
+('сила', 'force') ('сила', 'force')
+positive_abs_eq ('сила', 'force')
+('сила', 'force') ('сила', 'intensité')
+NO_ABS_EQ
+('сила', 'force') ('сила', 'puissance')
+NO_ABS_EQ
+('сила', 'force') ('сила', 'pouvoir')
+NO_ABS_EQ
+*********** прочность ***********
+[('прочность', 'solidité')] [('прочность', 'résistance')]
+('прочность', 'solidité')
+('прочность', 'solidité') ('прочность', 'résistance')
+NO_ABS_EQ
+мощь not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['сила_force']
+handled_ev_dict_pairs ['сила_force']
+мощь сила 0.5283334773758908
+l1_word_sim worked
+('мощь', 'puissance') ('сила', 'force')
+no_match
+('мощь', 'puissance') ('сила', 'intensité')
+no_match
+('мощь', 'puissance') ('сила', 'puissance')
+no_match
+('мощь', 'puissance') ('сила', 'pouvoir')
+no_match
+мощь прочность 0.2870002754042512
+мощь напряженность 0.24308962698308928
+мощь крепость 0.34093987460978276
+мощь численность 0.1709595380662271
+мощь достоинство 0.27175677038279444
+мощь мощность 0.381360603049337
+мощь сильная сторона 0.11614902030423331
+мощь усилие 0.377280728971722
+мощь силовой 0.21343886167701331
+мощь прочный 0.06934211982693383
+['сила_force'] ['сила_force']
+{'сила_force'} 0.3333333333333333
+{'сила_force'} eval_intersect 1 all_var_ev_dict_pairs_set 14 0.07142857142857142
+****************
+
+coincide
+reference pair ('совпадать', 'coïncider ')
+ev_pair ('совпадать', 'coïncider')
+ev_pair ('совмещаться', 'no_equality')
+*********** совпадать ***********
+[('совпадать', 'coïncider ')] [('совпадать', 'coïncider')]
+('совпадать', 'coïncider ')
+('совпадать', 'coïncider ') ('совпадать', 'coïncider')
+positive_abs_eq ('совпадать', 'coïncider ')
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['совпадать_coïncider ']
+handled_ev_dict_pairs ['совпадать_coïncider']
+['совпадать_coïncider '] ['совпадать_coïncider']
+{'совпадать_coïncider '} 1.0
+{'совпадать_coïncider'} eval_intersect 1 all_var_ev_dict_pairs_set 2 0.5
+****************
+
+coincidental
+reference pair ('совпадающий', 'fortuit')
+ev_pair ('случайный', 'fortuit')
+ev_pair ('случайный', 'hasard')
+ev_pair ('совпадающий', 'no_equality')
+ev_pair ('случайное совпадение', 'coïncidence')
+*********** совпадающий ***********
+[('совпадающий', 'fortuit')] [('совпадающий', 'no_equality')]
+('совпадающий', 'fortuit')
+('совпадающий', 'fortuit') ('совпадающий', 'no_equality')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs []
+handled_ev_dict_pairs []
+[] []
+set() 0.0
+set() eval_intersect 0 all_var_ev_dict_pairs_set 4 0.0
+****************
+
+dance
+reference pair ('танцевать', 'danser')
+reference pair ('танец', 'danse')
+reference pair ('бал', 'bal')
+ev_pair ('танец', 'danse')
+ev_pair ('танец', 'dance')
+ev_pair ('танец', 'bal')
+ev_pair ('танец', 'danser')
+ev_pair ('бал', 'bal')
+ev_pair ('танцевальная музыка', 'no_equality')
+ev_pair ('танцевальный вечер', 'soirée')
+ev_pair ('танцевальное искусство', 'danse')
+ev_pair ('танцулька', 'no_equality')
+ev_pair ('хореография', 'chorégraphie')
+ev_pair ('танцевать', 'danser')
+ev_pair ('приплясывать', 'no_equality')
+ev_pair ('хореографический', 'no_equality')
+ev_pair ('плясовой', 'no_equality')
+*********** танцевать ***********
+[('танцевать', 'danser')] [('танцевать', 'danser')]
+('танцевать', 'danser')
+('танцевать', 'danser') ('танцевать', 'danser')
+positive_abs_eq ('танцевать', 'danser')
+*********** танец ***********
+[('танец', 'danse')] [('танец', 'danse'), ('танец', 'dance'), ('танец', 'bal'), ('танец', 'danser')]
+('танец', 'danse')
+('танец', 'danse') ('танец', 'danse')
+positive_abs_eq ('танец', 'danse')
+('танец', 'danse') ('танец', 'dance')
+NO_ABS_EQ
+('танец', 'danse') ('танец', 'bal')
+NO_ABS_EQ
+('танец', 'danse') ('танец', 'danser')
+NO_ABS_EQ
+*********** бал ***********
+[('бал', 'bal')] [('бал', 'bal')]
+('бал', 'bal')
+('бал', 'bal') ('бал', 'bal')
+positive_abs_eq ('бал', 'bal')
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['танцевать_danser', 'танец_danse', 'бал_bal']
+handled_ev_dict_pairs ['танцевать_danser', 'танец_danse', 'бал_bal']
+['танцевать_danser', 'танец_danse', 'бал_bal'] ['танцевать_danser', 'танец_danse', 'бал_bal']
+{'бал_bal', 'танцевать_danser', 'танец_danse'} 1.0
+{'бал_bal', 'танцевать_danser', 'танец_danse'} eval_intersect 3 all_var_ev_dict_pairs_set 14 0.21428571428571427
+****************
+
+countryside
+reference pair ('сельская местность', 'campagne')
+ev_pair ('сельская местность', 'campagne')
+ev_pair ('природа', 'nature')
+ev_pair ('пригород', 'banlieue')
+ev_pair ('сельские районы', 'zones rurales | les zones rurales')
+ev_pair ('загородная местность', 'pays')
+ev_pair ('загородная местность', 'région')
+ev_pair ('сельский ландшафт', 'paysage')
+ev_pair ('сельский', 'no_equality')
+*********** сельская местность ***********
+[('сельская местность', 'campagne')] [('сельская местность', 'campagne')]
+('сельская местность', 'campagne')
+('сельская местность', 'campagne') ('сельская местность', 'campagne')
+positive_abs_eq ('сельская местность', 'campagne')
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['сельская местность_campagne']
+handled_ev_dict_pairs ['сельская местность_campagne']
+['сельская местность_campagne'] ['сельская местность_campagne']
+{'сельская местность_campagne'} 1.0
+{'сельская местность_campagne'} eval_intersect 1 all_var_ev_dict_pairs_set 8 0.125
+****************
+
+break
+reference pair ('пауза', 'pause ')
+reference pair ('перерыв', 'vacances')
+reference pair ('поломка, скол', 'félure')
+reference pair ('ломать', 'briser')
+reference pair ('ломать', 'casser')
+reference pair ('игнорировать', 'désobéir à')
+reference pair ('пренебречь', 'manquer à')
+reference pair ('прерывать', 'interrompre')
+reference pair ('разразиться', 'éclater')
+ev_pair ('ломать', 'briser')
+ev_pair ('ломать', 'casser')
+ev_pair ('нарушать', 'briser')
+ev_pair ('нарушать', 'enfreindre')
+ev_pair ('нарушать', 'violer')
+ev_pair ('разбивать', 'briser')
+ev_pair ('разбивать', 'casser')
+ev_pair ('разорвать', 'briser')
+ev_pair ('разорвать', 'rompre')
+ev_pair ('разорвать', 'sortir')
+ev_pair ('прорваться', 'percer')
+ev_pair ('разрушить', 'briser')
+ev_pair ('разрушить', 'rompre')
+ev_pair ('вырваться', 'rompre')
+ev_pair ('вырваться', 'sortir')
+ev_pair ('разбиться', 'no_equality')
+ev_pair ('разразиться', 'no_equality')
+ev_pair ('пробить', 'briser')
+ev_pair ('пробить', 'percer')
+ev_pair ('преодолеть', 'sortir')
+ev_pair ('отколоться', 'no_equality')
+ev_pair ('вырывать', 'no_equality')
+ev_pair ('преломлять', 'no_equality')
+ev_pair ('перерыв', 'pause')
+ev_pair ('перерыв', 'break')
+ev_pair ('перерыв', 'interruption')
+ev_pair ('разрыв', 'rupture')
+ev_pair ('разрыв', 'fracture')
+ev_pair ('пролом', 'no_equality')
+ev_pair ('каникулы', 'vacance')
+ev_pair ('передышка', 'no_equality')
+пауза not_in_eval_dict
+*********** перерыв ***********
+[('перерыв', 'vacances')] [('перерыв', 'pause'), ('перерыв', 'break'), ('перерыв', 'interruption')]
+('перерыв', 'vacances')
+('перерыв', 'vacances') ('перерыв', 'pause')
+NO_ABS_EQ
+('перерыв', 'vacances') ('перерыв', 'break')
+NO_ABS_EQ
+('перерыв', 'vacances') ('перерыв', 'interruption')
+NO_ABS_EQ
+поломка, скол not_in_eval_dict
+*********** ломать ***********
+[('ломать', 'briser'), ('ломать', 'casser')] [('ломать', 'briser'), ('ломать', 'casser')]
+('ломать', 'briser')
+('ломать', 'briser') ('ломать', 'briser')
+positive_abs_eq ('ломать', 'briser')
+('ломать', 'briser') ('ломать', 'casser')
+NO_ABS_EQ
+('ломать', 'casser')
+('ломать', 'casser') ('ломать', 'briser')
+NO_ABS_EQ
+('ломать', 'casser') ('ломать', 'casser')
+positive_abs_eq ('ломать', 'casser')
+игнорировать not_in_eval_dict
+пренебречь not_in_eval_dict
+прерывать not_in_eval_dict
+*********** разразиться ***********
+[('разразиться', 'éclater')] [('разразиться', 'no_equality')]
+('разразиться', 'éclater')
+('разразиться', 'éclater') ('разразиться', 'no_equality')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['ломать_briser', 'ломать_casser']
+handled_ev_dict_pairs ['ломать_briser', 'ломать_casser']
+пауза ломать -0.009212024428250143
+пауза нарушать -0.01460791329801234
+пауза разбивать -0.044413543057442335
+пауза разорвать 0.09546117204332788
+пауза прорваться -0.010393790788377356
+пауза разрушить -0.018604899543205166
+пауза вырваться 0.01461096816557
+пауза разбиться 0.04989722816559994
+пауза разразиться 0.024548274759928553
+пауза пробить 0.02317808146087381
+пауза преодолеть -0.00832876984561691
+пауза отколоться 0.01188328745575978
+пауза вырывать 0.013098914585112632
+пауза преломлять -0.1023441923920684
+пауза перерыв 0.6285581723042439
+l1_word_sim worked
+('пауза', 'pause ') ('перерыв', 'pause')
+match_found ('пауза', 'pause ')
+('пауза', 'pause ') ('перерыв', 'break')
+no_match
+('пауза', 'pause ') ('перерыв', 'interruption')
+no_match
+пауза разрыв 0.1812551589082102
+пауза пролом 0.06778241157419182
+пауза каникулы 0.18810346962265673
+пауза передышка 0.6218265239751268
+l1_word_sim worked
+('пауза', 'pause ') ('передышка', 'no_equality')
+no_match
+поломка, скол ломать 0.13170891605267165
+поломка, скол нарушать 0.052223721683750605
+поломка, скол разбивать 0.18703596642484074
+поломка, скол разорвать 0.14316102315848028
+поломка, скол прорваться 0.05625785610859312
+поломка, скол разрушить 0.13812633313218625
+поломка, скол вырваться -0.09909499317140229
+поломка, скол разбиться 0.18266259194589887
+поломка, скол разразиться -0.017435012427793998
+поломка, скол пробить 0.22001635548825801
+поломка, скол преодолеть 0.0294846559737254
+поломка, скол отколоться 0.1824628980896899
+поломка, скол вырывать 0.025588840819171288
+поломка, скол преломлять -0.005723583994382065
+поломка, скол перерыв 0.17345833437513572
+поломка, скол разрыв 0.42402309256711124
+поломка, скол пролом 0.325733159738734
+поломка, скол каникулы -0.07823676130075845
+поломка, скол передышка 0.23468018466194293
+игнорировать ломать 0.4804424841912756
+игнорировать нарушать 0.6752865746813638
+l1_word_sim worked
+('игнорировать', 'désobéir à') ('нарушать', 'briser')
+no_match
+('игнорировать', 'désobéir à') ('нарушать', 'enfreindre')
+no_match
+('игнорировать', 'désobéir à') ('нарушать', 'violer')
+no_match
+игнорировать разбивать 0.5010869157062746
+l1_word_sim worked
+('игнорировать', 'désobéir à') ('разбивать', 'briser')
+no_match
+('игнорировать', 'désobéir à') ('разбивать', 'casser')
+no_match
+игнорировать разорвать 0.17333903690903316
+игнорировать прорваться 0.4837360290911033
+игнорировать разрушить 0.24412577899270646
+игнорировать вырваться 0.205189527184479
+игнорировать разбиться 0.03169687935671706
+игнорировать разразиться 0.12951462155418494
+игнорировать пробить 0.09843285029733038
+игнорировать преодолеть 0.1991774178573064
+игнорировать отколоться -0.05806173492695406
+игнорировать вырывать 0.552613527793402
+l1_word_sim worked
+('игнорировать', 'désobéir à') ('вырывать', 'no_equality')
+no_match
+игнорировать преломлять 0.5514358713049871
+l1_word_sim worked
+('игнорировать', 'désobéir à') ('преломлять', 'no_equality')
+no_match
+игнорировать перерыв -0.04685531765664897
+игнорировать разрыв 0.10787886587650526
+игнорировать пролом -0.11171725379431767
+игнорировать каникулы -0.17027424396827032
+игнорировать передышка -0.17274739598241284
+пренебречь ломать 0.1963683471595282
+пренебречь нарушать 0.36715490334290357
+пренебречь разбивать 0.1067230276902225
+пренебречь разорвать 0.03038186864572241
+пренебречь прорваться 0.11897649169740798
+пренебречь разрушить 0.16754475561578733
+пренебречь вырваться 0.05486221568358118
+пренебречь разбиться 0.1061676901160444
+пренебречь разразиться 0.13641278056067074
+пренебречь пробить -0.0028030576526974324
+пренебречь преодолеть 0.13639761130894884
+пренебречь отколоться 0.005766250301833744
+пренебречь вырывать 0.17336094448591213
+пренебречь преломлять 0.32876028344984803
+пренебречь перерыв -0.09618592966959123
+пренебречь разрыв 0.14293547873685156
+пренебречь пролом 0.07027535773617033
+пренебречь каникулы -0.22828384262230103
+пренебречь передышка -0.07819373061185284
+прерывать ломать 0.5324785226552526
+l1_word_sim worked
+('прерывать', 'interrompre') ('ломать', 'briser')
+no_match
+('прерывать', 'interrompre') ('ломать', 'casser')
+no_match
+прерывать нарушать 0.5968675842717996
+l1_word_sim worked
+('прерывать', 'interrompre') ('нарушать', 'briser')
+no_match
+('прерывать', 'interrompre') ('нарушать', 'enfreindre')
+no_match
+('прерывать', 'interrompre') ('нарушать', 'violer')
+no_match
+прерывать разбивать 0.5682327561436598
+l1_word_sim worked
+('прерывать', 'interrompre') ('разбивать', 'briser')
+no_match
+('прерывать', 'interrompre') ('разбивать', 'casser')
+no_match
+прерывать разорвать 0.3002896630734393
+прерывать прорваться 0.6546629799764192
+l1_word_sim worked
+('прерывать', 'interrompre') ('прорваться', 'percer')
+no_match
+прерывать разрушить 0.2693760861237445
+прерывать вырваться 0.2508596388565024
+прерывать разбиться 0.16887299554795154
+прерывать разразиться 0.18697025446178206
+прерывать пробить 0.231493509313776
+прерывать преодолеть 0.2685594164422275
+прерывать отколоться 0.05430203774828295
+прерывать вырывать 0.6840047859325825
+l1_word_sim worked
+('прерывать', 'interrompre') ('вырывать', 'no_equality')
+no_match
+прерывать преломлять 0.47359749496569326
+прерывать перерыв 0.3504841950534503
+прерывать разрыв 0.18345259619226945
+прерывать пролом 0.10904062508313442
+прерывать каникулы -0.038089025570266735
+прерывать передышка 0.1853978559749146
+['ломать_briser', 'ломать_casser', 'пауза_pause '] ['ломать_briser', 'ломать_casser', 'перерыв_pause']
+{'пауза_pause ', 'ломать_casser', 'ломать_briser'} 0.3333333333333333
+{'перерыв_pause', 'ломать_casser', 'ломать_briser'} eval_intersect 3 all_var_ev_dict_pairs_set 31 0.0967741935483871
+****************
+
+mother
+reference pair ('мать', 'mère')
+reference pair ('дева Мария', 'Mère')
+reference pair ('проявлять материнскую заботу', 'no_equality')
+ev_pair ('мать', 'mère')
+ev_pair ('мать', 'maman')
+ev_pair ('мамаша', 'mère')
+ev_pair ('мамаша', 'maman')
+ev_pair ('материнский', 'maternel')
+ev_pair ('родной', 'no_equality')
+ev_pair ('мамин', 'no_equality')
+*********** мать ***********
+[('мать', 'mère')] [('мать', 'mère'), ('мать', 'maman')]
+('мать', 'mère')
+('мать', 'mère') ('мать', 'mère')
+positive_abs_eq ('мать', 'mère')
+('мать', 'mère') ('мать', 'maman')
+NO_ABS_EQ
+дева Мария not_in_eval_dict
+проявлять материнскую заботу not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['мать_mère']
+handled_ev_dict_pairs ['мать_mère']
+дева Мария мать 0.3905493594858609
+дева Мария мамаша 0.3816243350137014
+дева Мария материнский 0.07982099114135392
+дева Мария родной 0.15776474352936593
+дева Мария мамин 0.1996188978701941
+проявлять материнскую заботу мать 0.3522808779590407
+проявлять материнскую заботу мамаша -0.02129841459913348
+проявлять материнскую заботу материнский 0.2014883771525767
+проявлять материнскую заботу родной 0.07767981770571462
+проявлять материнскую заботу мамин 0.07612217429828534
+['мать_mère'] ['мать_mère']
+{'мать_mère'} 0.3333333333333333
+{'мать_mère'} eval_intersect 1 all_var_ev_dict_pairs_set 7 0.14285714285714285
+****************
+
+start
+reference pair ('начинаться', 'commencer')
+reference pair ('начинаться', 'se mettre à')
+reference pair ('начинатся', 'débuter')
+reference pair ('запускать, открывать', 'lancer')
+reference pair ('приступать к', 'démarrer')
+reference pair ('запускать', '(se) mettre en marche')
+reference pair ('начало', 'début')
+reference pair ('начало', 'commencement')
+reference pair ('начало', 'départ')
+reference pair ('линия старта', 'ligne de départ')
+reference pair ('отправляться, стартовать', 'partir')
+ev_pair ('начать', 'démarrer')
+ev_pair ('начать', 'débuter')
+ev_pair ('начать', 'entamer')
+ev_pair ('начать', 'mettre')
+ev_pair ('начать', 'départ')
+ev_pair ('начать', 'lancer')
+ev_pair ('начать', 'engager')
+ev_pair ('начать', 'entreprendre')
+ev_pair ('начать', 'reprendre')
+ev_pair ('начать', 'déclencher')
+ev_pair ('запустить', 'démarrer')
+ev_pair ('запустить', 'faire')
+ev_pair ('запустить', 'mettre')
+ev_pair ('запустить', 'lancer')
+ev_pair ('запустить', 'déclencher')
+ev_pair ('вздрагивать', 'no_equality')
+ev_pair ('завести', 'démarrer')
+ev_pair ('завести', 'faire')
+ev_pair ('заняться', 'commencer')
+ev_pair ('заняться', 'faire')
+ev_pair ('заняться', 'entreprendre')
+ev_pair ('затеять', 'no_equality')
+ev_pair ('начало', 'début')
+ev_pair ('начало', 'départ')
+ev_pair ('начало', 'démarrage')
+ev_pair ('начало', 'lancement')
+ev_pair ('начало', 'commencement')
+ev_pair ('старт', 'début')
+ev_pair ('старт', 'départ')
+ev_pair ('начальный', 'no_equality')
+начинаться not_in_eval_dict
+начинатся not_in_eval_dict
+запускать, открывать not_in_eval_dict
+приступать к not_in_eval_dict
+запускать not_in_eval_dict
+*********** начало ***********
+[('начало', 'début'), ('начало', 'commencement'), ('начало', 'départ')] [('начало', 'début'), ('начало', 'départ'), ('начало', 'démarrage'), ('начало', 'lancement'), ('начало', 'commencement')]
+('начало', 'début')
+('начало', 'début') ('начало', 'début')
+positive_abs_eq ('начало', 'début')
+('начало', 'début') ('начало', 'départ')
+NO_ABS_EQ
+('начало', 'début') ('начало', 'démarrage')
+NO_ABS_EQ
+('начало', 'début') ('начало', 'lancement')
+NO_ABS_EQ
+('начало', 'début') ('начало', 'commencement')
+NO_ABS_EQ
+('начало', 'commencement')
+('начало', 'commencement') ('начало', 'début')
+NO_ABS_EQ
+('начало', 'commencement') ('начало', 'départ')
+NO_ABS_EQ
+('начало', 'commencement') ('начало', 'démarrage')
+NO_ABS_EQ
+('начало', 'commencement') ('начало', 'lancement')
+NO_ABS_EQ
+('начало', 'commencement') ('начало', 'commencement')
+positive_abs_eq ('начало', 'commencement')
+('начало', 'départ')
+('начало', 'départ') ('начало', 'début')
+NO_ABS_EQ
+('начало', 'départ') ('начало', 'départ')
+positive_abs_eq ('начало', 'départ')
+('начало', 'départ') ('начало', 'démarrage')
+NO_ABS_EQ
+('начало', 'départ') ('начало', 'lancement')
+NO_ABS_EQ
+('начало', 'départ') ('начало', 'commencement')
+NO_ABS_EQ
+линия старта not_in_eval_dict
+отправляться, стартовать not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['начало_début', 'начало_commencement', 'начало_départ']
+handled_ev_dict_pairs ['начало_début', 'начало_commencement', 'начало_départ']
+начинаться начать 0.2846872439788446
+начинаться запустить 0.30732677636335587
+начинаться вздрагивать 0.39345349611846786
+начинаться завести 0.08715441214096376
+начинаться заняться 0.1558258106128103
+начинаться затеять 0.09465636305699605
+начинаться начало 0.5025379712723141
+l1_word_sim worked
+('начинаться', 'commencer') ('начало', 'début')
+no_match
+('начинаться', 'commencer') ('начало', 'départ')
+no_match
+('начинаться', 'commencer') ('начало', 'démarrage')
+no_match
+('начинаться', 'commencer') ('начало', 'lancement')
+no_match
+('начинаться', 'commencer') ('начало', 'commencement')
+no_match
+('начинаться', 'se mettre à') ('начало', 'début')
+no_match
+('начинаться', 'se mettre à') ('начало', 'départ')
+no_match
+('начинаться', 'se mettre à') ('начало', 'démarrage')
+no_match
+('начинаться', 'se mettre à') ('начало', 'lancement')
+no_match
+('начинаться', 'se mettre à') ('начало', 'commencement')
+no_match
+начинаться старт 0.19672134815206374
+начинаться начальный 0.17347663804374125
+начинатся начать 0.09398375280029078
+начинатся запустить 0.13743824868080598
+начинатся вздрагивать -0.2033349379028243
+начинатся завести 0.08034958955016772
+начинатся заняться -0.0876173429524689
+начинатся затеять -0.05436697094940429
+начинатся начало 0.4814367493983512
+начинатся старт 0.3254156930608898
+начинатся начальный 0.18156183377973947
+запускать, открывать начать 0.044617890882558936
+запускать, открывать запустить 0.5327279556368163
+l1_word_sim worked
+('запускать, открывать', 'lancer') ('запустить', 'démarrer')
+no_match
+('запускать, открывать', 'lancer') ('запустить', 'faire')
+no_match
+('запускать, открывать', 'lancer') ('запустить', 'mettre')
+no_match
+('запускать, открывать', 'lancer') ('запустить', 'lancer')
+no_match
+('запускать, открывать', 'lancer') ('запустить', 'déclencher')
+no_match
+запускать, открывать вздрагивать 0.5164973554444283
+l1_word_sim worked
+('запускать, открывать', 'lancer') ('вздрагивать', 'no_equality')
+no_match
+запускать, открывать завести 0.10900702730582043
+запускать, открывать заняться 0.09235508544060671
+запускать, открывать затеять 0.07898292618569346
+запускать, открывать начало 0.09906764245928802
+запускать, открывать старт 0.1427896320345136
+запускать, открывать начальный -0.00589819149058405
+приступать к начать 0.283505621513993
+приступать к запустить 0.2928060480733857
+приступать к вздрагивать 0.39602286385255847
+приступать к завести 0.14390389065411652
+приступать к заняться 0.15603119664506088
+приступать к затеять 0.08148622095825825
+приступать к начало 0.27079733183335924
+приступать к старт 0.05022721014179293
+приступать к начальный 0.13836750937129239
+запускать начать 0.06151256568460329
+запускать запустить 0.6552444025417308
+l1_word_sim worked
+('запускать', '(se) mettre en marche') ('запустить', 'démarrer')
+no_match
+('запускать', '(se) mettre en marche') ('запустить', 'faire')
+no_match
+('запускать', '(se) mettre en marche') ('запустить', 'mettre')
+no_match
+('запускать', '(se) mettre en marche') ('запустить', 'lancer')
+no_match
+('запускать', '(se) mettre en marche') ('запустить', 'déclencher')
+no_match
+запускать вздрагивать 0.4376561705228834
+запускать завести -0.02444710141723083
+запускать заняться 0.049115670033195766
+запускать затеять 0.07626700878478108
+запускать начало 0.1305599622037406
+запускать старт 0.20792311121843235
+запускать начальный 0.01771190240537783
+линия старта начать 0.13467182233159225
+линия старта запустить 0.04956708722698128
+линия старта вздрагивать -0.2642258348736171
+линия старта завести -0.07293334943208708
+линия старта заняться -0.10314321476049927
+линия старта затеять -0.15591076027682793
+линия старта начало 0.03121465110429501
+линия старта старт 0.21466204622745302
+линия старта начальный 0.05286846057134954
+отправляться, стартовать начать 0.16110882243536237
+отправляться, стартовать запустить 0.37302226335013733
+отправляться, стартовать вздрагивать 0.40415575417713134
+отправляться, стартовать завести 0.11986577960261176
+отправляться, стартовать заняться 0.1984606135374745
+отправляться, стартовать затеять 0.11456202837668139
+отправляться, стартовать начало 0.13895504497475336
+отправляться, стартовать старт 0.26845570771365956
+отправляться, стартовать начальный 0.0356838601014653
+['начало_début', 'начало_commencement', 'начало_départ'] ['начало_début', 'начало_commencement', 'начало_départ']
+{'начало_début', 'начало_départ', 'начало_commencement'} 0.2727272727272727
+{'начало_début', 'начало_départ', 'начало_commencement'} eval_intersect 3 all_var_ev_dict_pairs_set 30 0.1
+****************
+
+tip
+reference pair ('совет', 'conseil')
+reference pair ('совет', 'tuyau')
+reference pair ('чаевые', 'pourboire')
+reference pair ('кончик', 'pointe')
+reference pair ('кончик', 'bout')
+reference pair ('наклоняться', 'pencher')
+reference pair ('наклоняться', 'incliner')
+reference pair ('давать чаевые', 'donner un pourboire')
+reference pair ('наливать', 'verser')
+reference pair ('предугадывать', 'pressentir')
+ev_pair ('кончик', 'bout')
+ev_pair ('чаевые', 'pourboire')
+ev_pair ('тонкий конец', 'bout')
+ev_pair ('верхушка', 'pointe')
+ev_pair ('подсказка', 'no_equality')
+ev_pair ('Совет', 'conseil')
+ev_pair ('оконечность', 'no_equality')
+ev_pair ('отзыв', 'no_equality')
+ev_pair ('полезный Совет', 'no_equality')
+ev_pair ('зонд', 'no_equality')
+ev_pair ('подачка', 'no_equality')
+ev_pair ('вершинка', 'sommet')
+ev_pair ('наклонять', 'pencher')
+ev_pair ('наклонять', 'incliner')
+ev_pair ('опрокинуться', 'no_equality')
+ev_pair ('давать чаевые', 'donner un pourboire')
+ev_pair ('на чай', 'pourboire')
+совет not_in_eval_dict
+*********** чаевые ***********
+[('чаевые', 'pourboire')] [('чаевые', 'pourboire')]
+('чаевые', 'pourboire')
+('чаевые', 'pourboire') ('чаевые', 'pourboire')
+positive_abs_eq ('чаевые', 'pourboire')
+*********** кончик ***********
+[('кончик', 'pointe'), ('кончик', 'bout')] [('кончик', 'bout')]
+('кончик', 'pointe')
+('кончик', 'pointe') ('кончик', 'bout')
+NO_ABS_EQ
+('кончик', 'bout')
+('кончик', 'bout') ('кончик', 'bout')
+positive_abs_eq ('кончик', 'bout')
+наклоняться not_in_eval_dict
+*********** давать чаевые ***********
+[('давать чаевые', 'donner un pourboire')] [('давать чаевые', 'donner un pourboire')]
+('давать чаевые', 'donner un pourboire')
+('давать чаевые', 'donner un pourboire') ('давать чаевые', 'donner un pourboire')
+positive_abs_eq ('давать чаевые', 'donner un pourboire')
+наливать not_in_eval_dict
+предугадывать not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['чаевые_pourboire', 'кончик_bout', 'давать чаевые_donner un pourboire']
+handled_ev_dict_pairs ['чаевые_pourboire', 'кончик_bout', 'давать чаевые_donner un pourboire']
+совет кончик -0.10271478657853753
+совет чаевые 0.056724987417422504
+совет тонкий конец -0.16210479396445385
+совет верхушка -0.07395875225787385
+совет подсказка 0.175800528614366
+совет Совет 0.7105871205458452
+l1_word_sim worked
+('совет', 'conseil') ('Совет', 'conseil')
+match_found ('совет', 'conseil')
+('совет', 'tuyau') ('Совет', 'conseil')
+no_match
+совет оконечность -0.1678176579555474
+совет отзыв 0.1375804760306085
+совет полезный Совет 0.1617224670005623
+совет зонд -0.036176844570910936
+совет подачка -0.03080062848573058
+совет вершинка -0.22510333827760487
+совет наклонять -0.14813114306070874
+совет опрокинуться 0.07989304663839455
+совет давать чаевые -0.04098649025100269
+совет на чай 0.021726814734099948
+наклоняться кончик 0.2505234744936036
+наклоняться чаевые -0.06394709653415302
+наклоняться тонкий конец 0.15831564823855274
+наклоняться верхушка 0.22063695761297714
+наклоняться подсказка -0.07939279130964379
+наклоняться Совет -0.2223531452231669
+наклоняться оконечность 0.07777262022032529
+наклоняться отзыв -0.11366470596079871
+наклоняться полезный Совет -0.06989906510134979
+наклоняться зонд -0.08515079885607267
+наклоняться подачка 0.141859810328798
+наклоняться вершинка 0.21099209183493794
+наклоняться наклонять 0.9066588383668148
+l1_word_sim worked
+('наклоняться', 'pencher') ('наклонять', 'pencher')
+match_found ('наклоняться', 'pencher')
+('наклоняться', 'pencher') ('наклонять', 'incliner')
+no_match
+('наклоняться', 'incliner') ('наклонять', 'pencher')
+no_match
+('наклоняться', 'incliner') ('наклонять', 'incliner')
+match_found ('наклоняться', 'incliner')
+наклоняться опрокинуться 0.16735375439710404
+наклоняться давать чаевые 0.23141868182546227
+наклоняться на чай -0.02774827762288114
+наливать кончик 0.15831523694038188
+наливать чаевые 0.05504483634252454
+наливать тонкий конец 0.06512322318462585
+наливать верхушка 0.06236527298984966
+наливать подсказка -0.0992936676946152
+наливать Совет -0.2959854275372838
+наливать оконечность -0.0975955737715859
+наливать отзыв -0.005326888319964723
+наливать полезный Совет -0.0014675311660579213
+наливать зонд -0.1448741769434682
+наливать подачка 0.27031659690571
+наливать вершинка 0.008865733703563286
+наливать наклонять 0.6166662657240004
+l1_word_sim worked
+('наливать', 'verser') ('наклонять', 'pencher')
+no_match
+('наливать', 'verser') ('наклонять', 'incliner')
+no_match
+наливать опрокинуться 0.18180905659997823
+наливать давать чаевые 0.4090786332576646
+наливать на чай 0.1343417734497814
+предугадывать кончик -0.08438568489336502
+предугадывать чаевые -0.09034045050277707
+предугадывать тонкий конец 0.02857090794530651
+предугадывать верхушка -0.12517879969901421
+предугадывать подсказка 0.08677135108031864
+предугадывать Совет -0.30234973647586955
+предугадывать оконечность -0.07728651954697464
+предугадывать отзыв -0.013528576318001155
+предугадывать полезный Совет 0.03860670626982074
+предугадывать зонд -0.22622912809799733
+предугадывать подачка -0.00038677302914733996
+предугадывать вершинка -0.034153862932724426
+предугадывать наклонять 0.4491355383197667
+предугадывать опрокинуться 0.14931942324956896
+предугадывать давать чаевые 0.2934737964019992
+предугадывать на чай -0.2273939055701318
+['чаевые_pourboire', 'кончик_bout', 'давать чаевые_donner un pourboire', 'совет_conseil', 'наклоняться_pencher', 'наклоняться_incliner'] ['чаевые_pourboire', 'кончик_bout', 'давать чаевые_donner un pourboire', 'Совет_conseil', 'наклонять_pencher', 'наклонять_incliner']
+{'давать чаевые_donner un pourboire', 'кончик_bout', 'наклоняться_pencher', 'чаевые_pourboire', 'совет_conseil', 'наклоняться_incliner'} 0.6
+{'давать чаевые_donner un pourboire', 'кончик_bout', 'Совет_conseil', 'наклонять_incliner', 'чаевые_pourboire', 'наклонять_pencher'} eval_intersect 6 all_var_ev_dict_pairs_set 17 0.35294117647058826
+****************
+
+apologise
+reference pair ('извиняться', 'excuser')
+ev_pair ('извиниться', "s'excuser")
+ev_pair ('извиниться', 'demander pardon')
+ev_pair ('извиниться', "m'excuser | t'excuser")
+ev_pair ('извиниться', 'suis désolé')
+ev_pair ('извиниться', "m'excuse | t'excuse")
+извиняться not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs []
+handled_ev_dict_pairs []
+извиняться извиниться 0.5175973159316329
+l1_word_sim worked
+('извиняться', 'excuser') ('извиниться', "s'excuser")
+no_match
+('извиняться', 'excuser') ('извиниться', 'demander pardon')
+no_match
+('извиняться', 'excuser') ('извиниться', "m'excuser | t'excuser")
+no_match
+('извиняться', 'excuser') ('извиниться', 'suis désolé')
+no_match
+('извиняться', 'excuser') ('извиниться', "m'excuse | t'excuse")
+no_match
+[] []
+set() 0.0
+set() eval_intersect 0 all_var_ev_dict_pairs_set 5 0.0
+****************
+
+curriculum
+reference pair ('расписание', 'programme ')
+ev_pair ('учебный план', 'programme')
+ev_pair ('курс обучения', 'cursus')
+ev_pair ('программа', 'programme')
+ev_pair ('куррикулум', 'no_equality')
+ev_pair ('расписание', 'programme')
+ev_pair ('содержание образования', 'no_equality')
+*********** расписание ***********
+[('расписание', 'programme ')] [('расписание', 'programme')]
+('расписание', 'programme ')
+('расписание', 'programme ') ('расписание', 'programme')
+positive_abs_eq ('расписание', 'programme ')
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['расписание_programme ']
+handled_ev_dict_pairs ['расписание_programme']
+['расписание_programme '] ['расписание_programme']
+{'расписание_programme '} 1.0
+{'расписание_programme'} eval_intersect 1 all_var_ev_dict_pairs_set 6 0.16666666666666666
+****************
+
+expertise
+reference pair ('опыт, компетенция', 'compétences')
+reference pair ('экспертиза', 'expertise')
+reference pair ('опыт, знания', 'expertise')
+reference pair ('опыт', 'savoir-faire')
+ev_pair ('экспертиза', 'no_equality')
+ev_pair ('компетентность', 'compétence')
+ev_pair ('мастерство', 'no_equality')
+ev_pair ('квалификация', 'no_equality')
+ev_pair ('опыт', 'expertise')
+ev_pair ('опыт', 'savoir-faire')
+ev_pair ('опыт', 'compétence')
+ev_pair ('опыт', 'expérience')
+ev_pair ('опыт', 'connaissances spécialisées')
+ev_pair ('экспертные знания', 'compétence')
+ev_pair ('эксперт', 'expert')
+ev_pair ('эксперт', 'spécialiste')
+ev_pair ('профессионализм', 'no_equality')
+ev_pair ('экспертный потенциал', 'expertise')
+ev_pair ('экспертный потенциал', 'savoir-faire')
+ev_pair ('экспертный потенциал', 'connaissances spécialisées')
+ev_pair ('знание дела', 'maîtrise')
+ev_pair ('деловой опыт', 'expertise')
+ev_pair ('деловой опыт', 'savoir-faire')
+ev_pair ('деловой опыт', 'compétence')
+ev_pair ('деловой опыт', 'expérience')
+ev_pair ('экспертный', 'compétence')
+опыт, компетенция not_in_eval_dict
+*********** экспертиза ***********
+[('экспертиза', 'expertise')] [('экспертиза', 'no_equality')]
+('экспертиза', 'expertise')
+('экспертиза', 'expertise') ('экспертиза', 'no_equality')
+NO_ABS_EQ
+опыт, знания not_in_eval_dict
+*********** опыт ***********
+[('опыт', 'savoir-faire')] [('опыт', 'expertise'), ('опыт', 'savoir-faire'), ('опыт', 'compétence'), ('опыт', 'expérience'), ('опыт', 'connaissances spécialisées')]
+('опыт', 'savoir-faire')
+('опыт', 'savoir-faire') ('опыт', 'expertise')
+NO_ABS_EQ
+('опыт', 'savoir-faire') ('опыт', 'savoir-faire')
+positive_abs_eq ('опыт', 'savoir-faire')
+('опыт', 'savoir-faire') ('опыт', 'compétence')
+NO_ABS_EQ
+('опыт', 'savoir-faire') ('опыт', 'expérience')
+NO_ABS_EQ
+('опыт', 'savoir-faire') ('опыт', 'connaissances spécialisées')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['опыт_savoir-faire']
+handled_ev_dict_pairs ['опыт_savoir-faire']
+опыт, компетенция экспертиза 0.357538410149777
+опыт, компетенция компетентность 0.742062511236895
+l1_word_sim worked
+('опыт, компетенция', 'compétences') ('компетентность', 'compétence')
+no_match
+опыт, компетенция мастерство 0.5327361178383072
+l1_word_sim worked
+('опыт, компетенция', 'compétences') ('мастерство', 'no_equality')
+no_match
+опыт, компетенция квалификация 0.6074046452107336
+l1_word_sim worked
+('опыт, компетенция', 'compétences') ('квалификация', 'no_equality')
+no_match
+опыт, компетенция опыт 0.8221792226688791
+l1_word_sim worked
+('опыт, компетенция', 'compétences') ('опыт', 'expertise')
+no_match
+('опыт, компетенция', 'compétences') ('опыт', 'savoir-faire')
+no_match
+('опыт, компетенция', 'compétences') ('опыт', 'compétence')
+no_match
+('опыт, компетенция', 'compétences') ('опыт', 'expérience')
+no_match
+('опыт, компетенция', 'compétences') ('опыт', 'connaissances spécialisées')
+no_match
+опыт, компетенция экспертные знания 0.6206505151273938
+l1_word_sim worked
+('опыт, компетенция', 'compétences') ('экспертные знания', 'compétence')
+no_match
+опыт, компетенция эксперт 0.4089069774007936
+опыт, компетенция профессионализм 0.6097423288668912
+l1_word_sim worked
+('опыт, компетенция', 'compétences') ('профессионализм', 'no_equality')
+no_match
+опыт, компетенция экспертный потенциал 0.6385404574433655
+l1_word_sim worked
+('опыт, компетенция', 'compétences') ('экспертный потенциал', 'expertise')
+no_match
+('опыт, компетенция', 'compétences') ('экспертный потенциал', 'savoir-faire')
+no_match
+('опыт, компетенция', 'compétences') ('экспертный потенциал', 'connaissances spécialisées')
+no_match
+опыт, компетенция знание дела 0.6357819601372716
+l1_word_sim worked
+('опыт, компетенция', 'compétences') ('знание дела', 'maîtrise')
+no_match
+опыт, компетенция деловой опыт 0.7374452802048183
+l1_word_sim worked
+('опыт, компетенция', 'compétences') ('деловой опыт', 'expertise')
+no_match
+('опыт, компетенция', 'compétences') ('деловой опыт', 'savoir-faire')
+no_match
+('опыт, компетенция', 'compétences') ('деловой опыт', 'compétence')
+no_match
+('опыт, компетенция', 'compétences') ('деловой опыт', 'expérience')
+no_match
+опыт, компетенция экспертный 0.46604305507738564
+опыт, знания экспертиза 0.22757975932909352
+опыт, знания компетентность 0.4597423989090793
+опыт, знания мастерство 0.4551466393067915
+опыт, знания квалификация 0.4184920987672419
+опыт, знания опыт 0.962367607245395
+l1_word_sim worked
+('опыт, знания', 'expertise') ('опыт', 'expertise')
+match_found ('опыт, знания', 'expertise')
+('опыт, знания', 'expertise') ('опыт', 'savoir-faire')
+no_match
+('опыт, знания', 'expertise') ('опыт', 'compétence')
+no_match
+('опыт, знания', 'expertise') ('опыт', 'expérience')
+no_match
+('опыт, знания', 'expertise') ('опыт', 'connaissances spécialisées')
+no_match
+опыт, знания экспертные знания 0.6274392764137284
+l1_word_sim worked
+('опыт, знания', 'expertise') ('экспертные знания', 'compétence')
+no_match
+опыт, знания эксперт 0.31143772267592684
+опыт, знания профессионализм 0.49704827216175357
+опыт, знания экспертный потенциал 0.450354236018531
+опыт, знания знание дела 0.6156551369036019
+l1_word_sim worked
+('опыт, знания', 'expertise') ('знание дела', 'maîtrise')
+no_match
+опыт, знания деловой опыт 0.7757963297468956
+l1_word_sim worked
+('опыт, знания', 'expertise') ('деловой опыт', 'expertise')
+match_found ('опыт, знания', 'expertise')
+('опыт, знания', 'expertise') ('деловой опыт', 'savoir-faire')
+no_match
+('опыт, знания', 'expertise') ('деловой опыт', 'compétence')
+no_match
+('опыт, знания', 'expertise') ('деловой опыт', 'expérience')
+no_match
+опыт, знания экспертный 0.27508511914701234
+['опыт_savoir-faire', 'опыт, знания_expertise', 'опыт, знания_expertise'] ['опыт_savoir-faire', 'опыт_expertise', 'деловой опыт_expertise']
+{'опыт, знания_expertise', 'опыт_savoir-faire'} 0.5
+{'опыт_expertise', 'деловой опыт_expertise', 'опыт_savoir-faire'} eval_intersect 3 all_var_ev_dict_pairs_set 22 0.13636363636363635
+****************
+
+peremptory
+reference pair ('безапеляционный', 'péremptoire')
+ev_pair ('императивный', 'impératif')
+ev_pair ('безапелляционный', 'no_equality')
+безапеляционный not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs []
+handled_ev_dict_pairs []
+безапеляционный императивный 0.5846423246222202
+l1_word_sim worked
+('безапеляционный', 'péremptoire') ('императивный', 'impératif')
+no_match
+безапеляционный безапелляционный 0.8710615682777011
+l1_word_sim worked
+('безапеляционный', 'péremptoire') ('безапелляционный', 'no_equality')
+no_match
+[] []
+set() 0.0
+set() eval_intersect 0 all_var_ev_dict_pairs_set 2 0.0
+****************
+
+parent
+reference pair ('родитель', 'parent')
+ev_pair ('родитель', 'parent')
+ev_pair ('родитель', 'père')
+ev_pair ('предок', 'no_equality')
+ev_pair ('отец', 'parent')
+ev_pair ('отец', 'père')
+ev_pair ('родительский элемент', 'parental')
+ev_pair ('родительница', 'no_equality')
+ev_pair ('родительский', 'parental')
+ev_pair ('исходный', 'no_equality')
+ev_pair ('вышестоящий', 'no_equality')
+ev_pair ('один из родителей', 'no_equality')
+*********** родитель ***********
+[('родитель', 'parent')] [('родитель', 'parent'), ('родитель', 'père')]
+('родитель', 'parent')
+('родитель', 'parent') ('родитель', 'parent')
+positive_abs_eq ('родитель', 'parent')
+('родитель', 'parent') ('родитель', 'père')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['родитель_parent']
+handled_ev_dict_pairs ['родитель_parent']
+['родитель_parent'] ['родитель_parent']
+{'родитель_parent'} 1.0
+{'родитель_parent'} eval_intersect 1 all_var_ev_dict_pairs_set 11 0.09090909090909091
+****************
+
+member
+reference pair ('член, участник', 'membre')
+reference pair ('депутат, член парламента', 'député')
+ev_pair ('член', 'membre')
+ev_pair ('член', 'député')
+ev_pair ('представитель', 'membre')
+ev_pair ('элемент', 'élément')
+ev_pair ('депутат', 'député')
+ev_pair ('член организации', 'membre')
+ev_pair ('членский', 'membre')
+член, участник not_in_eval_dict
+депутат, член парламента not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs []
+handled_ev_dict_pairs []
+член, участник член 0.8544575303664802
+l1_word_sim worked
+('член, участник', 'membre') ('член', 'membre')
+match_found ('член, участник', 'membre')
+('член, участник', 'membre') ('член', 'député')
+no_match
+член, участник представитель 0.594552231263789
+l1_word_sim worked
+('член, участник', 'membre') ('представитель', 'membre')
+no_match
+член, участник элемент 0.045081660258404196
+член, участник депутат 0.4384033933064823
+член, участник член организации 0.8754732122093071
+l1_word_sim worked
+('член, участник', 'membre') ('член организации', 'membre')
+match_found ('член, участник', 'membre')
+член, участник членский 0.6271089659398166
+l1_word_sim worked
+('член, участник', 'membre') ('членский', 'membre')
+match_found ('член, участник', 'membre')
+депутат, член парламента член 0.81035016858563
+l1_word_sim worked
+('депутат, член парламента', 'député') ('член', 'membre')
+no_match
+('депутат, член парламента', 'député') ('член', 'député')
+match_found ('депутат, член парламента', 'député')
+депутат, член парламента представитель 0.5793910680909387
+l1_word_sim worked
+('депутат, член парламента', 'député') ('представитель', 'membre')
+no_match
+депутат, член парламента элемент -0.027268623033235434
+депутат, член парламента депутат 0.861295823312679
+l1_word_sim worked
+('депутат, член парламента', 'député') ('депутат', 'député')
+match_found ('депутат, член парламента', 'député')
+депутат, член парламента член организации 0.8157986680759168
+l1_word_sim worked
+('депутат, член парламента', 'député') ('член организации', 'membre')
+no_match
+депутат, член парламента членский 0.5820424593516705
+l1_word_sim worked
+('депутат, член парламента', 'député') ('членский', 'membre')
+no_match
+['член, участник_membre', 'член, участник_membre', 'член, участник_membre', 'депутат, член парламента_député', 'депутат, член парламента_député'] ['член_membre', 'член организации_membre', 'членский_membre', 'член_député', 'депутат_député']
+{'член, участник_membre', 'депутат, член парламента_député'} 1.0
+{'член организации_membre', 'членский_membre', 'депутат_député', 'член_membre', 'член_député'} eval_intersect 5 all_var_ev_dict_pairs_set 7 0.7142857142857143
+****************
+
+band
+reference pair ('музыкальная группа', 'groupe')
+reference pair ('музыкальная группа', 'orchestre')
+reference pair ('браслет', 'brassard')
+reference pair ('повязка', 'col')
+reference pair ('пояс', 'ceinture')
+reference pair ('лента', 'bande')
+reference pair ('банда', 'bande')
+reference pair ('группа', 'groupe')
+reference pair ('объединяться', 'se liguer')
+ev_pair ('банда', 'bande')
+ev_pair ('банда', 'groupe')
+ev_pair ('лента', 'ruban')
+ev_pair ('оркестр', 'groupe')
+ev_pair ('оркестр', 'orchestre')
+ev_pair ('оркестр', 'fanfare')
+ev_pair ('отряд', 'groupe')
+ev_pair ('отряд', 'troupe')
+ev_pair ('узы', 'no_equality')
+ev_pair ('повязка', 'bandeau')
+ev_pair ('диапазон', 'fourchette')
+ev_pair ('зона', 'no_equality')
+ev_pair ('музыкальная группа', 'groupe')
+ev_pair ('музыкальная группа', 'orchestre')
+ev_pair ('ленточный', 'no_equality')
+ev_pair ('диапазонный', 'no_equality')
+ev_pair ('ленточнопильный', 'no_equality')
+ev_pair ('Band', 'no_equality')
+*********** музыкальная группа ***********
+[('музыкальная группа', 'groupe'), ('музыкальная группа', 'orchestre')] [('музыкальная группа', 'groupe'), ('музыкальная группа', 'orchestre')]
+('музыкальная группа', 'groupe')
+('музыкальная группа', 'groupe') ('музыкальная группа', 'groupe')
+positive_abs_eq ('музыкальная группа', 'groupe')
+('музыкальная группа', 'groupe') ('музыкальная группа', 'orchestre')
+NO_ABS_EQ
+('музыкальная группа', 'orchestre')
+('музыкальная группа', 'orchestre') ('музыкальная группа', 'groupe')
+NO_ABS_EQ
+('музыкальная группа', 'orchestre') ('музыкальная группа', 'orchestre')
+positive_abs_eq ('музыкальная группа', 'orchestre')
+браслет not_in_eval_dict
+*********** повязка ***********
+[('повязка', 'col')] [('повязка', 'bandeau')]
+('повязка', 'col')
+('повязка', 'col') ('повязка', 'bandeau')
+NO_ABS_EQ
+пояс not_in_eval_dict
+*********** лента ***********
+[('лента', 'bande')] [('лента', 'ruban')]
+('лента', 'bande')
+('лента', 'bande') ('лента', 'ruban')
+NO_ABS_EQ
+*********** банда ***********
+[('банда', 'bande')] [('банда', 'bande'), ('банда', 'groupe')]
+('банда', 'bande')
+('банда', 'bande') ('банда', 'bande')
+positive_abs_eq ('банда', 'bande')
+('банда', 'bande') ('банда', 'groupe')
+NO_ABS_EQ
+группа not_in_eval_dict
+объединяться not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['музыкальная группа_groupe', 'музыкальная группа_orchestre', 'банда_bande']
+handled_ev_dict_pairs ['музыкальная группа_groupe', 'музыкальная группа_orchestre', 'банда_bande']
+браслет банда 0.10780654255760991
+браслет лента 0.38032181971461304
+браслет оркестр -0.000795793561562173
+браслет отряд 0.06099016125184884
+браслет узы 0.11279941347803583
+браслет повязка 0.3773087173786073
+браслет диапазон 0.04266256188298542
+браслет зона 0.030941104564734888
+браслет музыкальная группа 0.05249828843425522
+браслет ленточный 0.09402682912835625
+браслет диапазонный 0.018146622139935484
+браслет ленточнопильный 0.09298088573169955
+браслет Band -0.10414422184889392
+пояс банда 0.11026025216776995
+пояс лента 0.35217814275182974
+пояс оркестр -0.009320214748523344
+пояс отряд 0.09874213705154325
+пояс узы 0.07453986578019556
+пояс повязка 0.4642489243765921
+пояс диапазон 0.21580418124005732
+пояс зона 0.34023030972105783
+пояс музыкальная группа -0.0296947305218739
+пояс ленточный 0.1050551948709568
+пояс диапазонный 0.08686575581469369
+пояс ленточнопильный 0.06385915361885684
+пояс Band -0.08392077272444487
+группа банда 0.37927223891813916
+группа лента 0.05015966997511971
+группа оркестр 0.2715265268049201
+группа отряд 0.5037888403044598
+l1_word_sim worked
+('группа', 'groupe') ('отряд', 'groupe')
+no_match
+('группа', 'groupe') ('отряд', 'troupe')
+no_match
+группа узы 0.006023053542741517
+группа повязка -0.05586198568376696
+группа диапазон 0.18941315342911288
+группа зона 0.2915800928748663
+группа музыкальная группа 0.9639190136760943
+l1_word_sim worked
+('группа', 'groupe') ('музыкальная группа', 'groupe')
+match_found ('группа', 'groupe')
+('группа', 'groupe') ('музыкальная группа', 'orchestre')
+no_match
+группа ленточный 0.021710388876454288
+группа диапазонный 0.11634141346656271
+группа ленточнопильный 0.03452916252032946
+группа Band -0.004961849088765607
+объединяться банда -0.021465369269816705
+объединяться лента -0.19844166121380802
+объединяться оркестр -0.0024897278475513
+объединяться отряд 0.03311587538709455
+объединяться узы 0.0680282752301758
+объединяться повязка -0.24613730769980507
+объединяться диапазон -0.12285281405368174
+объединяться зона -0.04870677158243419
+объединяться музыкальная группа 0.1463571297953872
+объединяться ленточный -0.005481418154546965
+объединяться диапазонный 0.02802557615086992
+объединяться ленточнопильный 0.016566561227885843
+объединяться Band 0.05406844932604202
+['музыкальная группа_groupe', 'музыкальная группа_orchestre', 'банда_bande', 'группа_groupe'] ['музыкальная группа_groupe', 'музыкальная группа_orchestre', 'банда_bande', 'музыкальная группа_groupe']
+{'музыкальная группа_orchestre', 'группа_groupe', 'музыкальная группа_groupe', 'банда_bande'} 0.4444444444444444
+{'музыкальная группа_orchestre', 'музыкальная группа_groupe', 'банда_bande'} eval_intersect 3 all_var_ev_dict_pairs_set 18 0.16666666666666666
+****************
+
+hot
+reference pair ('горячий', 'chaud')
+reference pair ('острый', 'épicé')
+reference pair ('привлекательный', 'recherché')
+reference pair ('горячий (напр., о теме, новости)', 'brûlant')
+reference pair ('сексуальный', 'sexy')
+reference pair ('свежий', 'frais')
+ev_pair ('горячий', 'chaud | à chaud')
+ev_pair ('горячий', 'sexy')
+ev_pair ('острый', 'épicé')
+ev_pair ('популярный', 'no_equality')
+ev_pair ('жгучий', 'brûlant')
+ev_pair ('горячительный', 'no_equality')
+ev_pair ('жарко', 'chaleur')
+ev_pair ('горячо', 'no_equality')
+ev_pair ('разгоряченный', 'no_equality')
+ev_pair ('горящий', 'no_equality')
+ev_pair ('накалиться', 'no_equality')
+*********** горячий ***********
+[('горячий', 'chaud')] [('горячий', 'chaud | à chaud'), ('горячий', 'sexy')]
+('горячий', 'chaud')
+('горячий', 'chaud') ('горячий', 'chaud | à chaud')
+positive_abs_eq ('горячий', 'chaud')
+('горячий', 'chaud') ('горячий', 'sexy')
+NO_ABS_EQ
+*********** острый ***********
+[('острый', 'épicé')] [('острый', 'épicé')]
+('острый', 'épicé')
+('острый', 'épicé') ('острый', 'épicé')
+positive_abs_eq ('острый', 'épicé')
+привлекательный not_in_eval_dict
+горячий (напр., о теме, новости) not_in_eval_dict
+сексуальный not_in_eval_dict
+свежий not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['горячий_chaud', 'острый_épicé']
+handled_ev_dict_pairs ['горячий_chaud | à chaud', 'острый_épicé']
+привлекательный горячий 0.13292442122874837
+привлекательный острый 0.3063564089593089
+привлекательный популярный 0.6209864016603586
+l1_word_sim worked
+('привлекательный', 'recherché') ('популярный', 'no_equality')
+no_match
+привлекательный жгучий 0.18016365056199024
+привлекательный горячительный 0.5042841196471983
+l1_word_sim worked
+('привлекательный', 'recherché') ('горячительный', 'no_equality')
+no_match
+привлекательный жарко -0.0037244752664622083
+привлекательный горячо -0.17678609335056977
+привлекательный разгоряченный -0.04636330839561941
+привлекательный горящий 0.17891783251029722
+привлекательный накалиться -0.2081773965781432
+горячий (напр., о теме, новости) горячий 0.678649328828893
+l1_word_sim worked
+('горячий (напр., о теме, новости)', 'brûlant') ('горячий', 'chaud | à chaud')
+no_match
+('горячий (напр., о теме, новости)', 'brûlant') ('горячий', 'sexy')
+no_match
+горячий (напр., о теме, новости) острый 0.33409922072580284
+горячий (напр., о теме, новости) популярный 0.1634513643750809
+горячий (напр., о теме, новости) жгучий 0.34517218347031225
+горячий (напр., о теме, новости) горячительный 0.46235958430961577
+горячий (напр., о теме, новости) жарко 0.21185423023023875
+горячий (напр., о теме, новости) горячо 0.21510798200814132
+горячий (напр., о теме, новости) разгоряченный 0.2415820620190126
+горячий (напр., о теме, новости) горящий 0.41039784304071963
+горячий (напр., о теме, новости) накалиться 0.08254782839421558
+сексуальный горячий 0.09421885094270795
+сексуальный острый 0.3195053703121848
+сексуальный популярный 0.26532260209667985
+сексуальный жгучий 0.2692882562353198
+сексуальный горячительный 0.44716494280546126
+сексуальный жарко -0.045033804315211125
+сексуальный горячо -0.09153509229145845
+сексуальный разгоряченный 0.016666023007019033
+сексуальный горящий 0.07565166725944635
+сексуальный накалиться -0.060812656202455316
+свежий горячий 0.41507995299869965
+свежий острый 0.25360804314330443
+свежий популярный 0.27336103934322964
+свежий жгучий 0.3092395804794386
+свежий горячительный 0.2689855815463373
+свежий жарко 0.22945789352710078
+свежий горячо 0.15690271708762224
+свежий разгоряченный 0.22887105701906751
+свежий горящий 0.30298028844608893
+свежий накалиться 0.027471491959316165
+['горячий_chaud', 'острый_épicé'] ['горячий_chaud | à chaud', 'острый_épicé']
+{'горячий_chaud', 'острый_épicé'} 0.3333333333333333
+{'горячий_chaud | à chaud', 'острый_épicé'} eval_intersect 2 all_var_ev_dict_pairs_set 11 0.18181818181818182
+****************
+
+fly
+reference pair ('летать', 'voler')
+reference pair ('летать на самолете', 'voyager par avion')
+reference pair ('летать на самолете', 'voyager en avion')
+reference pair ('пилотировать', 'piloter')
+reference pair ('муха', 'mouche')
+reference pair ('ширинка', 'braguette')
+reference pair ('проходить ', 'filer')
+reference pair ('ринуться', 'se ruer')
+ev_pair ('летать', 'voler')
+ev_pair ('летать', 'piloter')
+ev_pair ('летать', 'vol')
+ev_pair ('вылететь', "s'envoler")
+ev_pair ('вылететь', 'décoller')
+ev_pair ('влететь', 'no_equality')
+ev_pair ('подлететь', 'no_equality')
+ev_pair ('отлететь', 'no_equality')
+ev_pair ('слетаться', 'no_equality')
+ev_pair ('муха', 'mouche')
+ev_pair ('полет', 'voler')
+ev_pair ('полет', 'vol')
+*********** летать ***********
+[('летать', 'voler')] [('летать', 'voler'), ('летать', 'piloter'), ('летать', 'vol')]
+('летать', 'voler')
+('летать', 'voler') ('летать', 'voler')
+positive_abs_eq ('летать', 'voler')
+('летать', 'voler') ('летать', 'piloter')
+NO_ABS_EQ
+('летать', 'voler') ('летать', 'vol')
+NO_ABS_EQ
+летать на самолете not_in_eval_dict
+пилотировать not_in_eval_dict
+*********** муха ***********
+[('муха', 'mouche')] [('муха', 'mouche')]
+('муха', 'mouche')
+('муха', 'mouche') ('муха', 'mouche')
+positive_abs_eq ('муха', 'mouche')
+ширинка not_in_eval_dict
+проходить  not_in_eval_dict
+ринуться not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['летать_voler', 'муха_mouche']
+handled_ev_dict_pairs ['летать_voler', 'муха_mouche']
+летать на самолете летать 0.8634678295558645
+l1_word_sim worked
+('летать на самолете', 'voyager par avion') ('летать', 'voler')
+no_match
+('летать на самолете', 'voyager par avion') ('летать', 'piloter')
+no_match
+('летать на самолете', 'voyager par avion') ('летать', 'vol')
+no_match
+('летать на самолете', 'voyager en avion') ('летать', 'voler')
+no_match
+('летать на самолете', 'voyager en avion') ('летать', 'piloter')
+no_match
+('летать на самолете', 'voyager en avion') ('летать', 'vol')
+no_match
+летать на самолете вылететь 0.5665927110841723
+l1_word_sim worked
+('летать на самолете', 'voyager par avion') ('вылететь', "s'envoler")
+no_match
+('летать на самолете', 'voyager par avion') ('вылететь', 'décoller')
+no_match
+('летать на самолете', 'voyager en avion') ('вылететь', "s'envoler")
+no_match
+('летать на самолете', 'voyager en avion') ('вылететь', 'décoller')
+no_match
+летать на самолете влететь 0.5207511380987041
+l1_word_sim worked
+('летать на самолете', 'voyager par avion') ('влететь', 'no_equality')
+no_match
+('летать на самолете', 'voyager en avion') ('влететь', 'no_equality')
+no_match
+летать на самолете подлететь 0.49143599395135207
+летать на самолете отлететь 0.5592636786755282
+l1_word_sim worked
+('летать на самолете', 'voyager par avion') ('отлететь', 'no_equality')
+no_match
+('летать на самолете', 'voyager en avion') ('отлететь', 'no_equality')
+no_match
+летать на самолете слетаться 0.7088369975230189
+l1_word_sim worked
+('летать на самолете', 'voyager par avion') ('слетаться', 'no_equality')
+no_match
+('летать на самолете', 'voyager en avion') ('слетаться', 'no_equality')
+no_match
+летать на самолете муха 0.4101785749066858
+летать на самолете полет 0.38126995856154217
+пилотировать летать 0.5223594746919629
+l1_word_sim worked
+('пилотировать', 'piloter') ('летать', 'voler')
+no_match
+('пилотировать', 'piloter') ('летать', 'piloter')
+no_match
+('пилотировать', 'piloter') ('летать', 'vol')
+no_match
+пилотировать вылететь 0.18629826381255546
+пилотировать влететь 0.15509116916686824
+пилотировать подлететь 0.20606099897314098
+пилотировать отлететь 0.12173009106418893
+пилотировать слетаться 0.3283204570946148
+пилотировать муха -0.1881692319450587
+пилотировать полет 0.34497781294656027
+ширинка летать 0.010828383103857262
+ширинка вылететь 0.04558702377092524
+ширинка влететь 0.05436357174824768
+ширинка подлететь 0.010195780921978948
+ширинка отлететь 0.03799294651606775
+ширинка слетаться 0.011882615368037964
+ширинка муха 0.12252145698694045
+ширинка полет 0.08363842189848744
+проходить  летать 0.4410117739865501
+проходить  вылететь 0.3664508122006481
+проходить  влететь 0.322697960963136
+проходить  подлететь 0.27058142304587635
+проходить  отлететь 0.33262192976713767
+проходить  слетаться 0.5228552987592833
+l1_word_sim worked
+('проходить ', 'filer') ('слетаться', 'no_equality')
+no_match
+проходить  муха -0.11679160460339115
+проходить  полет -0.007245665242357406
+ринуться летать 0.6038944726497385
+l1_word_sim worked
+('ринуться', 'se ruer') ('летать', 'voler')
+no_match
+('ринуться', 'se ruer') ('летать', 'piloter')
+no_match
+('ринуться', 'se ruer') ('летать', 'vol')
+no_match
+ринуться вылететь 0.5518979767978177
+l1_word_sim worked
+('ринуться', 'se ruer') ('вылететь', "s'envoler")
+no_match
+('ринуться', 'se ruer') ('вылететь', 'décoller')
+no_match
+ринуться влететь 0.5831192125544286
+l1_word_sim worked
+('ринуться', 'se ruer') ('влететь', 'no_equality')
+no_match
+ринуться подлететь 0.454086587615268
+ринуться отлететь 0.5551310603228534
+l1_word_sim worked
+('ринуться', 'se ruer') ('отлететь', 'no_equality')
+no_match
+ринуться слетаться 0.7573485788799479
+l1_word_sim worked
+('ринуться', 'se ruer') ('слетаться', 'no_equality')
+no_match
+ринуться муха 0.1720452977799806
+ринуться полет 0.062069727022974405
+['летать_voler', 'муха_mouche'] ['летать_voler', 'муха_mouche']
+{'летать_voler', 'муха_mouche'} 0.25
+{'летать_voler', 'муха_mouche'} eval_intersect 2 all_var_ev_dict_pairs_set 12 0.16666666666666666
+****************
+
+school
+reference pair ('школа', 'école')
+reference pair ('факультет', 'département')
+reference pair ('институт', 'institut')
+reference pair ('косяк, стая', 'banc')
+reference pair ('учиться', 'apprendre à')
+ev_pair ('школа', 'école')
+ev_pair ('школа', 'lycée')
+ev_pair ('школа', 'collège')
+ev_pair ('школа', 'faculté')
+ev_pair ('школа', 'cour')
+ev_pair ('школа', 'school')
+ev_pair ('колледж', 'école')
+ev_pair ('колледж', 'lycée')
+ev_pair ('колледж', 'collège')
+ev_pair ('колледж', 'fac')
+ev_pair ('колледж', 'étude')
+ev_pair ('колледж', 'université')
+ev_pair ('класс', 'cour')
+ev_pair ('учебное заведение', 'école')
+ev_pair ('учебное заведение', 'université')
+ev_pair ('учебное заведение', 'établissement scolaire')
+ev_pair ('учебное заведение', 'académie')
+ev_pair ('факультет', 'faculté')
+ev_pair ('учеба', 'étude')
+ev_pair ('занятия в школе', 'école')
+ev_pair ('занятия в школе', 'cour')
+ev_pair ('школьный', 'scolaire')
+*********** школа ***********
+[('школа', 'école')] [('школа', 'école'), ('школа', 'lycée'), ('школа', 'collège'), ('школа', 'faculté'), ('школа', 'cour'), ('школа', 'school')]
+('школа', 'école')
+('школа', 'école') ('школа', 'école')
+positive_abs_eq ('школа', 'école')
+('школа', 'école') ('школа', 'lycée')
+NO_ABS_EQ
+('школа', 'école') ('школа', 'collège')
+NO_ABS_EQ
+('школа', 'école') ('школа', 'faculté')
+NO_ABS_EQ
+('школа', 'école') ('школа', 'cour')
+NO_ABS_EQ
+('школа', 'école') ('школа', 'school')
+NO_ABS_EQ
+*********** факультет ***********
+[('факультет', 'département')] [('факультет', 'faculté')]
+('факультет', 'département')
+('факультет', 'département') ('факультет', 'faculté')
+NO_ABS_EQ
+институт not_in_eval_dict
+косяк, стая not_in_eval_dict
+учиться not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['школа_école']
+handled_ev_dict_pairs ['школа_école']
+институт школа 0.4911647925969064
+институт колледж 0.6643857634563652
+l1_word_sim worked
+('институт', 'institut') ('колледж', 'école')
+no_match
+('институт', 'institut') ('колледж', 'lycée')
+no_match
+('институт', 'institut') ('колледж', 'collège')
+no_match
+('институт', 'institut') ('колледж', 'fac')
+no_match
+('институт', 'institut') ('колледж', 'étude')
+no_match
+('институт', 'institut') ('колледж', 'université')
+no_match
+институт класс 0.16917845544195165
+институт учебное заведение 0.39317681607888033
+институт факультет 0.7393679292036489
+l1_word_sim worked
+('институт', 'institut') ('факультет', 'faculté')
+no_match
+институт учеба 0.2898539690086893
+институт занятия в школе 0.053442375739179544
+институт школьный 0.22857957843073243
+косяк, стая школа -0.08913170776957355
+косяк, стая колледж -0.1442828031325131
+косяк, стая класс -0.047487417024958914
+косяк, стая учебное заведение -0.25722601490829733
+косяк, стая факультет -0.17923729647882097
+косяк, стая учеба -0.09058558123844479
+косяк, стая занятия в школе -0.10096021084128352
+косяк, стая школьный -0.24729215776932803
+учиться школа 0.36700615418472643
+учиться колледж 0.2348863810448814
+учиться класс 0.16388654559992485
+учиться учебное заведение 0.08492091962529515
+учиться факультет 0.19001747615728729
+учиться учеба 0.5302766187748956
+l1_word_sim worked
+('учиться', 'apprendre à') ('учеба', 'étude')
+no_match
+учиться занятия в школе 0.20160656713782096
+учиться школьный 0.28382089528787113
+['школа_école'] ['школа_école']
+{'школа_école'} 0.2
+{'школа_école'} eval_intersect 1 all_var_ev_dict_pairs_set 22 0.045454545454545456
+****************
+
+cafe
+reference pair ('кафе', 'bistrot')
+reference pair ('кафе', 'café')
+ev_pair ('кофейня', 'café')
+ev_pair ('буфет', 'no_equality')
+ev_pair ('кафе-ресторан', 'café')
+ev_pair ('кафе-ресторан', 'cafétéria')
+ev_pair ('кафе-ресторан', 'bar')
+кафе not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs []
+handled_ev_dict_pairs []
+кафе кофейня 0.7499513438238239
+l1_word_sim worked
+('кафе', 'bistrot') ('кофейня', 'café')
+no_match
+('кафе', 'café') ('кофейня', 'café')
+match_found ('кафе', 'café')
+кафе буфет 0.6330240510234816
+l1_word_sim worked
+('кафе', 'bistrot') ('буфет', 'no_equality')
+no_match
+('кафе', 'café') ('буфет', 'no_equality')
+no_match
+кафе кафе-ресторан 0.81775448768362
+l1_word_sim worked
+('кафе', 'bistrot') ('кафе-ресторан', 'café')
+no_match
+('кафе', 'bistrot') ('кафе-ресторан', 'cafétéria')
+no_match
+('кафе', 'bistrot') ('кафе-ресторан', 'bar')
+no_match
+('кафе', 'café') ('кафе-ресторан', 'café')
+match_found ('кафе', 'café')
+('кафе', 'café') ('кафе-ресторан', 'cafétéria')
+no_match
+('кафе', 'café') ('кафе-ресторан', 'bar')
+no_match
+['кафе_café', 'кафе_café'] ['кофейня_café', 'кафе-ресторан_café']
+{'кафе_café'} 0.5
+{'кафе-ресторан_café', 'кофейня_café'} eval_intersect 2 all_var_ev_dict_pairs_set 5 0.4
+****************
+
+international
+reference pair ('международный', 'international')
+reference pair ('интернациональный', 'international')
+ev_pair ('международный', 'international')
+ev_pair ('международный', 'mondial')
+ev_pair ('Интернационал', 'no_equality')
+*********** международный ***********
+[('международный', 'international')] [('международный', 'international'), ('международный', 'mondial')]
+('международный', 'international')
+('международный', 'international') ('международный', 'international')
+positive_abs_eq ('международный', 'international')
+('международный', 'international') ('международный', 'mondial')
+NO_ABS_EQ
+интернациональный not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['международный_international']
+handled_ev_dict_pairs ['международный_international']
+интернациональный международный 0.7647239111157945
+l1_word_sim worked
+('интернациональный', 'international') ('международный', 'international')
+match_found ('интернациональный', 'international')
+('интернациональный', 'international') ('международный', 'mondial')
+no_match
+интернациональный Интернационал 0.5958473883974054
+l1_word_sim worked
+('интернациональный', 'international') ('Интернационал', 'no_equality')
+no_match
+['международный_international', 'интернациональный_international'] ['международный_international', 'международный_international']
+{'интернациональный_international', 'международный_international'} 1.0
+{'международный_international'} eval_intersect 1 all_var_ev_dict_pairs_set 3 0.3333333333333333
+****************
+
+fish
+reference pair ('рыба', 'poisson')
+reference pair ('ловить рыбу', 'pêcher')
+reference pair ('выуживать', 'fouiller pour trouver')
+ev_pair ('рыба', 'poisson')
+ev_pair ('Фиш', 'fish')
+ev_pair ('рыбный', 'poisson')
+ev_pair ('рыбный', 'fish')
+ev_pair ('ловить рыбу', 'pêcher')
+ev_pair ('удить', 'no_equality')
+ev_pair ('выудить', 'no_equality')
+*********** рыба ***********
+[('рыба', 'poisson')] [('рыба', 'poisson')]
+('рыба', 'poisson')
+('рыба', 'poisson') ('рыба', 'poisson')
+positive_abs_eq ('рыба', 'poisson')
+*********** ловить рыбу ***********
+[('ловить рыбу', 'pêcher')] [('ловить рыбу', 'pêcher')]
+('ловить рыбу', 'pêcher')
+('ловить рыбу', 'pêcher') ('ловить рыбу', 'pêcher')
+positive_abs_eq ('ловить рыбу', 'pêcher')
+выуживать not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['рыба_poisson', 'ловить рыбу_pêcher']
+handled_ev_dict_pairs ['рыба_poisson', 'ловить рыбу_pêcher']
+выуживать рыба 0.03975205150896286
+выуживать Фиш -0.09990709196447582
+выуживать рыбный -0.06984668653401951
+выуживать ловить рыбу 0.707921433668149
+l1_word_sim worked
+('выуживать', 'fouiller pour trouver') ('ловить рыбу', 'pêcher')
+no_match
+выуживать удить 0.7663728890515104
+l1_word_sim worked
+('выуживать', 'fouiller pour trouver') ('удить', 'no_equality')
+no_match
+выуживать выудить 0.5290638068674806
+l1_word_sim worked
+('выуживать', 'fouiller pour trouver') ('выудить', 'no_equality')
+no_match
+['рыба_poisson', 'ловить рыбу_pêcher'] ['рыба_poisson', 'ловить рыбу_pêcher']
+{'ловить рыбу_pêcher', 'рыба_poisson'} 0.6666666666666666
+{'ловить рыбу_pêcher', 'рыба_poisson'} eval_intersect 2 all_var_ev_dict_pairs_set 7 0.2857142857142857
+****************
+
+benefit
+reference pair ('выгода', 'avantage')
+reference pair ('выгода', 'bienfaits')
+reference pair ('преимущество', 'avantage')
+reference pair ('пособие', 'allocation')
+reference pair ('бенефис', 'vente de bienfaisance')
+reference pair ('приносить пользу', 'être utile à')
+reference pair ('приносить пользу', 'faire du bien à')
+reference pair ('извлекать пользу', 'se trouver bien de')
+reference pair ('извлекать пользу', 'tirer profit de')
+ev_pair ('выгода', 'avantage')
+ev_pair ('выгода', 'bénéfice')
+ev_pair ('выгода', 'profit')
+ev_pair ('выгода', 'intérêt')
+ev_pair ('выгода', 'gain')
+ev_pair ('преимущество', 'avantage')
+ev_pair ('привилегия', 'no_equality')
+ev_pair ('пособие', 'prestation')
+ev_pair ('пособие', 'allocation')
+ev_pair ('пособие', 'indemnité')
+ev_pair ('благо', 'intérêt')
+ev_pair ('благо', 'bien')
+ev_pair ('прибыль', 'bénéfice')
+ev_pair ('прибыль', 'profit')
+ev_pair ('эффект', 'no_equality')
+ev_pair ('выигрыш', 'no_equality')
+ev_pair ('плод', 'no_equality')
+ev_pair ('приносить пользу', 'bénéfice')
+ev_pair ('приносить пользу', 'bénéficier')
+ev_pair ('принести пользу', 'bénéficier')
+ev_pair ('выигрывать', 'no_equality')
+ev_pair ('выгодный', 'avantageux')
+*********** выгода ***********
+[('выгода', 'avantage'), ('выгода', 'bienfaits')] [('выгода', 'avantage'), ('выгода', 'bénéfice'), ('выгода', 'profit'), ('выгода', 'intérêt'), ('выгода', 'gain')]
+('выгода', 'avantage')
+('выгода', 'avantage') ('выгода', 'avantage')
+positive_abs_eq ('выгода', 'avantage')
+('выгода', 'avantage') ('выгода', 'bénéfice')
+NO_ABS_EQ
+('выгода', 'avantage') ('выгода', 'profit')
+NO_ABS_EQ
+('выгода', 'avantage') ('выгода', 'intérêt')
+NO_ABS_EQ
+('выгода', 'avantage') ('выгода', 'gain')
+NO_ABS_EQ
+('выгода', 'bienfaits')
+('выгода', 'bienfaits') ('выгода', 'avantage')
+NO_ABS_EQ
+('выгода', 'bienfaits') ('выгода', 'bénéfice')
+NO_ABS_EQ
+('выгода', 'bienfaits') ('выгода', 'profit')
+NO_ABS_EQ
+('выгода', 'bienfaits') ('выгода', 'intérêt')
+NO_ABS_EQ
+('выгода', 'bienfaits') ('выгода', 'gain')
+NO_ABS_EQ
+*********** преимущество ***********
+[('преимущество', 'avantage')] [('преимущество', 'avantage')]
+('преимущество', 'avantage')
+('преимущество', 'avantage') ('преимущество', 'avantage')
+positive_abs_eq ('преимущество', 'avantage')
+*********** пособие ***********
+[('пособие', 'allocation')] [('пособие', 'prestation'), ('пособие', 'allocation'), ('пособие', 'indemnité')]
+('пособие', 'allocation')
+('пособие', 'allocation') ('пособие', 'prestation')
+NO_ABS_EQ
+('пособие', 'allocation') ('пособие', 'allocation')
+positive_abs_eq ('пособие', 'allocation')
+('пособие', 'allocation') ('пособие', 'indemnité')
+NO_ABS_EQ
+бенефис not_in_eval_dict
+*********** приносить пользу ***********
+[('приносить пользу', 'être utile à'), ('приносить пользу', 'faire du bien à')] [('приносить пользу', 'bénéfice'), ('приносить пользу', 'bénéficier')]
+('приносить пользу', 'être utile à')
+('приносить пользу', 'être utile à') ('приносить пользу', 'bénéfice')
+NO_ABS_EQ
+('приносить пользу', 'être utile à') ('приносить пользу', 'bénéficier')
+NO_ABS_EQ
+('приносить пользу', 'faire du bien à')
+('приносить пользу', 'faire du bien à') ('приносить пользу', 'bénéfice')
+NO_ABS_EQ
+('приносить пользу', 'faire du bien à') ('приносить пользу', 'bénéficier')
+NO_ABS_EQ
+извлекать пользу not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['выгода_avantage', 'преимущество_avantage', 'пособие_allocation']
+handled_ev_dict_pairs ['выгода_avantage', 'преимущество_avantage', 'пособие_allocation']
+бенефис выгода 0.1160168707575813
+бенефис преимущество -0.026161489732545
+бенефис привилегия 0.11706831531500901
+бенефис пособие -0.05175890330877735
+бенефис благо -0.023478950500211104
+бенефис прибыль 0.08431248759505995
+бенефис эффект -0.07324375287716699
+бенефис выигрыш 0.12325482410487817
+бенефис плод -0.04578019129901951
+бенефис приносить пользу -0.09931328996044228
+бенефис принести пользу -0.023472957496157184
+бенефис выигрывать -0.003177716894660086
+бенефис выгодный 0.005929801500076575
+извлекать пользу выгода 0.10807707442722217
+извлекать пользу преимущество -0.03425983763389517
+извлекать пользу привилегия -0.14484419706014212
+извлекать пользу пособие -0.09012795588615286
+извлекать пользу благо 0.08527479115435571
+извлекать пользу прибыль 0.00151363393459628
+извлекать пользу эффект -0.02791602931187127
+извлекать пользу выигрыш 0.058273000983408034
+извлекать пользу плод -0.03724434086786805
+извлекать пользу приносить пользу 0.6921184475178803
+l1_word_sim worked
+('извлекать пользу', 'se trouver bien de') ('приносить пользу', 'bénéfice')
+no_match
+('извлекать пользу', 'se trouver bien de') ('приносить пользу', 'bénéficier')
+no_match
+('извлекать пользу', 'tirer profit de') ('приносить пользу', 'bénéfice')
+no_match
+('извлекать пользу', 'tirer profit de') ('приносить пользу', 'bénéficier')
+no_match
+извлекать пользу принести пользу 0.41809189855451434
+извлекать пользу выигрывать 0.467135420244166
+извлекать пользу выгодный 0.06831841623680836
+['выгода_avantage', 'преимущество_avantage', 'пособие_allocation'] ['выгода_avantage', 'преимущество_avantage', 'пособие_allocation']
+{'выгода_avantage', 'пособие_allocation', 'преимущество_avantage'} 0.3333333333333333
+{'выгода_avantage', 'пособие_allocation', 'преимущество_avantage'} eval_intersect 3 all_var_ev_dict_pairs_set 22 0.13636363636363635
+****************
+
+intelligent
+reference pair ('умный', 'intelligent')
+ev_pair ('умный', 'intelligent')
+ev_pair ('разумный', 'no_equality')
+ev_pair ('осмысленный', 'no_equality')
+ev_pair ('продуманный', 'no_equality')
+ev_pair ('неглупый', 'intelligent')
+ev_pair ('микропроцессорный', 'no_equality')
+ev_pair ('понятливый', 'no_equality')
+ev_pair ('мыслящий', 'no_equality')
+ev_pair ('программируемый', 'no_equality')
+ev_pair ('настраиваемый', 'no_equality')
+ev_pair ('понимающий', 'no_equality')
+*********** умный ***********
+[('умный', 'intelligent')] [('умный', 'intelligent')]
+('умный', 'intelligent')
+('умный', 'intelligent') ('умный', 'intelligent')
+positive_abs_eq ('умный', 'intelligent')
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['умный_intelligent']
+handled_ev_dict_pairs ['умный_intelligent']
+['умный_intelligent'] ['умный_intelligent']
+{'умный_intelligent'} 1.0
+{'умный_intelligent'} eval_intersect 1 all_var_ev_dict_pairs_set 11 0.09090909090909091
+****************
+
+journey
+reference pair ('путешествие', 'trajet ')
+reference pair ('путешествие', 'périple')
+reference pair ('путешествие', 'voyage ')
+ev_pair ('путешествие', 'voyage')
+ev_pair ('путешествие', 'aventure')
+ev_pair ('путешествие', 'voyager')
+ev_pair ('путь', 'voyage')
+ev_pair ('путь', 'chemin')
+ev_pair ('путь', 'trajet')
+ev_pair ('путь', 'route')
+ev_pair ('рейс', 'voyage')
+ev_pair ('проезд', 'voyage')
+ev_pair ('проезд', 'transport')
+ev_pair ('переезд', 'no_equality')
+ev_pair ('странствование', 'no_equality')
+ev_pair ('путешествовать', 'voyager')
+*********** путешествие ***********
+[('путешествие', 'trajet '), ('путешествие', 'périple'), ('путешествие', 'voyage ')] [('путешествие', 'voyage'), ('путешествие', 'aventure'), ('путешествие', 'voyager')]
+('путешествие', 'trajet ')
+('путешествие', 'trajet ') ('путешествие', 'voyage')
+NO_ABS_EQ
+('путешествие', 'trajet ') ('путешествие', 'aventure')
+NO_ABS_EQ
+('путешествие', 'trajet ') ('путешествие', 'voyager')
+NO_ABS_EQ
+('путешествие', 'périple')
+('путешествие', 'périple') ('путешествие', 'voyage')
+NO_ABS_EQ
+('путешествие', 'périple') ('путешествие', 'aventure')
+NO_ABS_EQ
+('путешествие', 'périple') ('путешествие', 'voyager')
+NO_ABS_EQ
+('путешествие', 'voyage ')
+('путешествие', 'voyage ') ('путешествие', 'voyage')
+positive_abs_eq ('путешествие', 'voyage ')
+('путешествие', 'voyage ') ('путешествие', 'aventure')
+NO_ABS_EQ
+('путешествие', 'voyage ') ('путешествие', 'voyager')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['путешествие_voyage ']
+handled_ev_dict_pairs ['путешествие_voyage']
+['путешествие_voyage '] ['путешествие_voyage']
+{'путешествие_voyage '} 0.3333333333333333
+{'путешествие_voyage'} eval_intersect 1 all_var_ev_dict_pairs_set 13 0.07692307692307693
+****************
+
+news
+reference pair ('новости', 'nouvelles')
+ev_pair ('новость', 'nouvelle')
+ev_pair ('новость', 'info')
+ev_pair ('новость', 'nouveau')
+ev_pair ('весточка', 'no_equality')
+ev_pair ('Ньюс', 'news')
+ev_pair ('новинка', 'nouveauté')
+ev_pair ('выпуск новостей', 'nouvelle')
+ev_pair ('выпуск новостей', 'news')
+ev_pair ('выпуск новостей', 'actualité')
+ev_pair ('выпуск новостей', 'information')
+ev_pair ('выпуск новостей', 'journal | journal télévisé')
+ev_pair ('известия', 'nouvelle')
+ev_pair ('новостной', 'no_equality')
+новости not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs []
+handled_ev_dict_pairs []
+новости новость 0.6829539397659607
+l1_word_sim worked
+('новости', 'nouvelles') ('новость', 'nouvelle')
+no_match
+('новости', 'nouvelles') ('новость', 'info')
+no_match
+('новости', 'nouvelles') ('новость', 'nouveau')
+no_match
+новости весточка 0.10461661920685714
+новости Ньюс 0.2569297938450253
+новости новинка 0.2772481027627275
+новости выпуск новостей 0.2970702556010328
+новости известия 0.06467007814116155
+новости новостной 0.6311961932097547
+l1_word_sim worked
+('новости', 'nouvelles') ('новостной', 'no_equality')
+no_match
+[] []
+set() 0.0
+set() eval_intersect 0 all_var_ev_dict_pairs_set 13 0.0
+****************
+
+write
+reference pair ('писать', 'écrire')
+reference pair ('писать', 'rédiger')
+reference pair ('писать', 'composer')
+ev_pair ('писать', 'écrire')
+ev_pair ('писать', 'écriture')
+ev_pair ('записывать', 'écrire')
+ev_pair ('записывать', 'enregistrer')
+ev_pair ('записывать', 'noter')
+ev_pair ('выписывать', 'prescrire')
+ev_pair ('вписать', 'écrire')
+ev_pair ('списать', 'no_equality')
+ev_pair ('письменный', 'no_equality')
+*********** писать ***********
+[('писать', 'écrire'), ('писать', 'rédiger'), ('писать', 'composer')] [('писать', 'écrire'), ('писать', 'écriture')]
+('писать', 'écrire')
+('писать', 'écrire') ('писать', 'écrire')
+positive_abs_eq ('писать', 'écrire')
+('писать', 'écrire') ('писать', 'écriture')
+NO_ABS_EQ
+('писать', 'rédiger')
+('писать', 'rédiger') ('писать', 'écrire')
+NO_ABS_EQ
+('писать', 'rédiger') ('писать', 'écriture')
+NO_ABS_EQ
+('писать', 'composer')
+('писать', 'composer') ('писать', 'écrire')
+NO_ABS_EQ
+('писать', 'composer') ('писать', 'écriture')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['писать_écrire']
+handled_ev_dict_pairs ['писать_écrire']
+['писать_écrire'] ['писать_écrire']
+{'писать_écrire'} 0.3333333333333333
+{'писать_écrire'} eval_intersect 1 all_var_ev_dict_pairs_set 9 0.1111111111111111
+****************
+
+approbation
+reference pair ('апробация', 'approbation')
+reference pair ('одобрение', 'approbation')
+ev_pair ('одобрение', 'approbation')
+апробация not_in_eval_dict
+*********** одобрение ***********
+[('одобрение', 'approbation')] [('одобрение', 'approbation')]
+('одобрение', 'approbation')
+('одобрение', 'approbation') ('одобрение', 'approbation')
+positive_abs_eq ('одобрение', 'approbation')
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['одобрение_approbation']
+handled_ev_dict_pairs ['одобрение_approbation']
+апробация одобрение 0.433536539622093
+['одобрение_approbation'] ['одобрение_approbation']
+{'одобрение_approbation'} 0.5
+{'одобрение_approbation'} eval_intersect 1 all_var_ev_dict_pairs_set 1 1.0
+****************
+
+read
+reference pair ('читать', 'lire')
+reference pair ('вычитывать (узнавать)', 'étudier')
+reference pair ('понимать', 'comprendre')
+reference pair ('понимать', 'interpréter')
+ev_pair ('читать', 'lire')
+ev_pair ('читать', 'lecture')
+ev_pair ('считывать', 'lire')
+ev_pair ('гласить', 'no_equality')
+ev_pair ('зачитать', 'lire')
+ev_pair ('начитаться', 'no_equality')
+ev_pair ('чтение', 'lire')
+ev_pair ('чтение', 'lecture')
+*********** читать ***********
+[('читать', 'lire')] [('читать', 'lire'), ('читать', 'lecture')]
+('читать', 'lire')
+('читать', 'lire') ('читать', 'lire')
+positive_abs_eq ('читать', 'lire')
+('читать', 'lire') ('читать', 'lecture')
+NO_ABS_EQ
+вычитывать (узнавать) not_in_eval_dict
+понимать not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['читать_lire']
+handled_ev_dict_pairs ['читать_lire']
+вычитывать (узнавать) читать 0.711385897639273
+l1_word_sim worked
+('вычитывать (узнавать)', 'étudier') ('читать', 'lire')
+no_match
+('вычитывать (узнавать)', 'étudier') ('читать', 'lecture')
+no_match
+вычитывать (узнавать) считывать 0.7198667594682043
+l1_word_sim worked
+('вычитывать (узнавать)', 'étudier') ('считывать', 'lire')
+no_match
+вычитывать (узнавать) гласить 0.6058692829362219
+l1_word_sim worked
+('вычитывать (узнавать)', 'étudier') ('гласить', 'no_equality')
+no_match
+вычитывать (узнавать) зачитать 0.23103422731613124
+вычитывать (узнавать) начитаться 0.16091473595815167
+вычитывать (узнавать) чтение 0.05442622667696459
+понимать читать 0.5314593280281058
+l1_word_sim worked
+('понимать', 'comprendre') ('читать', 'lire')
+no_match
+('понимать', 'comprendre') ('читать', 'lecture')
+no_match
+('понимать', 'interpréter') ('читать', 'lire')
+no_match
+('понимать', 'interpréter') ('читать', 'lecture')
+no_match
+понимать считывать 0.5482818315765307
+l1_word_sim worked
+('понимать', 'comprendre') ('считывать', 'lire')
+no_match
+('понимать', 'interpréter') ('считывать', 'lire')
+no_match
+понимать гласить 0.4768736061454872
+понимать зачитать 0.08832770638132532
+понимать начитаться 0.05034758313129059
+понимать чтение -0.025309180441813028
+['читать_lire'] ['читать_lire']
+{'читать_lire'} 0.25
+{'читать_lire'} eval_intersect 1 all_var_ev_dict_pairs_set 8 0.125
+****************
+
+right
+reference pair ('правильный', 'exact')
+reference pair ('правильный', 'juste')
+reference pair ('правильный', 'bien')
+reference pair ('правильный', 'bon')
+reference pair ('правый', 'droit')
+ev_pair ('право', 'droit')
+ev_pair ('право', 'droite')
+ev_pair ('правая сторона', 'droite')
+ev_pair ('правая сторона', 'droit | côté droit')
+ev_pair ('правда', 'bien')
+ev_pair ('правда', 'vrai')
+ev_pair ('правда', 'hein')
+ev_pair ('правда', 'non')
+ev_pair ('правота', 'no_equality')
+ev_pair ('правый', 'droit')
+ev_pair ('нужный', 'bon')
+ev_pair ('подходящий', 'bon')
+ev_pair ('подходящий', 'appropriée | approprié')
+ev_pair ('вправо', 'droite | à droite')
+ev_pair ('правильно', 'bien')
+ev_pair ('правильно', 'raison')
+ev_pair ('правильно', 'exact')
+ev_pair ('правильно', 'correct')
+ev_pair ('правильно', 'hein')
+ev_pair ('правильно', "c'est ça")
+ev_pair ('правильно', "n'est-ce pas")
+ev_pair ('правильно', 'non')
+ev_pair ('сразу', 'droit')
+ev_pair ('сразу', 'juste')
+ev_pair ('хорошо', 'bien')
+ev_pair ('хорошо', 'bon')
+ev_pair ('хорошо', "d'accord")
+ev_pair ('хорошо', 'ok')
+ev_pair ('прямо', 'droit')
+ev_pair ('прямо', 'juste')
+правильный not_in_eval_dict
+*********** правый ***********
+[('правый', 'droit')] [('правый', 'droit')]
+('правый', 'droit')
+('правый', 'droit') ('правый', 'droit')
+positive_abs_eq ('правый', 'droit')
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['правый_droit']
+handled_ev_dict_pairs ['правый_droit']
+правильный право 0.18922223552395437
+правильный правая сторона 0.058890708848677836
+правильный правда -0.05565249941071728
+правильный правота 0.22327859747399362
+правильный правый 0.3304528685384412
+правильный нужный 0.5990079554732064
+l1_word_sim worked
+('правильный', 'exact') ('нужный', 'bon')
+no_match
+('правильный', 'juste') ('нужный', 'bon')
+no_match
+('правильный', 'bien') ('нужный', 'bon')
+no_match
+('правильный', 'bon') ('нужный', 'bon')
+no_match
+правильный подходящий 0.5461429786083297
+l1_word_sim worked
+('правильный', 'exact') ('подходящий', 'bon')
+no_match
+('правильный', 'exact') ('подходящий', 'appropriée | approprié')
+no_match
+('правильный', 'juste') ('подходящий', 'bon')
+no_match
+('правильный', 'juste') ('подходящий', 'appropriée | approprié')
+no_match
+('правильный', 'bien') ('подходящий', 'bon')
+no_match
+('правильный', 'bien') ('подходящий', 'appropriée | approprié')
+no_match
+('правильный', 'bon') ('подходящий', 'bon')
+no_match
+('правильный', 'bon') ('подходящий', 'appropriée | approprié')
+no_match
+правильный вправо 0.20752168927133594
+правильный правильно 0.6493555344362775
+l1_word_sim worked
+('правильный', 'exact') ('правильно', 'bien')
+no_match
+('правильный', 'exact') ('правильно', 'raison')
+no_match
+('правильный', 'exact') ('правильно', 'exact')
+match_found ('правильный', 'exact')
+('правильный', 'exact') ('правильно', 'correct')
+no_match
+('правильный', 'exact') ('правильно', 'hein')
+no_match
+('правильный', 'exact') ('правильно', "c'est ça")
+no_match
+('правильный', 'exact') ('правильно', "n'est-ce pas")
+no_match
+('правильный', 'exact') ('правильно', 'non')
+no_match
+('правильный', 'juste') ('правильно', 'bien')
+no_match
+('правильный', 'juste') ('правильно', 'raison')
+no_match
+('правильный', 'juste') ('правильно', 'exact')
+no_match
+('правильный', 'juste') ('правильно', 'correct')
+no_match
+('правильный', 'juste') ('правильно', 'hein')
+no_match
+('правильный', 'juste') ('правильно', "c'est ça")
+no_match
+('правильный', 'juste') ('правильно', "n'est-ce pas")
+no_match
+('правильный', 'juste') ('правильно', 'non')
+no_match
+('правильный', 'bien') ('правильно', 'bien')
+match_found ('правильный', 'bien')
+('правильный', 'bien') ('правильно', 'raison')
+no_match
+('правильный', 'bien') ('правильно', 'exact')
+no_match
+('правильный', 'bien') ('правильно', 'correct')
+no_match
+('правильный', 'bien') ('правильно', 'hein')
+no_match
+('правильный', 'bien') ('правильно', "c'est ça")
+no_match
+('правильный', 'bien') ('правильно', "n'est-ce pas")
+no_match
+('правильный', 'bien') ('правильно', 'non')
+no_match
+('правильный', 'bon') ('правильно', 'bien')
+no_match
+('правильный', 'bon') ('правильно', 'raison')
+no_match
+('правильный', 'bon') ('правильно', 'exact')
+no_match
+('правильный', 'bon') ('правильно', 'correct')
+no_match
+('правильный', 'bon') ('правильно', 'hein')
+no_match
+('правильный', 'bon') ('правильно', "c'est ça")
+no_match
+('правильный', 'bon') ('правильно', "n'est-ce pas")
+no_match
+('правильный', 'bon') ('правильно', 'non')
+no_match
+правильный сразу -0.028476050226730415
+правильный хорошо 0.22789727319792127
+правильный прямо -0.047352674934094736
+['правый_droit', 'правильный_exact', 'правильный_bien'] ['правый_droit', 'правильно_exact', 'правильно_bien']
+{'правильный_exact', 'правый_droit', 'правильный_bien'} 0.6
+{'правильно_bien', 'правый_droit', 'правильно_exact'} eval_intersect 3 all_var_ev_dict_pairs_set 30 0.1
+****************
+
+guru
+reference pair ('гуру', 'gourou')
+ev_pair ('гуру', 'gourou')
+*********** гуру ***********
+[('гуру', 'gourou')] [('гуру', 'gourou')]
+('гуру', 'gourou')
+('гуру', 'gourou') ('гуру', 'gourou')
+positive_abs_eq ('гуру', 'gourou')
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['гуру_gourou']
+handled_ev_dict_pairs ['гуру_gourou']
+['гуру_gourou'] ['гуру_gourou']
+{'гуру_gourou'} 1.0
+{'гуру_gourou'} eval_intersect 1 all_var_ev_dict_pairs_set 1 1.0
+****************
+
+beginner
+reference pair ('начинающий', 'débutant')
+reference pair ('новичок', 'débutant')
+ev_pair ('начинающий', 'débutant')
+ev_pair ('новичок', 'débutant')
+ev_pair ('новичок', 'novice')
+ev_pair ('начальный уровень', 'no_equality')
+ev_pair ('начинающий фотограф', 'débutant')
+ev_pair ('начальный', 'no_equality')
+*********** начинающий ***********
+[('начинающий', 'débutant')] [('начинающий', 'débutant')]
+('начинающий', 'débutant')
+('начинающий', 'débutant') ('начинающий', 'débutant')
+positive_abs_eq ('начинающий', 'débutant')
+*********** новичок ***********
+[('новичок', 'débutant')] [('новичок', 'débutant'), ('новичок', 'novice')]
+('новичок', 'débutant')
+('новичок', 'débutant') ('новичок', 'débutant')
+positive_abs_eq ('новичок', 'débutant')
+('новичок', 'débutant') ('новичок', 'novice')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['начинающий_débutant', 'новичок_débutant']
+handled_ev_dict_pairs ['начинающий_débutant', 'новичок_débutant']
+['начинающий_débutant', 'новичок_débutant'] ['начинающий_débutant', 'новичок_débutant']
+{'начинающий_débutant', 'новичок_débutant'} 1.0
+{'начинающий_débutant', 'новичок_débutant'} eval_intersect 2 all_var_ev_dict_pairs_set 6 0.3333333333333333
+****************
+
+genetically
+reference pair ('генетически', 'génétiquement')
+ev_pair ('генетически', 'génétiquement')
+ev_pair ('генетически', 'génétique')
+ev_pair ('генетически', 'ogm')
+ev_pair ('генетический', 'génétique')
+*********** генетически ***********
+[('генетически', 'génétiquement')] [('генетически', 'génétiquement'), ('генетически', 'génétique'), ('генетически', 'ogm')]
+('генетически', 'génétiquement')
+('генетически', 'génétiquement') ('генетически', 'génétiquement')
+positive_abs_eq ('генетически', 'génétiquement')
+('генетически', 'génétiquement') ('генетически', 'génétique')
+NO_ABS_EQ
+('генетически', 'génétiquement') ('генетически', 'ogm')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['генетически_génétiquement']
+handled_ev_dict_pairs ['генетически_génétiquement']
+['генетически_génétiquement'] ['генетически_génétiquement']
+{'генетически_génétiquement'} 1.0
+{'генетически_génétiquement'} eval_intersect 1 all_var_ev_dict_pairs_set 4 0.25
+****************
+
+precedent
+reference pair ('прецедент', 'précédent')
+ev_pair ('прецедент', 'précédent')
+ev_pair ('прецедент', 'jurisprudence')
+ev_pair ('предыдущий', 'précédent')
+ev_pair ('прецедентный', 'no_equality')
+ev_pair ('предшествующий', 'précédent')
+*********** прецедент ***********
+[('прецедент', 'précédent')] [('прецедент', 'précédent'), ('прецедент', 'jurisprudence')]
+('прецедент', 'précédent')
+('прецедент', 'précédent') ('прецедент', 'précédent')
+positive_abs_eq ('прецедент', 'précédent')
+('прецедент', 'précédent') ('прецедент', 'jurisprudence')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['прецедент_précédent']
+handled_ev_dict_pairs ['прецедент_précédent']
+['прецедент_précédent'] ['прецедент_précédent']
+{'прецедент_précédent'} 1.0
+{'прецедент_précédent'} eval_intersect 1 all_var_ev_dict_pairs_set 5 0.2
+****************
+
+refugee
+reference pair ('беженец', 'réfugié')
+ev_pair ('беженец', 'réfugié')
+ev_pair ('беженка', 'réfugié')
+ev_pair ('беглец', 'no_equality')
+ev_pair ('беженский', 'no_equality')
+*********** беженец ***********
+[('беженец', 'réfugié')] [('беженец', 'réfugié')]
+('беженец', 'réfugié')
+('беженец', 'réfugié') ('беженец', 'réfugié')
+positive_abs_eq ('беженец', 'réfugié')
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['беженец_réfugié']
+handled_ev_dict_pairs ['беженец_réfugié']
+['беженец_réfugié'] ['беженец_réfugié']
+{'беженец_réfugié'} 1.0
+{'беженец_réfugié'} eval_intersect 1 all_var_ev_dict_pairs_set 4 0.25
+****************
+
+secular
+reference pair ('светский', 'laïque')
+reference pair ('светский', 'profane')
+reference pair ('мирской', 'laïque')
+reference pair ('мирской', 'profane')
+ev_pair ('светский', 'laïc')
+ev_pair ('светский', 'séculier')
+ev_pair ('вековой', 'séculaire')
+ev_pair ('долговременный', 'no_equality')
+ev_pair ('секуляристский', 'no_equality')
+ev_pair ('мирянин', 'no_equality')
+ev_pair ('светскость', 'no_equality')
+*********** светский ***********
+[('светский', 'laïque'), ('светский', 'profane')] [('светский', 'laïc'), ('светский', 'séculier')]
+('светский', 'laïque')
+('светский', 'laïque') ('светский', 'laïc')
+NO_ABS_EQ
+('светский', 'laïque') ('светский', 'séculier')
+NO_ABS_EQ
+('светский', 'profane')
+('светский', 'profane') ('светский', 'laïc')
+NO_ABS_EQ
+('светский', 'profane') ('светский', 'séculier')
+NO_ABS_EQ
+мирской not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs []
+handled_ev_dict_pairs []
+мирской светский 0.5579792825394188
+l1_word_sim worked
+('мирской', 'laïque') ('светский', 'laïc')
+no_match
+('мирской', 'laïque') ('светский', 'séculier')
+no_match
+('мирской', 'profane') ('светский', 'laïc')
+no_match
+('мирской', 'profane') ('светский', 'séculier')
+no_match
+мирской вековой 0.4298631399253197
+мирской долговременный 0.08801451759474178
+мирской секуляристский 0.29892293512007045
+мирской мирянин 0.5481994048032934
+l1_word_sim worked
+('мирской', 'laïque') ('мирянин', 'no_equality')
+no_match
+('мирской', 'profane') ('мирянин', 'no_equality')
+no_match
+мирской светскость 0.2927776111891302
+[] []
+set() 0.0
+set() eval_intersect 0 all_var_ev_dict_pairs_set 7 0.0
+****************
+
+pasta
+reference pair ('макароны', 'pâtes')
+reference pair ('паста', 'pâtes')
+ev_pair ('паста', 'no_equality')
+ev_pair ('блюда из макарон', 'no_equality')
+макароны not_in_eval_dict
+*********** паста ***********
+[('паста', 'pâtes')] [('паста', 'no_equality')]
+('паста', 'pâtes')
+('паста', 'pâtes') ('паста', 'no_equality')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs []
+handled_ev_dict_pairs []
+макароны паста 0.46228859905361075
+макароны блюда из макарон 0.7188303860811726
+l1_word_sim worked
+('макароны', 'pâtes') ('блюда из макарон', 'no_equality')
+no_match
+[] []
+set() 0.0
+set() eval_intersect 0 all_var_ev_dict_pairs_set 2 0.0
+****************
+
+beaver
+reference pair ('бобр', 'castor')
+ev_pair ('бобр', 'castor')
+ev_pair ('Бобрик', 'beaver')
+ev_pair ('Бивер', 'beaver')
+ev_pair ('работяга', 'no_equality')
+ev_pair ('бородач', 'no_equality')
+ev_pair ('бобровый', 'no_equality')
+*********** бобр ***********
+[('бобр', 'castor')] [('бобр', 'castor')]
+('бобр', 'castor')
+('бобр', 'castor') ('бобр', 'castor')
+positive_abs_eq ('бобр', 'castor')
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['бобр_castor']
+handled_ev_dict_pairs ['бобр_castor']
+['бобр_castor'] ['бобр_castor']
+{'бобр_castor'} 1.0
+{'бобр_castor'} eval_intersect 1 all_var_ev_dict_pairs_set 6 0.16666666666666666
+****************
+
+tiger
+reference pair ('тигр', 'tigre')
+ev_pair ('тигр', 'tigre')
+ev_pair ('тигр', 'tiger')
+ev_pair ('зверь', 'no_equality')
+ev_pair ('тигриный', 'no_equality')
+*********** тигр ***********
+[('тигр', 'tigre')] [('тигр', 'tigre'), ('тигр', 'tiger')]
+('тигр', 'tigre')
+('тигр', 'tigre') ('тигр', 'tigre')
+positive_abs_eq ('тигр', 'tigre')
+('тигр', 'tigre') ('тигр', 'tiger')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['тигр_tigre']
+handled_ev_dict_pairs ['тигр_tigre']
+['тигр_tigre'] ['тигр_tigre']
+{'тигр_tigre'} 1.0
+{'тигр_tigre'} eval_intersect 1 all_var_ev_dict_pairs_set 4 0.25
+****************
+
+lion
+reference pair ('лев', 'lion ')
+ev_pair ('лев', 'lion')
+ev_pair ('лев', 'lev')
+ev_pair ('львиный', 'no_equality')
+*********** лев ***********
+[('лев', 'lion ')] [('лев', 'lion'), ('лев', 'lev')]
+('лев', 'lion ')
+('лев', 'lion ') ('лев', 'lion')
+positive_abs_eq ('лев', 'lion ')
+('лев', 'lion ') ('лев', 'lev')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['лев_lion ']
+handled_ev_dict_pairs ['лев_lion']
+['лев_lion '] ['лев_lion']
+{'лев_lion '} 1.0
+{'лев_lion'} eval_intersect 1 all_var_ev_dict_pairs_set 3 0.3333333333333333
+****************
+
+pen
+reference pair ('ручка', 'stylo ')
+ev_pair ('ручка', 'stylo')
+ev_pair ('рейсфедер', 'no_equality')
+ev_pair ('фломастер', 'feutre')
+ev_pair ('загон', 'enclos')
+ev_pair ('Перу', 'no_equality')
+ev_pair ('пена', 'no_equality')
+ev_pair ('пенал', 'no_equality')
+ev_pair ('световое перо', 'plume')
+ev_pair ('писать', 'écrire')
+ev_pair ('перьевой', 'no_equality')
+*********** ручка ***********
+[('ручка', 'stylo ')] [('ручка', 'stylo')]
+('ручка', 'stylo ')
+('ручка', 'stylo ') ('ручка', 'stylo')
+positive_abs_eq ('ручка', 'stylo ')
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['ручка_stylo ']
+handled_ev_dict_pairs ['ручка_stylo']
+['ручка_stylo '] ['ручка_stylo']
+{'ручка_stylo '} 1.0
+{'ручка_stylo'} eval_intersect 1 all_var_ev_dict_pairs_set 10 0.1
+****************
+
+coconut
+reference pair ('кокос', 'noix de coco')
+ev_pair ('кокос', 'noix de coco')
+ev_pair ('мякоть кокоса', 'noix de coco')
+ev_pair ('кокосовый', 'no_equality')
+*********** кокос ***********
+[('кокос', 'noix de coco')] [('кокос', 'noix de coco')]
+('кокос', 'noix de coco')
+('кокос', 'noix de coco') ('кокос', 'noix de coco')
+positive_abs_eq ('кокос', 'noix de coco')
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['кокос_noix de coco']
+handled_ev_dict_pairs ['кокос_noix de coco']
+['кокос_noix de coco'] ['кокос_noix de coco']
+{'кокос_noix de coco'} 1.0
+{'кокос_noix de coco'} eval_intersect 1 all_var_ev_dict_pairs_set 3 0.3333333333333333
+****************
+
+dynamite
+reference pair ('динамит', 'dynamite')
+ev_pair ('динамит', 'dynamite')
+ev_pair ('динамитная шашка', 'no_equality')
+ev_pair ('динамитный', 'no_equality')
+ev_pair ('взрывной', 'explosif')
+*********** динамит ***********
+[('динамит', 'dynamite')] [('динамит', 'dynamite')]
+('динамит', 'dynamite')
+('динамит', 'dynamite') ('динамит', 'dynamite')
+positive_abs_eq ('динамит', 'dynamite')
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['динамит_dynamite']
+handled_ev_dict_pairs ['динамит_dynamite']
+['динамит_dynamite'] ['динамит_dynamite']
+{'динамит_dynamite'} 1.0
+{'динамит_dynamite'} eval_intersect 1 all_var_ev_dict_pairs_set 4 0.25
+****************
+
+spoon
+reference pair ('ложка', 'cuiller')
+reference pair ('ложка', 'cuillerée')
+reference pair ('кормить из ложки', 'nourrir à la cuillère')
+ev_pair ('ложка', 'cuillère | cuillérée')
+ev_pair ('блесна', 'no_equality')
+ev_pair ('обниматься', 'no_equality')
+ev_pair ('черпать ложкой', 'no_equality')
+*********** ложка ***********
+[('ложка', 'cuiller'), ('ложка', 'cuillerée')] [('ложка', 'cuillère | cuillérée')]
+('ложка', 'cuiller')
+('ложка', 'cuiller') ('ложка', 'cuillère | cuillérée')
+positive_abs_eq ('ложка', 'cuiller')
+('ложка', 'cuillerée')
+('ложка', 'cuillerée') ('ложка', 'cuillère | cuillérée')
+positive_abs_eq ('ложка', 'cuillerée')
+кормить из ложки not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['ложка_cuiller', 'ложка_cuillerée']
+handled_ev_dict_pairs ['ложка_cuillère | cuillérée', 'ложка_cuillère | cuillérée']
+кормить из ложки ложка 0.3933409722996267
+кормить из ложки блесна -0.029662711673843566
+кормить из ложки обниматься 0.32769386687201685
+кормить из ложки черпать ложкой 0.366603685211244
+['ложка_cuiller', 'ложка_cuillerée'] ['ложка_cuillère | cuillérée', 'ложка_cuillère | cuillérée']
+{'ложка_cuillerée', 'ложка_cuiller'} 0.6666666666666666
+{'ложка_cuillère | cuillérée'} eval_intersect 1 all_var_ev_dict_pairs_set 4 0.25
+****************
+
+ocean
+reference pair ('океан', 'océan')
+ev_pair ('океан', 'océan')
+ev_pair ('океан', 'mer')
+ev_pair ('океан', 'atlantique')
+ev_pair ('дно океана', 'no_equality')
+ev_pair ('океанский', 'no_equality')
+*********** океан ***********
+[('океан', 'océan')] [('океан', 'océan'), ('океан', 'mer'), ('океан', 'atlantique')]
+('океан', 'océan')
+('океан', 'océan') ('океан', 'océan')
+positive_abs_eq ('океан', 'océan')
+('океан', 'océan') ('океан', 'mer')
+NO_ABS_EQ
+('океан', 'océan') ('океан', 'atlantique')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['океан_océan']
+handled_ev_dict_pairs ['океан_océan']
+['океан_océan'] ['океан_océan']
+{'океан_océan'} 1.0
+{'океан_océan'} eval_intersect 1 all_var_ev_dict_pairs_set 5 0.2
+****************
+
+mug
+reference pair ('кружка', 'mug')
+reference pair ('кружка', 'grande tasse ')
+reference pair ('ограбить', 'agresser')
+ev_pair ('кружка', 'tasse')
+ev_pair ('рожица', 'no_equality')
+ev_pair ('бокал', 'no_equality')
+ev_pair ('рыло', 'no_equality')
+ev_pair ('балбес', 'no_equality')
+ev_pair ('мурло', 'no_equality')
+ev_pair ('ебальник', 'tronche')
+ev_pair ('грабить', 'no_equality')
+*********** кружка ***********
+[('кружка', 'mug'), ('кружка', 'grande tasse ')] [('кружка', 'tasse')]
+('кружка', 'mug')
+('кружка', 'mug') ('кружка', 'tasse')
+NO_ABS_EQ
+('кружка', 'grande tasse ')
+('кружка', 'grande tasse ') ('кружка', 'tasse')
+positive_abs_eq ('кружка', 'grande tasse ')
+ограбить not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['кружка_grande tasse ']
+handled_ev_dict_pairs ['кружка_tasse']
+ограбить кружка -0.060213806027775436
+ограбить рожица 0.03521361006697746
+ограбить бокал -0.06114446485068721
+ограбить рыло 0.037555579260640834
+ограбить балбес 0.15717240619695252
+ограбить мурло 0.15168186424121943
+ограбить ебальник 0.07096255885717141
+ограбить грабить 0.8828246843419366
+l1_word_sim worked
+('ограбить', 'agresser') ('грабить', 'no_equality')
+no_match
+['кружка_grande tasse '] ['кружка_tasse']
+{'кружка_grande tasse '} 0.3333333333333333
+{'кружка_tasse'} eval_intersect 1 all_var_ev_dict_pairs_set 8 0.125
+****************
+
+shampoo
+reference pair ('шампунь', 'shampooing')
+reference pair ('мыть с шампунем', 'faire un shampoing')
+ev_pair ('шампунь', 'shampooing')
+ev_pair ('шампунь', 'shampoing')
+ev_pair ('мытье головы', 'laver')
+ev_pair ('мыть', 'laver')
+*********** шампунь ***********
+[('шампунь', 'shampooing')] [('шампунь', 'shampooing'), ('шампунь', 'shampoing')]
+('шампунь', 'shampooing')
+('шампунь', 'shampooing') ('шампунь', 'shampooing')
+positive_abs_eq ('шампунь', 'shampooing')
+('шампунь', 'shampooing') ('шампунь', 'shampoing')
+positive_abs_eq ('шампунь', 'shampooing')
+мыть с шампунем not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['шампунь_shampooing', 'шампунь_shampooing']
+handled_ev_dict_pairs ['шампунь_shampooing', 'шампунь_shampoing']
+мыть с шампунем шампунь 0.5153687468792223
+l1_word_sim worked
+('мыть с шампунем', 'faire un shampoing') ('шампунь', 'shampooing')
+no_match
+('мыть с шампунем', 'faire un shampoing') ('шампунь', 'shampoing')
+no_match
+мыть с шампунем мытье головы 0.7858640803928973
+l1_word_sim worked
+('мыть с шампунем', 'faire un shampoing') ('мытье головы', 'laver')
+no_match
+мыть с шампунем мыть 0.9728560065167433
+l1_word_sim worked
+('мыть с шампунем', 'faire un shampoing') ('мыть', 'laver')
+no_match
+['шампунь_shampooing', 'шампунь_shampooing'] ['шампунь_shampooing', 'шампунь_shampoing']
+{'шампунь_shampooing'} 0.5
+{'шампунь_shampooing', 'шампунь_shampoing'} eval_intersect 2 all_var_ev_dict_pairs_set 4 0.5
+****************
+
+buzzer
+reference pair ('гудок', 'timbre')
+reference pair ('гудок', 'sonnerie')
+reference pair ('домофон', 'interphone')
+ev_pair ('сирена', 'no_equality')
+ev_pair ('звонок', 'sonnette')
+ev_pair ('звонок', 'sonnerie')
+ev_pair ('пищалка', 'no_equality')
+ev_pair ('зуммерный', 'no_equality')
+гудок not_in_eval_dict
+домофон not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs []
+handled_ev_dict_pairs []
+гудок сирена 0.5234258345856581
+l1_word_sim worked
+('гудок', 'timbre') ('сирена', 'no_equality')
+no_match
+('гудок', 'sonnerie') ('сирена', 'no_equality')
+no_match
+гудок звонок 0.3922220696565517
+гудок пищалка 0.3552819868724299
+гудок зуммерный 0.33649271327946406
+домофон сирена 0.30812096132688177
+домофон звонок 0.4006276604764716
+домофон пищалка 0.2310660114995928
+домофон зуммерный 0.27945010409442106
+[] []
+set() 0.0
+set() eval_intersect 0 all_var_ev_dict_pairs_set 5 0.0
+****************
+
+exhaustively
+reference pair ('исчерпывающе', 'exhaustivement')
+reference pair ('ограничительно', 'limitativement')
+ev_pair ('исчерпывающе', 'exhaustivement')
+ev_pair ('полностью', 'no_equality')
+ev_pair ('тщательно', 'no_equality')
+*********** исчерпывающе ***********
+[('исчерпывающе', 'exhaustivement')] [('исчерпывающе', 'exhaustivement')]
+('исчерпывающе', 'exhaustivement')
+('исчерпывающе', 'exhaustivement') ('исчерпывающе', 'exhaustivement')
+positive_abs_eq ('исчерпывающе', 'exhaustivement')
+ограничительно not_in_eval_dict
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['исчерпывающе_exhaustivement']
+handled_ev_dict_pairs ['исчерпывающе_exhaustivement']
+ограничительно исчерпывающе 0.21150171233278164
+ограничительно полностью 0.32268680202928857
+ограничительно тщательно 0.3248817643095591
+['исчерпывающе_exhaustivement'] ['исчерпывающе_exhaustivement']
+{'исчерпывающе_exhaustivement'} 0.5
+{'исчерпывающе_exhaustivement'} eval_intersect 1 all_var_ev_dict_pairs_set 3 0.3333333333333333
+****************
+
+apoplexy
+reference pair ('апоплексия', 'apoplexie')
+reference pair ('инсульт', 'apoplexie')
+ev_pair ('удар', 'no_equality')
+ev_pair ('инсульт', 'no_equality')
+ev_pair ('кровоизлияние', 'no_equality')
+ev_pair ('апоплексический', 'no_equality')
+апоплексия not_in_eval_dict
+*********** инсульт ***********
+[('инсульт', 'apoplexie')] [('инсульт', 'no_equality')]
+('инсульт', 'apoplexie')
+('инсульт', 'apoplexie') ('инсульт', 'no_equality')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs []
+handled_ev_dict_pairs []
+апоплексия удар 0.1044344357169476
+апоплексия инсульт 0.3350405378660259
+апоплексия кровоизлияние 0.4249256492618922
+апоплексия апоплексический 0.7524460435842609
+l1_word_sim worked
+('апоплексия', 'apoplexie') ('апоплексический', 'no_equality')
+no_match
+[] []
+set() 0.0
+set() eval_intersect 0 all_var_ev_dict_pairs_set 4 0.0
+****************
+
+submissively
+submissively eng_word_out_of_eval_dict
+typhus
+typhus eng_word_out_of_eval_dict
+ravioli
+ravioli eng_word_out_of_eval_dict
+meeting
+meeting eng_word_out_of_eval_dict
+actually
+actually eng_word_out_of_eval_dict
+earring
+earring eng_word_out_of_eval_dict
+add
+add eng_word_out_of_eval_dict
+adjective
+adjective eng_word_out_of_eval_dict
+drawing
+drawing eng_word_out_of_eval_dict
+dream
+dream eng_word_out_of_eval_dict
+dressed
+dressed eng_word_out_of_eval_dict
+driving
+driving eng_word_out_of_eval_dict
+drum
+drum eng_word_out_of_eval_dict
+dry
+dry eng_word_out_of_eval_dict
+duck
+duck eng_word_out_of_eval_dict
+advanced
+advanced eng_word_out_of_eval_dict
+during
+during eng_word_out_of_eval_dict
+earn
+earn eng_word_out_of_eval_dict
+singular
+singular eng_word_out_of_eval_dict
+easily
+easily eng_word_out_of_eval_dict
+east
+east eng_word_out_of_eval_dict
+eighth
+eighth eng_word_out_of_eval_dict
+eighty
+eighty eng_word_out_of_eval_dict
+adverb
+adverb eng_word_out_of_eval_dict
+electric
+electric eng_word_out_of_eval_dict
+advertisement
+advertisement eng_word_out_of_eval_dict
+century
+century eng_word_out_of_eval_dict
+size
+size eng_word_out_of_eval_dict
+electricity
+electricity eng_word_out_of_eval_dict
+elephant
+elephant eng_word_out_of_eval_dict
+else
+else eng_word_out_of_eval_dict
+empty
+empty eng_word_out_of_eval_dict
+engine
+engine eng_word_out_of_eval_dict
+engineer
+engineer eng_word_out_of_eval_dict
+enough
+enough eng_word_out_of_eval_dict
+enter
+enter eng_word_out_of_eval_dict
+entrance
+entrance eng_word_out_of_eval_dict
+advice
+advice eng_word_out_of_eval_dict
+aeroplane
+aeroplane eng_word_out_of_eval_dict
+envelope
+envelope eng_word_out_of_eval_dict
+especially
+especially eng_word_out_of_eval_dict
+euro
+euro eng_word_out_of_eval_dict
+even
+even eng_word_out_of_eval_dict
+afraid
+afraid eng_word_out_of_eval_dict
+afterwards
+afterwards eng_word_out_of_eval_dict
+everyone
+everyone eng_word_out_of_eval_dict
+against
+against eng_word_out_of_eval_dict
+everything
+reference pair ('все', 'tout')
+ev_pair ('все', 'tout')
+ev_pair ('все', 'ça')
+ev_pair ('что угодно', 'no_equality')
+*********** все ***********
+[('все', 'tout')] [('все', 'tout'), ('все', 'ça')]
+('все', 'tout')
+('все', 'tout') ('все', 'tout')
+positive_abs_eq ('все', 'tout')
+('все', 'tout') ('все', 'ça')
+NO_ABS_EQ
+=======DIRECT SIM FINISHED========
+handled_reference_pairs ['все_tout']
+handled_ev_dict_pairs ['все_tout']
+['все_tout'] ['все_tout']
+{'все_tout'} 1.0
+{'все_tout'} eval_intersect 1 all_var_ev_dict_pairs_set 3 0.3333333333333333
+****************
+
+everywhere
+everywhere eng_word_out_of_eval_dict
+aged
+aged eng_word_out_of_eval_dict
+ago
+ago eng_word_out_of_eval_dict
+exactly
+exactly eng_word_out_of_eval_dict
+exam
+exam eng_word_out_of_eval_dict
+examination
+examination eng_word_out_of_eval_dict
+excellent
+excellent eng_word_out_of_eval_dict
+except
+except eng_word_out_of_eval_dict
+exercise
+exercise eng_word_out_of_eval_dict

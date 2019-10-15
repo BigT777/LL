@@ -1,0 +1,88 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "добавить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "ajouter",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "rajouter",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "incorporer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "добавлять"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "добавленная стоимость",
+                            "tr": [
+                                {
+                                    "text": "valeur ajoutée"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "insérer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "inclure",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "introduire",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "injecter",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "добавлять"
+                        },
+                        {
+                            "text": "ввести"
+                        },
+                        {
+                            "text": "вставить"
+                        }
+                    ]
+                },
+                {
+                    "text": "associer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "присоединить"
+                        }
+                    ]
+                },
+                {
+                    "text": "remettre",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "положить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

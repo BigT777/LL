@@ -1,0 +1,340 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "lancer",
+            "pos": "verb",
+            "ts": "lɑ̃se",
+            "tr": [
+                {
+                    "text": "запустить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "запускать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "начать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "инициировать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "начинать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пускать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "démarrer"
+                        },
+                        {
+                            "text": "débuter"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lancer le programme",
+                            "tr": [
+                                {
+                                    "text": "запустить программу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "permettre de lancer",
+                            "tr": [
+                                {
+                                    "text": "позволяет запускать"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lancer l'installation",
+                            "tr": [
+                                {
+                                    "text": "начать установку"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "начало",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "débuter"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lancer le téléchargement",
+                            "tr": [
+                                {
+                                    "text": "начало загрузки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "бросать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "бросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выпустить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выпускать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пустить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "кидать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "швырять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "метать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "jeter"
+                        },
+                        {
+                            "text": "lâcher"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lancer une balle",
+                            "tr": [
+                                {
+                                    "text": "бросать мяч"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lancer un défi",
+                            "tr": [
+                                {
+                                    "text": "бросить вызов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lancer des fléchettes",
+                            "tr": [
+                                {
+                                    "text": "метать дротики"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выполнить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "организовать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "entreprendre"
+                        }
+                    ]
+                },
+                {
+                    "text": "открыть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "открывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ouvrir"
+                        }
+                    ]
+                },
+                {
+                    "text": "вызвать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "déclencher"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "lancer",
+            "pos": "noun",
+            "gen": "m",
+            "ts": "lɑ̃se",
+            "tr": [
+                {
+                    "text": "запуск",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "пуск",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "démarrage"
+                        },
+                        {
+                            "text": "tir"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "utiliser pour lancer",
+                            "tr": [
+                                {
+                                    "text": "использовать для запуска"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lancer le moteur",
+                            "tr": [
+                                {
+                                    "text": "пуск двигателя"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "бросок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "tir"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lancers de dé",
+                            "tr": [
+                                {
+                                    "text": "броски костей"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "метание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "толкание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "jet"
+                        },
+                        {
+                            "text": "poussage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lancer du javelot",
+                            "tr": [
+                                {
+                                    "text": "метание копья"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lancer du poids",
+                            "tr": [
+                                {
+                                    "text": "толкание ядра"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выпуск",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "lâcher"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lancer un nouveau",
+                            "tr": [
+                                {
+                                    "text": "выпуск нового"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

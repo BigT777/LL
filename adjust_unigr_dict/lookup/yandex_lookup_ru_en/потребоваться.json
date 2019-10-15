@@ -1,0 +1,57 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "потребоваться",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "need",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "require",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "нуждаться"
+                        },
+                        {
+                            "text": "требовать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "потребоваться немного",
+                            "tr": [
+                                {
+                                    "text": "need a bit"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "потребоваться приблизительно",
+                            "tr": [
+                                {
+                                    "text": "require approximately"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "take",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "взять"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "помыть",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "wash",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "clean",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "вымыть"
+                        },
+                        {
+                            "text": "очистить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "помыть полы",
+                            "tr": [
+                                {
+                                    "text": "wash the floors"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "помыть окна",
+                            "tr": [
+                                {
+                                    "text": "clean the windows"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

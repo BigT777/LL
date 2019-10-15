@@ -1,0 +1,112 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "tasse",
+            "pos": "noun",
+            "gen": "f",
+            "ts": "tɑs",
+            "tr": [
+                {
+                    "text": "чашка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "кружка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "стаканчик",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "чаша",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "coupelle"
+                        },
+                        {
+                            "text": "coupe"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tasse de sucre",
+                            "tr": [
+                                {
+                                    "text": "чашка сахара"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "tasses en céramique",
+                            "tr": [
+                                {
+                                    "text": "керамические кружки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "tasses de papier",
+                            "tr": [
+                                {
+                                    "text": "бумажные стаканчики"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "tasse pleine",
+                            "tr": [
+                                {
+                                    "text": "полная чаша"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "неприятность",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "провал",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "tassé",
+            "pos": "adjective",
+            "ts": "tase",
+            "tr": [
+                {
+                    "text": "набитый",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "bourré"
+                        }
+                    ]
+                },
+                {
+                    "text": "осевший",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "affaissé"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

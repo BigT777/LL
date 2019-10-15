@@ -1,0 +1,81 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "numéro",
+            "pos": "noun",
+            "gen": "m",
+            "ts": "nymeʁo",
+            "tr": [
+                {
+                    "text": "номер",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "titre"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "numéro de lot",
+                            "tr": [
+                                {
+                                    "text": "номер партии"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "число",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "количество",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "date"
+                        },
+                        {
+                            "text": "Nb"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "numéros des gens",
+                            "tr": [
+                                {
+                                    "text": "числа людей"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "commentaire numéro",
+                            "tr": [
+                                {
+                                    "text": "количество комментариев"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "размер",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "chiffre"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
