@@ -1,0 +1,210 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "petition",
+            "pos": "noun",
+            "ts": "pɪˈtɪʃn",
+            "tr": [
+                {
+                    "text": "ходатайство",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "прошение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "заявление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "исковое заявление",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "заявление в суд",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "application"
+                        },
+                        {
+                            "text": "writ"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "consideration of a petition",
+                            "tr": [
+                                {
+                                    "text": "рассмотрение ходатайства"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "petition for pardon",
+                            "tr": [
+                                {
+                                    "text": "прошение о помиловании"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "petition in bankruptcy",
+                            "tr": [
+                                {
+                                    "text": "заявление о банкротстве"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "просьба",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "request"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "small petition",
+                            "tr": [
+                                {
+                                    "text": "небольшая просьба"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "мольба",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "молитва",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "plea"
+                        },
+                        {
+                            "text": "prayer"
+                        }
+                    ]
+                },
+                {
+                    "text": "петицию",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "обращение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "appeal"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "numerous petitions",
+                            "tr": [
+                                {
+                                    "text": "многочисленные обращения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "жалоба",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "complaint"
+                        }
+                    ]
+                },
+                {
+                    "text": "сбор подписей",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "collection of signatures"
+                        }
+                    ]
+                },
+                {
+                    "text": "челобитная",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        },
+        {
+            "text": "petition",
+            "pos": "verb",
+            "ts": "pɪˈtɪʃn",
+            "tr": [
+                {
+                    "text": "ходатайствовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "просить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "походатайствовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "похлопотать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "request"
+                        },
+                        {
+                            "text": "intercede"
+                        }
+                    ]
+                },
+                {
+                    "text": "подать прошение",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "file a petition"
+                        }
+                    ]
+                },
+                {
+                    "text": "подавать прошение",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

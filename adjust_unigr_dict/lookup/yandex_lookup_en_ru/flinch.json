@@ -1,0 +1,101 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "flinch",
+            "pos": "verb",
+            "ts": "flɪnʧ",
+            "tr": [
+                {
+                    "text": "вздрагивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вздрогнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "дрогнуть",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "содрогнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поморщиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "передернуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shudder"
+                        },
+                        {
+                            "text": "tremble"
+                        },
+                        {
+                            "text": "grimace"
+                        }
+                    ]
+                },
+                {
+                    "text": "уклоняться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "уклониться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shy"
+                        },
+                        {
+                            "text": "evade"
+                        }
+                    ]
+                },
+                {
+                    "text": "отступать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "recede"
+                        }
+                    ]
+                },
+                {
+                    "text": "отшатнуться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "отпрянуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "recoil"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

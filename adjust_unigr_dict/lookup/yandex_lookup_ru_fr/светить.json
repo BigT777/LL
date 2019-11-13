@@ -1,0 +1,64 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "светить",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "briller",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "luire",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "rayonner",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "сиять"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "светить до конца",
+                            "tr": [
+                                {
+                                    "text": "briller à travers"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "éclairer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "гореть"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "светить на землю",
+                            "tr": [
+                                {
+                                    "text": "éclairer la terre"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "donner la lumière",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

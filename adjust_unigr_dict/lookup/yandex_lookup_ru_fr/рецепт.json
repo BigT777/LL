@@ -1,0 +1,96 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "рецепт",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "recette",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "способ"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "оригинальный рецепт",
+                            "tr": [
+                                {
+                                    "text": "recette originale"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "prescription",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "ordonnance",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "пропись"
+                        },
+                        {
+                            "text": "назначение врача"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "по рецепт лекарства",
+                            "tr": [
+                                {
+                                    "text": "prescription drug"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "продавать без рецепта",
+                            "tr": [
+                                {
+                                    "text": "vendre sans ordonnance"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "formule",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "formulation",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "composition",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "формула"
+                        },
+                        {
+                            "text": "рецептура"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

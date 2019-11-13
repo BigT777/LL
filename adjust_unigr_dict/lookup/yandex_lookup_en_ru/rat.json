@@ -1,0 +1,77 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "rat",
+            "pos": "noun",
+            "ts": "ræt",
+            "tr": [
+                {
+                    "text": "крыса",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "крысенок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "white rat",
+                            "tr": [
+                                {
+                                    "text": "белая крыса"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "rat",
+            "pos": "adjective",
+            "ts": "ræt",
+            "tr": [
+                {
+                    "text": "крысиный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "мышиный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ratty"
+                        },
+                        {
+                            "text": "mouse"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rat poison",
+                            "tr": [
+                                {
+                                    "text": "крысиный яд"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "rat race",
+                            "tr": [
+                                {
+                                    "text": "мышиная возня"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

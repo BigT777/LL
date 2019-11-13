@@ -1,0 +1,155 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "consult",
+            "pos": "verb",
+            "ts": "kənˈsʌlt",
+            "tr": [
+                {
+                    "text": "консультироваться",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "советоваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "совещаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "проконсультироваться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "посоветоваться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "посовещаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "counsel"
+                        },
+                        {
+                            "text": "confer"
+                        },
+                        {
+                            "text": "talk"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "consult a physician",
+                            "tr": [
+                                {
+                                    "text": "проконсультироваться с врачом"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "consult a doctor",
+                            "tr": [
+                                {
+                                    "text": "посоветоваться с врачом"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "справляться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "справиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cope"
+                        },
+                        {
+                            "text": "manage"
+                        }
+                    ]
+                },
+                {
+                    "text": "обратиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "обращаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ask"
+                        },
+                        {
+                            "text": "contact"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "consult a specialist",
+                            "tr": [
+                                {
+                                    "text": "обратиться к специалистам"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "проконсультировать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "советовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "advise"
+                        }
+                    ]
+                },
+                {
+                    "text": "проводить консультации",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "провести консультации",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hold consultations"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

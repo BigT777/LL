@@ -1,0 +1,83 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "decrement",
+            "pos": "noun",
+            "ts": "ˈdekrɪmənt",
+            "tr": [
+                {
+                    "text": "уменьшение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "снижение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reduction"
+                        }
+                    ]
+                },
+                {
+                    "text": "декремент",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "декремент затухания",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "damping"
+                        }
+                    ]
+                },
+                {
+                    "text": "Демпфирование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "затухание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "attenuation"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "decrement",
+            "pos": "verb",
+            "ts": "ˈdekrɪmənt",
+            "tr": [
+                {
+                    "text": "уменьшать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "decrease"
+                        }
+                    ]
+                },
+                {
+                    "text": "декрементировать",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

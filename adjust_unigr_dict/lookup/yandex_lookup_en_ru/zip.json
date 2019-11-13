@@ -1,0 +1,149 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "zip",
+            "pos": "verb",
+            "ts": "zɪp",
+            "tr": [
+                {
+                    "text": "промелькнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "проноситься",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "пронестись",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flash"
+                        },
+                        {
+                            "text": "sweep"
+                        }
+                    ]
+                },
+                {
+                    "text": "заархивировать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "архивировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "archive"
+                        }
+                    ]
+                },
+                {
+                    "text": "застегивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "застегивать молнию",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "button"
+                        }
+                    ]
+                },
+                {
+                    "text": "сжать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "squeeze"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "zip",
+            "pos": "noun",
+            "ts": "zɪp",
+            "tr": [
+                {
+                    "text": "свист",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "свист пули",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "whistle"
+                        }
+                    ]
+                },
+                {
+                    "text": "почтовый индекс",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "индекс",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "postal code"
+                        },
+                        {
+                            "text": "index"
+                        }
+                    ]
+                },
+                {
+                    "text": "молния",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "lightning"
+                        }
+                    ]
+                },
+                {
+                    "text": "застежка-молния",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "zipper"
+                        }
+                    ]
+                },
+                {
+                    "text": "ЗИП",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "архиватор zip",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

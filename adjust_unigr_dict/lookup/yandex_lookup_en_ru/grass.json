@@ -1,0 +1,273 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "grass",
+            "pos": "noun",
+            "ts": "grɑːs",
+            "tr": [
+                {
+                    "text": "трава",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "зелень",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "травка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "herb"
+                        },
+                        {
+                            "text": "weed"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tall grass",
+                            "tr": [
+                                {
+                                    "text": "высокая трава"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fresh green grass",
+                            "tr": [
+                                {
+                                    "text": "свежая зеленая трава"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "yellow grass",
+                            "tr": [
+                                {
+                                    "text": "желтая травка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "травинка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "былинка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "blade of grass"
+                        },
+                        {
+                            "text": "blade"
+                        }
+                    ]
+                },
+                {
+                    "text": "газон",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "лужайка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "дерн",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "травяное покрытие",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lawn"
+                        },
+                        {
+                            "text": "turf"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "artificial grass",
+                            "tr": [
+                                {
+                                    "text": "искусственный газон"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "луг",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "meadow"
+                        }
+                    ]
+                },
+                {
+                    "text": "травостой",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "травяной покров",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "herbage"
+                        },
+                        {
+                            "text": "grass cover"
+                        }
+                    ]
+                },
+                {
+                    "text": "Грасс",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "злак",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "grain"
+                        }
+                    ]
+                },
+                {
+                    "text": "водоросль",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "seaweed"
+                        }
+                    ]
+                },
+                {
+                    "text": "разнотравье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "herbs"
+                        }
+                    ]
+                },
+                {
+                    "text": "сено",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "hay"
+                        }
+                    ]
+                },
+                {
+                    "text": "мурава",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "glaze"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "grass",
+            "pos": "adjective",
+            "ts": "grɑːs",
+            "tr": [
+                {
+                    "text": "травяной",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "травянистый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "herb"
+                        },
+                        {
+                            "text": "grassy"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "grass cover",
+                            "tr": [
+                                {
+                                    "text": "травяной покров"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "grass vegetation",
+                            "tr": [
+                                {
+                                    "text": "травянистая растительность"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "злаковый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "cereal"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "grass",
+            "pos": "verb",
+            "ts": "grɑːs",
+            "tr": [
+                {
+                    "text": "зарасти травой",
+                    "pos": "verb"
+                },
+                {
+                    "text": "засевать травой",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

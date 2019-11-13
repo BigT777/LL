@@ -1,0 +1,212 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sand",
+            "pos": "noun",
+            "ts": "sænd",
+            "tr": [
+                {
+                    "text": "песок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "песчаник",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "песочек",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grit"
+                        },
+                        {
+                            "text": "sandstone"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "very fine sand",
+                            "tr": [
+                                {
+                                    "text": "очень мелкий песок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "golden sand",
+                            "tr": [
+                                {
+                                    "text": "золотистый песочек"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "песчаный пляж",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "песчаная отмель",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sandy beach"
+                        },
+                        {
+                            "text": "sandbank"
+                        }
+                    ]
+                },
+                {
+                    "text": "песчинка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "grain"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "last grain of sand",
+                            "tr": [
+                                {
+                                    "text": "последняя песчинка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "песчаный грунт",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "sandy soil"
+                        }
+                    ]
+                },
+                {
+                    "text": "вынос песка",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "sand",
+            "pos": "adjective",
+            "ts": "sænd",
+            "tr": [
+                {
+                    "text": "песчаный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "песочный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sandy"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sand dune",
+                            "tr": [
+                                {
+                                    "text": "песчаная дюна"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "beautiful white sand beach",
+                            "tr": [
+                                {
+                                    "text": "прекрасный песчаный пляж"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sand tiger shark",
+                            "tr": [
+                                {
+                                    "text": "песчаная акула"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sand filter",
+                            "tr": [
+                                {
+                                    "text": "песочный фильтр"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пескоструйный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "sanding"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sand",
+            "pos": "verb",
+            "ts": "sænd",
+            "tr": [
+                {
+                    "text": "шлифовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "зашкурить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отшлифовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grind"
+                        },
+                        {
+                            "text": "polish"
+                        }
+                    ]
+                },
+                {
+                    "text": "шкурить",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "посыпать песком",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

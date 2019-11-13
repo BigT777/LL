@@ -1,0 +1,204 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "taint",
+            "pos": "verb",
+            "ts": "teɪnt",
+            "tr": [
+                {
+                    "text": "портить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "испортить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "омрачить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spoil"
+                        },
+                        {
+                            "text": "darken"
+                        }
+                    ]
+                },
+                {
+                    "text": "заражать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заразить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "заразиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "infect"
+                        }
+                    ]
+                },
+                {
+                    "text": "запятнать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "пятнать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tarnish"
+                        },
+                        {
+                            "text": "stain"
+                        }
+                    ]
+                },
+                {
+                    "text": "загрязнять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "contaminate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "taint",
+            "pos": "noun",
+            "ts": "teɪnt",
+            "tr": [
+                {
+                    "text": "пятно",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "stain"
+                        }
+                    ]
+                },
+                {
+                    "text": "испорченность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "depravity"
+                        }
+                    ]
+                },
+                {
+                    "text": "инфекция",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "зараза",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "infection"
+                        },
+                        {
+                            "text": "contagion"
+                        }
+                    ]
+                },
+                {
+                    "text": "налет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "оттенок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "привкус",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "plaque"
+                        },
+                        {
+                            "text": "tint"
+                        },
+                        {
+                            "text": "flavor"
+                        }
+                    ]
+                },
+                {
+                    "text": "порча",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "spoilage"
+                        }
+                    ]
+                },
+                {
+                    "text": "порок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "blemish"
+                        }
+                    ]
+                },
+                {
+                    "text": "душок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "whiff"
+                        }
+                    ]
+                },
+                {
+                    "text": "примесь",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "impurity"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

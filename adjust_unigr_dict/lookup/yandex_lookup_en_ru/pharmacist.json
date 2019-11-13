@@ -1,0 +1,76 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "pharmacist",
+            "pos": "noun",
+            "ts": "ˈfɑːməsɪst",
+            "tr": [
+                {
+                    "text": "фармацевт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "аптекарь",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "провизор",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "фармаколог",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "chemist"
+                        },
+                        {
+                            "text": "apothecary"
+                        },
+                        {
+                            "text": "pharmaceutist"
+                        },
+                        {
+                            "text": "pharmacologist"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "clinical pharmacist",
+                            "tr": [
+                                {
+                                    "text": "клинический фармацевт"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "local pharmacist",
+                            "tr": [
+                                {
+                                    "text": "местный аптекарь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "аптекарша",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "druggist"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

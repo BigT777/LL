@@ -1,0 +1,194 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "disrupt",
+            "pos": "verb",
+            "ts": "dɪsˈrʌpt",
+            "tr": [
+                {
+                    "text": "нарушать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "срывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "разрывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сорвать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "нарушаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "нарушиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разорвать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "violate"
+                        },
+                        {
+                            "text": "tear"
+                        },
+                        {
+                            "text": "break"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "disrupt the elections",
+                            "tr": [
+                                {
+                                    "text": "сорвать выборы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "разрушать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разрушить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "destroy"
+                        }
+                    ]
+                },
+                {
+                    "text": "подрывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подорвать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "undermine"
+                        }
+                    ]
+                },
+                {
+                    "text": "прервать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "прерывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "interrupt"
+                        }
+                    ]
+                },
+                {
+                    "text": "мешать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "interfere"
+                        }
+                    ]
+                },
+                {
+                    "text": "дезорганизовать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "дезорганизовывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "disorganize"
+                        }
+                    ]
+                },
+                {
+                    "text": "расстраивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "frustrate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "disrupt",
+            "pos": "noun",
+            "ts": "dɪsˈrʌpt",
+            "tr": [
+                {
+                    "text": "срыв",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "подрыв",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "disruption"
+                        },
+                        {
+                            "text": "undermine"
+                        }
+                    ]
+                },
+                {
+                    "text": "нарушение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "violation"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

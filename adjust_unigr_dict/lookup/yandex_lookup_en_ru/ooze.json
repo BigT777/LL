@@ -1,0 +1,131 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ooze",
+            "pos": "noun",
+            "ts": "uːz",
+            "tr": [
+                {
+                    "text": "тина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "tina"
+                        }
+                    ]
+                },
+                {
+                    "text": "Ил",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "слизь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "грязь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mucus"
+                        },
+                        {
+                            "text": "mud"
+                        }
+                    ]
+                },
+                {
+                    "text": "липкая грязь",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "sticky mud"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ooze",
+            "pos": "verb",
+            "ts": "uːz",
+            "tr": [
+                {
+                    "text": "источать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "exude"
+                        }
+                    ]
+                },
+                {
+                    "text": "сочиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "просачиваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "просочиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "утекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вытекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "seep"
+                        },
+                        {
+                            "text": "leak"
+                        },
+                        {
+                            "text": "flow"
+                        }
+                    ]
+                },
+                {
+                    "text": "выделять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "allocate"
+                        }
+                    ]
+                },
+                {
+                    "text": "истекать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "bleed"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

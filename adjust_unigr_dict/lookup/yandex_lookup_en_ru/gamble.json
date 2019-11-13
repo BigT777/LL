@@ -1,0 +1,139 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "gamble",
+            "pos": "noun",
+            "ts": "gæmbl",
+            "tr": [
+                {
+                    "text": "азартная игра",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "игра",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "азарт",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "gambling"
+                        },
+                        {
+                            "text": "game"
+                        }
+                    ]
+                },
+                {
+                    "text": "авантюра",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "спекуляция",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "adventure"
+                        },
+                        {
+                            "text": "speculation"
+                        }
+                    ]
+                },
+                {
+                    "text": "рискованное предприятие",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "venture"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "gamble",
+            "pos": "verb",
+            "ts": "gæmbl",
+            "tr": [
+                {
+                    "text": "рисковать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "take risks"
+                        }
+                    ]
+                },
+                {
+                    "text": "играть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сыграть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "играть на деньги",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "играть в казино",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "play"
+                        },
+                        {
+                            "text": "play for money"
+                        }
+                    ]
+                },
+                {
+                    "text": "спекулировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "speculate"
+                        }
+                    ]
+                },
+                {
+                    "text": "ставить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "put"
+                        }
+                    ]
+                },
+                {
+                    "text": "делать ставки",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "bet"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "воевать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "faire la guerre",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "повоевать"
+                        }
+                    ]
+                },
+                {
+                    "text": "combattre",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "lutter",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "guerroyer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "batailler",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "сражаться"
+                        },
+                        {
+                            "text": "вести войну"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "идти воевать",
+                            "tr": [
+                                {
+                                    "text": "aller combattre"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "combattante",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "сражаться"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

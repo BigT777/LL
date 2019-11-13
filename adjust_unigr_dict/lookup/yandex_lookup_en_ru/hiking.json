@@ -1,0 +1,86 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "hiking",
+            "pos": "adjective",
+            "ts": "ˈhaɪkɪŋ",
+            "tr": [
+                {
+                    "text": "походный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "camp"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hiking track",
+                            "tr": [
+                                {
+                                    "text": "походная тропа"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hiking",
+            "pos": "noun",
+            "ts": "ˈhaɪkɪŋ",
+            "tr": [
+                {
+                    "text": "туризм",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "пеший туризм",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tourism"
+                        },
+                        {
+                            "text": "backpacking"
+                        }
+                    ]
+                },
+                {
+                    "text": "пешая прогулка",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "прогулка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pedestrian walk"
+                        },
+                        {
+                            "text": "walking"
+                        }
+                    ]
+                },
+                {
+                    "text": "поход",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "hike"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "abolish",
+            "pos": "verb",
+            "ts": "əˈbɒlɪʃ",
+            "tr": [
+                {
+                    "text": "упразднять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "уничтожать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "ликвидировать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "уничтожить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "устранять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "eliminate"
+                        },
+                        {
+                            "text": "liquidate"
+                        }
+                    ]
+                },
+                {
+                    "text": "отменять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "аннулировать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "отменить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "упразднить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "revoke"
+                        },
+                        {
+                            "text": "annul"
+                        },
+                        {
+                            "text": "repeal"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "abolish slavery",
+                            "tr": [
+                                {
+                                    "text": "отменить рабство"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

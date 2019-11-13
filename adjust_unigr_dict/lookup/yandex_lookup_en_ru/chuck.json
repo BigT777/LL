@@ -1,0 +1,181 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "chuck",
+            "pos": "verb",
+            "ts": "ʧʌk",
+            "tr": [
+                {
+                    "text": "бросить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "бросать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выбросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "швырять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выкинуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "швырнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cast"
+                        },
+                        {
+                            "text": "throw"
+                        },
+                        {
+                            "text": "toss"
+                        }
+                    ]
+                },
+                {
+                    "text": "потрепать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "pat"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "chuck",
+            "pos": "noun",
+            "ts": "ʧʌk",
+            "tr": [
+                {
+                    "text": "зажимной патрон",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "патрон",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clamping chuck"
+                        },
+                        {
+                            "text": "cartridge"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "collet chuck",
+                            "tr": [
+                                {
+                                    "text": "цанговый патрон"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Чак",
+                    "pos": "noun",
+                    "gen": "м,ж"
+                },
+                {
+                    "text": "цыпленок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "chicken"
+                        }
+                    ]
+                },
+                {
+                    "text": "зажимное устройство",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "clamping device"
+                        }
+                    ]
+                },
+                {
+                    "text": "планшайба",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "faceplate"
+                        }
+                    ]
+                },
+                {
+                    "text": "полено",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "log"
+                        }
+                    ]
+                },
+                {
+                    "text": "зажимный патрон",
+                    "pos": "noun"
+                },
+                {
+                    "text": "цыпочка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "chick"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "chuck",
+            "pos": "adjective",
+            "ts": "ʧʌk",
+            "tr": [
+                {
+                    "text": "зажимной",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "зажимный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clamping"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "wager",
+            "pos": "noun",
+            "ts": "ˈweɪʤə",
+            "tr": [
+                {
+                    "text": "ставка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "пари",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "заклад",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bet"
+                        },
+                        {
+                            "text": "betting"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "amount of the wager",
+                            "tr": [
+                                {
+                                    "text": "сумма ставки"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "wager",
+            "pos": "verb",
+            "ts": "ˈweɪʤə",
+            "tr": [
+                {
+                    "text": "держать пари",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "сделать ставку",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "делать ставки",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "заключать пари",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "биться об заклад",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bet"
+                        }
+                    ]
+                },
+                {
+                    "text": "ставить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "put"
+                        }
+                    ]
+                },
+                {
+                    "text": "спорить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "argue"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

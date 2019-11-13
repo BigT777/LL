@@ -1,0 +1,55 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "reassert",
+            "pos": "verb",
+            "ts": "riːəˈsɜːt",
+            "tr": [
+                {
+                    "text": "подтвердить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "affirm"
+                        }
+                    ]
+                },
+                {
+                    "text": "подтверждать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вновь утвердить",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reaffirm"
+                        }
+                    ]
+                },
+                {
+                    "text": "восстановить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "восстанавливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "restore"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "stucco",
+            "pos": "noun",
+            "ts": "ˈstʌkəʊ",
+            "tr": [
+                {
+                    "text": "штукатурный гипс",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "plaster"
+                        }
+                    ]
+                },
+                {
+                    "text": "гипс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "штукатурка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "лепнина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "алебастр",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "gypsum"
+                        },
+                        {
+                            "text": "plaster"
+                        },
+                        {
+                            "text": "molding"
+                        },
+                        {
+                            "text": "alabaster"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "decorative stucco",
+                            "tr": [
+                                {
+                                    "text": "декоративная штукатурка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "stucco ceilings",
+                            "tr": [
+                                {
+                                    "text": "лепнина на потолке"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "лепка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "moulding"
+                        }
+                    ]
+                },
+                {
+                    "text": "стукко",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "наружная штукатурка",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "external plaster"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "stucco",
+            "pos": "verb",
+            "ts": "ˈstʌkəʊ",
+            "tr": [
+                {
+                    "text": "штукатурить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "plaster"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "stucco",
+            "pos": "adjective",
+            "ts": "ˈstʌkəʊ",
+            "tr": [
+                {
+                    "text": "лепной",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "штукатурный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "moldings"
+                        },
+                        {
+                            "text": "plaster"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "stucco decoration",
+                            "tr": [
+                                {
+                                    "text": "лепной декор"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

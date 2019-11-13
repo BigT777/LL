@@ -1,0 +1,184 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cripple",
+            "pos": "noun",
+            "ts": "krɪpl",
+            "tr": [
+                {
+                    "text": "калека",
+                    "pos": "noun",
+                    "gen": "м,ж",
+                    "syn": [
+                        {
+                            "text": "инвалид",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crippled"
+                        },
+                        {
+                            "text": "handicapped"
+                        }
+                    ]
+                },
+                {
+                    "text": "урон",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "damage"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cripple",
+            "pos": "verb",
+            "ts": "krɪpl",
+            "tr": [
+                {
+                    "text": "калечить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "искалечить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "покалечить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "уродовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "изуродовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "maim"
+                        },
+                        {
+                            "text": "disfigure"
+                        },
+                        {
+                            "text": "mutilate"
+                        }
+                    ]
+                },
+                {
+                    "text": "повредить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "повреждать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hurt"
+                        },
+                        {
+                            "text": "injure"
+                        }
+                    ]
+                },
+                {
+                    "text": "подорвать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "ослабить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "undermine"
+                        },
+                        {
+                            "text": "weaken"
+                        }
+                    ]
+                },
+                {
+                    "text": "нанести вред",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "наносить ущерб",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "нанести ущерб",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "наносить вред",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "harm"
+                        }
+                    ]
+                },
+                {
+                    "text": "парализовать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "paralyze"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cripple",
+            "pos": "adjective",
+            "ts": "krɪpl",
+            "tr": [
+                {
+                    "text": "увечный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "lame"
+                        }
+                    ]
+                },
+                {
+                    "text": "ущербный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "detrimental"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "пересылать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "transférer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "transmettre",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "relayer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "retransmettre",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "передавать"
+                        },
+                        {
+                            "text": "отправлять"
+                        },
+                        {
+                            "text": "посылать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "пересылать запросы",
+                            "tr": [
+                                {
+                                    "text": "transférer les requêtes"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "expédier",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "renvoyer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "отправлять"
+                        }
+                    ]
+                },
+                {
+                    "text": "acheminer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "отправлять"
+                        }
+                    ]
+                },
+                {
+                    "text": "partager",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "передавать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

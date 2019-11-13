@@ -1,0 +1,357 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "watch",
+            "pos": "verb",
+            "ts": "wɒʧ",
+            "tr": [
+                {
+                    "text": "смотреть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "посмотреть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "глядеть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "look"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "watch horror movies",
+                            "tr": [
+                                {
+                                    "text": "смотреть фильмы ужасов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "watch soap operas",
+                            "tr": [
+                                {
+                                    "text": "смотреть мыльные оперы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "watch the parade",
+                            "tr": [
+                                {
+                                    "text": "посмотреть парад"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "наблюдать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "следить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "observe"
+                        },
+                        {
+                            "text": "follow"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "watch the sunset",
+                            "tr": [
+                                {
+                                    "text": "наблюдать закат"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "watch the time",
+                            "tr": [
+                                {
+                                    "text": "следить за временем"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "бодрствовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "awake"
+                        }
+                    ]
+                },
+                {
+                    "text": "присматривать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "look"
+                        }
+                    ]
+                },
+                {
+                    "text": "сторожить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "караулить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "guard"
+                        }
+                    ]
+                },
+                {
+                    "text": "просматривать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "просмотреть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "view"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "watch the video",
+                            "tr": [
+                                {
+                                    "text": "просмотреть видео"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "watch",
+            "pos": "noun",
+            "ts": "wɒʧ",
+            "tr": [
+                {
+                    "text": "часы",
+                    "pos": "noun",
+                    "gen": "м",
+                    "num": "мн",
+                    "syn": [
+                        {
+                            "text": "наручные часы",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "часики",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clock"
+                        },
+                        {
+                            "text": "wristwatch"
+                        }
+                    ]
+                },
+                {
+                    "text": "вахта",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "дежурство",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "дозор",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shift"
+                        },
+                        {
+                            "text": "duty"
+                        },
+                        {
+                            "text": "patrol"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "night watch",
+                            "tr": [
+                                {
+                                    "text": "ночная вахта"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "constant watch",
+                            "tr": [
+                                {
+                                    "text": "постоянное дежурство"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "neighborhood watch",
+                            "tr": [
+                                {
+                                    "text": "соседский дозор"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "наблюдение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "observe"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "watch window",
+                            "tr": [
+                                {
+                                    "text": "окно наблюдения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "стража",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "guard"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "morning watch",
+                            "tr": [
+                                {
+                                    "text": "утренняя стража"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "просмотр",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "view"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "watch",
+            "pos": "adjective",
+            "ts": "wɒʧ",
+            "tr": [
+                {
+                    "text": "часовой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "сторожевой",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hourly"
+                        },
+                        {
+                            "text": "guard"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "watch repair shop",
+                            "tr": [
+                                {
+                                    "text": "часовая мастерская"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "watch manufacturing company",
+                            "tr": [
+                                {
+                                    "text": "часовая компания"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "watch dog",
+                            "tr": [
+                                {
+                                    "text": "сторожевой пес"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вахтенный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "log"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

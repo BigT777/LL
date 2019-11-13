@@ -1,0 +1,78 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "quack",
+            "pos": "noun",
+            "ts": "kwæk",
+            "tr": [
+                {
+                    "text": "шарлатан",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "мошенник",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "charlatan"
+                        },
+                        {
+                            "text": "swindler"
+                        }
+                    ]
+                },
+                {
+                    "text": "знахарь",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "лекарь",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "healer"
+                        }
+                    ]
+                },
+                {
+                    "text": "кряканье",
+                    "pos": "noun",
+                    "gen": "ср"
+                }
+            ]
+        },
+        {
+            "text": "quack",
+            "pos": "verb",
+            "ts": "kwæk",
+            "tr": [
+                {
+                    "text": "крякать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "крякнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grunt"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

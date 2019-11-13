@@ -1,0 +1,305 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "rest",
+            "pos": "noun",
+            "ts": "rest",
+            "tr": [
+                {
+                    "text": "остальное",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "otherwise"
+                        }
+                    ]
+                },
+                {
+                    "text": "отдых",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "holiday"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "active rest",
+                            "tr": [
+                                {
+                                    "text": "активный отдых"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "weekly rest period",
+                            "tr": [
+                                {
+                                    "text": "еженедельный отдых"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "покой",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "состояние покоя",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "peace"
+                        },
+                        {
+                            "text": "quiescent"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "electron rest mass",
+                            "tr": [
+                                {
+                                    "text": "масса покоя электрона"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "остаток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "оставшаяся часть",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "balance"
+                        },
+                        {
+                            "text": "remainder"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rest of her life",
+                            "tr": [
+                                {
+                                    "text": "остаток своей жизни"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "rest of that night",
+                            "tr": [
+                                {
+                                    "text": "остаток ночи"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "rest",
+            "pos": "verb",
+            "ts": "rest",
+            "tr": [
+                {
+                    "text": "отдыхать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "успокоиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отдохнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "передохнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "relax"
+                        },
+                        {
+                            "text": "calm"
+                        },
+                        {
+                            "text": "breath"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rest a little",
+                            "tr": [
+                                {
+                                    "text": "отдохнуть немного"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "лежать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "покоиться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lie"
+                        }
+                    ]
+                },
+                {
+                    "text": "опираться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "основываться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rely"
+                        },
+                        {
+                            "text": "base"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rest directly",
+                            "tr": [
+                                {
+                                    "text": "опираться непосредственно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "почивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "почить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sleep"
+                        },
+                        {
+                            "text": "repose"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rest on laurels",
+                            "tr": [
+                                {
+                                    "text": "почивать на лаврах"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "упираться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "упереться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "abut"
+                        },
+                        {
+                            "text": "lean"
+                        }
+                    ]
+                },
+                {
+                    "text": "возлагать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "lay"
+                        }
+                    ]
+                },
+                {
+                    "text": "основать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "build"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "rest",
+            "pos": "pronoun",
+            "ts": "rest",
+            "tr": [
+                {
+                    "text": "другие",
+                    "pos": "pronoun",
+                    "syn": [
+                        {
+                            "text": "прочие",
+                            "pos": "pronoun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "other"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

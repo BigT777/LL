@@ -1,0 +1,106 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "luminance",
+            "pos": "noun",
+            "ts": "ˈluːmɪnəns",
+            "tr": [
+                {
+                    "text": "яркость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "освещенность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "светимость",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "brightness"
+                        },
+                        {
+                            "text": "luminosity"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "luminance signal",
+                            "tr": [
+                                {
+                                    "text": "сигнал яркости"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "luminance level",
+                            "tr": [
+                                {
+                                    "text": "уровень освещенности"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "свечение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "luminescence"
+                        }
+                    ]
+                },
+                {
+                    "text": "сигнал яркости",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "luminance signal"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "luminance",
+            "pos": "adjective",
+            "ts": "ˈluːmɪnəns",
+            "tr": [
+                {
+                    "text": "яркостной",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "яркостный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "brightness"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "luminance temperature",
+                            "tr": [
+                                {
+                                    "text": "яркостная температура"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

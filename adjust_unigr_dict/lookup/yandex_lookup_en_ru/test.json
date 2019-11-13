@@ -1,0 +1,372 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "test",
+            "pos": "noun",
+            "ts": "test",
+            "tr": [
+                {
+                    "text": "испытание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "тест",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "проверка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "проба",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "тестирование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "экзамен",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "testing"
+                        },
+                        {
+                            "text": "benchmark"
+                        },
+                        {
+                            "text": "check"
+                        },
+                        {
+                            "text": "sample"
+                        },
+                        {
+                            "text": "exam"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "test method",
+                            "tr": [
+                                {
+                                    "text": "метод испытаний"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hydraulic pressure test",
+                            "tr": [
+                                {
+                                    "text": "гидравлическое испытание"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "underground nuclear test",
+                            "tr": [
+                                {
+                                    "text": "подземное ядерное испытание"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "flight test program",
+                            "tr": [
+                                {
+                                    "text": "программа летных испытаний"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ballistic missile test",
+                            "tr": [
+                                {
+                                    "text": "испытание баллистической ракеты"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "rapid diagnostic test",
+                            "tr": [
+                                {
+                                    "text": "быстрый диагностический тест"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "home pregnancy test",
+                            "tr": [
+                                {
+                                    "text": "тест на беременность"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "experimental test",
+                            "tr": [
+                                {
+                                    "text": "экспериментальная проверка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "tuberculin skin test",
+                            "tr": [
+                                {
+                                    "text": "туберкулиновая кожная проба"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "test plan",
+                            "tr": [
+                                {
+                                    "text": "план тестирования"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "oral test",
+                            "tr": [
+                                {
+                                    "text": "устный экзамен"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "анализ",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "analysis"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "qualitative test",
+                            "tr": [
+                                {
+                                    "text": "качественный анализ"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обследование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "examination"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "test",
+            "pos": "verb",
+            "ts": "test",
+            "tr": [
+                {
+                    "text": "тестировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "проверять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "протестировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "проверить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "опробовать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "апробировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "probe"
+                        },
+                        {
+                            "text": "check"
+                        },
+                        {
+                            "text": "try"
+                        },
+                        {
+                            "text": "approve"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "device under test",
+                            "tr": [
+                                {
+                                    "text": "тестируемое устройство"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "test ideas",
+                            "tr": [
+                                {
+                                    "text": "проверять идеи"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "test the hypothesis",
+                            "tr": [
+                                {
+                                    "text": "проверить предположение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "испытывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "испытать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "experience"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "test specimen",
+                            "tr": [
+                                {
+                                    "text": "испытываемый образец"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "test the theory",
+                            "tr": [
+                                {
+                                    "text": "испытать теорию"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "test",
+            "pos": "adjective",
+            "ts": "test",
+            "tr": [
+                {
+                    "text": "испытательный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "пробный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "контрольный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "тестовый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "testing"
+                        },
+                        {
+                            "text": "trial"
+                        },
+                        {
+                            "text": "check"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "automatic test equipment",
+                            "tr": [
+                                {
+                                    "text": "автоматическое испытательное оборудование"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "test run",
+                            "tr": [
+                                {
+                                    "text": "пробный пуск"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "test lamp",
+                            "tr": [
+                                {
+                                    "text": "контрольная лампа"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "test system",
+                            "tr": [
+                                {
+                                    "text": "тестовая система"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "опытный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "experimental"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "throb",
+            "pos": "verb",
+            "ts": "θrɒb",
+            "tr": [
+                {
+                    "text": "пульсировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "трепетать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pulsate"
+                        },
+                        {
+                            "text": "tremble"
+                        }
+                    ]
+                },
+                {
+                    "text": "биться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "стучать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "beat"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "throb",
+            "pos": "noun",
+            "ts": "θrɒb",
+            "tr": [
+                {
+                    "text": "биение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "пульсация",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "beating"
+                        },
+                        {
+                            "text": "pulsation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "heart throb",
+                            "tr": [
+                                {
+                                    "text": "пульсация сердца"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "трепет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "tremble"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

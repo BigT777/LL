@@ -1,0 +1,121 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "swipe",
+            "pos": "noun",
+            "ts": "swaɪp",
+            "tr": [
+                {
+                    "text": "сильный удар",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "bounce"
+                        }
+                    ]
+                },
+                {
+                    "text": "смахивание",
+                    "pos": "noun",
+                    "gen": "ср"
+                },
+                {
+                    "text": "взмах",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "sweep"
+                        }
+                    ]
+                },
+                {
+                    "text": "коромысло",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "rocker"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "swipe",
+            "pos": "verb",
+            "ts": "swaɪp",
+            "tr": [
+                {
+                    "text": "провести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "проводить",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hold"
+                        }
+                    ]
+                },
+                {
+                    "text": "красть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "украсть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "steal"
+                        }
+                    ]
+                },
+                {
+                    "text": "стащить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "стянуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drag"
+                        },
+                        {
+                            "text": "pull off"
+                        }
+                    ]
+                },
+                {
+                    "text": "стибрить",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "ударять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "hit"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

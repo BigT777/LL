@@ -1,0 +1,54 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "depend",
+            "pos": "verb",
+            "ts": "dɪˈpend",
+            "tr": [
+                {
+                    "text": "зависеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "полагаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "положиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rely"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "depend entirely",
+                            "tr": [
+                                {
+                                    "text": "зависеть целиком"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "рассчитывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "expect"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

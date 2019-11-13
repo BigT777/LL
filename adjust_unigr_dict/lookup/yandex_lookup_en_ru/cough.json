@@ -1,0 +1,148 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cough",
+            "pos": "noun",
+            "ts": "kɒf",
+            "tr": [
+                {
+                    "text": "кашель",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "покашливание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "сухой кашель",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "coughing"
+                        },
+                        {
+                            "text": "tussiculation"
+                        },
+                        {
+                            "text": "dry cough"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dry cough",
+                            "tr": [
+                                {
+                                    "text": "сухой кашель"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cough",
+            "pos": "verb",
+            "ts": "kɒf",
+            "tr": [
+                {
+                    "text": "кашлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "закашляться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "кашлянуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "закашлять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "покашливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "покашлять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "чихать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cough up"
+                        },
+                        {
+                            "text": "fit of coughing"
+                        },
+                        {
+                            "text": "sneeze"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cough up blood",
+                            "tr": [
+                                {
+                                    "text": "кашлять кровью"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отхаркивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выкашливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "откашливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ]
+                },
+                {
+                    "text": "откашляться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "прокашляться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clear the throat"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

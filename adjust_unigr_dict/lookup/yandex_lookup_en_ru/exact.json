@@ -1,0 +1,106 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "exact",
+            "pos": "adjective",
+            "ts": "ɪgˈzækt",
+            "tr": [
+                {
+                    "text": "точный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "правильный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "аккуратный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "четкий",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "accurate"
+                        },
+                        {
+                            "text": "correct"
+                        },
+                        {
+                            "text": "precise"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "exact definition",
+                            "tr": [
+                                {
+                                    "text": "четкое определение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "строгий",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "strict"
+                        }
+                    ]
+                },
+                {
+                    "text": "конкретный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "specific"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "exact requirements",
+                            "tr": [
+                                {
+                                    "text": "конкретные требования"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "exact",
+            "pos": "verb",
+            "ts": "ɪgˈzækt",
+            "tr": [
+                {
+                    "text": "взыскивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "взыскать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "collect"
+                        },
+                        {
+                            "text": "seek"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

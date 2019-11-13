@@ -1,0 +1,98 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "surmise",
+            "pos": "noun",
+            "ts": "səˈmaɪz",
+            "tr": [
+                {
+                    "text": "предположение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "догадка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "supposition"
+                        },
+                        {
+                            "text": "conjecture"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "surmise",
+            "pos": "verb",
+            "ts": "səˈmaɪz",
+            "tr": [
+                {
+                    "text": "предполагать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "предположить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "suppose"
+                        }
+                    ]
+                },
+                {
+                    "text": "подозревать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заподозрить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "suspect"
+                        }
+                    ]
+                },
+                {
+                    "text": "догадаться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "догадываться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "гадать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "guess"
+                        },
+                        {
+                            "text": "wonder"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

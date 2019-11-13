@@ -1,0 +1,67 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "expenses",
+            "pos": "noun",
+            "ts": "ɪkˈspensɪz",
+            "tr": [
+                {
+                    "text": "расходы",
+                    "pos": "noun",
+                    "gen": "м",
+                    "num": "мн",
+                    "syn": [
+                        {
+                            "text": "затраты",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "издержки",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cost"
+                        },
+                        {
+                            "text": "costs"
+                        }
+                    ]
+                },
+                {
+                    "text": "счет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "expense"
+                        }
+                    ]
+                },
+                {
+                    "text": "трата",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "waste"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "unexpected expenses",
+                            "tr": [
+                                {
+                                    "text": "непредвиденные траты"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

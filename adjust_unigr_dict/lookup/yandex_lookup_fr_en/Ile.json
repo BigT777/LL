@@ -1,0 +1,48 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "Ile",
+            "pos": "noun",
+            "gen": "m",
+            "ts": "il",
+            "tr": [
+                {
+                    "text": "Isle",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "île"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "île",
+            "pos": "noun",
+            "gen": "f",
+            "ts": "il",
+            "tr": [
+                {
+                    "text": "island",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "Isle",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "insulaire"
+                        },
+                        {
+                            "text": "Ile"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

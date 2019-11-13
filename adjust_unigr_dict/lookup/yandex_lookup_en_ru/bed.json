@@ -1,0 +1,330 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "bed",
+            "pos": "noun",
+            "ts": "bed",
+            "tr": [
+                {
+                    "text": "кровать",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "койка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "постель",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "ложе",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "спальное место",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "кроватка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "одр",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "кушетка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cot"
+                        },
+                        {
+                            "text": "bunk"
+                        },
+                        {
+                            "text": "bedside"
+                        },
+                        {
+                            "text": "couch"
+                        },
+                        {
+                            "text": "berth"
+                        },
+                        {
+                            "text": "bassinet"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "single bed",
+                            "tr": [
+                                {
+                                    "text": "односпальная кровать"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "children's bed",
+                            "tr": [
+                                {
+                                    "text": "детская кровать"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "large double bed",
+                            "tr": [
+                                {
+                                    "text": "двуспальная кровать"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "set of bunk beds",
+                            "tr": [
+                                {
+                                    "text": "двухъярусная кровать"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hospital bed",
+                            "tr": [
+                                {
+                                    "text": "больничная койка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "nice soft bed",
+                            "tr": [
+                                {
+                                    "text": "мягкая постель"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "nail bed",
+                            "tr": [
+                                {
+                                    "text": "ногтевое ложе"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "baby bed",
+                            "tr": [
+                                {
+                                    "text": "детская кроватка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дно",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "bottom"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sea bed",
+                            "tr": [
+                                {
+                                    "text": "морское дно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "клумба",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "грядка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flower bed"
+                        },
+                        {
+                            "text": "patch"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "flower bed",
+                            "tr": [
+                                {
+                                    "text": "цветочная клумба"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "vegetable bed",
+                            "tr": [
+                                {
+                                    "text": "овощная грядка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "слой",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "пласт",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "layer"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "coal bed",
+                            "tr": [
+                                {
+                                    "text": "угольный пласт"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ночлег",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "русло",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "channel"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "vascular bed",
+                            "tr": [
+                                {
+                                    "text": "сосудистое русло"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "станина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "frame"
+                        }
+                    ]
+                },
+                {
+                    "text": "полотно",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "cloth"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "road bed",
+                            "tr": [
+                                {
+                                    "text": "дорожное полотно"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bed",
+            "pos": "adjective",
+            "ts": "bed",
+            "tr": [
+                {
+                    "text": "постельный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "bedclothes"
+                        }
+                    ]
+                },
+                {
+                    "text": "коечный",
+                    "pos": "adjective"
+                },
+                {
+                    "text": "кроватный",
+                    "pos": "adjective"
+                }
+            ]
+        },
+        {
+            "text": "bed",
+            "pos": "verb",
+            "ts": "bed",
+            "tr": [
+                {
+                    "text": "спать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "dream"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bed at night",
+                            "tr": [
+                                {
+                                    "text": "спать ночью"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

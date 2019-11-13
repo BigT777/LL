@@ -1,0 +1,233 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "brew",
+            "pos": "verb",
+            "ts": "bruː",
+            "tr": [
+                {
+                    "text": "варить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "приготовить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сварить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cook"
+                        },
+                        {
+                            "text": "prepare"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "brew potions",
+                            "tr": [
+                                {
+                                    "text": "варить зелья"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "заваривать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заварить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "make"
+                        }
+                    ]
+                },
+                {
+                    "text": "назревать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "назреть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mature"
+                        }
+                    ]
+                },
+                {
+                    "text": "настояться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "insist"
+                        }
+                    ]
+                },
+                {
+                    "text": "варить пиво",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "brew beer"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "brew",
+            "pos": "noun",
+            "ts": "bruː",
+            "tr": [
+                {
+                    "text": "напиток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "бражка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "пиво",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drink"
+                        },
+                        {
+                            "text": "beer"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "home brew",
+                            "tr": [
+                                {
+                                    "text": "домашнее пиво"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "варево",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "concoction"
+                        }
+                    ]
+                },
+                {
+                    "text": "варка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "cooking"
+                        }
+                    ]
+                },
+                {
+                    "text": "заварка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "заваривание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tea"
+                        },
+                        {
+                            "text": "brewing"
+                        }
+                    ]
+                },
+                {
+                    "text": "настой",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "infusion"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "strong brew",
+                            "tr": [
+                                {
+                                    "text": "крепкий настой"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "самогон",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "moonshine"
+                        }
+                    ]
+                },
+                {
+                    "text": "опара",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "dough"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "brew",
+            "pos": "adjective",
+            "ts": "bruː",
+            "tr": [
+                {
+                    "text": "сусловарочный",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

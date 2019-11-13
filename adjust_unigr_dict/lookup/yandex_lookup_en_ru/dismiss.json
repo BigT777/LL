@@ -1,0 +1,341 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "dismiss",
+            "pos": "verb",
+            "ts": "dɪsˈmɪs",
+            "tr": [
+                {
+                    "text": "увольнять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "уволить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "уволиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "увольнять с работы",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sack"
+                        },
+                        {
+                            "text": "fire"
+                        },
+                        {
+                            "text": "resign"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dismiss employees",
+                            "tr": [
+                                {
+                                    "text": "увольнять сотрудников"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отвергать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отклонять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отклонить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отвергнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отказать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отмахнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отбросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отметать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "отмахиваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отмести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сбрасывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отбрасывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reject"
+                        },
+                        {
+                            "text": "refuse"
+                        },
+                        {
+                            "text": "brush aside"
+                        },
+                        {
+                            "text": "discard"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dismiss the complaint",
+                            "tr": [
+                                {
+                                    "text": "отклонять жалобу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "dismiss the case",
+                            "tr": [
+                                {
+                                    "text": "отклонить иск"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "освобождать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "освободить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "exempt"
+                        },
+                        {
+                            "text": "release"
+                        }
+                    ]
+                },
+                {
+                    "text": "распускать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "распустить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dissolve"
+                        }
+                    ]
+                },
+                {
+                    "text": "отпускать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отпустить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "let go"
+                        }
+                    ]
+                },
+                {
+                    "text": "отрицать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "опровергать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "deny"
+                        },
+                        {
+                            "text": "refute"
+                        }
+                    ]
+                },
+                {
+                    "text": "снять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "withdraw"
+                        }
+                    ]
+                },
+                {
+                    "text": "прекратить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "terminate"
+                        }
+                    ]
+                },
+                {
+                    "text": "закрыть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "close"
+                        }
+                    ]
+                },
+                {
+                    "text": "игнорировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сбрасывать со счетов",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ignore"
+                        },
+                        {
+                            "text": "disregard"
+                        }
+                    ]
+                },
+                {
+                    "text": "сместить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "displace"
+                        }
+                    ]
+                },
+                {
+                    "text": "отстранять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "remove"
+                        }
+                    ]
+                },
+                {
+                    "text": "прогнать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "отогнать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "banish"
+                        },
+                        {
+                            "text": "drive away"
+                        }
+                    ]
+                },
+                {
+                    "text": "освобождать от должности",
+                    "pos": "verb"
+                },
+                {
+                    "text": "отчислить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "deduct"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dismiss",
+            "pos": "noun",
+            "ts": "dɪsˈmɪs",
+            "tr": [
+                {
+                    "text": "увольнение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "dismissal"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

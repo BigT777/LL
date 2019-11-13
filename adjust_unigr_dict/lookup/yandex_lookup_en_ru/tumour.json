@@ -1,0 +1,98 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "tumour",
+            "pos": "noun",
+            "ts": "ˈtjuːmə",
+            "tr": [
+                {
+                    "text": "опухоль",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "новообразование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "тумор",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "злокачественная опухоль",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tumor"
+                        },
+                        {
+                            "text": "neoplasm"
+                        },
+                        {
+                            "text": "malignant tumor"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "primary tumour",
+                            "tr": [
+                                {
+                                    "text": "первичная опухоль"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "benign tumours",
+                            "tr": [
+                                {
+                                    "text": "доброкачественные новообразования"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "нарост",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "outgrowth"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "tumour",
+            "pos": "adjective",
+            "ts": "ˈtjuːmə",
+            "tr": [
+                {
+                    "text": "опухолевый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "tumor"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tumour cell",
+                            "tr": [
+                                {
+                                    "text": "опухолевая клетка"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "tattoo",
+            "pos": "noun",
+            "ts": "ˈtætuː",
+            "tr": [
+                {
+                    "text": "татуировка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "тату",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "татуаж",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "наколка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tattooing"
+                        },
+                        {
+                            "text": "headdress"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tribal tattoo",
+                            "tr": [
+                                {
+                                    "text": "племенная татуировка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "нанесение татуировки",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "tattoo",
+            "pos": "verb",
+            "ts": "ˈtætuː",
+            "tr": [
+                {
+                    "text": "татуировать",
+                    "pos": "verb"
+                },
+                {
+                    "text": "вытатуировать",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "делать татуировку",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

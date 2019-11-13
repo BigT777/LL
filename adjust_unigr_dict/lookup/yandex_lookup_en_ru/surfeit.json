@@ -1,0 +1,89 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "surfeit",
+            "pos": "noun",
+            "ts": "ˈsɜːfɪt",
+            "tr": [
+                {
+                    "text": "избыток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "излишек",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "неумеренность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "избыточность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "excess"
+                        },
+                        {
+                            "text": "surplus"
+                        }
+                    ]
+                },
+                {
+                    "text": "пресыщение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "satiety"
+                        }
+                    ]
+                },
+                {
+                    "text": "переедание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "overeat"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "surfeit",
+            "pos": "verb",
+            "ts": "ˈsɜːfɪt",
+            "tr": [
+                {
+                    "text": "переедать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "overeat"
+                        }
+                    ]
+                },
+                {
+                    "text": "пресытиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "satiate"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

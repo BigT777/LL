@@ -1,0 +1,373 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "wear",
+            "pos": "verb",
+            "ts": "weə",
+            "fl": "wore, worn",
+            "tr": [
+                {
+                    "text": "носить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "надевать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "надеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "одеваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "облачиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поносить",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "carry"
+                        },
+                        {
+                            "text": "put on"
+                        },
+                        {
+                            "text": "dress"
+                        },
+                        {
+                            "text": "revile"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "wear glasses",
+                            "tr": [
+                                {
+                                    "text": "носить очки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "wear contact lenses",
+                            "tr": [
+                                {
+                                    "text": "носить контактные линзы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "wear hearing aids",
+                            "tr": [
+                                {
+                                    "text": "носить слуховой аппарат"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "wear long hair",
+                            "tr": [
+                                {
+                                    "text": "носить длинные волосы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "wear a helmet",
+                            "tr": [
+                                {
+                                    "text": "надевать шлем"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "wear a collar",
+                            "tr": [
+                                {
+                                    "text": "надеть ошейник"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "стираться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "стереться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "стирать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "erase"
+                        },
+                        {
+                            "text": "wash"
+                        }
+                    ]
+                },
+                {
+                    "text": "износиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "износить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wear out"
+                        },
+                        {
+                            "text": "fray"
+                        }
+                    ]
+                },
+                {
+                    "text": "ходить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "walk"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "wear skirts",
+                            "tr": [
+                                {
+                                    "text": "ходить в юбке"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "изнашиваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "wear out"
+                        }
+                    ]
+                },
+                {
+                    "text": "измотать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "exhaust"
+                        }
+                    ]
+                },
+                {
+                    "text": "нацепить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "fasten"
+                        }
+                    ]
+                },
+                {
+                    "text": "смягчаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "soften"
+                        }
+                    ]
+                },
+                {
+                    "text": "донашивать",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "протоптать",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "wear",
+            "pos": "noun",
+            "ts": "weə",
+            "tr": [
+                {
+                    "text": "одежда",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "clothes"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lady's wear",
+                            "tr": [
+                                {
+                                    "text": "женская одежда"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "men's wear",
+                            "tr": [
+                                {
+                                    "text": "мужская одежда"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "children's wear",
+                            "tr": [
+                                {
+                                    "text": "детская одежда"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "women's wear",
+                            "tr": [
+                                {
+                                    "text": "женская одежда"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "износ",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "изнашивание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "носка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wearing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "normal wear",
+                            "tr": [
+                                {
+                                    "text": "нормальный износ"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "abrasive wear",
+                            "tr": [
+                                {
+                                    "text": "абразивное изнашивание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ношение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "wearing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "permanent wear",
+                            "tr": [
+                                {
+                                    "text": "постоянное ношение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "износостойкость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "wear resistance"
+                        }
+                    ]
+                },
+                {
+                    "text": "истирание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "abrasion"
+                        }
+                    ]
+                },
+                {
+                    "text": "изношенность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "deterioration"
+                        }
+                    ]
+                },
+                {
+                    "text": "физический износ",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "physical wear"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

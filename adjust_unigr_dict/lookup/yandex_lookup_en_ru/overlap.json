@@ -1,0 +1,302 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "overlap",
+            "pos": "noun",
+            "ts": "əʊvəˈlæp",
+            "tr": [
+                {
+                    "text": "перекрытие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "перекрывание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "совмещение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "нахлест",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "нахлестка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "overlapping"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "overlap integral",
+                            "tr": [
+                                {
+                                    "text": "интеграл перекрытия"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "наложение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "накладка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "overlay"
+                        }
+                    ]
+                },
+                {
+                    "text": "совпадение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "частичное совпадение",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "coincidence"
+                        },
+                        {
+                            "text": "partial match"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "partial overlap",
+                            "tr": [
+                                {
+                                    "text": "частичное совпадение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дублирование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "duplication"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "overlapping functions",
+                            "tr": [
+                                {
+                                    "text": "дублирование функций"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "параллелизм",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "перехлест",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "parallelism"
+                        }
+                    ]
+                },
+                {
+                    "text": "пересечение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "intersection"
+                        }
+                    ]
+                },
+                {
+                    "text": "напуск",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "lap"
+                        }
+                    ]
+                },
+                {
+                    "text": "частичное наложение",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "overlap",
+            "pos": "verb",
+            "ts": "əʊvəˈlæp",
+            "tr": [
+                {
+                    "text": "перекрывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "перекрыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пересекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "block"
+                        },
+                        {
+                            "text": "cross"
+                        }
+                    ]
+                },
+                {
+                    "text": "частично покрывать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "partially cover"
+                        }
+                    ]
+                },
+                {
+                    "text": "накладывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "наложить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "impose"
+                        }
+                    ]
+                },
+                {
+                    "text": "совпадать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "совмещаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "coincide"
+                        },
+                        {
+                            "text": "combine"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "overlapping jurisdiction",
+                            "tr": [
+                                {
+                                    "text": "частично совпадающая юрисдикция"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "перекрывать друг друга",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "дублировать друг друга",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "duplicate each other"
+                        }
+                    ]
+                },
+                {
+                    "text": "дублировать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "duplicate"
+                        }
+                    ]
+                },
+                {
+                    "text": "частично совпадать",
+                    "pos": "verb"
+                },
+                {
+                    "text": "перекликаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "переплетаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "call"
+                        },
+                        {
+                            "text": "intertwine"
+                        }
+                    ]
+                },
+                {
+                    "text": "налегать",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        }
+    ]
+}

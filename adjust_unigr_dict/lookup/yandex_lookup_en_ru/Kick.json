@@ -1,0 +1,235 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "kick",
+            "pos": "noun",
+            "ts": "kɪk",
+            "tr": [
+                {
+                    "text": "пинок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "удар ногой",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "толчок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "boot"
+                        },
+                        {
+                            "text": "kicking"
+                        },
+                        {
+                            "text": "push"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "powerful kick",
+                            "tr": [
+                                {
+                                    "text": "мощный пинок"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "удар",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "штрафной удар",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hit"
+                        },
+                        {
+                            "text": "penalty kick"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "free kick",
+                            "tr": [
+                                {
+                                    "text": "свободный удар"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "кайф",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "buzz"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "kick",
+            "pos": "verb",
+            "ts": "kɪk",
+            "tr": [
+                {
+                    "text": "пинать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "лягать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "лягнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shove"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "kick a ball",
+                            "tr": [
+                                {
+                                    "text": "пинать мяч"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ударять ногой",
+                    "pos": "verb"
+                },
+                {
+                    "text": "выгнать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "вышвырнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выкинуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выгонять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сбросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вышвыривать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "throw"
+                        },
+                        {
+                            "text": "expel"
+                        }
+                    ]
+                },
+                {
+                    "text": "бить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ударить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "ударять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hit"
+                        }
+                    ]
+                },
+                {
+                    "text": "брыкаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "брыкать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "buck"
+                        }
+                    ]
+                },
+                {
+                    "text": "толкнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "push"
+                        }
+                    ]
+                },
+                {
+                    "text": "отбросить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "throw"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

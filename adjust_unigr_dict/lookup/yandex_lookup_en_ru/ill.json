@@ -1,0 +1,247 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ill",
+            "pos": "adjective",
+            "ts": "ɪl",
+            "tr": [
+                {
+                    "text": "дурной",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "злой",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "вредный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "худо",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bad"
+                        },
+                        {
+                            "text": "evil"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ill fame",
+                            "tr": [
+                                {
+                                    "text": "дурная слава"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ill will",
+                            "tr": [
+                                {
+                                    "text": "злая воля"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ill effect",
+                            "tr": [
+                                {
+                                    "text": "вредное воздействие"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "плохо",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "amiss"
+                        }
+                    ]
+                },
+                {
+                    "text": "больной",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "тяжело больной",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "patient"
+                        },
+                        {
+                            "text": "seriously ill"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "seriously ill",
+                            "tr": [
+                                {
+                                    "text": "тяжело больной"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mentally ill person",
+                            "tr": [
+                                {
+                                    "text": "психически больной"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "нездоровый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "болезненный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sick"
+                        }
+                    ]
+                },
+                {
+                    "text": "жестокий",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "cruel"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ill treatment",
+                            "tr": [
+                                {
+                                    "text": "жестокое обращение"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ill",
+            "pos": "noun",
+            "ts": "ɪl",
+            "tr": [
+                {
+                    "text": "заболевание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "болезнь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "недуг",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "illness"
+                        }
+                    ]
+                },
+                {
+                    "text": "зло",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "evil"
+                        }
+                    ]
+                },
+                {
+                    "text": "беда",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "trouble"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "social ills",
+                            "tr": [
+                                {
+                                    "text": "социальные беды"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ill",
+            "pos": "adverb",
+            "ts": "ɪl",
+            "tr": [
+                {
+                    "text": "дурно",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "badly"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ill",
+            "pos": "participle",
+            "ts": "ɪl",
+            "tr": [
+                {
+                    "text": "заболевший",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "diseased"
+                        }
+                    ]
+                },
+                {
+                    "text": "болящий",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "sick"
+                        }
+                    ]
+                },
+                {
+                    "text": "заболевающий",
+                    "pos": "participle"
+                }
+            ]
+        }
+    ]
+}

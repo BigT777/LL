@@ -1,0 +1,90 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "barley",
+            "pos": "noun",
+            "ts": "ˈbɑːlɪ",
+            "tr": [
+                {
+                    "text": "ячмень",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "крупа",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "ячневая крупа",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sty"
+                        },
+                        {
+                            "text": "cereal"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "winter barley",
+                            "tr": [
+                                {
+                                    "text": "озимый ячмень"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пивоваренный ячмень",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "malting barley"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "barley",
+            "pos": "adjective",
+            "ts": "ˈbɑːlɪ",
+            "tr": [
+                {
+                    "text": "ячменный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "перловый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "loaf of barley bread",
+                            "tr": [
+                                {
+                                    "text": "круглый ячменный хлеб"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "barley porridge",
+                            "tr": [
+                                {
+                                    "text": "перловая каша"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

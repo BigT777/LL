@@ -1,0 +1,398 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "release",
+            "pos": "verb",
+            "ts": "rɪˈliːs",
+            "tr": [
+                {
+                    "text": "выпускать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выпустить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "produce"
+                        },
+                        {
+                            "text": "issue"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "release albums",
+                            "tr": [
+                                {
+                                    "text": "выпускать альбомы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "release the arrow",
+                            "tr": [
+                                {
+                                    "text": "выпустить стрелу"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "освобождать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "высвобождать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "освободить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "высвободить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "free"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "release hostages",
+                            "tr": [
+                                {
+                                    "text": "освободить заложников"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "release funds",
+                            "tr": [
+                                {
+                                    "text": "высвободить средства"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отпускать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отпустить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "let"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "release the brake",
+                            "tr": [
+                                {
+                                    "text": "отпустить тормоз"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "опубликовать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "обнародовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "издать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "издавать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "publish"
+                        }
+                    ]
+                },
+                {
+                    "text": "выделять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "provide"
+                        }
+                    ]
+                },
+                {
+                    "text": "высвободиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "liberate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "release",
+            "pos": "noun",
+            "ts": "rɪˈliːs",
+            "tr": [
+                {
+                    "text": "релиз",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "выпуск",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "issue"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "official release date",
+                            "tr": [
+                                {
+                                    "text": "официальный релиз"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "last stable release",
+                            "tr": [
+                                {
+                                    "text": "последний стабильный релиз"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "release of new products",
+                            "tr": [
+                                {
+                                    "text": "выпуск новой продукции"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "release of this model",
+                            "tr": [
+                                {
+                                    "text": "выпуск этой модели"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "освобождение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "высвобождение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "liberation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "paper release lever",
+                            "tr": [
+                                {
+                                    "text": "рычаг освобождения бумаги"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "release of political detainees",
+                            "tr": [
+                                {
+                                    "text": "освобождение политических заключенных"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "conditional release",
+                            "tr": [
+                                {
+                                    "text": "условное освобождение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "controlled release",
+                            "tr": [
+                                {
+                                    "text": "контролируемое высвобождение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отпускание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "releasing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "key release",
+                            "tr": [
+                                {
+                                    "text": "отпускание клавиши"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "версия",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "version"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "next major release",
+                            "tr": [
+                                {
+                                    "text": "следующая версия"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выход",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "exit"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "possible release",
+                            "tr": [
+                                {
+                                    "text": "возможный выход"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выброс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "emission"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "release of hazardous substances",
+                            "tr": [
+                                {
+                                    "text": "выброс вредных веществ"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отпуск",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "vacation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "immediate release",
+                            "tr": [
+                                {
+                                    "text": "немедленный отпуск"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "попуск",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "flush"
+                        }
+                    ]
+                },
+                {
+                    "text": "расцепитель",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "trip"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

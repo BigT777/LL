@@ -1,0 +1,136 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "стоянка",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "parking",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "stationnement",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "parc",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "parcage",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "парковка"
+                        },
+                        {
+                            "text": "остановка"
+                        },
+                        {
+                            "text": "парк"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "подземная стоянка",
+                            "tr": [
+                                {
+                                    "text": "fermé parking souterrain"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "mouillage",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "причал"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "место стоянки",
+                            "tr": [
+                                {
+                                    "text": "place de mouillage"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "station",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "arrêt",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "halte",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "relâche",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "остановка"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "стоянки такси",
+                            "tr": [
+                                {
+                                    "text": "stations de taxi"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "стоянка такси",
+                            "tr": [
+                                {
+                                    "text": "arrêt de taxi"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "tarmac",
+                    "pos": "noun",
+                    "gen": "m"
+                },
+                {
+                    "text": "camp",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "кемпинг"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

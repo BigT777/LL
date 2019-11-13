@@ -1,0 +1,240 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "execute",
+            "pos": "verb",
+            "ts": "ˈeksɪkjuːt",
+            "tr": [
+                {
+                    "text": "выполнять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "исполнять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "осуществлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "реализовать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "совершать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выполнить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "исполнить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "производить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "осуществить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "произвести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "совершить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "perform"
+                        },
+                        {
+                            "text": "implement"
+                        },
+                        {
+                            "text": "produce"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "execute the code",
+                            "tr": [
+                                {
+                                    "text": "выполнять код"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "execute instructions",
+                            "tr": [
+                                {
+                                    "text": "исполнять инструкции"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "execute the task",
+                            "tr": [
+                                {
+                                    "text": "выполнить задание"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "execute the order",
+                            "tr": [
+                                {
+                                    "text": "исполнить заказ"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "казнить",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "расстрелять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "расстреливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "kill"
+                        },
+                        {
+                            "text": "shoot"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "execute people",
+                            "tr": [
+                                {
+                                    "text": "казнить людей"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "оформлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "prepare"
+                        }
+                    ]
+                },
+                {
+                    "text": "запустить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "запускать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "run"
+                        }
+                    ]
+                },
+                {
+                    "text": "проводить",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "провести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "carry"
+                        },
+                        {
+                            "text": "carry out"
+                        }
+                    ]
+                },
+                {
+                    "text": "выполниться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "run"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "execute",
+            "pos": "noun",
+            "ts": "ˈeksɪkjuːt",
+            "tr": [
+                {
+                    "text": "выполнение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "исполнение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "осуществление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "казнь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "execution"
+                        },
+                        {
+                            "text": "implement"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

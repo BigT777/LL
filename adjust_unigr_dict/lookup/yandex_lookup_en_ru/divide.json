@@ -1,0 +1,267 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "divide",
+            "pos": "verb",
+            "ts": "dɪˈvaɪd",
+            "tr": [
+                {
+                    "text": "делиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "делить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "разделять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "разделить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поделить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разделиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разбить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разбивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "расколоть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "share"
+                        },
+                        {
+                            "text": "split"
+                        },
+                        {
+                            "text": "break"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "divide in half",
+                            "tr": [
+                                {
+                                    "text": "делиться пополам"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "divide people",
+                            "tr": [
+                                {
+                                    "text": "разделять людей"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "divided society",
+                            "tr": [
+                                {
+                                    "text": "разделенное общество"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "divide the world",
+                            "tr": [
+                                {
+                                    "text": "поделить мир"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "divide into groups",
+                            "tr": [
+                                {
+                                    "text": "разделиться на группы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "подразделять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подразделить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "subdivide"
+                        }
+                    ]
+                },
+                {
+                    "text": "отделять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отделить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разъединять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "separate"
+                        }
+                    ]
+                },
+                {
+                    "text": "распределить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "распределять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "distribute"
+                        }
+                    ]
+                },
+                {
+                    "text": "расходиться",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "differ"
+                        }
+                    ]
+                },
+                {
+                    "text": "раскалывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "split"
+                        }
+                    ]
+                },
+                {
+                    "text": "расчленить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "dismember"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "divide",
+            "pos": "noun",
+            "ts": "dɪˈvaɪd",
+            "tr": [
+                {
+                    "text": "разделение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "раскол",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "деление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "split"
+                        },
+                        {
+                            "text": "dividing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "political divide",
+                            "tr": [
+                                {
+                                    "text": "политический раскол"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "divide by zero",
+                            "tr": [
+                                {
+                                    "text": "деление на ноль"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "водораздел",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "watershed"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "continental divide",
+                            "tr": [
+                                {
+                                    "text": "континентальный водораздел"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

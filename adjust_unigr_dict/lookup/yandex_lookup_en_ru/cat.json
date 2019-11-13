@@ -1,0 +1,118 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cat",
+            "pos": "noun",
+            "ts": "kæt",
+            "tr": [
+                {
+                    "text": "кошка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "кот",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "feline"
+                        },
+                        {
+                            "text": "male cat"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "domestic cat",
+                            "tr": [
+                                {
+                                    "text": "домашняя кошка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cats with blue eyes",
+                            "tr": [
+                                {
+                                    "text": "кошки с голубыми глазами"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "big black cat",
+                            "tr": [
+                                {
+                                    "text": "большой черный кот"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "котенок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "котик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "kitten"
+                        }
+                    ]
+                },
+                {
+                    "text": "кошечка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "киска",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "kitty"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cat",
+            "pos": "adjective",
+            "ts": "kæt",
+            "tr": [
+                {
+                    "text": "кошачий",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "feline"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dry cat food",
+                            "tr": [
+                                {
+                                    "text": "сухой кошачий корм"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

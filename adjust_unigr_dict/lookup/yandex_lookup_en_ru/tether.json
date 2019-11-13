@@ -1,0 +1,87 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "tether",
+            "pos": "verb",
+            "ts": "ˈteðə",
+            "tr": [
+                {
+                    "text": "привязать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "привязывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tie"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "tether",
+            "pos": "noun",
+            "ts": "ˈteðə",
+            "tr": [
+                {
+                    "text": "привязь",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "трос",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "фал",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "коновязь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "leash"
+                        },
+                        {
+                            "text": "rope"
+                        },
+                        {
+                            "text": "halyard"
+                        },
+                        {
+                            "text": "tethering"
+                        }
+                    ]
+                },
+                {
+                    "text": "страховочный трос",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "страховочный фал",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "safety cable"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

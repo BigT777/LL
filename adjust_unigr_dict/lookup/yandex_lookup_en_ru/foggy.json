@@ -1,0 +1,60 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "foggy",
+            "pos": "adjective",
+            "ts": "ˈfɒgɪ",
+            "tr": [
+                {
+                    "text": "туманный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "мутный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "мглистый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "misty"
+                        },
+                        {
+                            "text": "cloudy"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "foggy day",
+                            "tr": [
+                                {
+                                    "text": "туманный день"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "foggy",
+            "pos": "adverb",
+            "ts": "ˈfɒgɪ",
+            "tr": [
+                {
+                    "text": "в тумане",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "in a fog"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

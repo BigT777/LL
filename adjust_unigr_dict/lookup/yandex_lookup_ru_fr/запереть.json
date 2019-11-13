@@ -1,0 +1,73 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "запереть",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "enfermer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "verrouiller",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "fermer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "bloquer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "запирать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "запереть дверь",
+                            "tr": [
+                                {
+                                    "text": "verrouiller la porte"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "barrer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "barricader",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "загородить"
+                        }
+                    ]
+                },
+                {
+                    "text": "mettre sous clef",
+                    "pos": "verb"
+                },
+                {
+                    "text": "serrer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "закрепить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

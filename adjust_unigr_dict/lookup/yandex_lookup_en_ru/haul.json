@@ -1,0 +1,217 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "haul",
+            "pos": "verb",
+            "ts": "hɔːl",
+            "tr": [
+                {
+                    "text": "тащить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "тянуть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "таскать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "потянуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "потащить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выволочь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drag"
+                        },
+                        {
+                            "text": "pull"
+                        }
+                    ]
+                },
+                {
+                    "text": "перевозить",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "доставлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "транспортировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "transport"
+                        }
+                    ]
+                },
+                {
+                    "text": "возить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "везти",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подвозить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "carry"
+                        },
+                        {
+                            "text": "bring"
+                        }
+                    ]
+                },
+                {
+                    "text": "буксировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отбуксировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tow"
+                        }
+                    ]
+                },
+                {
+                    "text": "вывозить",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "take out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "haul",
+            "pos": "noun",
+            "ts": "hɔːl",
+            "tr": [
+                {
+                    "text": "перевозка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "перегон",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "transportation"
+                        },
+                        {
+                            "text": "driving"
+                        }
+                    ]
+                },
+                {
+                    "text": "улов",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "лов",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "catch"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rich haul",
+                            "tr": [
+                                {
+                                    "text": "богатый улов"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "рейс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "flight"
+                        }
+                    ]
+                },
+                {
+                    "text": "расстояние",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "distance"
+                        }
+                    ]
+                },
+                {
+                    "text": "рывок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "jerk"
+                        }
+                    ]
+                },
+                {
+                    "text": "трофей",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "trophy"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

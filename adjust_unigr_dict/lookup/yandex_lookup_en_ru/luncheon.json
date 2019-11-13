@@ -1,0 +1,82 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "luncheon",
+            "pos": "noun",
+            "ts": "ˈlʌnʧən",
+            "tr": [
+                {
+                    "text": "завтрак",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "обед",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "ланч",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "ленч",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "второй завтрак",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "легкий завтрак",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lunch"
+                        },
+                        {
+                            "text": "light breakfast"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "light luncheon",
+                            "tr": [
+                                {
+                                    "text": "легкий завтрак"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "торжественный обед",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "официальный завтрак",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "официальный обед",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dinner"
+                        },
+                        {
+                            "text": "official dinner"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

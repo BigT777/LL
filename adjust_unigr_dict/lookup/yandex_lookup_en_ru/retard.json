@@ -1,0 +1,159 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "retard",
+            "pos": "verb",
+            "ts": "rɪˈtɑːd",
+            "tr": [
+                {
+                    "text": "замедлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "тормозить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "замедлить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "затормозить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "затормаживать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "slow down"
+                        },
+                        {
+                            "text": "slow"
+                        },
+                        {
+                            "text": "inhibit"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "retarding force",
+                            "tr": [
+                                {
+                                    "text": "тормозящая сила"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "задерживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "задержать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "detain"
+                        }
+                    ]
+                },
+                {
+                    "text": "сдерживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "restrain"
+                        }
+                    ]
+                },
+                {
+                    "text": "оттягивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "delay"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "retard",
+            "pos": "noun",
+            "ts": "rɪˈtɑːd",
+            "tr": [
+                {
+                    "text": "задержка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "delay"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "retarded development",
+                            "tr": [
+                                {
+                                    "text": "задержка в развитии"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ретард",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "дебил",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "moron"
+                        }
+                    ]
+                },
+                {
+                    "text": "замедление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "slow"
+                        }
+                    ]
+                },
+                {
+                    "text": "тормоз",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "brake"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "effluent",
+            "pos": "participle",
+            "ts": "ˈeflʊənt",
+            "tr": [
+                {
+                    "text": "выходящий",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "вытекающий",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "entering"
+                        },
+                        {
+                            "text": "arising"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "effluent",
+            "pos": "adjective",
+            "ts": "ˈeflʊənt",
+            "tr": [
+                {
+                    "text": "сточный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "sewage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "effluent water",
+                            "tr": [
+                                {
+                                    "text": "сточная вода"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "effluent",
+            "pos": "noun",
+            "ts": "ˈeflʊənt",
+            "tr": [
+                {
+                    "text": "сток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "runoff"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "drainage effluent",
+                            "tr": [
+                                {
+                                    "text": "дренажный сток"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сброс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "выброс",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "discharge"
+                        },
+                        {
+                            "text": "emission"
+                        }
+                    ]
+                },
+                {
+                    "text": "сточная вода",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "фильтрат",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sewage water"
+                        },
+                        {
+                            "text": "filtrate"
+                        }
+                    ]
+                },
+                {
+                    "text": "отвод сточных вод",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

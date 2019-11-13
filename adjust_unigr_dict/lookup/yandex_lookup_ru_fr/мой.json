@@ -1,0 +1,54 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "мой",
+            "pos": "pronoun",
+            "tr": [
+                {
+                    "text": "mon",
+                    "pos": "determiner",
+                    "mean": [
+                        {
+                            "text": "свой"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "мое личное мнение",
+                            "tr": [
+                                {
+                                    "text": "mon opinion personnelle"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "mien",
+                    "pos": "pronoun",
+                    "mean": [
+                        {
+                            "text": "свой"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "мой",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "le mien",
+                    "pos": "verb"
+                },
+                {
+                    "text": "mon homme",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

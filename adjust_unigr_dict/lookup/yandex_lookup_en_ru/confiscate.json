@@ -1,0 +1,72 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "confiscate",
+            "pos": "verb",
+            "ts": "ˈkɒnfɪskeɪt",
+            "tr": [
+                {
+                    "text": "конфисковать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "реквизировать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "конфисковывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "изъять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "изымать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "seize"
+                        },
+                        {
+                            "text": "requisition"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "confiscate weapons",
+                            "tr": [
+                                {
+                                    "text": "конфисковать оружие"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "забрать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "забирать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "take away"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "inflict",
+            "pos": "verb",
+            "ts": "ɪnˈflɪkt",
+            "tr": [
+                {
+                    "text": "наносить",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "нанести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cause"
+                        }
+                    ]
+                },
+                {
+                    "text": "причинять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "причинить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hurt"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "inflict injury",
+                            "tr": [
+                                {
+                                    "text": "причинять вред"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "inflict pain",
+                            "tr": [
+                                {
+                                    "text": "причинить боль"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "налагать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "навязать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "наложить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "навязывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "impose"
+                        }
+                    ]
+                },
+                {
+                    "text": "навлечь",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "наслать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "incur"
+                        },
+                        {
+                            "text": "send"
+                        }
+                    ]
+                },
+                {
+                    "text": "подвергнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "expose"
+                        }
+                    ]
+                },
+                {
+                    "text": "учинить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "commit"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

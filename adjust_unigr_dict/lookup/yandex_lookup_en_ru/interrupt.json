@@ -1,0 +1,178 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "interrupt",
+            "pos": "verb",
+            "ts": "ɪntəˈrʌpt",
+            "tr": [
+                {
+                    "text": "нарушать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "violate"
+                        }
+                    ]
+                },
+                {
+                    "text": "прерывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "прервать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перебить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перебивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вмешаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "terminate"
+                        },
+                        {
+                            "text": "kill"
+                        },
+                        {
+                            "text": "interruption"
+                        },
+                        {
+                            "text": "intervene"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "interrupt the process",
+                            "tr": [
+                                {
+                                    "text": "прерывать процесс"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "interrupt pregnancy",
+                            "tr": [
+                                {
+                                    "text": "прервать беременность"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обрывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "прерваться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оборвать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перервать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "break"
+                        }
+                    ]
+                },
+                {
+                    "text": "помешать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "мешать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stop"
+                        },
+                        {
+                            "text": "interfere"
+                        }
+                    ]
+                },
+                {
+                    "text": "приостановить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "приостанавливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "suspend"
+                        }
+                    ]
+                },
+                {
+                    "text": "отрывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "оторвать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tear"
+                        }
+                    ]
+                },
+                {
+                    "text": "перерывать",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "interrupt",
+            "pos": "noun",
+            "ts": "ɪntəˈrʌpt",
+            "tr": [
+                {
+                    "text": "сигнал прерывания",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

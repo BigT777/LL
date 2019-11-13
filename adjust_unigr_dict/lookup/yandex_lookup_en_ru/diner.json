@@ -1,0 +1,92 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "diner",
+            "pos": "participle",
+            "ts": "ˈdaɪnə",
+            "tr": [
+                {
+                    "text": "обедающий",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "dinner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "diner",
+            "pos": "noun",
+            "ts": "ˈdaɪnə",
+            "tr": [
+                {
+                    "text": "гость",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "guest"
+                        }
+                    ]
+                },
+                {
+                    "text": "закусочная",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "ресторанчик",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "забегаловка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "eatery"
+                        },
+                        {
+                            "text": "restaurant"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "roadside diner",
+                            "tr": [
+                                {
+                                    "text": "придорожная закусочная"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обед",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "lunch"
+                        }
+                    ]
+                },
+                {
+                    "text": "вагон-ресторан",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "dining car"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

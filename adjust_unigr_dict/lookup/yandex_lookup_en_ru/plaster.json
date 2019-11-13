@@ -1,0 +1,226 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "plaster",
+            "pos": "noun",
+            "ts": "ˈplɑːstə",
+            "tr": [
+                {
+                    "text": "штукатурка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "гипс",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "шпаклевка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "замазка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "штукатурный раствор",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "plastering"
+                        },
+                        {
+                            "text": "gypsum"
+                        },
+                        {
+                            "text": "putty"
+                        },
+                        {
+                            "text": "plaster solution"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lime plaster",
+                            "tr": [
+                                {
+                                    "text": "известковая штукатурка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пластырь",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "лейкопластырь",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "patch"
+                        },
+                        {
+                            "text": "adhesive"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "corn plaster",
+                            "tr": [
+                                {
+                                    "text": "мозольный пластырь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "гипсолит",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "алебастр",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "alabaster"
+                        }
+                    ]
+                },
+                {
+                    "text": "строительный гипс",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "gypsum plaster"
+                        }
+                    ]
+                },
+                {
+                    "text": "обмазка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "coating"
+                        }
+                    ]
+                },
+                {
+                    "text": "штукатурный гипс",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "stucco"
+                        }
+                    ]
+                },
+                {
+                    "text": "гипсовая повязка",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "plaster cast"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "plaster",
+            "pos": "verb",
+            "ts": "ˈplɑːstə",
+            "tr": [
+                {
+                    "text": "штукатурить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заштукатурить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оштукатуривать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stucco"
+                        }
+                    ]
+                },
+                {
+                    "text": "намазывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "smear"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "plaster",
+            "pos": "adjective",
+            "ts": "ˈplɑːstə",
+            "tr": [
+                {
+                    "text": "гипсовый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "штукатурный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "gypsum"
+                        },
+                        {
+                            "text": "stucco"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "plaster bandage",
+                            "tr": [
+                                {
+                                    "text": "гипсовая повязка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "plaster works",
+                            "tr": [
+                                {
+                                    "text": "штукатурные работы"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

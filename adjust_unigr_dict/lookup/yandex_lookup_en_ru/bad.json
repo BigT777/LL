@@ -1,0 +1,410 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "bad",
+            "pos": "adjective",
+            "ts": "bæd",
+            "tr": [
+                {
+                    "text": "плохой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "скверный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "неудачный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "нехороший",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "некачественный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "poor"
+                        },
+                        {
+                            "text": "nasty"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bad guy",
+                            "tr": [
+                                {
+                                    "text": "плохой парень"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "do bad things",
+                            "tr": [
+                                {
+                                    "text": "совершать плохие поступки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "bad little girl",
+                            "tr": [
+                                {
+                                    "text": "плохая девочка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "bad sense of humor",
+                            "tr": [
+                                {
+                                    "text": "плохое чувство юмора"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "bad state of health",
+                            "tr": [
+                                {
+                                    "text": "плохое состояние здоровья"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "bad boy",
+                            "tr": [
+                                {
+                                    "text": "скверный мальчишка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "bad experience",
+                            "tr": [
+                                {
+                                    "text": "неудачный опыт"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "bad feeling",
+                            "tr": [
+                                {
+                                    "text": "нехорошее предчувствие"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дурной",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "злой",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "недобрый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "evil"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bad form",
+                            "tr": [
+                                {
+                                    "text": "дурной тон"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "bad faith",
+                            "tr": [
+                                {
+                                    "text": "злой умысел"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "bad intention",
+                            "tr": [
+                                {
+                                    "text": "недоброе намерение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вредный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "harmful"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bad habit",
+                            "tr": [
+                                {
+                                    "text": "вредная привычка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "неправильный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "неверный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wrong"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bad data",
+                            "tr": [
+                                {
+                                    "text": "неправильные данные"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "bad checksum",
+                            "tr": [
+                                {
+                                    "text": "неверная контрольная сумма"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "неблагоприятный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "отрицательный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "unfavorable"
+                        },
+                        {
+                            "text": "negative"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bad weather conditions",
+                            "tr": [
+                                {
+                                    "text": "неблагоприятные погодные условия"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "bad side effects",
+                            "tr": [
+                                {
+                                    "text": "отрицательные побочные эффекты"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "неприятный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "ужасный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "unpleasant"
+                        },
+                        {
+                            "text": "terrible"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bad smell",
+                            "tr": [
+                                {
+                                    "text": "неприятный запах"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "bad shape",
+                            "tr": [
+                                {
+                                    "text": "ужасное состояние"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тяжелый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "hard"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bad case",
+                            "tr": [
+                                {
+                                    "text": "тяжелый случай"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "безнадежный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "hopeless"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bad debt",
+                            "tr": [
+                                {
+                                    "text": "безнадежный долг"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "худой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "thin"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bad tree",
+                            "tr": [
+                                {
+                                    "text": "худое дерево"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "плачевный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "deplorable"
+                        }
+                    ]
+                },
+                {
+                    "text": "неисправный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "faulty"
+                        }
+                    ]
+                },
+                {
+                    "text": "негодный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "worthless"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bad",
+            "pos": "noun",
+            "ts": "bæd",
+            "tr": [
+                {
+                    "text": "неудача",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "fail"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bad",
+            "pos": "participle",
+            "ts": "bæd",
+            "tr": [
+                {
+                    "text": "испорченный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "spoiled"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bad",
+            "pos": "adverb",
+            "ts": "bæd",
+            "tr": [
+                {
+                    "text": "неплохо",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "not bad"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

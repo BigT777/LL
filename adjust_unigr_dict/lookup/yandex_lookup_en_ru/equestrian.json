@@ -1,0 +1,98 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "equestrian",
+            "pos": "noun",
+            "ts": "ɪˈkwestrɪən",
+            "tr": [
+                {
+                    "text": "наездник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "всадник",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "наездница",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "всадница",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rider"
+                        }
+                    ]
+                },
+                {
+                    "text": "конный спорт",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "equestrian sport"
+                        }
+                    ]
+                },
+                {
+                    "text": "конник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "horseman"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "equestrian",
+            "pos": "adjective",
+            "ts": "ɪˈkwestrɪən",
+            "tr": [
+                {
+                    "text": "конный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "конноспортивный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "horse"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "equestrian sport",
+                            "tr": [
+                                {
+                                    "text": "конный спорт"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "equestrian club",
+                            "tr": [
+                                {
+                                    "text": "конноспортивный клуб"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

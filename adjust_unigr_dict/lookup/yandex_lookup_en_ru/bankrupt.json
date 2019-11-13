@@ -1,0 +1,135 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "bankrupt",
+            "pos": "verb",
+            "ts": "ˈbæŋkrʌpt",
+            "tr": [
+                {
+                    "text": "обанкротить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "разорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "банкротить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ruin"
+                        }
+                    ]
+                },
+                {
+                    "text": "обанкротиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "разориться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "банкротиться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "go bankrupt"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bankrupt company",
+                            "tr": [
+                                {
+                                    "text": "обанкротившаяся компания"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "разорять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "ruin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bankrupt",
+            "pos": "noun",
+            "ts": "ˈbæŋkrʌpt",
+            "tr": [
+                {
+                    "text": "банкрот",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "банкротство",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "insolvent"
+                        },
+                        {
+                            "text": "bankruptcy"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bankrupt",
+            "pos": "adjective",
+            "ts": "ˈbæŋkrʌpt",
+            "tr": [
+                {
+                    "text": "несостоятельный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "insolvent"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bankrupt",
+            "pos": "participle",
+            "ts": "ˈbæŋkrʌpt",
+            "tr": [
+                {
+                    "text": "обанкротившийся",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "insolvent"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

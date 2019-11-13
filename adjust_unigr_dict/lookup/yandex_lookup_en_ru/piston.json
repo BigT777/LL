@@ -1,0 +1,107 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "piston",
+            "pos": "noun",
+            "ts": "ˈpɪstn",
+            "tr": [
+                {
+                    "text": "поршень",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "плунжер",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "шток",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "шток поршня",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "plunger"
+                        },
+                        {
+                            "text": "rod"
+                        },
+                        {
+                            "text": "piston rod"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "magnetic piston",
+                            "tr": [
+                                {
+                                    "text": "магнитный поршень"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пистон",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "percussion"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "piston",
+            "pos": "adjective",
+            "ts": "ˈpɪstn",
+            "tr": [
+                {
+                    "text": "поршневой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "плунжерный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reciprocating"
+                        },
+                        {
+                            "text": "plunger"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "piston rod",
+                            "tr": [
+                                {
+                                    "text": "поршневой шток"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "internal combustion piston engines",
+                            "tr": [
+                                {
+                                    "text": "поршневые двигатели внутреннего сгорания"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

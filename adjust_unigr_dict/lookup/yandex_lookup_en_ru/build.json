@@ -1,0 +1,340 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "build",
+            "pos": "verb",
+            "ts": "bɪld",
+            "fl": "built, built",
+            "tr": [
+                {
+                    "text": "строить",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "сооружать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "построить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выстроить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выстраивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "возводить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "возвести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "соорудить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "заложить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "construct"
+                        },
+                        {
+                            "text": "erect"
+                        },
+                        {
+                            "text": "put"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "build new ships",
+                            "tr": [
+                                {
+                                    "text": "строить новые корабли"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "build a chapel",
+                            "tr": [
+                                {
+                                    "text": "построить часовню"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "создавать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "создать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "созидать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "create"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "build alliances",
+                            "tr": [
+                                {
+                                    "text": "создавать альянсы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "build an empire",
+                            "tr": [
+                                {
+                                    "text": "создать империю"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "застраивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "наращивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "укрепить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "нарастить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "build up"
+                        },
+                        {
+                            "text": "strengthen"
+                        },
+                        {
+                            "text": "increase"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "build momentum",
+                            "tr": [
+                                {
+                                    "text": "наращивать обороты"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "встроить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "встраивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "embed"
+                        }
+                    ]
+                },
+                {
+                    "text": "основать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "наладить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "налаживать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "establish"
+                        }
+                    ]
+                },
+                {
+                    "text": "основываться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "base"
+                        }
+                    ]
+                },
+                {
+                    "text": "отстроить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "rebuild"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "build",
+            "pos": "noun",
+            "ts": "bɪld",
+            "tr": [
+                {
+                    "text": "построение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "постройка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "формирование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "возведение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "выстраивание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "building"
+                        },
+                        {
+                            "text": "forming"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "build tool",
+                            "tr": [
+                                {
+                                    "text": "инструмент построения"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "build year",
+                            "tr": [
+                                {
+                                    "text": "год постройки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "строительство",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "construction"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "building act",
+                            "tr": [
+                                {
+                                    "text": "закон о строительстве"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "наращивание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "укрепление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "increasing"
+                        },
+                        {
+                            "text": "strengthen"
+                        }
+                    ]
+                },
+                {
+                    "text": "сборка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "assembly"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

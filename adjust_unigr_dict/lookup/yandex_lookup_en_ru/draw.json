@@ -1,0 +1,408 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "draw",
+            "pos": "verb",
+            "ts": "drɔː",
+            "fl": "drew, drawn",
+            "tr": [
+                {
+                    "text": "рисовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "чертить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "нарисовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "начертить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "изобразить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "paint"
+                        },
+                        {
+                            "text": "draft"
+                        },
+                        {
+                            "text": "depict"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "draw shapes",
+                            "tr": [
+                                {
+                                    "text": "рисовать фигуры"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "draw a picture",
+                            "tr": [
+                                {
+                                    "text": "нарисовать картину"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "draw a circle",
+                            "tr": [
+                                {
+                                    "text": "начертить круг"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "притягивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "привлекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "привлечь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "увлечь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "attract"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "draw visitors",
+                            "tr": [
+                                {
+                                    "text": "привлекать посетителей"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "draw a crowd",
+                            "tr": [
+                                {
+                                    "text": "привлечь толпу"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тянуть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вытащить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "извлечь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "втянуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "притянуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выхватить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оттянуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pull"
+                        },
+                        {
+                            "text": "remove"
+                        },
+                        {
+                            "text": "snatch"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "draw lots",
+                            "tr": [
+                                {
+                                    "text": "тянуть жребий"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "draw the sword",
+                            "tr": [
+                                {
+                                    "text": "вытащить меч"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "черпать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "почерпнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "derive"
+                        },
+                        {
+                            "text": "gather"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "draw inspiration",
+                            "tr": [
+                                {
+                                    "text": "черпать вдохновение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вызвать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "взять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подвести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "приблизить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bring"
+                        }
+                    ]
+                },
+                {
+                    "text": "сделать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "do"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "draw certain conclusions",
+                            "tr": [
+                                {
+                                    "text": "сделать определенные выводы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обращать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "pay"
+                        }
+                    ]
+                },
+                {
+                    "text": "провести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "hold"
+                        }
+                    ]
+                },
+                {
+                    "text": "обнажить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "expose"
+                        }
+                    ]
+                },
+                {
+                    "text": "вовлечь",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "involve"
+                        }
+                    ]
+                },
+                {
+                    "text": "прорисовываться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "appear"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "draw",
+            "pos": "noun",
+            "ts": "drɔː",
+            "tr": [
+                {
+                    "text": "ничья",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "drawn game"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "goalless draw",
+                            "tr": [
+                                {
+                                    "text": "нулевая ничья"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "жеребьевка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "розыгрыш",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "отрисовка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lot"
+                        },
+                        {
+                            "text": "drawing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "prize draw",
+                            "tr": [
+                                {
+                                    "text": "розыгрыш приза"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "рисование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "drawing"
+                        }
+                    ]
+                },
+                {
+                    "text": "привлечение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "attract"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "draw",
+            "pos": "adverb",
+            "ts": "drɔː",
+            "tr": [
+                {
+                    "text": "вничью",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

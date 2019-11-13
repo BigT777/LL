@@ -1,0 +1,180 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "lash",
+            "pos": "noun",
+            "ts": "læʃ",
+            "tr": [
+                {
+                    "text": "плеть",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "удар хлыстом",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "удар плетью",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "плетка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "кнут",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "хлыст",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "whip"
+                        }
+                    ]
+                },
+                {
+                    "text": "Бич",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "ресница",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "eyelash"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "long lashes",
+                            "tr": [
+                                {
+                                    "text": "длинные ресницы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "удар",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "blow"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "lash",
+            "pos": "verb",
+            "ts": "læʃ",
+            "tr": [
+                {
+                    "text": "хлестать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "стегать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "хлестнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "бичевать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "стегнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "whip"
+                        },
+                        {
+                            "text": "scourge"
+                        }
+                    ]
+                },
+                {
+                    "text": "наброситься",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "нападать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pounce"
+                        },
+                        {
+                            "text": "attack"
+                        }
+                    ]
+                },
+                {
+                    "text": "привязать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "привязывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bind"
+                        }
+                    ]
+                },
+                {
+                    "text": "ударить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "punch"
+                        }
+                    ]
+                },
+                {
+                    "text": "ругать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "scold"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

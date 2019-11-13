@@ -1,0 +1,53 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "дворянин",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "noble",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "gentilhomme",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "потомственный дворянин"
+                        },
+                        {
+                            "text": "джентльмен"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "потомственные дворяне",
+                            "tr": [
+                                {
+                                    "text": "nobles héréditaires"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "aristocrate",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "аристократ"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

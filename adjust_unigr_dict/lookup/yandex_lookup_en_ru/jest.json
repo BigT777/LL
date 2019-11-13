@@ -1,0 +1,109 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "jest",
+            "pos": "noun",
+            "ts": "ʤest",
+            "tr": [
+                {
+                    "text": "шутка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "насмешка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "шуточка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "joke"
+                        },
+                        {
+                            "text": "mockery"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cruel jest",
+                            "tr": [
+                                {
+                                    "text": "жестокая шутка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "острота",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "sharpness"
+                        }
+                    ]
+                },
+                {
+                    "text": "шарж",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "cartoon"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "jest",
+            "pos": "verb",
+            "ts": "ʤest",
+            "tr": [
+                {
+                    "text": "шутить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "насмехаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пошутить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подшучивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "балагурить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "joke"
+                        },
+                        {
+                            "text": "sneer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,258 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fracture",
+            "pos": "noun",
+            "ts": "ˈfrækʧə",
+            "tr": [
+                {
+                    "text": "трещина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "разрыв",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "разлом",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crack"
+                        },
+                        {
+                            "text": "rupture"
+                        },
+                        {
+                            "text": "rift"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "vertical fractures",
+                            "tr": [
+                                {
+                                    "text": "вертикальные трещины"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hydraulic fracture",
+                            "tr": [
+                                {
+                                    "text": "гидравлический разрыв пласта"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fracture zone",
+                            "tr": [
+                                {
+                                    "text": "зона разлома"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "разрушение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "destruction"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fracture mechanics",
+                            "tr": [
+                                {
+                                    "text": "механика разрушения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "перелом",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "излом",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "перелом кости",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "закрытый перелом",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "break"
+                        },
+                        {
+                            "text": "bone fracture"
+                        },
+                        {
+                            "text": "closed fracture"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bone fracture",
+                            "tr": [
+                                {
+                                    "text": "перелом кости"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "basal skull fracture",
+                            "tr": [
+                                {
+                                    "text": "перелом основания черепа"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fatigue fracture",
+                            "tr": [
+                                {
+                                    "text": "усталостный излом"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "трещиноватость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "fracturing"
+                        }
+                    ]
+                },
+                {
+                    "text": "поломка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "breakage"
+                        }
+                    ]
+                },
+                {
+                    "text": "надлом",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "breakdown"
+                        }
+                    ]
+                },
+                {
+                    "text": "срастание перелома",
+                    "pos": "noun"
+                },
+                {
+                    "text": "фрактура",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        },
+        {
+            "text": "fracture",
+            "pos": "verb",
+            "ts": "ˈfrækʧə",
+            "tr": [
+                {
+                    "text": "ломать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сломать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "break"
+                        }
+                    ]
+                },
+                {
+                    "text": "раздробить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "дробить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shatter"
+                        },
+                        {
+                            "text": "crush"
+                        }
+                    ]
+                },
+                {
+                    "text": "трескаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "дать трещину",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "растрескиваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crack"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fracture",
+            "pos": "adjective",
+            "ts": "ˈfrækʧə",
+            "tr": [
+                {
+                    "text": "трещинный",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

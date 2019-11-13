@@ -1,0 +1,351 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "balance",
+            "pos": "noun",
+            "ts": "ˈbæləns",
+            "tr": [
+                {
+                    "text": "баланс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "равновесие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "сбалансированность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "balance sheet"
+                        },
+                        {
+                            "text": "equilibrium"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "automatic white balance",
+                            "tr": [
+                                {
+                                    "text": "автоматический баланс белого"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "current account balance",
+                            "tr": [
+                                {
+                                    "text": "текущий платежный баланс"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "heat balance equation",
+                            "tr": [
+                                {
+                                    "text": "уравнение теплового баланса"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "harmonic balance method",
+                            "tr": [
+                                {
+                                    "text": "метод гармонического баланса"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "water management balance",
+                            "tr": [
+                                {
+                                    "text": "водохозяйственный баланс"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "national balance of payments",
+                            "tr": [
+                                {
+                                    "text": "платежный баланс"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ecological balance",
+                            "tr": [
+                                {
+                                    "text": "экологическое равновесие"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fiscal balance",
+                            "tr": [
+                                {
+                                    "text": "сбалансированность бюджета"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "остаток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "remainder"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "minimum balance",
+                            "tr": [
+                                {
+                                    "text": "минимальный остаток"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сальдо",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "surplus"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "opening balance",
+                            "tr": [
+                                {
+                                    "text": "начальное сальдо"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "весы",
+                    "pos": "noun",
+                    "gen": "м",
+                    "num": "мн",
+                    "mean": [
+                        {
+                            "text": "scales"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "analytical balance",
+                            "tr": [
+                                {
+                                    "text": "аналитические весы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "противовес",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "counterbalance"
+                        }
+                    ]
+                },
+                {
+                    "text": "балансировка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "балансирование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "уравновешивание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "balancing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "load balance",
+                            "tr": [
+                                {
+                                    "text": "балансировка нагрузки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "счет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "account"
+                        }
+                    ]
+                },
+                {
+                    "text": "уравновешенность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "steadiness"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "emotional balance",
+                            "tr": [
+                                {
+                                    "text": "эмоциональная уравновешенность"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "балансир",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "balancer"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "balance",
+            "pos": "verb",
+            "ts": "ˈbæləns",
+            "tr": [
+                {
+                    "text": "балансировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "уравновешивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сбалансировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "уравновесить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "poise"
+                        },
+                        {
+                            "text": "counterbalance"
+                        },
+                        {
+                            "text": "rebalance"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "balance shaft",
+                            "tr": [
+                                {
+                                    "text": "уравновешивающий вал"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "balanced approach",
+                            "tr": [
+                                {
+                                    "text": "сбалансированный подход"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "balanced salt solution",
+                            "tr": [
+                                {
+                                    "text": "сбалансированный солевой раствор"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "balanced diet",
+                            "tr": [
+                                {
+                                    "text": "сбалансированная диета"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "уравнять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "equalize"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "balance",
+            "pos": "adjective",
+            "ts": "ˈbæləns",
+            "tr": [
+                {
+                    "text": "балансовый",
+                    "pos": "adjective",
+                    "ex": [
+                        {
+                            "text": "total balance sheet value",
+                            "tr": [
+                                {
+                                    "text": "общая балансовая стоимость"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

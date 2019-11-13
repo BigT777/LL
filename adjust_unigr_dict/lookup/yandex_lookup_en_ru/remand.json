@@ -1,0 +1,86 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "remand",
+            "pos": "adjective",
+            "ts": "rɪˈmɑːnd",
+            "tr": [
+                {
+                    "text": "подследственный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "suspect"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "remand",
+            "pos": "verb",
+            "ts": "rɪˈmɑːnd",
+            "tr": [
+                {
+                    "text": "возвращать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "return"
+                        }
+                    ]
+                },
+                {
+                    "text": "отчислять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отчислить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dismiss"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "remand",
+            "pos": "noun",
+            "ts": "rɪˈmɑːnd",
+            "tr": [
+                {
+                    "text": "возвращение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "return"
+                        }
+                    ]
+                },
+                {
+                    "text": "возвращение под стражу",
+                    "pos": "noun"
+                },
+                {
+                    "text": "отчисление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "charge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "snip",
+            "pos": "noun",
+            "ts": "snɪp",
+            "tr": [
+                {
+                    "text": "надрез",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "incision"
+                        }
+                    ]
+                },
+                {
+                    "text": "обрезок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "scrap"
+                        }
+                    ]
+                },
+                {
+                    "text": "СНиП",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "ножницы",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "num": "мн",
+                    "mean": [
+                        {
+                            "text": "scissors"
+                        }
+                    ]
+                },
+                {
+                    "text": "кусочек",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "slice"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "snip",
+            "pos": "verb",
+            "ts": "snɪp",
+            "tr": [
+                {
+                    "text": "резать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отрезать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "разрезать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "обрезать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cut"
+                        },
+                        {
+                            "text": "cut off"
+                        }
+                    ]
+                },
+                {
+                    "text": "отхватить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "grab"
+                        }
+                    ]
+                },
+                {
+                    "text": "резать ножницами",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

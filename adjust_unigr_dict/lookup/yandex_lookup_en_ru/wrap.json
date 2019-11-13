@@ -1,0 +1,294 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "wrap",
+            "pos": "noun",
+            "ts": "ræp",
+            "tr": [
+                {
+                    "text": "упаковка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "packaging"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "gift wrap",
+                            "tr": [
+                                {
+                                    "text": "подарочная упаковка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обертка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "wrapper"
+                        }
+                    ]
+                },
+                {
+                    "text": "обертывание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "обруч",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "компресс",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wrapping"
+                        },
+                        {
+                            "text": "hoop"
+                        },
+                        {
+                            "text": "compress"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "body wrap",
+                            "tr": [
+                                {
+                                    "text": "обертывание тела"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "перенос",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "transfer"
+                        }
+                    ]
+                },
+                {
+                    "text": "заворачивание",
+                    "pos": "noun",
+                    "gen": "ср"
+                }
+            ]
+        },
+        {
+            "text": "wrap",
+            "pos": "verb",
+            "ts": "ræp",
+            "tr": [
+                {
+                    "text": "завертывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "завернуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "заворачивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "свернуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "roll"
+                        }
+                    ]
+                },
+                {
+                    "text": "обертывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "закутывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "завернуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "укутать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "закутаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "кутаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "замотать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wrap up"
+                        },
+                        {
+                            "text": "roll up"
+                        },
+                        {
+                            "text": "wrap himself"
+                        }
+                    ]
+                },
+                {
+                    "text": "окутывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "окутать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обтекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "envelop"
+                        },
+                        {
+                            "text": "flow"
+                        }
+                    ]
+                },
+                {
+                    "text": "обернуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "оборачивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обмотать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обернуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оборачиваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "turn"
+                        },
+                        {
+                            "text": "swathe"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "wrap around",
+                            "tr": [
+                                {
+                                    "text": "обернуть вокруг"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "закутать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "укутывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "muffle"
+                        }
+                    ]
+                },
+                {
+                    "text": "обматывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "wind"
+                        }
+                    ]
+                },
+                {
+                    "text": "заключить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "conclude"
+                        }
+                    ]
+                },
+                {
+                    "text": "перевязать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "bandage"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

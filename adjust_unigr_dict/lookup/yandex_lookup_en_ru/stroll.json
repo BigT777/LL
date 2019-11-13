@@ -1,0 +1,102 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "stroll",
+            "pos": "verb",
+            "ts": "strəʊl",
+            "tr": [
+                {
+                    "text": "гулять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "бродить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "прогуляться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прогуливаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "погулять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "побродить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разгуливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "прохаживаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "walk"
+                        },
+                        {
+                            "text": "wander"
+                        },
+                        {
+                            "text": "roam"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "stroll around",
+                            "tr": [
+                                {
+                                    "text": "погулять вокруг"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "stroll",
+            "pos": "noun",
+            "ts": "strəʊl",
+            "tr": [
+                {
+                    "text": "прогулка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "walk"
+                        }
+                    ]
+                },
+                {
+                    "text": "гулянье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "festivity"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

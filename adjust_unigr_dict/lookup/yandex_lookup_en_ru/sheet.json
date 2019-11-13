@@ -1,0 +1,372 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sheet",
+            "pos": "noun",
+            "ts": "ʃiːt",
+            "tr": [
+                {
+                    "text": "лист",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "страница",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "листок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "leaf"
+                        },
+                        {
+                            "text": "page"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "galvanized steel sheet",
+                            "tr": [
+                                {
+                                    "text": "оцинкованный стальной лист"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "printer's sheet",
+                            "tr": [
+                                {
+                                    "text": "печатный лист"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "author's sheet",
+                            "tr": [
+                                {
+                                    "text": "авторский лист"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sheet of aluminum foil",
+                            "tr": [
+                                {
+                                    "text": "лист алюминиевой фольги"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "rectangular sheet of paper",
+                            "tr": [
+                                {
+                                    "text": "прямоугольный лист бумаги"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "yellow sheet",
+                            "tr": [
+                                {
+                                    "text": "желтый листок"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ведомость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "таблица",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "табель",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "statement"
+                        },
+                        {
+                            "text": "table"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "balance sheet",
+                            "tr": [
+                                {
+                                    "text": "балансовая ведомость"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "data sheet",
+                            "tr": [
+                                {
+                                    "text": "таблица данных"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "простыня",
+                    "pos": "noun",
+                    "gen": "м,ж",
+                    "syn": [
+                        {
+                            "text": "брезент",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bed sheet"
+                        },
+                        {
+                            "text": "tarpaulin"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "white linen bed sheets",
+                            "tr": [
+                                {
+                                    "text": "белые простыни"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "полотно",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "полотнище",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "canvas"
+                        },
+                        {
+                            "text": "panel"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "glass sheets",
+                            "tr": [
+                                {
+                                    "text": "стеклянные полотна"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "слой",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "layer"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "current sheet",
+                            "tr": [
+                                {
+                                    "text": "токовый слой"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "бланк",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "blank"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "order sheet",
+                            "tr": [
+                                {
+                                    "text": "бланк заказа"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пелена",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "veil"
+                        }
+                    ]
+                },
+                {
+                    "text": "шкот",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "mainsheet"
+                        }
+                    ]
+                },
+                {
+                    "text": "пластина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "plate"
+                        }
+                    ]
+                },
+                {
+                    "text": "листовой материал",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "листовой металл",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "листовой прокат",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sheet material"
+                        },
+                        {
+                            "text": "sheet metal"
+                        },
+                        {
+                            "text": "sheet products"
+                        }
+                    ]
+                },
+                {
+                    "text": "жесть",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "tin"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "thin sheet",
+                            "tr": [
+                                {
+                                    "text": "тонкая жесть"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пленка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "tape"
+                        }
+                    ]
+                },
+                {
+                    "text": "покров",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "cover"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sheet",
+            "pos": "adjective",
+            "ts": "ʃiːt",
+            "tr": [
+                {
+                    "text": "листовой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "тонколистовой",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "leaf"
+                        },
+                        {
+                            "text": "thin sheet"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sheet material",
+                            "tr": [
+                                {
+                                    "text": "листовой материал"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sheet metal working",
+                            "tr": [
+                                {
+                                    "text": "обработка листового металла"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "полистный",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

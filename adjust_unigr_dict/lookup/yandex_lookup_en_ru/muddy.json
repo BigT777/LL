@@ -1,0 +1,131 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "muddy",
+            "pos": "adjective",
+            "ts": "ˈmʌdɪ",
+            "tr": [
+                {
+                    "text": "мутный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "грязный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "turbid"
+                        },
+                        {
+                            "text": "dirty"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "muddy water",
+                            "tr": [
+                                {
+                                    "text": "грязная вода"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тусклый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "dull"
+                        }
+                    ]
+                },
+                {
+                    "text": "илистый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "грязевой",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "топкий",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "silty"
+                        },
+                        {
+                            "text": "mud"
+                        },
+                        {
+                            "text": "oozy"
+                        }
+                    ]
+                },
+                {
+                    "text": "слякотный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "slushy"
+                        }
+                    ]
+                },
+                {
+                    "text": "мутноватый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "unclear"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "muddy",
+            "pos": "verb",
+            "ts": "ˈmʌdɪ",
+            "tr": [
+                {
+                    "text": "мутить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "замутить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stir up"
+                        }
+                    ]
+                },
+                {
+                    "text": "пачкать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "dirty"
+                        }
+                    ]
+                },
+                {
+                    "text": "помутнеть",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        }
+    ]
+}

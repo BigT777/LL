@@ -1,0 +1,80 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "покрывало",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "couvre-lit",
+                    "pos": "verb"
+                },
+                {
+                    "text": "dessus-de-lit",
+                    "pos": "verb"
+                },
+                {
+                    "text": "couvre-pied",
+                    "pos": "verb"
+                },
+                {
+                    "text": "jeté de lit",
+                    "pos": "verb"
+                },
+                {
+                    "text": "voile",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "покрывало",
+            "pos": "noun",
+            "gen": "ср",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "couverture",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "одеяло"
+                        }
+                    ]
+                },
+                {
+                    "text": "manteau",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "dessus",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "накидка"
+                        },
+                        {
+                            "text": "салфетка"
+                        }
+                    ]
+                },
+                {
+                    "text": "pavillon",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "полог"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "unplug",
+            "pos": "verb",
+            "ts": "ʌnˈplʌg",
+            "tr": [
+                {
+                    "text": "отключить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "отсоединять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отсоединить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отключать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "disconnect"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "unplug the phone",
+                            "tr": [
+                                {
+                                    "text": "отключить телефоны"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вынимать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "remove"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

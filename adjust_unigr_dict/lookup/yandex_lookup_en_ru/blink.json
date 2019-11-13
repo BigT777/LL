@@ -1,0 +1,188 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "blink",
+            "pos": "verb",
+            "ts": "blɪŋk",
+            "tr": [
+                {
+                    "text": "мигать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "моргать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "мерцать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "моргнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "заморгать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "мигнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "замигать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поморгать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flash"
+                        },
+                        {
+                            "text": "wink"
+                        },
+                        {
+                            "text": "flicker"
+                        }
+                    ]
+                },
+                {
+                    "text": "щуриться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "прищуриться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "жмуриться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "прищурить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "squint"
+                        }
+                    ]
+                },
+                {
+                    "text": "закрывать глаза",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "close their eyes"
+                        }
+                    ]
+                },
+                {
+                    "text": "сморгнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "blink away"
+                        }
+                    ]
+                },
+                {
+                    "text": "хлопать глазами",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "blink",
+            "pos": "noun",
+            "ts": "blɪŋk",
+            "tr": [
+                {
+                    "text": "мгновение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "миг",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "instant"
+                        },
+                        {
+                            "text": "flash"
+                        }
+                    ]
+                },
+                {
+                    "text": "мерцание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "мигание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "моргание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "blinking"
+                        },
+                        {
+                            "text": "flashing"
+                        }
+                    ]
+                },
+                {
+                    "text": "блик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "glare"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "blink",
+            "pos": "adjective",
+            "ts": "blɪŋk",
+            "tr": [
+                {
+                    "text": "мигательный",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

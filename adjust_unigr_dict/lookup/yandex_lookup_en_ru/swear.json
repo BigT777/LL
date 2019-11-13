@@ -1,0 +1,186 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "swear",
+            "pos": "verb",
+            "ts": "sweə",
+            "fl": "swore, sworn",
+            "tr": [
+                {
+                    "text": "ругаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ругать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выругаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "клясть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сквернословить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поругаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обругать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "чертыхаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "ругнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "curse"
+                        },
+                        {
+                            "text": "scold"
+                        },
+                        {
+                            "text": "quarrel"
+                        }
+                    ]
+                },
+                {
+                    "text": "клясться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "поклясться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "божиться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "vow"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "swear by god",
+                            "tr": [
+                                {
+                                    "text": "клясться богом"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "присягать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "присягнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "oath"
+                        },
+                        {
+                            "text": "pledge"
+                        }
+                    ]
+                },
+                {
+                    "text": "обещать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "promise"
+                        }
+                    ]
+                },
+                {
+                    "text": "давать клятву",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "oath"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "swear",
+            "pos": "noun",
+            "ts": "sweə",
+            "tr": [
+                {
+                    "text": "клятва",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "присяга",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "зарок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "oath"
+                        },
+                        {
+                            "text": "swearing"
+                        },
+                        {
+                            "text": "vow"
+                        }
+                    ]
+                },
+                {
+                    "text": "ругательство",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "curse"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

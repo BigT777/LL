@@ -1,0 +1,105 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "quest",
+            "pos": "noun",
+            "ts": "kwest",
+            "tr": [
+                {
+                    "text": "поиск",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "искание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "search"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "quest for truth",
+                            "tr": [
+                                {
+                                    "text": "поиск истины"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "квест",
+                    "pos": "noun",
+                    "gen": "м",
+                    "ex": [
+                        {
+                            "text": "main quest",
+                            "tr": [
+                                {
+                                    "text": "главный квест"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "гость",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "guest"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "special quest",
+                            "tr": [
+                                {
+                                    "text": "специальный гость"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "приключение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "adventure"
+                        }
+                    ]
+                },
+                {
+                    "text": "поиски приключений",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "quest",
+            "pos": "verb",
+            "ts": "kwest",
+            "tr": [
+                {
+                    "text": "искать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "search"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

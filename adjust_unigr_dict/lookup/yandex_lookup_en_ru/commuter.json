@@ -1,0 +1,61 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "commuter",
+            "pos": "noun",
+            "ts": "kəˈmjuːtə",
+            "tr": [
+                {
+                    "text": "пассажир",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "passenger"
+                        }
+                    ]
+                },
+                {
+                    "text": "Пригородное сообщение",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "commuter",
+            "pos": "adjective",
+            "ts": "kəˈmjuːtə",
+            "tr": [
+                {
+                    "text": "пригородный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "пассажирский",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "suburban"
+                        },
+                        {
+                            "text": "passenger"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "commuter train",
+                            "tr": [
+                                {
+                                    "text": "пригородный поезд"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

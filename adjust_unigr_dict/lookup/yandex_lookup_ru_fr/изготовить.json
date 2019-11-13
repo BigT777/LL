@@ -1,0 +1,67 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "изготовить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "fabriquer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "confectionner",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "изготовлять"
+                        },
+                        {
+                            "text": "изготавливать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "изготовить продукт",
+                            "tr": [
+                                {
+                                    "text": "fabriquer le produit"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "produire",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "créer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "изготавливать"
+                        },
+                        {
+                            "text": "построить"
+                        }
+                    ]
+                },
+                {
+                    "text": "manufacturer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "производить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

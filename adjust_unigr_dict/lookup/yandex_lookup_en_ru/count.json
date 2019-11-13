@@ -1,0 +1,241 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "count",
+            "pos": "verb",
+            "ts": "kaʊnt",
+            "tr": [
+                {
+                    "text": "рассчитывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "считать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "подсчитывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подсчитать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "считаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "посчитать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "учитывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "насчитывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сосчитать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пересчитать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "насчитать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "просчитать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "учесть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "calculate"
+                        },
+                        {
+                            "text": "consider"
+                        },
+                        {
+                            "text": "account"
+                        },
+                        {
+                            "text": "number"
+                        }
+                    ]
+                },
+                {
+                    "text": "отсчитывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отсчитать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "count down"
+                        },
+                        {
+                            "text": "count out"
+                        }
+                    ]
+                },
+                {
+                    "text": "засчитывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "засчитать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "include"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "count",
+            "pos": "noun",
+            "ts": "kaʊnt",
+            "tr": [
+                {
+                    "text": "подсчет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "отсчет",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "counting"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "physical count",
+                            "tr": [
+                                {
+                                    "text": "физический подсчет"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "last count",
+                            "tr": [
+                                {
+                                    "text": "последний отсчет"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "счет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "account"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lose count",
+                            "tr": [
+                                {
+                                    "text": "сбиться со счета"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "граф",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "graph"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "noble count",
+                            "tr": [
+                                {
+                                    "text": "благородный граф"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "счетчик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "counter"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "reference count",
+                            "tr": [
+                                {
+                                    "text": "счетчик ссылок"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "кол",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "stake"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

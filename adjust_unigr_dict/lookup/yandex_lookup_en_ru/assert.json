@@ -1,0 +1,126 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "assert",
+            "pos": "verb",
+            "ts": "əˈsɜːt",
+            "tr": [
+                {
+                    "text": "утверждать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "утвердить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "твердить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "claim"
+                        },
+                        {
+                            "text": "approve"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "assert dominance",
+                            "tr": [
+                                {
+                                    "text": "утверждать господство"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "заявлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заявить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "декларировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "declare"
+                        }
+                    ]
+                },
+                {
+                    "text": "отстаивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отстоять",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "defend"
+                        }
+                    ]
+                },
+                {
+                    "text": "доказывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подтверждать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "доказать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "prove"
+                        }
+                    ]
+                },
+                {
+                    "text": "самоутверждаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "assert himself"
+                        }
+                    ]
+                },
+                {
+                    "text": "предъявлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "present"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

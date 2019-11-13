@@ -1,0 +1,65 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "windstorm",
+            "pos": "noun",
+            "ts": "ˈwɪndstɔːm",
+            "tr": [
+                {
+                    "text": "буря",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "ураган",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "шторм",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "storm"
+                        },
+                        {
+                            "text": "hurricane"
+                        }
+                    ]
+                },
+                {
+                    "text": "метель",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "snowstorm"
+                        }
+                    ]
+                },
+                {
+                    "text": "ураганный ветер",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "штормовой ветер",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hurricane wind"
+                        },
+                        {
+                            "text": "gale"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

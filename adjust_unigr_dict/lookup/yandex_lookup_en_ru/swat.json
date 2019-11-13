@@ -1,0 +1,110 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "SWAT",
+            "pos": "noun",
+            "ts": "swɒt",
+            "tr": [
+                {
+                    "text": "удар",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "strike"
+                        }
+                    ]
+                },
+                {
+                    "text": "шлепок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "slap"
+                        }
+                    ]
+                },
+                {
+                    "text": "спецназ",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "ОМОН",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "полицейский спецназ",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spetsnaz"
+                        },
+                        {
+                            "text": "riot police"
+                        }
+                    ]
+                },
+                {
+                    "text": "Сват",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "SWAT",
+            "pos": "verb",
+            "ts": "swɒt",
+            "tr": [
+                {
+                    "text": "прихлопнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "хлопнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "slap"
+                        }
+                    ]
+                },
+                {
+                    "text": "шлепнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "бить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "ударить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "slap"
+                        },
+                        {
+                            "text": "strike"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

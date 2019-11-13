@@ -1,0 +1,74 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "обработать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "traiter",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "usiner",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "travailler",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "labourer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "interpréter",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "cultiver",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "обрабатывать"
+                        },
+                        {
+                            "text": "трактовать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "обработать ваш запрос",
+                            "tr": [
+                                {
+                                    "text": "traiter votre demande"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "gérer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "обрабатывать"
+                        }
+                    ]
+                },
+                {
+                    "text": "adapter",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "изменить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

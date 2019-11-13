@@ -1,0 +1,107 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "decipher",
+            "pos": "verb",
+            "ts": "dɪˈsaɪfə",
+            "tr": [
+                {
+                    "text": "расшифровывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "расшифровать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "дешифровать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "декодировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "decrypt"
+                        },
+                        {
+                            "text": "decode"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "decipher the inscriptions",
+                            "tr": [
+                                {
+                                    "text": "расшифровать надписи"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "разбирать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разобрать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "disassemble"
+                        },
+                        {
+                            "text": "make out"
+                        }
+                    ]
+                },
+                {
+                    "text": "разгадать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "разгадывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "solve"
+                        },
+                        {
+                            "text": "unravel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "decipher",
+            "pos": "noun",
+            "ts": "dɪˈsaɪfə",
+            "tr": [
+                {
+                    "text": "расшифровка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "decrypt"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

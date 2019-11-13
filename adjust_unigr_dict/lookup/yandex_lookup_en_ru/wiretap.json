@@ -1,0 +1,78 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "wiretap",
+            "pos": "verb",
+            "ts": "ˈwaɪətæp",
+            "tr": [
+                {
+                    "text": "перехватывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "прослушивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "intercept"
+                        },
+                        {
+                            "text": "listen"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "wiretap",
+            "pos": "noun",
+            "ts": "ˈwaɪətæp",
+            "tr": [
+                {
+                    "text": "прослушивание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "listen"
+                        }
+                    ]
+                },
+                {
+                    "text": "прослушка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "подслушивание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "прослушивание телефонных разговоров",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "перехват",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "eavesdrop"
+                        },
+                        {
+                            "text": "intercept"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

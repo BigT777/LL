@@ -1,0 +1,58 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "молоть",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "moudre",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "broyer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "перемалывать"
+                        },
+                        {
+                            "text": "размолоть"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "молоть кофе",
+                            "tr": [
+                                {
+                                    "text": "moudre le café"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "hacher",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "измельчить"
+                        }
+                    ]
+                },
+                {
+                    "text": "meuler",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "шлифовать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "перепоручить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "réaffecter",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "переназначить"
+                        }
+                    ]
+                },
+                {
+                    "text": "déléguer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "transmettre",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "делегировать"
+                        },
+                        {
+                            "text": "передавать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "blossom",
+            "pos": "noun",
+            "ts": "ˈblɒsəm",
+            "tr": [
+                {
+                    "text": "цвет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "цветок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "цветение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "расцвет",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "цветы",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "соцветие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flower"
+                        },
+                        {
+                            "text": "bloom"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "apple blossom",
+                            "tr": [
+                                {
+                                    "text": "яблоневый цвет"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "almond blossom",
+                            "tr": [
+                                {
+                                    "text": "миндальный цветок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "white blossom",
+                            "tr": [
+                                {
+                                    "text": "белое цветение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "бутон",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "bud"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pink blossom",
+                            "tr": [
+                                {
+                                    "text": "розовый бутон"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "blossom",
+            "pos": "verb",
+            "ts": "ˈblɒsəm",
+            "tr": [
+                {
+                    "text": "расцветать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "цвести",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "зацвести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "зацветать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bloom"
+                        }
+                    ]
+                },
+                {
+                    "text": "расцвести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "процветать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flourish"
+                        }
+                    ]
+                },
+                {
+                    "text": "распуститься",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "dissolve"
+                        }
+                    ]
+                },
+                {
+                    "text": "распускаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "unfold"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

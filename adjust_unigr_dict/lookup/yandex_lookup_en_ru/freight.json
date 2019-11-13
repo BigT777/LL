@@ -1,0 +1,237 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "freight",
+            "pos": "noun",
+            "ts": "freɪt",
+            "tr": [
+                {
+                    "text": "груз",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "перевозка грузов",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "грузоперевозка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "перевозка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "грузовые перевозки",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "транспортировка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cargo"
+                        },
+                        {
+                            "text": "cargo transportation"
+                        },
+                        {
+                            "text": "transportation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "freight insurance",
+                            "tr": [
+                                {
+                                    "text": "страхование грузов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "volumes of freight traffic",
+                            "tr": [
+                                {
+                                    "text": "объемы перевозок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "rail freight services",
+                            "tr": [
+                                {
+                                    "text": "железнодорожные перевозки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "фрахт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "charter"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sea freight",
+                            "tr": [
+                                {
+                                    "text": "морской фрахт"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "стоимость перевозки",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "transportation cost"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "freight",
+            "pos": "adjective",
+            "ts": "freɪt",
+            "tr": [
+                {
+                    "text": "грузовой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "фрахтовый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "транспортный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "товарный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cargo"
+                        },
+                        {
+                            "text": "charter"
+                        },
+                        {
+                            "text": "transport"
+                        },
+                        {
+                            "text": "commodity"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "freight car",
+                            "tr": [
+                                {
+                                    "text": "грузовой вагон"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "freight motor transport",
+                            "tr": [
+                                {
+                                    "text": "грузовой автотранспорт"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "freight rolling stock",
+                            "tr": [
+                                {
+                                    "text": "грузовой подвижной состав"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "electric freight locomotive",
+                            "tr": [
+                                {
+                                    "text": "грузовой электровоз"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "new freight terminal",
+                            "tr": [
+                                {
+                                    "text": "новый грузовой терминал"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "freight rate",
+                            "tr": [
+                                {
+                                    "text": "фрахтовая ставка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "freight forwarding company",
+                            "tr": [
+                                {
+                                    "text": "транспортная компания"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "freight train",
+                            "tr": [
+                                {
+                                    "text": "товарный поезд"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "freight",
+            "pos": "verb",
+            "ts": "freɪt",
+            "tr": [
+                {
+                    "text": "фрахтовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "зафрахтовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "charter"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "owe",
+            "pos": "adjective",
+            "ts": "əʊ",
+            "tr": [
+                {
+                    "text": "должный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "appropriate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "owe",
+            "pos": "verb",
+            "ts": "əʊ",
+            "tr": [
+                {
+                    "text": "задолжать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "причитаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "be due"
+                        }
+                    ]
+                },
+                {
+                    "text": "быть должным",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

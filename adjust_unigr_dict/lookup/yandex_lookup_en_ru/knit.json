@@ -1,0 +1,151 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "knit",
+            "pos": "verb",
+            "ts": "nɪt",
+            "fl": "knit/knitted, knit/knitted",
+            "tr": [
+                {
+                    "text": "вязать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "связывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "связать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "штопать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bind"
+                        },
+                        {
+                            "text": "darn"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "knit sweaters",
+                            "tr": [
+                                {
+                                    "text": "вязать свитера"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "knit socks",
+                            "tr": [
+                                {
+                                    "text": "связать носки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сращивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "срастить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "splice"
+                        }
+                    ]
+                },
+                {
+                    "text": "срастись",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "срастаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grow together"
+                        }
+                    ]
+                },
+                {
+                    "text": "соединить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "connect"
+                        }
+                    ]
+                },
+                {
+                    "text": "сплачивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "rally"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "knit",
+            "pos": "noun",
+            "ts": "nɪt",
+            "tr": [
+                {
+                    "text": "вязка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "вязание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "binding"
+                        },
+                        {
+                            "text": "knitting"
+                        }
+                    ]
+                },
+                {
+                    "text": "трикотажные изделия",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "knitwear"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

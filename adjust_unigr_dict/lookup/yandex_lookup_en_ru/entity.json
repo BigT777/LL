@@ -1,0 +1,330 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "entity",
+            "pos": "noun",
+            "ts": "ˈentɪtɪ",
+            "tr": [
+                {
+                    "text": "сущность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "существо",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "essence"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "entity reference",
+                            "tr": [
+                                {
+                                    "text": "ссылка на сущность"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "living entity",
+                            "tr": [
+                                {
+                                    "text": "живое существо"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "организация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "юридическое лицо",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "предприятие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "учреждение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "organization"
+                        },
+                        {
+                            "text": "legal entity"
+                        },
+                        {
+                            "text": "enterprise"
+                        },
+                        {
+                            "text": "institution"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "commercial entity",
+                            "tr": [
+                                {
+                                    "text": "коммерческая организация"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "private sector entities",
+                            "tr": [
+                                {
+                                    "text": "предприятия частного сектора"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "governmental entities",
+                            "tr": [
+                                {
+                                    "text": "правительственные учреждения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "объект",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "элемент",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "object"
+                        },
+                        {
+                            "text": "element"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "physical entity",
+                            "tr": [
+                                {
+                                    "text": "физический объект"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "организм",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "organism"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "single entity",
+                            "tr": [
+                                {
+                                    "text": "единый организм"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "данность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "given"
+                        }
+                    ]
+                },
+                {
+                    "text": "субъект",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "субъект права",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "subject"
+                        },
+                        {
+                            "text": "subject of law"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "economic entity",
+                            "tr": [
+                                {
+                                    "text": "экономический субъект"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "единица",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "подразделение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "unit"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "territorial entity",
+                            "tr": [
+                                {
+                                    "text": "территориальная единица"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "individual entities",
+                            "tr": [
+                                {
+                                    "text": "отдельные подразделения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "образование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "formation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "new political entity",
+                            "tr": [
+                                {
+                                    "text": "новое политическое образование"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "структура",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "structure"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "various government entities",
+                            "tr": [
+                                {
+                                    "text": "различные государственные структуры"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "орган",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "body"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "law enforcement entities",
+                            "tr": [
+                                {
+                                    "text": "правоохранительные органы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "примитив",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "primitive"
+                        }
+                    ]
+                },
+                {
+                    "text": "мнемоника",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "mnemonics"
+                        }
+                    ]
+                },
+                {
+                    "text": "логический объект",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "logical object"
+                        }
+                    ]
+                },
+                {
+                    "text": "хозяйственная единица",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "economic unit"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "dishonor",
+            "pos": "verb",
+            "ts": "dɪsˈɒnə",
+            "tr": [
+                {
+                    "text": "позорить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "бесчестить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обесчестить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "опозорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "disgrace"
+                        },
+                        {
+                            "text": "dishonour"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dishonor",
+            "pos": "noun",
+            "ts": "dɪsˈɒnə",
+            "tr": [
+                {
+                    "text": "бесчестие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "позор",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "бесчестье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "бесславие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "disgrace"
+                        },
+                        {
+                            "text": "ignominy"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

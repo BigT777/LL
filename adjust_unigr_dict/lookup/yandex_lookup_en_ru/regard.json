@@ -1,0 +1,236 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "regard",
+            "pos": "verb",
+            "ts": "rɪˈgɑːd",
+            "tr": [
+                {
+                    "text": "рассматривать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "считаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "считать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "расценивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "воспринимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "расценить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "рассмотреть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "счесть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "consider"
+                        },
+                        {
+                            "text": "perceive"
+                        }
+                    ]
+                },
+                {
+                    "text": "касаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "concern"
+                        }
+                    ]
+                },
+                {
+                    "text": "относиться",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "отнестись",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "относить",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "relate"
+                        },
+                        {
+                            "text": "treat"
+                        },
+                        {
+                            "text": "refer"
+                        }
+                    ]
+                },
+                {
+                    "text": "смотреть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разглядывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "look"
+                        },
+                        {
+                            "text": "examine"
+                        }
+                    ]
+                },
+                {
+                    "text": "почитать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "read"
+                        }
+                    ]
+                },
+                {
+                    "text": "принимать во внимание",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "take into account"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "regard",
+            "pos": "noun",
+            "ts": "rɪˈgɑːd",
+            "tr": [
+                {
+                    "text": "отношение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "уважение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "связь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "relation"
+                        },
+                        {
+                            "text": "respect"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "little regard",
+                            "tr": [
+                                {
+                                    "text": "маленькое отношение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "great regard",
+                            "tr": [
+                                {
+                                    "text": "глубокое уважение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "внимание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "attention"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "due regard",
+                            "tr": [
+                                {
+                                    "text": "должное внимание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "учет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "account"
+                        }
+                    ]
+                },
+                {
+                    "text": "части",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        },
+        {
+            "text": "regard",
+            "pos": "adverb",
+            "ts": "rɪˈgɑːd",
+            "tr": [
+                {
+                    "text": "в отношении",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "concerning"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

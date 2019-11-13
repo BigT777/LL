@@ -1,0 +1,96 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "quake",
+            "pos": "verb",
+            "ts": "kweɪk",
+            "tr": [
+                {
+                    "text": "дрожать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "содрогаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "трясти",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сотрясаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tremble"
+                        },
+                        {
+                            "text": "shudder"
+                        },
+                        {
+                            "text": "shake"
+                        }
+                    ]
+                },
+                {
+                    "text": "колебаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "fluctuate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "quake",
+            "pos": "noun",
+            "ts": "kweɪk",
+            "tr": [
+                {
+                    "text": "землетрясение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "толчок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "подземный толчок",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "earthquake"
+                        },
+                        {
+                            "text": "tremor"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "quake victims",
+                            "tr": [
+                                {
+                                    "text": "жертв землетрясения"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

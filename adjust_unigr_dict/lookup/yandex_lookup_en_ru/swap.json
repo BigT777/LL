@@ -1,0 +1,275 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "swap",
+            "pos": "verb",
+            "ts": "swɒp",
+            "tr": [
+                {
+                    "text": "менять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обмениваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обменивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "меняться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поменять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обменять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поменяться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обменяться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сменить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "променять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "replace"
+                        },
+                        {
+                            "text": "exchange"
+                        },
+                        {
+                            "text": "change"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "swap roles",
+                            "tr": [
+                                {
+                                    "text": "поменяться ролями"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "переставлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "поменять местами",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "менять местами",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rearrange"
+                        },
+                        {
+                            "text": "interchange"
+                        }
+                    ]
+                },
+                {
+                    "text": "заменять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "replace"
+                        }
+                    ]
+                },
+                {
+                    "text": "поменяться местами",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "change places"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "swap",
+            "pos": "noun",
+            "ts": "swɒp",
+            "tr": [
+                {
+                    "text": "обмен",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "мена",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "размен",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "exchange"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "asset swap",
+                            "tr": [
+                                {
+                                    "text": "обмен активами"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "замена",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "смена",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "перестановка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "replacement"
+                        },
+                        {
+                            "text": "change"
+                        },
+                        {
+                            "text": "permutation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hot swap",
+                            "tr": [
+                                {
+                                    "text": "горячая замена"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "подкачка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "свопинг",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "swapping"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "swap file",
+                            "tr": [
+                                {
+                                    "text": "файл подкачки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "swap space",
+                            "tr": [
+                                {
+                                    "text": "пространство свопинга"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "своп",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "файл подкачки",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "paging file"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "currency swap",
+                            "tr": [
+                                {
+                                    "text": "валютный своп"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сделка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "transactions"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

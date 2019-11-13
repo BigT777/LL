@@ -1,0 +1,82 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "закрыть",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "fermer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "clôturer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "annuler",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "clore",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "couvrir",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "закрывать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "закрыть окно",
+                            "tr": [
+                                {
+                                    "text": "fermer la fenêtre"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "quitter",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "бросить"
+                        }
+                    ]
+                },
+                {
+                    "text": "terminer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "закончить"
+                        }
+                    ]
+                },
+                {
+                    "text": "arrêter",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "couper",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "выключить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

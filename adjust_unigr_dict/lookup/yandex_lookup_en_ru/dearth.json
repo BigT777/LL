@@ -1,0 +1,83 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "dearth",
+            "pos": "noun",
+            "ts": "dɜːθ",
+            "tr": [
+                {
+                    "text": "недостаток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "нехватка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "дефицит",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "отсутствие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "скудность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lack"
+                        },
+                        {
+                            "text": "shortage"
+                        },
+                        {
+                            "text": "absence"
+                        },
+                        {
+                            "text": "scarcity"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "relative dearth",
+                            "tr": [
+                                {
+                                    "text": "относительная нехватка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "голод",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "hunger"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "great dearth",
+                            "tr": [
+                                {
+                                    "text": "великий голод"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

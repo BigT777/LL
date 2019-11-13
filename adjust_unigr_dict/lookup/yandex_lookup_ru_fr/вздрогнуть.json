@@ -1,0 +1,39 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "вздрогнуть",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "tressaillir",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "содрогнуться"
+                        }
+                    ]
+                },
+                {
+                    "text": "trembler",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "bondir",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "задрожать"
+                        },
+                        {
+                            "text": "подпрыгнуть"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

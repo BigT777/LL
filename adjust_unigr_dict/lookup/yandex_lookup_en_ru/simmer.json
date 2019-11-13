@@ -1,0 +1,112 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "simmer",
+            "pos": "verb",
+            "ts": "ˈsɪmə",
+            "tr": [
+                {
+                    "text": "варить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "кипеть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "кипятить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "закипеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cook"
+                        },
+                        {
+                            "text": "boil"
+                        }
+                    ]
+                },
+                {
+                    "text": "закипать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "бурлить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "boil"
+                        },
+                        {
+                            "text": "seethe"
+                        }
+                    ]
+                },
+                {
+                    "text": "потушить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "stew"
+                        }
+                    ]
+                },
+                {
+                    "text": "тлеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "smolder"
+                        }
+                    ]
+                },
+                {
+                    "text": "немного потушить",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "simmer",
+            "pos": "noun",
+            "ts": "ˈsɪmə",
+            "tr": [
+                {
+                    "text": "закипание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "boiling"
+                        }
+                    ]
+                },
+                {
+                    "text": "медленный огонь",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "slow fire"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

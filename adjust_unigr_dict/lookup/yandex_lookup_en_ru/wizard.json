@@ -1,0 +1,205 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "wizard",
+            "pos": "noun",
+            "ts": "ˈwɪzəd",
+            "tr": [
+                {
+                    "text": "волшебник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "колдун",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "чародей",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "маг",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "чудодей",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "кудесник",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "волшебница",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "magician"
+                        },
+                        {
+                            "text": "sorcerer"
+                        },
+                        {
+                            "text": "sorceress"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "evil wizard",
+                            "tr": [
+                                {
+                                    "text": "злой волшебник"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "young wizard",
+                            "tr": [
+                                {
+                                    "text": "молодой колдун"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "war wizard",
+                            "tr": [
+                                {
+                                    "text": "боевой чародей"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "powerful wizard",
+                            "tr": [
+                                {
+                                    "text": "могущественный маг"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "old wizard",
+                            "tr": [
+                                {
+                                    "text": "старый чудодей"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "мастер",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "master"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "setup wizard",
+                            "tr": [
+                                {
+                                    "text": "мастер установки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "new project wizard",
+                            "tr": [
+                                {
+                                    "text": "мастер нового проекта"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "table analyzer wizard",
+                            "tr": [
+                                {
+                                    "text": "мастер анализа таблиц"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "report wizard",
+                            "tr": [
+                                {
+                                    "text": "мастер отчетов"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "мастер настройки",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "мастер установки",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "setup wizard"
+                        },
+                        {
+                            "text": "installation wizard"
+                        }
+                    ]
+                },
+                {
+                    "text": "окно мастера",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "wizard window"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "wizard",
+            "pos": "adjective",
+            "ts": "ˈwɪzəd",
+            "tr": [
+                {
+                    "text": "волшебный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "колдовской",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "magic"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "wizarding world",
+                            "tr": [
+                                {
+                                    "text": "волшебный мир"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

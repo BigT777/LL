@@ -1,0 +1,303 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sketch",
+            "pos": "noun",
+            "ts": "skeʧ",
+            "tr": [
+                {
+                    "text": "эскиз",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "набросок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "зарисовка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "рисунок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "этюд",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "чертеж",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "thumbnail"
+                        },
+                        {
+                            "text": "outline"
+                        },
+                        {
+                            "text": "drawing"
+                        },
+                        {
+                            "text": "etude"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rough sketch",
+                            "tr": [
+                                {
+                                    "text": "грубый эскиз"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pencil sketch",
+                            "tr": [
+                                {
+                                    "text": "карандашный набросок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "travel sketches",
+                            "tr": [
+                                {
+                                    "text": "путевые зарисовки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "preliminary sketch",
+                            "tr": [
+                                {
+                                    "text": "предварительный рисунок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "preparatory sketch",
+                            "tr": [
+                                {
+                                    "text": "подготовительный этюд"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "очерк",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "essay"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "brief biographical sketch",
+                            "tr": [
+                                {
+                                    "text": "краткий биографический очерк"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "схема",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "diagram"
+                        }
+                    ]
+                },
+                {
+                    "text": "кроки",
+                    "pos": "noun",
+                    "gen": "м",
+                    "num": "мн"
+                },
+                {
+                    "text": "скетч",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "skit"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "comedy sketch",
+                            "tr": [
+                                {
+                                    "text": "комедийный скетч"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сценка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "scene"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "humorous sketch",
+                            "tr": [
+                                {
+                                    "text": "юмористическая сценка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "схематическое изображение",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "схематический чертеж",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "schematic"
+                        },
+                        {
+                            "text": "schematic drawing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sketch",
+            "pos": "verb",
+            "ts": "skeʧ",
+            "tr": [
+                {
+                    "text": "рисовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "набросать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "нарисовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "наметить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обрисовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "набрасывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "начертить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "draw"
+                        },
+                        {
+                            "text": "outline"
+                        },
+                        {
+                            "text": "scribble"
+                        }
+                    ]
+                },
+                {
+                    "text": "зарисовать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "зарисовывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ]
+                },
+                {
+                    "text": "делать набросок",
+                    "pos": "verb"
+                },
+                {
+                    "text": "рисовать эскизы",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "sketch",
+            "pos": "adjective",
+            "ts": "skeʧ",
+            "tr": [
+                {
+                    "text": "эскизный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "draft"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sketch project",
+                            "tr": [
+                                {
+                                    "text": "эскизный проект"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sketch design",
+                            "tr": [
+                                {
+                                    "text": "эскизное проектирование"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

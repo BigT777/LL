@@ -1,0 +1,234 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "snap",
+            "pos": "verb",
+            "ts": "snæp",
+            "tr": [
+                {
+                    "text": "щелкать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "щелкнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "защелкнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "защелкивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "click"
+                        }
+                    ]
+                },
+                {
+                    "text": "огрызнуться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "рявкнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "огрызаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "snarl"
+                        },
+                        {
+                            "text": "bellow"
+                        }
+                    ]
+                },
+                {
+                    "text": "лопнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "треснуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "burst"
+                        },
+                        {
+                            "text": "crack"
+                        }
+                    ]
+                },
+                {
+                    "text": "сломаться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "оборваться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отломать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "break"
+                        }
+                    ]
+                },
+                {
+                    "text": "зафиксировать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "lock"
+                        }
+                    ]
+                },
+                {
+                    "text": "привязать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "tie"
+                        }
+                    ]
+                },
+                {
+                    "text": "цапнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "отхватить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "snatch"
+                        },
+                        {
+                            "text": "grab"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "snap",
+            "pos": "noun",
+            "ts": "snæp",
+            "tr": [
+                {
+                    "text": "защелка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "latch"
+                        }
+                    ]
+                },
+                {
+                    "text": "щелчок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "click"
+                        }
+                    ]
+                },
+                {
+                    "text": "оснастка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "tooling"
+                        }
+                    ]
+                },
+                {
+                    "text": "привязка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "bind"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "object snap",
+                            "tr": [
+                                {
+                                    "text": "объектная привязка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "похолодание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "cold snap"
+                        }
+                    ]
+                },
+                {
+                    "text": "снимок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "picture"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "snap",
+            "pos": "adjective",
+            "ts": "snæp",
+            "tr": [
+                {
+                    "text": "щелчковый",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,230 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "clock",
+            "pos": "noun",
+            "ts": "klɒk",
+            "tr": [
+                {
+                    "text": "часы",
+                    "pos": "noun",
+                    "gen": "м",
+                    "num": "мн",
+                    "syn": [
+                        {
+                            "text": "настенные часы",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "часики",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "watch"
+                        },
+                        {
+                            "text": "wall clock"
+                        }
+                    ]
+                },
+                {
+                    "text": "время",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "time"
+                        }
+                    ]
+                },
+                {
+                    "text": "синхронизация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "synchronization"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "clock phase",
+                            "tr": [
+                                {
+                                    "text": "фаза синхронизации"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тактирование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "тактовый сигнал",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clocking"
+                        },
+                        {
+                            "text": "clock signal"
+                        }
+                    ]
+                },
+                {
+                    "text": "будильник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "таймер",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "alarm clock"
+                        },
+                        {
+                            "text": "timer"
+                        }
+                    ]
+                },
+                {
+                    "text": "тактовый генератор",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "генератор тактовых импульсов",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "генератор синхроимпульсов",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clock generator"
+                        },
+                        {
+                            "text": "clock pulse generator"
+                        }
+                    ]
+                },
+                {
+                    "text": "такт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "cycle"
+                        }
+                    ]
+                },
+                {
+                    "text": "циферблат",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "dial"
+                        }
+                    ]
+                },
+                {
+                    "text": "куранты",
+                    "pos": "noun",
+                    "gen": "м",
+                    "num": "мн",
+                    "mean": [
+                        {
+                            "text": "chimes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "clock",
+            "pos": "adjective",
+            "ts": "klɒk",
+            "tr": [
+                {
+                    "text": "Круглосуточный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "часовой",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "watch"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "clock mechanism",
+                            "tr": [
+                                {
+                                    "text": "часовой механизм"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тактовый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "tact"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "clock pulse generator",
+                            "tr": [
+                                {
+                                    "text": "генератор тактовых импульсов"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "clock",
+            "pos": "verb",
+            "ts": "klɒk",
+            "tr": [
+                {
+                    "text": "хронометрировать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "time"
+                        }
+                    ]
+                },
+                {
+                    "text": "тактировать",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        }
+    ]
+}

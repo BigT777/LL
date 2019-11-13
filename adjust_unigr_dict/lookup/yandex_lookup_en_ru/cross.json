@@ -1,0 +1,379 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cross",
+            "pos": "noun",
+            "ts": "krɒs",
+            "tr": [
+                {
+                    "text": "крест",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "крестик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crucifix"
+                        },
+                        {
+                            "text": "small cross"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "gold pectoral cross",
+                            "tr": [
+                                {
+                                    "text": "золотой наперсный крест"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "church of holy cross",
+                            "tr": [
+                                {
+                                    "text": "церковь святого креста"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cross with oak leaves",
+                            "tr": [
+                                {
+                                    "text": "крест с дубовыми листьями"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "tiny cross",
+                            "tr": [
+                                {
+                                    "text": "крошечный крестик"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "крестное знамение",
+                    "pos": "noun"
+                },
+                {
+                    "text": "кросс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "cross country"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "right cross",
+                            "tr": [
+                                {
+                                    "text": "правый кросс"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пересечение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "crossing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cross point",
+                            "tr": [
+                                {
+                                    "text": "точка пересечения"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cross",
+            "pos": "verb",
+            "ts": "krɒs",
+            "tr": [
+                {
+                    "text": "пересекать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "пересечь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "переправиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перебежать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "traverse"
+                        },
+                        {
+                            "text": "cross over"
+                        },
+                        {
+                            "text": "run across"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cross the city",
+                            "tr": [
+                                {
+                                    "text": "пересекать город"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cross the border",
+                            "tr": [
+                                {
+                                    "text": "пересечь границу"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "переходить",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "перейти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пройти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "проходить",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "преодолеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "преодолевать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pass"
+                        },
+                        {
+                            "text": "overcome"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cross the street",
+                            "tr": [
+                                {
+                                    "text": "переходить улицу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cross the road",
+                            "tr": [
+                                {
+                                    "text": "перейти улицу"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "скрещивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "скрестить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "breed"
+                        },
+                        {
+                            "text": "hybrid"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cross swords",
+                            "tr": [
+                                {
+                                    "text": "скрестить шпаги"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "перекреститься",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "креститься",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cross himself"
+                        }
+                    ]
+                },
+                {
+                    "text": "переступить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "step"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cross a line",
+                            "tr": [
+                                {
+                                    "text": "переступить черту"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пересечься",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "intersect"
+                        }
+                    ]
+                },
+                {
+                    "text": "вычеркнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "strike"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cross",
+            "pos": "adjective",
+            "ts": "krɒs",
+            "tr": [
+                {
+                    "text": "перекрестный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "поперечный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crossover"
+                        },
+                        {
+                            "text": "transverse"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cross reference",
+                            "tr": [
+                                {
+                                    "text": "перекрестная ссылка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cross sectional view",
+                            "tr": [
+                                {
+                                    "text": "поперечный разрез"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "round cross section",
+                            "tr": [
+                                {
+                                    "text": "круглое поперечное сечение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "крестный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "godfather"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cross",
+            "ts": "krɒs",
+            "tr": [
+                {
+                    "text": "Cross"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,476 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "move",
+            "pos": "verb",
+            "ts": "muːv",
+            "tr": [
+                {
+                    "text": "двигаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "двигать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "переходить",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "перейти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "двинуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "двинуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "продвинуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пойти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отойти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отодвинуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выдвинуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "go"
+                        },
+                        {
+                            "text": "push"
+                        },
+                        {
+                            "text": "advance"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "move very slowly",
+                            "tr": [
+                                {
+                                    "text": "двигаться очень медленно"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "move too quickly",
+                            "tr": [
+                                {
+                                    "text": "двигаться слишком быстро"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "move the arm",
+                            "tr": [
+                                {
+                                    "text": "двигать рукой"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "move directly",
+                            "tr": [
+                                {
+                                    "text": "перейти непосредственно"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "move ahead",
+                            "tr": [
+                                {
+                                    "text": "двинуться вперед"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "перемещать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "перемещаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "переместить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "переместиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "передвинуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "смещаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сместиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shift"
+                        },
+                        {
+                            "text": "travel"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "move data",
+                            "tr": [
+                                {
+                                    "text": "перемещать данные"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "move upward",
+                            "tr": [
+                                {
+                                    "text": "перемещаться вверх"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "move the pointer",
+                            "tr": [
+                                {
+                                    "text": "переместить указатель"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "move the mouse",
+                            "tr": [
+                                {
+                                    "text": "передвинуть мышь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "переезжать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "переехать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перебраться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "relocate"
+                        },
+                        {
+                            "text": "get"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "move to england",
+                            "tr": [
+                                {
+                                    "text": "переезжать в англию"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "move again",
+                            "tr": [
+                                {
+                                    "text": "переехать снова"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "move closer",
+                            "tr": [
+                                {
+                                    "text": "перебраться поближе"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "перенести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "перевести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "transfer"
+                        },
+                        {
+                            "text": "translate"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "move the body",
+                            "tr": [
+                                {
+                                    "text": "перенести тело"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "передвигаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "navigate"
+                        }
+                    ]
+                },
+                {
+                    "text": "переносить",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "перевезти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "carry"
+                        }
+                    ]
+                },
+                {
+                    "text": "пошевелиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "stir"
+                        }
+                    ]
+                },
+                {
+                    "text": "подойти",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "approach"
+                        }
+                    ]
+                },
+                {
+                    "text": "тронуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "touch"
+                        }
+                    ]
+                },
+                {
+                    "text": "перекочевать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "migrate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "move",
+            "pos": "noun",
+            "ts": "muːv",
+            "tr": [
+                {
+                    "text": "движение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "ход",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "перемещение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "movement"
+                        },
+                        {
+                            "text": "turn"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dance move",
+                            "tr": [
+                                {
+                                    "text": "танцевальное движение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "tactical move",
+                            "tr": [
+                                {
+                                    "text": "тактический ход"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "rapid move",
+                            "tr": [
+                                {
+                                    "text": "быстрое перемещение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шаг",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "step"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bold move",
+                            "tr": [
+                                {
+                                    "text": "смелый шаг"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "make the right move",
+                            "tr": [
+                                {
+                                    "text": "сделать правильный шаг"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "переезд",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "переход",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "продвижение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "перенос",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "moving"
+                        },
+                        {
+                            "text": "transition"
+                        },
+                        {
+                            "text": "transfer"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "move to new office",
+                            "tr": [
+                                {
+                                    "text": "переезд в новый офис"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "завтра",
+            "pos": "adverb",
+            "tr": [
+                {
+                    "text": "demain",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "послезавтра"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "вернуться завтра",
+                            "tr": [
+                                {
+                                    "text": "revenir demain"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "завтра",
+            "pos": "noun",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "lendemain",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "послезавтра"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

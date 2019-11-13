@@ -1,0 +1,169 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "click",
+            "pos": "noun",
+            "ts": "klɪk",
+            "tr": [
+                {
+                    "text": "щелчок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "щелканье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clicking"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "single click",
+                            "tr": [
+                                {
+                                    "text": "одиночный щелчок"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "клик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "нажатие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clickthrough"
+                        },
+                        {
+                            "text": "press"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cost per click",
+                            "tr": [
+                                {
+                                    "text": "цена за клик"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pay per click advertising",
+                            "tr": [
+                                {
+                                    "text": "оплата за клик"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "щелк",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "snap"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "click",
+            "pos": "verb",
+            "ts": "klɪk",
+            "tr": [
+                {
+                    "text": "щелкать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "щелкнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "кликнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "кликать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "snap"
+                        },
+                        {
+                            "text": "please click"
+                        },
+                        {
+                            "text": "call"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "click here",
+                            "tr": [
+                                {
+                                    "text": "кликнуть сюда"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "нажать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "нажимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "жать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "press"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "click button",
+                            "tr": [
+                                {
+                                    "text": "нажать кнопку"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

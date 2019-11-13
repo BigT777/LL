@@ -1,0 +1,256 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "smooth",
+            "pos": "adjective",
+            "ts": "smuːð",
+            "tr": [
+                {
+                    "text": "гладкий",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "ровный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "плавный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "мягкий",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sleek"
+                        },
+                        {
+                            "text": "flat"
+                        },
+                        {
+                            "text": "soft"
+                        }
+                    ]
+                },
+                {
+                    "text": "беспрепятственный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "бесперебойный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "unimpeded"
+                        },
+                        {
+                            "text": "uninterrupted"
+                        }
+                    ]
+                },
+                {
+                    "text": "гладкошерстный",
+                    "pos": "adjective"
+                },
+                {
+                    "text": "плавной",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "smoother"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "smooth",
+            "pos": "verb",
+            "ts": "smuːð",
+            "tr": [
+                {
+                    "text": "разглаживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сглаживать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сгладить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разгладить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сглаживаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "загладить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разгладиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сгладиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "smooth out"
+                        },
+                        {
+                            "text": "flatten"
+                        },
+                        {
+                            "text": "smooth down"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "smooth folds",
+                            "tr": [
+                                {
+                                    "text": "разглаживать морщины"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "smoothing capacitor",
+                            "tr": [
+                                {
+                                    "text": "сглаживающий конденсатор"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "smoothed curve",
+                            "tr": [
+                                {
+                                    "text": "сглаженная кривая"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "приглаживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "пригладить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sleek"
+                        }
+                    ]
+                },
+                {
+                    "text": "расправить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "оправить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "straighten"
+                        }
+                    ]
+                },
+                {
+                    "text": "заглаживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "blot"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "smooth",
+            "pos": "noun",
+            "ts": "smuːð",
+            "tr": [
+                {
+                    "text": "плавность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "гладкость",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "smoothness"
+                        }
+                    ]
+                },
+                {
+                    "text": "сглаживание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "smoothing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "smoothing algorithm",
+                            "tr": [
+                                {
+                                    "text": "алгоритм сглаживания"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "гладь",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "smooth surface"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

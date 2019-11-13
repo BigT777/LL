@@ -1,0 +1,61 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "crack",
+            "pos": "noun",
+            "ts": "kræk",
+            "tr": [
+                {
+                    "text": "fissure",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "crack",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crevice"
+                        }
+                    ]
+                },
+                {
+                    "text": "fissuration",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "cracking"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "crack",
+            "pos": "verb",
+            "ts": "kræk",
+            "tr": [
+                {
+                    "text": "craquer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "fissurer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cracking"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

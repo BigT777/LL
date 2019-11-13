@@ -1,0 +1,58 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "никто",
+            "pos": "pronoun",
+            "tr": [
+                {
+                    "text": "quiconque",
+                    "pos": "pronoun",
+                    "mean": [
+                        {
+                            "text": "кто"
+                        }
+                    ]
+                },
+                {
+                    "text": "personne",
+                    "pos": "pronoun",
+                    "syn": [
+                        {
+                            "text": "nul",
+                            "pos": "pronoun"
+                        },
+                        {
+                            "text": "aucun",
+                            "pos": "pronoun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ни один"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "нет никого вокруг",
+                            "tr": [
+                                {
+                                    "text": "personne autour"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "zéro",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "ни один"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

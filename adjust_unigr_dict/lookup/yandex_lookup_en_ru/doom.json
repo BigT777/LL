@@ -1,0 +1,203 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "doom",
+            "pos": "noun",
+            "ts": "duːm",
+            "tr": [
+                {
+                    "text": "гибель",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "смерть",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "погибель",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "death"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "inevitable doom",
+                            "tr": [
+                                {
+                                    "text": "неминуемая гибель"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "судьба",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "участь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "удел",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fate"
+                        },
+                        {
+                            "text": "destiny"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sign of doom",
+                            "tr": [
+                                {
+                                    "text": "знак судьбы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "рок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "rock"
+                        }
+                    ]
+                },
+                {
+                    "text": "приговор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "verdict"
+                        }
+                    ]
+                },
+                {
+                    "text": "фатум",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "fate"
+                        }
+                    ]
+                },
+                {
+                    "text": "обреченность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "обречение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hopelessness"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sense of doom",
+                            "tr": [
+                                {
+                                    "text": "чувство обреченности"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Дума",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "страшный суд",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "judgment"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "doom",
+            "pos": "verb",
+            "ts": "duːm",
+            "tr": [
+                {
+                    "text": "обрекать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обречь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "приговорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "осудить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "condemn"
+                        },
+                        {
+                            "text": "sentence"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "doom",
+            "pos": "adjective",
+            "ts": "duːm",
+            "tr": [
+                {
+                    "text": "роковой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "fatal"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

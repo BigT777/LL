@@ -1,0 +1,148 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "dam",
+            "pos": "noun",
+            "ts": "dæm",
+            "tr": [
+                {
+                    "text": "плотина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "запруда",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "дамба",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "weir"
+                        },
+                        {
+                            "text": "pond"
+                        },
+                        {
+                            "text": "levee"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "large dam",
+                            "tr": [
+                                {
+                                    "text": "большая плотина"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "small dam",
+                            "tr": [
+                                {
+                                    "text": "небольшая запруда"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "earth dams",
+                            "tr": [
+                                {
+                                    "text": "земляные дамбы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "перемычка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "bridge"
+                        }
+                    ]
+                },
+                {
+                    "text": "мать",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "mother"
+                        }
+                    ]
+                },
+                {
+                    "text": "завал",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "blockage"
+                        }
+                    ]
+                },
+                {
+                    "text": "прорыв плотины",
+                    "pos": "noun"
+                },
+                {
+                    "text": "самка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "female"
+                        }
+                    ]
+                },
+                {
+                    "text": "производительница",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "breeder"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dam",
+            "pos": "verb",
+            "ts": "dæm",
+            "tr": [
+                {
+                    "text": "запрудить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "запруживать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stem"
+                        }
+                    ]
+                },
+                {
+                    "text": "построить плотину",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

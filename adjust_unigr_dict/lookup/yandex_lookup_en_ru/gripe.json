@@ -1,0 +1,127 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "gripe",
+            "pos": "noun",
+            "ts": "graɪp",
+            "tr": [
+                {
+                    "text": "зажим",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "clamp"
+                        }
+                    ]
+                },
+                {
+                    "text": "нарекание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "жалоба",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "complaint"
+                        }
+                    ]
+                },
+                {
+                    "text": "тиски",
+                    "pos": "noun",
+                    "gen": "м",
+                    "num": "мн",
+                    "mean": [
+                        {
+                            "text": "vise"
+                        }
+                    ]
+                },
+                {
+                    "text": "недовольство",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "dissatisfaction"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "gripe",
+            "pos": "verb",
+            "ts": "graɪp",
+            "tr": [
+                {
+                    "text": "жаловаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ворчать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "complain"
+                        },
+                        {
+                            "text": "grumble"
+                        }
+                    ]
+                },
+                {
+                    "text": "сжать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "clench"
+                        }
+                    ]
+                },
+                {
+                    "text": "схватить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "grab"
+                        }
+                    ]
+                },
+                {
+                    "text": "постигнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "grasp"
+                        }
+                    ]
+                },
+                {
+                    "text": "усвоить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "grasp"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

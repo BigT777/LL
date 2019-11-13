@@ -1,0 +1,180 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cipher",
+            "pos": "noun",
+            "ts": "ˈsaɪfə",
+            "tr": [
+                {
+                    "text": "шифр",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "шифрование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "код",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "шифровка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "encryption"
+                        },
+                        {
+                            "text": "code"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "block cipher",
+                            "tr": [
+                                {
+                                    "text": "блочный шифр"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cipher key",
+                            "tr": [
+                                {
+                                    "text": "ключ шифрования"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "нуль",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "zero"
+                        }
+                    ]
+                },
+                {
+                    "text": "шифровальщик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "cryptographer"
+                        }
+                    ]
+                },
+                {
+                    "text": "вензель",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "monogram"
+                        }
+                    ]
+                },
+                {
+                    "text": "тайнопись",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "cryptography"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cipher",
+            "pos": "verb",
+            "ts": "ˈsaɪfə",
+            "tr": [
+                {
+                    "text": "зашифровывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "шифровать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "зашифровать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "encrypt"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cipher",
+            "pos": "adjective",
+            "ts": "ˈsaɪfə",
+            "tr": [
+                {
+                    "text": "шифровальный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "шифрованный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "encryption"
+                        },
+                        {
+                            "text": "encrypted"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cipher machine",
+                            "tr": [
+                                {
+                                    "text": "шифровальная машина"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cipher",
+            "pos": "participle",
+            "ts": "ˈsaɪfə",
+            "tr": [
+                {
+                    "text": "зашифрованный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "encrypted"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

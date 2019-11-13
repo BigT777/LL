@@ -1,0 +1,64 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "call in",
+            "pos": "verb",
+            "ts": "kɔːl ɪn",
+            "tr": [
+                {
+                    "text": "приглашать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вызывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пригласить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "позвать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "invite"
+                        },
+                        {
+                            "text": "call"
+                        }
+                    ]
+                },
+                {
+                    "text": "заезжать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заехать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "come"
+                        }
+                    ]
+                },
+                {
+                    "text": "зазвать",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        }
+    ]
+}

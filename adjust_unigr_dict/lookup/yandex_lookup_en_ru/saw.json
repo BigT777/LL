@@ -1,0 +1,162 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "saw",
+            "pos": "verb",
+            "ts": "sɔː",
+            "fl": "sawed, sawed/sawn",
+            "tr": [
+                {
+                    "text": "пилить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "распиливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "распилить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выпилить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выпиливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "перепилить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "напилить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перепиливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cut"
+                        },
+                        {
+                            "text": "slice"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "saw",
+            "pos": "noun",
+            "ts": "sɔː",
+            "tr": [
+                {
+                    "text": "пила",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "chainsaw"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "chain saw",
+                            "tr": [
+                                {
+                                    "text": "цепная пила"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "circular saw blades",
+                            "tr": [
+                                {
+                                    "text": "дисковые пилы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "распил",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "распиловка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cut"
+                        },
+                        {
+                            "text": "sawing"
+                        }
+                    ]
+                },
+                {
+                    "text": "отрезное устройство",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "saw",
+            "pos": "adjective",
+            "ts": "sɔː",
+            "tr": [
+                {
+                    "text": "пильный",
+                    "pos": "adjective",
+                    "ex": [
+                        {
+                            "text": "sawing machine",
+                            "tr": [
+                                {
+                                    "text": "пильный станок"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "лесопильный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "sawmill"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "saw mill",
+                            "tr": [
+                                {
+                                    "text": "лесопильный завод"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

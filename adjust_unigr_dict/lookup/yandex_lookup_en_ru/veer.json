@@ -1,0 +1,121 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "veer",
+            "pos": "verb",
+            "ts": "vɪə",
+            "tr": [
+                {
+                    "text": "травить",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "менять направление",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "change direction"
+                        }
+                    ]
+                },
+                {
+                    "text": "свернуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "поворачивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "повернуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сворачивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "roll"
+                        },
+                        {
+                            "text": "turn around"
+                        },
+                        {
+                            "text": "rotate"
+                        },
+                        {
+                            "text": "displace"
+                        }
+                    ]
+                },
+                {
+                    "text": "отклоняться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отклониться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "deviate"
+                        }
+                    ]
+                },
+                {
+                    "text": "лавировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "tack"
+                        }
+                    ]
+                },
+                {
+                    "text": "менять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "vary"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "veer",
+            "pos": "noun",
+            "ts": "vɪə",
+            "tr": [
+                {
+                    "text": "ВИР",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "поворот",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "turning"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

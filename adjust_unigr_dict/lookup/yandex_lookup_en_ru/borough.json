@@ -1,0 +1,98 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "borough",
+            "pos": "noun",
+            "ts": "ˈbʌrə",
+            "tr": [
+                {
+                    "text": "город",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "городок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "местечко",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "небольшой город",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "city"
+                        },
+                        {
+                            "text": "town"
+                        },
+                        {
+                            "text": "small town"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "small borough",
+                            "tr": [
+                                {
+                                    "text": "небольшой городок"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "район",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "округ",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "район города",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "district"
+                        },
+                        {
+                            "text": "city district"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "populous borough",
+                            "tr": [
+                                {
+                                    "text": "густонаселенный район"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "гмина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "municipality"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

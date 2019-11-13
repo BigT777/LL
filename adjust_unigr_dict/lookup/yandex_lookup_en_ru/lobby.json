@@ -1,0 +1,183 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "lobby",
+            "pos": "noun",
+            "ts": "ˈlɒbɪ",
+            "tr": [
+                {
+                    "text": "вестибюль",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "фойе",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "прихожая",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "коридор",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "холл",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "тамбур",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hall"
+                        },
+                        {
+                            "text": "foyer"
+                        },
+                        {
+                            "text": "vestibule"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hotel lobby",
+                            "tr": [
+                                {
+                                    "text": "вестибюль гостиницы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "elevator lobby",
+                            "tr": [
+                                {
+                                    "text": "лифтовой холл"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "лобби",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "ex": [
+                        {
+                            "text": "powerful lobby",
+                            "tr": [
+                                {
+                                    "text": "мощное лобби"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "лоббисты",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "лоббирование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lobbying"
+                        }
+                    ]
+                },
+                {
+                    "text": "приемная",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "reception"
+                        }
+                    ]
+                },
+                {
+                    "text": "кулуары",
+                    "pos": "noun"
+                },
+                {
+                    "text": "передняя",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "hall"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "lobby",
+            "pos": "verb",
+            "ts": "ˈlɒbɪ",
+            "tr": [
+                {
+                    "text": "лоббировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "пролоббировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "lobby",
+            "pos": "adjective",
+            "ts": "ˈlɒbɪ",
+            "tr": [
+                {
+                    "text": "лоббистский",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "lobbyist"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lobbying organization",
+                            "tr": [
+                                {
+                                    "text": "лоббистская организация"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "кулуарный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "backstage"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

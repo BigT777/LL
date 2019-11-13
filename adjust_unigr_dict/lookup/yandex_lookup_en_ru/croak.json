@@ -1,0 +1,104 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "croak",
+            "pos": "verb",
+            "ts": "krəʊk",
+            "tr": [
+                {
+                    "text": "квакать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "каркать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "caw"
+                        }
+                    ]
+                },
+                {
+                    "text": "прохрипеть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "хрипеть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wheeze"
+                        }
+                    ]
+                },
+                {
+                    "text": "сдохнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "die"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "croak",
+            "pos": "noun",
+            "ts": "krəʊk",
+            "tr": [
+                {
+                    "text": "карканье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "кваканье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "хриплое карканье",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "caw"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hoarse croak",
+                            "tr": [
+                                {
+                                    "text": "хриплое карканье"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "хрип",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "wheeze"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

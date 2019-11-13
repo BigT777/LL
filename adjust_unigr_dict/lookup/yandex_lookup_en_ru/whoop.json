@@ -1,0 +1,93 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "whoop",
+            "pos": "verb",
+            "ts": "huːp",
+            "tr": [
+                {
+                    "text": "выкрикивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "кричать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shout"
+                        }
+                    ]
+                },
+                {
+                    "text": "шуметь",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "make noise"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "whoop",
+            "pos": "noun",
+            "ts": "huːp",
+            "tr": [
+                {
+                    "text": "возглас",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "вопль",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "радостный вопль",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shout"
+                        },
+                        {
+                            "text": "scream"
+                        },
+                        {
+                            "text": "joyful cry"
+                        }
+                    ]
+                },
+                {
+                    "text": "гиканье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "уханье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "whooping"
+                        },
+                        {
+                            "text": "hoot"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

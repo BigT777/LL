@@ -1,0 +1,209 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "tow",
+            "pos": "noun",
+            "ts": "təʊ",
+            "tr": [
+                {
+                    "text": "пакля",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "кудель",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "очес",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "oakum"
+                        },
+                        {
+                            "text": "flax"
+                        },
+                        {
+                            "text": "combings"
+                        }
+                    ]
+                },
+                {
+                    "text": "буксир",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "tug"
+                        }
+                    ]
+                },
+                {
+                    "text": "буксировка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "towing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "towing speed",
+                            "tr": [
+                                {
+                                    "text": "скорость буксировки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "бечева",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "трос",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rope"
+                        }
+                    ]
+                },
+                {
+                    "text": "подъемник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "lift"
+                        }
+                    ]
+                },
+                {
+                    "text": "жгут",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "harness"
+                        }
+                    ]
+                },
+                {
+                    "text": "ТОУ",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        },
+        {
+            "text": "tow",
+            "pos": "verb",
+            "ts": "təʊ",
+            "tr": [
+                {
+                    "text": "буксировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отбуксировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "haul"
+                        },
+                        {
+                            "text": "tow away"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "towing vessel",
+                            "tr": [
+                                {
+                                    "text": "буксирующее судно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тащить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "тянуть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drag"
+                        },
+                        {
+                            "text": "pull"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "tow",
+            "pos": "adjective",
+            "ts": "təʊ",
+            "tr": [
+                {
+                    "text": "буксирный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "буксировочный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "towing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tow rope",
+                            "tr": [
+                                {
+                                    "text": "буксирный трос"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "towing cable",
+                            "tr": [
+                                {
+                                    "text": "буксировочный трос"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,406 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "routine",
+            "pos": "adjective",
+            "ts": "ruːˈtiːn",
+            "tr": [
+                {
+                    "text": "обычный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "стандартный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "usual"
+                        },
+                        {
+                            "text": "standard"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "routine patrol",
+                            "tr": [
+                                {
+                                    "text": "обычный патруль"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "routine test",
+                            "tr": [
+                                {
+                                    "text": "стандартное испытание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "регулярный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "regular"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "routine report",
+                            "tr": [
+                                {
+                                    "text": "регулярная сводка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "рутинный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "повседневный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "обыденный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "будничный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mundane"
+                        },
+                        {
+                            "text": "everyday"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "routine background check",
+                            "tr": [
+                                {
+                                    "text": "рутинная проверка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "routine work",
+                            "tr": [
+                                {
+                                    "text": "повседневная работа"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "routine life",
+                            "tr": [
+                                {
+                                    "text": "обыденная жизнь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "плановый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "текущий",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "scheduled"
+                        },
+                        {
+                            "text": "current"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "routine maintenance",
+                            "tr": [
+                                {
+                                    "text": "плановое обслуживание"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "routine repair",
+                            "tr": [
+                                {
+                                    "text": "текущий ремонт"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "однообразный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "monotonous"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "routine",
+            "pos": "noun",
+            "ts": "ruːˈtiːn",
+            "tr": [
+                {
+                    "text": "заведенный порядок",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "обычный порядок",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "normal procedure"
+                        }
+                    ]
+                },
+                {
+                    "text": "рутина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "повседневность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "обыденность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "chore"
+                        },
+                        {
+                            "text": "ordinary"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "everyday routine",
+                            "tr": [
+                                {
+                                    "text": "каждодневная рутина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "установившаяся практика",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "established practice"
+                        }
+                    ]
+                },
+                {
+                    "text": "подпрограмма",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "программа",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "subroutine"
+                        },
+                        {
+                            "text": "program"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "new routine",
+                            "tr": [
+                                {
+                                    "text": "новая подпрограмма"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "service routine",
+                            "tr": [
+                                {
+                                    "text": "сервисная программа"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "процедура",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "порядок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "procedure"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "initialization routine",
+                            "tr": [
+                                {
+                                    "text": "процедура инициализации"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "режим",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "regime"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "normal routine",
+                            "tr": [
+                                {
+                                    "text": "нормальный режим"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "распорядок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "schedule"
+                        }
+                    ]
+                },
+                {
+                    "text": "обычное дело",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "обычная практика",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "common"
+                        },
+                        {
+                            "text": "common practice"
+                        }
+                    ]
+                },
+                {
+                    "text": "упражнение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "exercise"
+                        }
+                    ]
+                },
+                {
+                    "text": "будни",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "everyday"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "working routine",
+                            "tr": [
+                                {
+                                    "text": "рабочие будни"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "стандартная процедура",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "standard procedure"
+                        }
+                    ]
+                },
+                {
+                    "text": "текучка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "turnover"
+                        }
+                    ]
+                },
+                {
+                    "text": "рутинные дела",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "routine",
+            "pos": "participle",
+            "ts": "ruːˈtiːn",
+            "tr": [
+                {
+                    "text": "заведенный",
+                    "pos": "participle"
+                }
+            ]
+        }
+    ]
+}

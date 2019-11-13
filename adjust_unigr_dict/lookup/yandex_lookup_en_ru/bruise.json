@@ -1,0 +1,151 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "bruise",
+            "pos": "noun",
+            "ts": "bruːz",
+            "tr": [
+                {
+                    "text": "синяк",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "ушиб",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "кровоподтек",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "ссадина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "гематома",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bruising"
+                        },
+                        {
+                            "text": "injury"
+                        },
+                        {
+                            "text": "abrasion"
+                        },
+                        {
+                            "text": "hematoma"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "purple bruise",
+                            "tr": [
+                                {
+                                    "text": "багровый синяк"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "severe bruises",
+                            "tr": [
+                                {
+                                    "text": "сильные ушибы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fresh bruise",
+                            "tr": [
+                                {
+                                    "text": "свежий кровоподтек"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "large bruise",
+                            "tr": [
+                                {
+                                    "text": "большая ссадина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "помятость",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "надлом",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "break"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bruise",
+            "pos": "verb",
+            "ts": "bruːz",
+            "tr": [
+                {
+                    "text": "помять",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "поразить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "smite"
+                        }
+                    ]
+                },
+                {
+                    "text": "повредить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "ушибиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hurt"
+                        }
+                    ]
+                },
+                {
+                    "text": "контузить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "contuse"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

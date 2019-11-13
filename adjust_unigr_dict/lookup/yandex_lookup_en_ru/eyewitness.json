@@ -1,0 +1,69 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "eyewitness",
+            "pos": "noun",
+            "ts": "ˈaɪwɪtnɪs",
+            "tr": [
+                {
+                    "text": "очевидец",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "свидетель",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "очевидец событий",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "witness"
+                        },
+                        {
+                            "text": "eyewitness of events"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "eyewitness of these events",
+                            "tr": [
+                                {
+                                    "text": "очевидец этих событий"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "eyewitness report",
+                            "tr": [
+                                {
+                                    "text": "сообщение свидетеля"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "свидетельство очевидца",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "рассказ очевидца",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "eyewitness account"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

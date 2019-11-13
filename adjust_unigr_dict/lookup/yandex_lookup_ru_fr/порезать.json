@@ -1,0 +1,63 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "порезать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "hacher",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "нарубить"
+                        }
+                    ]
+                },
+                {
+                    "text": "couper",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "trancher",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "découper",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "нарезать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "порезать кожу",
+                            "tr": [
+                                {
+                                    "text": "couper la peau"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "à la coupe",
+                    "pos": "verb"
+                },
+                {
+                    "text": "entamer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "надрезать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

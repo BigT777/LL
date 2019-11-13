@@ -1,0 +1,219 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "weld",
+            "pos": "noun",
+            "ts": "weld",
+            "tr": [
+                {
+                    "text": "сварной шов",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "сварное соединение",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "сварочный шов",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "weld seam"
+                        },
+                        {
+                            "text": "welded joint"
+                        },
+                        {
+                            "text": "welding seam"
+                        }
+                    ]
+                },
+                {
+                    "text": "сварка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "наплавка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "welding"
+                        },
+                        {
+                            "text": "surfacing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "speed of welding",
+                            "tr": [
+                                {
+                                    "text": "скорость сварки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шов",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "seam"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "weld metal",
+                            "tr": [
+                                {
+                                    "text": "металл шва"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "weld",
+            "pos": "verb",
+            "ts": "weld",
+            "tr": [
+                {
+                    "text": "сваривать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "приварить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сварить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "варить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "наварить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "weldable"
+                        },
+                        {
+                            "text": "cook"
+                        }
+                    ]
+                },
+                {
+                    "text": "заваривать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "brew"
+                        }
+                    ]
+                },
+                {
+                    "text": "спаять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "solder"
+                        }
+                    ]
+                },
+                {
+                    "text": "сплотить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "unite"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "weld",
+            "pos": "adjective",
+            "ts": "weld",
+            "tr": [
+                {
+                    "text": "сварочный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "сварной",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "welding"
+                        },
+                        {
+                            "text": "welded"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "welding helmet",
+                            "tr": [
+                                {
+                                    "text": "сварочная маска"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "weld seam",
+                            "tr": [
+                                {
+                                    "text": "сварной шов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "welded steel frame",
+                            "tr": [
+                                {
+                                    "text": "стальная сварная рама"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "наварной",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "fatty"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

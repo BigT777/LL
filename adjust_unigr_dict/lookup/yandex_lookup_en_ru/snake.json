@@ -1,0 +1,121 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "snake",
+            "pos": "noun",
+            "ts": "sneɪk",
+            "tr": [
+                {
+                    "text": "змея",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "змейка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "гадюка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "гадина",
+                            "pos": "noun",
+                            "gen": "м,ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "serpent"
+                        },
+                        {
+                            "text": "viper"
+                        },
+                        {
+                            "text": "reptile"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "poisonous snake",
+                            "tr": [
+                                {
+                                    "text": "ядовитая змея"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "golden snake",
+                            "tr": [
+                                {
+                                    "text": "золотая змейка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Снейк",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "полоз",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "runner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "snake",
+            "pos": "adjective",
+            "ts": "sneɪk",
+            "tr": [
+                {
+                    "text": "змеиный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "serpent"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "snake venom",
+                            "tr": [
+                                {
+                                    "text": "змеиный яд"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "snake",
+            "pos": "verb",
+            "ts": "sneɪk",
+            "tr": [
+                {
+                    "text": "змеиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "meander"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

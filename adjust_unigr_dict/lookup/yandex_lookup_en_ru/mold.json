@@ -1,0 +1,324 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "mold",
+            "pos": "noun",
+            "ts": "məʊld",
+            "tr": [
+                {
+                    "text": "плесень",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "прессформа",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "грибок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "литейная форма",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "изложница",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "гниль",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "кокиль",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mould"
+                        },
+                        {
+                            "text": "fungus"
+                        },
+                        {
+                            "text": "rot"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "black mold",
+                            "tr": [
+                                {
+                                    "text": "черная плесень"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mold cavity",
+                            "tr": [
+                                {
+                                    "text": "полость прессформы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "gray mold",
+                            "tr": [
+                                {
+                                    "text": "серая гниль"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шаблон",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "лекало",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "template"
+                        },
+                        {
+                            "text": "pattern"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "human mold",
+                            "tr": [
+                                {
+                                    "text": "человеческий шаблон"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "литье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "отливка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "формование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "casting"
+                        },
+                        {
+                            "text": "molding"
+                        }
+                    ]
+                },
+                {
+                    "text": "форма",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "form"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ceramic mold",
+                            "tr": [
+                                {
+                                    "text": "керамическая форма"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "почва",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "soil"
+                        }
+                    ]
+                },
+                {
+                    "text": "кристаллизатор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "crystallizer"
+                        }
+                    ]
+                },
+                {
+                    "text": "матрица",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "matrix"
+                        }
+                    ]
+                },
+                {
+                    "text": "слепок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "cast"
+                        }
+                    ]
+                },
+                {
+                    "text": "плесневые грибки",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "moulds"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mold",
+            "pos": "verb",
+            "ts": "məʊld",
+            "tr": [
+                {
+                    "text": "формировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "form"
+                        }
+                    ]
+                },
+                {
+                    "text": "отлить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "формовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сформировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cast"
+                        },
+                        {
+                            "text": "form"
+                        }
+                    ]
+                },
+                {
+                    "text": "лепить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вылепить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "слепить",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "плесневеть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mould"
+                        },
+                        {
+                            "text": "blind"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mold",
+            "pos": "adjective",
+            "ts": "məʊld",
+            "tr": [
+                {
+                    "text": "плесневой",
+                    "pos": "adjective"
+                },
+                {
+                    "text": "литьевой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "molding"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "molded products",
+                            "tr": [
+                                {
+                                    "text": "литьевые изделия"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "формовой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "shaped"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

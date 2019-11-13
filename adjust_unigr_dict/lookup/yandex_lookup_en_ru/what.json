@@ -1,0 +1,83 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "what",
+            "pos": "pronoun",
+            "ts": "wɒt",
+            "tr": [
+                {
+                    "text": "что",
+                    "pos": "pronoun",
+                    "syn": [
+                        {
+                            "text": "какой",
+                            "pos": "pronoun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "which"
+                        }
+                    ]
+                },
+                {
+                    "text": "каков",
+                    "pos": "pronoun",
+                    "mean": [
+                        {
+                            "text": "what kind"
+                        }
+                    ]
+                },
+                {
+                    "text": "кто",
+                    "pos": "pronoun"
+                }
+            ]
+        },
+        {
+            "text": "what",
+            "pos": "numeral",
+            "ts": "wɒt",
+            "tr": [
+                {
+                    "text": "сколько",
+                    "pos": "numeral"
+                }
+            ]
+        },
+        {
+            "text": "what",
+            "pos": "adverb",
+            "ts": "wɒt",
+            "tr": [
+                {
+                    "text": "чего",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "как",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "that"
+                        }
+                    ]
+                },
+                {
+                    "text": "в чем",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "к чему",
+                            "pos": "adverb"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

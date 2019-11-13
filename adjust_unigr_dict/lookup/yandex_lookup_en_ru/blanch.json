@@ -1,0 +1,81 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "blanch",
+            "pos": "verb",
+            "ts": "blɑːnʧ",
+            "tr": [
+                {
+                    "text": "бланшировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "scald"
+                        }
+                    ]
+                },
+                {
+                    "text": "бледнеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "побледнеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "побелеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pale"
+                        },
+                        {
+                            "text": "white"
+                        }
+                    ]
+                },
+                {
+                    "text": "отбеливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отбелить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bleach"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "blanch",
+            "pos": "noun",
+            "ts": "blɑːnʧ",
+            "tr": [
+                {
+                    "text": "бланширование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "scalding"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

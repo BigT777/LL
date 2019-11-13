@@ -1,0 +1,69 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "овца",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "mouton",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "brebis",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "ouaille",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "баран"
+                        },
+                        {
+                            "text": "овечка"
+                        },
+                        {
+                            "text": "паства"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "черная овца",
+                            "tr": [
+                                {
+                                    "text": "le mouton noir"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "потерянная овца",
+                            "tr": [
+                                {
+                                    "text": "brebis perdue"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "agneau",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "овечка"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

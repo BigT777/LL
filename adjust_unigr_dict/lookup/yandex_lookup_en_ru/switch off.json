@@ -1,0 +1,90 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "switch off",
+            "pos": "verb",
+            "ts": "swɪʧ ɒf",
+            "tr": [
+                {
+                    "text": "выключить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выключать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отключать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выключиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отключиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "turn off"
+                        },
+                        {
+                            "text": "shut off"
+                        }
+                    ]
+                },
+                {
+                    "text": "выключать ток",
+                    "pos": "verb"
+                },
+                {
+                    "text": "отключать питание",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "switch off",
+            "pos": "noun",
+            "ts": "swɪʧ ɒf",
+            "tr": [
+                {
+                    "text": "выключение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "turn off"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "switch-off",
+            "pos": "noun",
+            "tr": [
+                {
+                    "text": "отключение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "выключение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

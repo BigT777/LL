@@ -1,0 +1,168 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "email",
+            "pos": "noun",
+            "ts": "ɪˈmeɪl",
+            "tr": [
+                {
+                    "text": "электронная почта",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "адрес",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "electronic mail"
+                        },
+                        {
+                            "text": "address"
+                        }
+                    ]
+                },
+                {
+                    "text": "электронное письмо",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "сообщение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "письмо",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "электронное сообщение",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "почтовое сообщение",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "email message"
+                        },
+                        {
+                            "text": "message"
+                        },
+                        {
+                            "text": "letter"
+                        },
+                        {
+                            "text": "electronic message"
+                        },
+                        {
+                            "text": "mail"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "anonymous email",
+                            "tr": [
+                                {
+                                    "text": "анонимное сообщение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "confirmation email",
+                            "tr": [
+                                {
+                                    "text": "письмо с подтверждением"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "email",
+            "pos": "adjective",
+            "ts": "ɪˈmeɪl",
+            "tr": [
+                {
+                    "text": "электронный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "почтовый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "electronic"
+                        },
+                        {
+                            "text": "mail"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "new email address",
+                            "tr": [
+                                {
+                                    "text": "новый электронный адрес"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "email account",
+                            "tr": [
+                                {
+                                    "text": "почтовый аккаунт"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "free email service",
+                            "tr": [
+                                {
+                                    "text": "бесплатная почтовая служба"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "email",
+            "pos": "verb",
+            "ts": "ɪˈmeɪl",
+            "tr": [
+                {
+                    "text": "написать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "write"
+                        }
+                    ]
+                },
+                {
+                    "text": "посылать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "send"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

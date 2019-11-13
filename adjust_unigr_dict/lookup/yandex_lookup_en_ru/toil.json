@@ -1,0 +1,99 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "toil",
+            "pos": "noun",
+            "ts": "tɔɪl",
+            "tr": [
+                {
+                    "text": "тяжелый труд",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "труд",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "тяжкий труд",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "непосильный труд",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hard work"
+                        },
+                        {
+                            "text": "labour"
+                        },
+                        {
+                            "text": "overwork"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "honest toil",
+                            "tr": [
+                                {
+                                    "text": "честный труд"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "toil",
+            "pos": "verb",
+            "ts": "tɔɪl",
+            "tr": [
+                {
+                    "text": "трудиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "потрудиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "работать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вкалывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "labor"
+                        },
+                        {
+                            "text": "bother"
+                        },
+                        {
+                            "text": "work"
+                        },
+                        {
+                            "text": "work hard"
+                        }
+                    ]
+                },
+                {
+                    "text": "усиленно трудиться",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

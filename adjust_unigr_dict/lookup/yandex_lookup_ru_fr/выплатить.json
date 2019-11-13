@@ -1,0 +1,59 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "выплатить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "verser",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "payer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "rembourser",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "выплачивать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "выплаченная сумма",
+                            "tr": [
+                                {
+                                    "text": "montant payé"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "débourser",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "расходовать"
+                        }
+                    ]
+                },
+                {
+                    "text": "s'acquitter de",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "выплачивать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

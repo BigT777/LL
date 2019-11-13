@@ -1,0 +1,106 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "рассылка",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "mailing",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "publipostage",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "почтовая рассылка"
+                        },
+                        {
+                            "text": "прямая почтовая рассылка"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "прямая рассылка",
+                            "tr": [
+                                {
+                                    "text": "mailing direct"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "список рассылки",
+                            "tr": [
+                                {
+                                    "text": "liste de publipostage"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "diffusion",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "распространение"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "списки рассылки",
+                            "tr": [
+                                {
+                                    "text": "listes de diffusions"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "envoi",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "expédition",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "acheminement",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "отправка"
+                        },
+                        {
+                            "text": "пересылка"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "массовая рассылка",
+                            "tr": [
+                                {
+                                    "text": "envoi massif"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

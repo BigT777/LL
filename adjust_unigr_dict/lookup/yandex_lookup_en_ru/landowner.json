@@ -1,0 +1,116 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "landowner",
+            "pos": "noun",
+            "ts": "ˈlændəʊnə",
+            "tr": [
+                {
+                    "text": "землевладелец",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "помещик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "landlord"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "large landowner",
+                            "tr": [
+                                {
+                                    "text": "крупный землевладелец"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "rich landowner",
+                            "tr": [
+                                {
+                                    "text": "богатый помещик"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "собственник земли",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "земельный собственник",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "владелец земли",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "land owner"
+                        }
+                    ]
+                },
+                {
+                    "text": "аграрий",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "agrarian"
+                        }
+                    ]
+                },
+                {
+                    "text": "хозяин",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "owner"
+                        }
+                    ]
+                },
+                {
+                    "text": "помещица",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "landlady"
+                        }
+                    ]
+                },
+                {
+                    "text": "владелец участка",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "landowner",
+            "pos": "adjective",
+            "ts": "ˈlændəʊnə",
+            "tr": [
+                {
+                    "text": "помещичий",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "landlord"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

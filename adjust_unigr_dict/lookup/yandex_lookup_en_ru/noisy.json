@@ -1,0 +1,115 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "noisy",
+            "pos": "adjective",
+            "ts": "ˈnɔɪzɪ",
+            "tr": [
+                {
+                    "text": "шумный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "шумливый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "громкий",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "крикливый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "громогласный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "loud"
+                        },
+                        {
+                            "text": "boisterous"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "noisy campaign",
+                            "tr": [
+                                {
+                                    "text": "шумная кампания"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "зашумленный",
+                    "pos": "adjective",
+                    "ex": [
+                        {
+                            "text": "noisy signal",
+                            "tr": [
+                                {
+                                    "text": "зашумленный сигнал"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шумовой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "noise"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "noisy",
+            "pos": "participle",
+            "ts": "ˈnɔɪzɪ",
+            "tr": [
+                {
+                    "text": "шумящий",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "rustling"
+                        }
+                    ]
+                },
+                {
+                    "text": "галдящий",
+                    "pos": "participle"
+                }
+            ]
+        },
+        {
+            "text": "noisy",
+            "pos": "adverb",
+            "ts": "ˈnɔɪzɪ",
+            "tr": [
+                {
+                    "text": "с шумом",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "with noise"
+                        }
+                    ]
+                },
+                {
+                    "text": "с помехами",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

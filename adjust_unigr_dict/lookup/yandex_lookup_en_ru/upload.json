@@ -1,0 +1,168 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "upload",
+            "pos": "verb",
+            "ts": "ʌpˈləʊd",
+            "tr": [
+                {
+                    "text": "загружать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "закачивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "закачать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подгружать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "download"
+                        },
+                        {
+                            "text": "pump"
+                        },
+                        {
+                            "text": "load"
+                        }
+                    ]
+                },
+                {
+                    "text": "передавать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "пересылать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "transmit"
+                        },
+                        {
+                            "text": "send"
+                        }
+                    ]
+                },
+                {
+                    "text": "выгружать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выгрузить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "unload"
+                        }
+                    ]
+                },
+                {
+                    "text": "выложить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "lay"
+                        }
+                    ]
+                },
+                {
+                    "text": "заливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "fill"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "upload",
+            "pos": "noun",
+            "ts": "ʌpˈləʊd",
+            "tr": [
+                {
+                    "text": "загрузка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "закачка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "выгрузка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "отправка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "загрузка файлов",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "download"
+                        },
+                        {
+                            "text": "unloading"
+                        },
+                        {
+                            "text": "sending"
+                        },
+                        {
+                            "text": "download files"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ability to upload",
+                            "tr": [
+                                {
+                                    "text": "возможность загрузки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "закачивание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "injection"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

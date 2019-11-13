@@ -1,0 +1,83 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "амбар",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "grange",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "grenier",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "сарай"
+                        },
+                        {
+                            "text": "зернохранилище"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "дверь амбара",
+                            "tr": [
+                                {
+                                    "text": "porte de grange"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "étable",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "хлев"
+                        }
+                    ]
+                },
+                {
+                    "text": "entrepôt",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "magasin",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "пакгауз"
+                        },
+                        {
+                            "text": "склад"
+                        }
+                    ]
+                },
+                {
+                    "text": "dépôt",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "склад"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

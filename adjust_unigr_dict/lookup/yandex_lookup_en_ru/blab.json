@@ -1,0 +1,71 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "blab",
+            "pos": "noun",
+            "ts": "blæb",
+            "tr": [
+                {
+                    "text": "болтун",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "gossip"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "blab",
+            "pos": "verb",
+            "ts": "blæb",
+            "tr": [
+                {
+                    "text": "разбалтывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "болтать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "разболтать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "chatter"
+                        }
+                    ]
+                },
+                {
+                    "text": "проговориться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "let"
+                        }
+                    ]
+                },
+                {
+                    "text": "выбалтывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "blurt"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

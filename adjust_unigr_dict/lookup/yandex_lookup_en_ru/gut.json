@@ -1,0 +1,208 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "gut",
+            "pos": "noun",
+            "ts": "gʌt",
+            "tr": [
+                {
+                    "text": "внутренности",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "num": "мн",
+                    "syn": [
+                        {
+                            "text": "потроха",
+                            "pos": "noun",
+                            "gen": "м",
+                            "num": "мн"
+                        },
+                        {
+                            "text": "нутро",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "innards"
+                        },
+                        {
+                            "text": "giblets"
+                        },
+                        {
+                            "text": "inside"
+                        }
+                    ]
+                },
+                {
+                    "text": "кишка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "пищеварительный тракт",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "кишечник",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "пищеварительный канал",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "intestine"
+                        },
+                        {
+                            "text": "digestive tract"
+                        },
+                        {
+                            "text": "alimentary canal"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "blind gut",
+                            "tr": [
+                                {
+                                    "text": "слепая кишка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "gut bacteria",
+                            "tr": [
+                                {
+                                    "text": "бактерии кишечника"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "живот",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "stomach"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "beer gut",
+                            "tr": [
+                                {
+                                    "text": "пивной живот"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "брюхо",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "пузо",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "belly"
+                        }
+                    ]
+                },
+                {
+                    "text": "характер",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "gut",
+            "pos": "verb",
+            "ts": "gʌt",
+            "tr": [
+                {
+                    "text": "потрошить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выпотрошить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "распотрошить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "disembowel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "gut",
+            "pos": "adjective",
+            "ts": "gʌt",
+            "tr": [
+                {
+                    "text": "внутренний",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "internal"
+                        }
+                    ]
+                },
+                {
+                    "text": "инстинктивный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "instinctive"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "gut feeling",
+                            "tr": [
+                                {
+                                    "text": "инстинктивное чувство"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "gut",
+            "pos": "foreign word",
+            "ts": "gʌt",
+            "tr": [
+                {
+                    "text": "guts",
+                    "pos": "foreign word"
+                }
+            ]
+        }
+    ]
+}

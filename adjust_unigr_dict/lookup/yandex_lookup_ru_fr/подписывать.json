@@ -1,0 +1,60 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "подписывать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "signer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "abonner",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "souscrire",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "parapher",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "подписать"
+                        },
+                        {
+                            "text": "подписываться"
+                        },
+                        {
+                            "text": "парафировать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "подписывать чеки",
+                            "tr": [
+                                {
+                                    "text": "signer des chèques"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "passer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "войти"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,298 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "gun",
+            "pos": "noun",
+            "ts": "gʌn",
+            "tr": [
+                {
+                    "text": "пушка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "пистолет",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "пулемет",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "ружье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "автомат",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "винтовка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cannon"
+                        },
+                        {
+                            "text": "pistol"
+                        },
+                        {
+                            "text": "machine gun"
+                        },
+                        {
+                            "text": "rifle"
+                        },
+                        {
+                            "text": "machine"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "laser gun",
+                            "tr": [
+                                {
+                                    "text": "лазерная пушка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "butt of his gun",
+                            "tr": [
+                                {
+                                    "text": "рукоятка пистолета"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "heavy machine gun",
+                            "tr": [
+                                {
+                                    "text": "тяжелый пулемет"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "loaded gun",
+                            "tr": [
+                                {
+                                    "text": "заряженное ружье"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sniper gun",
+                            "tr": [
+                                {
+                                    "text": "снайперская винтовка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "орудие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "огнестрельное оружие",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "оружие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "instrument"
+                        },
+                        {
+                            "text": "firearms"
+                        },
+                        {
+                            "text": "weapon"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "field gun",
+                            "tr": [
+                                {
+                                    "text": "полевое орудие"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "automatic gun",
+                            "tr": [
+                                {
+                                    "text": "автоматическое оружие"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ствол",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "trunk"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "new gun",
+                            "tr": [
+                                {
+                                    "text": "новый ствол"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выстрел",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "shot"
+                        }
+                    ]
+                },
+                {
+                    "text": "распылитель",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "пульверизатор",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spray"
+                        }
+                    ]
+                },
+                {
+                    "text": "мушкет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "musket"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "gun",
+            "pos": "verb",
+            "ts": "gʌn",
+            "tr": [
+                {
+                    "text": "стрелять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "застрелить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shoot"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "gun",
+            "pos": "adjective",
+            "ts": "gʌn",
+            "tr": [
+                {
+                    "text": "пушечный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "оружейный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "орудийный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "ружейный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "пистолетный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cannon"
+                        },
+                        {
+                            "text": "weapons"
+                        },
+                        {
+                            "text": "rifle"
+                        },
+                        {
+                            "text": "pistol"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "gun club",
+                            "tr": [
+                                {
+                                    "text": "пушечный клуб"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "gun shop",
+                            "tr": [
+                                {
+                                    "text": "оружейный магазин"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "gun fire",
+                            "tr": [
+                                {
+                                    "text": "орудийный огонь"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

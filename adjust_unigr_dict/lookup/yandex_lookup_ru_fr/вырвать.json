@@ -1,0 +1,72 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "вырвать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "arracher",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "vomir",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "déchirer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "cueillir",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "выдернуть"
+                        },
+                        {
+                            "text": "рвать"
+                        },
+                        {
+                            "text": "оторвать"
+                        },
+                        {
+                            "text": "сорвать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "вырвать победу",
+                            "tr": [
+                                {
+                                    "text": "arracher la victoire"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "soulever",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "поднять"
+                        }
+                    ]
+                },
+                {
+                    "text": "emparer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "отнять"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

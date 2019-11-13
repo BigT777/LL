@@ -1,0 +1,65 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sniffle",
+            "pos": "noun",
+            "ts": "snɪfl",
+            "tr": [
+                {
+                    "text": "насморк",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "runny nose"
+                        }
+                    ]
+                },
+                {
+                    "text": "хлюпанье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "сопение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "squelch"
+                        },
+                        {
+                            "text": "sniff"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sniffle",
+            "pos": "verb",
+            "ts": "snɪfl",
+            "tr": [
+                {
+                    "text": "шмыгать носом",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "сопеть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sniff"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

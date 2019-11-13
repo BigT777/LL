@@ -1,0 +1,94 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "redo",
+            "pos": "verb",
+            "ts": "ˈriːˈduː",
+            "fl": "redid, redone",
+            "tr": [
+                {
+                    "text": "переделывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "переделать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сделать заново",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "remodel"
+                        },
+                        {
+                            "text": "remake"
+                        }
+                    ]
+                },
+                {
+                    "text": "повторить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "повторять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "repeat"
+                        }
+                    ]
+                },
+                {
+                    "text": "вернуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "восстановить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "restore"
+                        },
+                        {
+                            "text": "rebuild"
+                        }
+                    ]
+                },
+                {
+                    "text": "делать заново",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "redo",
+            "pos": "noun",
+            "ts": "ˈriːˈduː",
+            "tr": [
+                {
+                    "text": "повторное выполнение",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "retry"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

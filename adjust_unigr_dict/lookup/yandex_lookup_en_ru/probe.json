@@ -1,0 +1,324 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "probe",
+            "pos": "noun",
+            "ts": "prəʊb",
+            "tr": [
+                {
+                    "text": "зонд",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "датчик",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "щуп",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "электрод",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sensor"
+                        },
+                        {
+                            "text": "dipstick"
+                        },
+                        {
+                            "text": "electrode"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "space probe",
+                            "tr": [
+                                {
+                                    "text": "космический зонд"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "temperature probe",
+                            "tr": [
+                                {
+                                    "text": "датчик температуры"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "measuring probe",
+                            "tr": [
+                                {
+                                    "text": "измерительный щуп"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пробник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "test probe"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "logic probe",
+                            "tr": [
+                                {
+                                    "text": "логический пробник"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "проба",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "sample"
+                        }
+                    ]
+                },
+                {
+                    "text": "зондирование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "sensing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "remote probe",
+                            "tr": [
+                                {
+                                    "text": "дистанционное зондирование"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "расследование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "исследование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "investigation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "new probe",
+                            "tr": [
+                                {
+                                    "text": "новое расследование"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "last probe",
+                            "tr": [
+                                {
+                                    "text": "последнее исследование"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "преобразователь",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "converter"
+                        }
+                    ]
+                },
+                {
+                    "text": "проверка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "inspection"
+                        }
+                    ]
+                },
+                {
+                    "text": "штырь",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "pin"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "steel probe",
+                            "tr": [
+                                {
+                                    "text": "стальной штырь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пробоотборник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "sampler"
+                        }
+                    ]
+                },
+                {
+                    "text": "измерительная головка",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "measuring head"
+                        }
+                    ]
+                },
+                {
+                    "text": "контактный датчик",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "contact sensor"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "probe",
+            "pos": "verb",
+            "ts": "prəʊb",
+            "tr": [
+                {
+                    "text": "исследовать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "investigate"
+                        }
+                    ]
+                },
+                {
+                    "text": "зондировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "прозондировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "explore"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "probe pulse",
+                            "tr": [
+                                {
+                                    "text": "зондирующий импульс"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "прощупывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "прощупать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "feel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "probe",
+            "pos": "adjective",
+            "ts": "prəʊb",
+            "tr": [
+                {
+                    "text": "зондовый",
+                    "pos": "adjective",
+                    "ex": [
+                        {
+                            "text": "scanning probe microscopy",
+                            "tr": [
+                                {
+                                    "text": "сканирующая зондовая микроскопия"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пробный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "test"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "probing questions",
+                            "tr": [
+                                {
+                                    "text": "пробные вопросы"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

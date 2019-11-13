@@ -1,0 +1,126 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "beep",
+            "pos": "noun",
+            "ts": "biːp",
+            "tr": [
+                {
+                    "text": "звуковой сигнал",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "гудок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "сигнал",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sound"
+                        },
+                        {
+                            "text": "tone"
+                        },
+                        {
+                            "text": "alarm"
+                        }
+                    ]
+                },
+                {
+                    "text": "телеметрический сигнал",
+                    "pos": "noun"
+                },
+                {
+                    "text": "зуммерный сигнал",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "beep",
+            "pos": "verb",
+            "ts": "biːp",
+            "tr": [
+                {
+                    "text": "подавать звуковой сигнал",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "подать звуковой сигнал",
+                            "pos": "verb"
+                        }
+                    ]
+                },
+                {
+                    "text": "пищать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "пикать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "squeak"
+                        }
+                    ]
+                },
+                {
+                    "text": "сигналить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "просигналить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "бибикать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "honk"
+                        },
+                        {
+                            "text": "zoom"
+                        }
+                    ]
+                },
+                {
+                    "text": "издать звуковой сигнал",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "beep",
+            "pos": "adjective",
+            "ts": "biːp",
+            "tr": [
+                {
+                    "text": "зуммерный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "buzzer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "lull",
+            "pos": "noun",
+            "ts": "lʌl",
+            "tr": [
+                {
+                    "text": "затишье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "временное затишье",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "calm"
+                        },
+                        {
+                            "text": "temporary lull"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "temporary lull",
+                            "tr": [
+                                {
+                                    "text": "временное затишье"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "перерыв",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "пауза",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "interruption"
+                        },
+                        {
+                            "text": "pause"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "lull",
+            "pos": "verb",
+            "ts": "lʌl",
+            "tr": [
+                {
+                    "text": "убаюкивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "убаюкать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "баюкать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "укачивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cradle"
+                        },
+                        {
+                            "text": "rock"
+                        }
+                    ]
+                },
+                {
+                    "text": "успокаивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "успокоить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "soothe"
+                        },
+                        {
+                            "text": "calm"
+                        }
+                    ]
+                },
+                {
+                    "text": "усыпить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "усыплять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lull to sleep"
+                        },
+                        {
+                            "text": "put to sleep"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

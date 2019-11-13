@@ -1,0 +1,284 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "harm",
+            "pos": "noun",
+            "ts": "hɑːm",
+            "tr": [
+                {
+                    "text": "вред",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "ущерб",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "урон",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "повреждение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "damage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "irreparable harm",
+                            "tr": [
+                                {
+                                    "text": "непоправимый вред"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cause significant harm",
+                            "tr": [
+                                {
+                                    "text": "наносить значительный ущерб"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "serious physical harm",
+                            "tr": [
+                                {
+                                    "text": "серьезный физический ущерб"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "grievous bodily harm",
+                            "tr": [
+                                {
+                                    "text": "тяжкое телесное повреждение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "зло",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "evil"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "social harm",
+                            "tr": [
+                                {
+                                    "text": "социальное зло"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "причинение вреда",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "нанесение вреда",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "injury"
+                        },
+                        {
+                            "text": "crippling"
+                        }
+                    ]
+                },
+                {
+                    "text": "вредность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "вредоносность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hazard"
+                        },
+                        {
+                            "text": "harmfulness"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "harm",
+            "pos": "verb",
+            "ts": "hɑːm",
+            "tr": [
+                {
+                    "text": "наносить ущерб",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "вредить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "навредить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "повредить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "нанести вред",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "наносить вред",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "причинить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "причинять вред",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "причинить вред",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "нанести ущерб",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "причинять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обидеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обижать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "damage"
+                        },
+                        {
+                            "text": "hurt"
+                        },
+                        {
+                            "text": "causing damage"
+                        },
+                        {
+                            "text": "cause"
+                        },
+                        {
+                            "text": "offend"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "harm humans",
+                            "tr": [
+                                {
+                                    "text": "вредить человеку"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "harm the fetus",
+                            "tr": [
+                                {
+                                    "text": "повредить плоду"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пострадать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "suffer"
+                        }
+                    ]
+                },
+                {
+                    "text": "приносить вред",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "принести вреда",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bringing harm"
+                        }
+                    ]
+                },
+                {
+                    "text": "причинять зло",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "hurt"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "harm",
+            "pos": "adjective",
+            "ts": "hɑːm",
+            "tr": [
+                {
+                    "text": "худо",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "evil"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "опалить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "roussir",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "палить"
+                        }
+                    ]
+                },
+                {
+                    "text": "brûler",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "flamber",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "обжечь"
+                        },
+                        {
+                            "text": "пылать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

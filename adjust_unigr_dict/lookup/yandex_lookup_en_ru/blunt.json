@@ -1,0 +1,158 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "blunt",
+            "pos": "adjective",
+            "ts": "blʌnt",
+            "tr": [
+                {
+                    "text": "грубый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "грубоватый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "откровенный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rough"
+                        },
+                        {
+                            "text": "frank"
+                        }
+                    ]
+                },
+                {
+                    "text": "тупой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "dull"
+                        }
+                    ]
+                },
+                {
+                    "text": "туповатый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "непонятливый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dull"
+                        }
+                    ]
+                },
+                {
+                    "text": "резкий",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "sharp"
+                        }
+                    ]
+                },
+                {
+                    "text": "прямой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "прямолинейный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "straight"
+                        },
+                        {
+                            "text": "rectilinear"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "blunt answer",
+                            "tr": [
+                                {
+                                    "text": "прямой ответ"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тупоконечный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "obtuse"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "blunt",
+            "pos": "verb",
+            "ts": "blʌnt",
+            "tr": [
+                {
+                    "text": "притуплять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "притупить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "притупиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "затупить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "затупиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dull"
+                        }
+                    ]
+                },
+                {
+                    "text": "тупить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "rebate"
+                        }
+                    ]
+                },
+                {
+                    "text": "затуплять",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        }
+    ]
+}

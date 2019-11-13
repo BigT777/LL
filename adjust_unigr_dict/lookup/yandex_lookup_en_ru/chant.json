@@ -1,0 +1,189 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "chant",
+            "pos": "noun",
+            "ts": "ʧɑːnt",
+            "tr": [
+                {
+                    "text": "песнь",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "песнопение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "песня",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "пение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "song"
+                        },
+                        {
+                            "text": "singing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sacred chants",
+                            "tr": [
+                                {
+                                    "text": "священные песнопения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "распев",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "напев",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "хорал",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "singsong"
+                        },
+                        {
+                            "text": "tune"
+                        },
+                        {
+                            "text": "chorale"
+                        }
+                    ]
+                },
+                {
+                    "text": "скандирование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "scansion"
+                        }
+                    ]
+                },
+                {
+                    "text": "речевка",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "монотонное песнопение",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "chant",
+            "pos": "verb",
+            "ts": "ʧɑːnt",
+            "tr": [
+                {
+                    "text": "скандировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "петь",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sing"
+                        }
+                    ]
+                },
+                {
+                    "text": "повторять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "произносить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "repeat"
+                        },
+                        {
+                            "text": "pronounce"
+                        }
+                    ]
+                },
+                {
+                    "text": "воспевать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "распевать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "напевать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пропеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "воспеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sing"
+                        }
+                    ]
+                },
+                {
+                    "text": "читать нараспев",
+                    "pos": "verb"
+                },
+                {
+                    "text": "бубнить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "drone"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

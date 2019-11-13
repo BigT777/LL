@@ -1,0 +1,49 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "neg",
+            "pos": "adjective",
+            "ts": "neg",
+            "tr": [
+                {
+                    "text": "отрицательный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "негативный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "negative"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "neg",
+            "pos": "noun",
+            "ts": "neg",
+            "tr": [
+                {
+                    "text": "СЕГ",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "негатив",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "negative"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

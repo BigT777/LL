@@ -1,0 +1,46 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "press",
+            "pos": "verb",
+            "ts": "pres",
+            "tr": [
+                {
+                    "text": "appuyer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "presser",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "enfoncer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "click"
+                        },
+                        {
+                            "text": "push"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "press",
+            "pos": "noun",
+            "ts": "pres",
+            "tr": [
+                {
+                    "text": "presse",
+                    "pos": "noun",
+                    "gen": "f"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "brute",
+            "pos": "adjective",
+            "ts": "bruːt",
+            "tr": [
+                {
+                    "text": "грубый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "жестокий",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rough"
+                        },
+                        {
+                            "text": "brutal"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "brute force",
+                            "tr": [
+                                {
+                                    "text": "грубая сила"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "животный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "animal"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "brute",
+            "pos": "noun",
+            "ts": "bruːt",
+            "tr": [
+                {
+                    "text": "животное",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "зверь",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "зверюга",
+                            "pos": "noun",
+                            "gen": "м,ж"
+                        },
+                        {
+                            "text": "скот",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "скотина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "animal"
+                        },
+                        {
+                            "text": "beast"
+                        },
+                        {
+                            "text": "cattle"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dumb brute",
+                            "tr": [
+                                {
+                                    "text": "бессловесное животное"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "huge brute",
+                            "tr": [
+                                {
+                                    "text": "огромный зверь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тварь",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "creature"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

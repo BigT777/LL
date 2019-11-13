@@ -1,0 +1,93 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "освещать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "allumer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "illuminer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "éclairer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "embraser",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "осветить"
+                        },
+                        {
+                            "text": "зажигать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "солнце освещает",
+                            "tr": [
+                                {
+                                    "text": "soleil illuminera"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "свет освещает",
+                            "tr": [
+                                {
+                                    "text": "lumière éclairera"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "couvrir",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "охватывать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "освещать события",
+                            "tr": [
+                                {
+                                    "text": "couvrir les événements"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "briller",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "светить"
+                        }
+                    ]
+                },
+                {
+                    "text": "éclaircir",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "осветить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

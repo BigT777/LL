@@ -1,0 +1,258 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "affect",
+            "pos": "verb",
+            "ts": "ˈæfekt",
+            "tr": [
+                {
+                    "text": "влиять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "воздействовать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "повлиять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "действовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "оказывать влияние",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "подействовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оказывать воздействие",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "influence"
+                        },
+                        {
+                            "text": "act"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "affect the market",
+                            "tr": [
+                                {
+                                    "text": "влиять на рынок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "affect the brain",
+                            "tr": [
+                                {
+                                    "text": "воздействовать на мозг"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "affect people",
+                            "tr": [
+                                {
+                                    "text": "действовать на людей"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "затрагивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "касаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "затронуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "коснуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "задеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "задевать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "touch"
+                        },
+                        {
+                            "text": "concern"
+                        }
+                    ]
+                },
+                {
+                    "text": "поражать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "поразить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "strike"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "affect women",
+                            "tr": [
+                                {
+                                    "text": "поражать женщин"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сказываться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отразиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отражаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reflect"
+                        },
+                        {
+                            "text": "bounce"
+                        }
+                    ]
+                },
+                {
+                    "text": "пострадать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "suffer"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "affected population",
+                            "tr": [
+                                {
+                                    "text": "пострадавшее население"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "оказывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "provide"
+                        }
+                    ]
+                },
+                {
+                    "text": "поражаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "amaze"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "affect",
+            "pos": "noun",
+            "ts": "ˈæfekt",
+            "tr": [
+                {
+                    "text": "аффект",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "passion"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "affect theory",
+                            "tr": [
+                                {
+                                    "text": "теория аффектов"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "влияние",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "воздействие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "influence"
+                        },
+                        {
+                            "text": "impact"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

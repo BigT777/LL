@@ -1,0 +1,134 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "vomit",
+            "pos": "noun",
+            "ts": "ˈvɒmɪt",
+            "tr": [
+                {
+                    "text": "рвота",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "vomiting"
+                        }
+                    ]
+                },
+                {
+                    "text": "рвотная масса",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "блевотина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "блевота",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "puke"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "vomit",
+            "pos": "verb",
+            "ts": "ˈvɒmɪt",
+            "tr": [
+                {
+                    "text": "рвать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "tear"
+                        }
+                    ]
+                },
+                {
+                    "text": "извергать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "извергнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "изрыгать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spew"
+                        }
+                    ]
+                },
+                {
+                    "text": "страдать рвотой",
+                    "pos": "verb"
+                },
+                {
+                    "text": "тошнить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "стошнить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "блевать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "проблеваться",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "throw up"
+                        },
+                        {
+                            "text": "puke"
+                        }
+                    ]
+                },
+                {
+                    "text": "вырвать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "tear"
+                        }
+                    ]
+                },
+                {
+                    "text": "вызывать рвоту",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "induce vomiting"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,279 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cake",
+            "pos": "noun",
+            "ts": "keɪk",
+            "tr": [
+                {
+                    "text": "торт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "кекс",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "пирог",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "пряник",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "пирожок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "тортик",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "кулич",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pie"
+                        },
+                        {
+                            "text": "muffin"
+                        },
+                        {
+                            "text": "gingerbread"
+                        },
+                        {
+                            "text": "easter"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "wedding cake",
+                            "tr": [
+                                {
+                                    "text": "свадебный торт"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "slice of chocolate cake",
+                            "tr": [
+                                {
+                                    "text": "кусочек торта"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "layer cake",
+                            "tr": [
+                                {
+                                    "text": "слоеный пирог"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "honey cake",
+                            "tr": [
+                                {
+                                    "text": "медовый пряник"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "rice cake",
+                            "tr": [
+                                {
+                                    "text": "рисовый пирожок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "delicious cake",
+                            "tr": [
+                                {
+                                    "text": "вкусный тортик"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "жмых",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "брикет",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "шрот",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "oil cake"
+                        },
+                        {
+                            "text": "briquette"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "soybean cake",
+                            "tr": [
+                                {
+                                    "text": "соевый жмых"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пирожное",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "печенье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pastry"
+                        },
+                        {
+                            "text": "biscuit"
+                        }
+                    ]
+                },
+                {
+                    "text": "лепешка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "bread"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "corn cake",
+                            "tr": [
+                                {
+                                    "text": "кукурузная лепешка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "кек",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "осадок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "sludge"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "filter cake",
+                            "tr": [
+                                {
+                                    "text": "отфильтрованный осадок"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "кусок пирога",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "piece of cake"
+                        }
+                    ]
+                },
+                {
+                    "text": "оладья",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "pancake"
+                        }
+                    ]
+                },
+                {
+                    "text": "корка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "crust"
+                        }
+                    ]
+                },
+                {
+                    "text": "Макуха",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        },
+        {
+            "text": "cake",
+            "pos": "verb",
+            "ts": "keɪk",
+            "tr": [
+                {
+                    "text": "испечь",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "bake"
+                        }
+                    ]
+                },
+                {
+                    "text": "уложить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "lay"
+                        }
+                    ]
+                },
+                {
+                    "text": "слеживаться",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "soon",
+            "pos": "adverb",
+            "ts": "suːn",
+            "tr": [
+                {
+                    "text": "скоро",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "вскоре",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "рано",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "быстро",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "поскорее",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "вскорости",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "quickly"
+                        },
+                        {
+                            "text": "shortly"
+                        },
+                        {
+                            "text": "early"
+                        }
+                    ]
+                },
+                {
+                    "text": "в ближайшее время",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "в скором времени",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "in near future"
+                        },
+                        {
+                            "text": "shortly"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "soon",
+            "pos": "noun",
+            "ts": "suːn",
+            "tr": [
+                {
+                    "text": "ближайшее будущее",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "ближайшее время",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "near future"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

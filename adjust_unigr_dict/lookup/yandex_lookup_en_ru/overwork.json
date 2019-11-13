@@ -1,0 +1,138 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "overwork",
+            "pos": "noun",
+            "ts": "əʊvəˈwɜːk",
+            "tr": [
+                {
+                    "text": "переутомление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "перегрузка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "перенапряжение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fatigue"
+                        },
+                        {
+                            "text": "overload"
+                        },
+                        {
+                            "text": "overstrain"
+                        }
+                    ]
+                },
+                {
+                    "text": "непосильный труд",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "непосильная работа",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "toil"
+                        }
+                    ]
+                },
+                {
+                    "text": "сверхурочная работа",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "overtime"
+                        }
+                    ]
+                },
+                {
+                    "text": "перегруженность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "congestion"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "overwork",
+            "pos": "verb",
+            "ts": "əʊvəˈwɜːk",
+            "tr": [
+                {
+                    "text": "переутомлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "перенапрягать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "переутомить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "overstrain"
+                        },
+                        {
+                            "text": "overdo"
+                        }
+                    ]
+                },
+                {
+                    "text": "перерабатывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "переработать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ]
+                },
+                {
+                    "text": "перегружать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "overload"
+                        }
+                    ]
+                },
+                {
+                    "text": "изнурять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "fatigue"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

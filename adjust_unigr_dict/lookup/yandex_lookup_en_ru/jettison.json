@@ -1,0 +1,131 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "jettison",
+            "pos": "noun",
+            "ts": "ˈʤɛtɪsn",
+            "tr": [
+                {
+                    "text": "выбрасывание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "ejection"
+                        }
+                    ]
+                },
+                {
+                    "text": "сброс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "reset"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "jettison",
+            "pos": "verb",
+            "ts": "ˈʤɛtɪsn",
+            "tr": [
+                {
+                    "text": "сбросить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "сбрасывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dump"
+                        }
+                    ]
+                },
+                {
+                    "text": "выбросить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выбрасывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отбросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "throw away"
+                        },
+                        {
+                            "text": "discard"
+                        }
+                    ]
+                },
+                {
+                    "text": "выбросить за борт",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "сбросить за борт",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "throw overboard"
+                        }
+                    ]
+                },
+                {
+                    "text": "выбрасывать за борт",
+                    "pos": "verb"
+                },
+                {
+                    "text": "отстреливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "shoot"
+                        }
+                    ]
+                },
+                {
+                    "text": "отвергнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "reject"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "jettison",
+            "pos": "adverb",
+            "ts": "ˈʤɛtɪsn",
+            "tr": [
+                {
+                    "text": "за борт",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

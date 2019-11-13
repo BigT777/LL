@@ -1,0 +1,78 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "перепись",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "recensement",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "dénombrement",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "transcription",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "inventaire",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "перепись населения"
+                        },
+                        {
+                            "text": "подсчет"
+                        },
+                        {
+                            "text": "транскрипция"
+                        },
+                        {
+                            "text": "опись"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "сельскохозяйственная перепись",
+                            "tr": [
+                                {
+                                    "text": "recensement agricole"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "результаты переписи",
+                            "tr": [
+                                {
+                                    "text": "résultats du dénombrement"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "cens",
+                    "pos": "noun",
+                    "gen": "m",
+                    "num": "pl",
+                    "mean": [
+                        {
+                            "text": "ценз"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

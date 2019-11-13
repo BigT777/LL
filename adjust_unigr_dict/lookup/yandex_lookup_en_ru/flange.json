@@ -1,0 +1,123 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "flange",
+            "pos": "noun",
+            "ts": "flænʤ",
+            "tr": [
+                {
+                    "text": "борт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "side"
+                        }
+                    ]
+                },
+                {
+                    "text": "выступ",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "protrusion"
+                        }
+                    ]
+                },
+                {
+                    "text": "фланец",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "патрубок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "collar"
+                        },
+                        {
+                            "text": "pipe"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "mounting flange",
+                            "tr": [
+                                {
+                                    "text": "монтажный фланец"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "полка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "shelf"
+                        }
+                    ]
+                },
+                {
+                    "text": "гребень",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "ridge"
+                        }
+                    ]
+                },
+                {
+                    "text": "кромка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "edge"
+                        }
+                    ]
+                },
+                {
+                    "text": "отбортовка",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        },
+        {
+            "text": "flange",
+            "pos": "adjective",
+            "ts": "flænʤ",
+            "tr": [
+                {
+                    "text": "фланцевый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "flanged"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "flange connection",
+                            "tr": [
+                                {
+                                    "text": "фланцевое соединение"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

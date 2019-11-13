@@ -1,0 +1,138 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "minimize",
+            "pos": "verb",
+            "ts": "ˈmɪnɪmaɪz",
+            "tr": [
+                {
+                    "text": "минимизировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "сводить к минимуму",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "свести к минимуму",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "максимально сократить",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "снижать до минимума",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "minimise"
+                        },
+                        {
+                            "text": "reduce to minimum"
+                        },
+                        {
+                            "text": "maximally reduce"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "minimizing sequence",
+                            "tr": [
+                                {
+                                    "text": "минимизирующая последовательность"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "доводить до минимума",
+                    "pos": "verb"
+                },
+                {
+                    "text": "преуменьшать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "преуменьшить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "downplay"
+                        }
+                    ]
+                },
+                {
+                    "text": "уменьшить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "уменьшать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reduce"
+                        }
+                    ]
+                },
+                {
+                    "text": "свернуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "сворачивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "свертывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "roll"
+                        },
+                        {
+                            "text": "displace"
+                        }
+                    ]
+                },
+                {
+                    "text": "сводить до минимума",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "minimize",
+            "pos": "noun",
+            "ts": "ˈmɪnɪmaɪz",
+            "tr": [
+                {
+                    "text": "сведение к минимуму",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "minimizing"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

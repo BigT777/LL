@@ -1,0 +1,218 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "slow",
+            "pos": "adjective",
+            "ts": "sləʊ",
+            "tr": [
+                {
+                    "text": "медленный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "медлительный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "вялый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "вялотекущий",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sluggish"
+                        }
+                    ]
+                },
+                {
+                    "text": "неторопливый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "неспешный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "leisurely"
+                        },
+                        {
+                            "text": "unhurried"
+                        }
+                    ]
+                },
+                {
+                    "text": "постепенный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "gradual"
+                        }
+                    ]
+                },
+                {
+                    "text": "слабый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "weak"
+                        }
+                    ]
+                },
+                {
+                    "text": "неповоротливый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "clumsy"
+                        }
+                    ]
+                },
+                {
+                    "text": "тихоходный",
+                    "pos": "adjective"
+                }
+            ]
+        },
+        {
+            "text": "slow",
+            "pos": "verb",
+            "ts": "sləʊ",
+            "tr": [
+                {
+                    "text": "замедлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "замедлить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "замедлиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "замедляться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "тормозить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "снижать скорость",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "slow down"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "slow traffic",
+                            "tr": [
+                                {
+                                    "text": "замедлять движения"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "slow the bleeding",
+                            "tr": [
+                                {
+                                    "text": "замедлить кровотечение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "slow down the process",
+                            "tr": [
+                                {
+                                    "text": "тормозить процесс"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "снизить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "снижать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reduce"
+                        }
+                    ]
+                },
+                {
+                    "text": "медлить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "delay"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "slow",
+            "pos": "adverb",
+            "ts": "sləʊ",
+            "tr": [
+                {
+                    "text": "медленно",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "медлительно",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "slowly"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "slow",
+            "pos": "noun",
+            "ts": "sləʊ",
+            "tr": [
+                {
+                    "text": "медленный темп",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "slow pace"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

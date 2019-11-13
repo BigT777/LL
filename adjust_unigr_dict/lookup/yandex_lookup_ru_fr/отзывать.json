@@ -1,0 +1,74 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "отзывать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "révoquer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "retirer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "rappeler",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "annuler",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "отозвать"
+                        },
+                        {
+                            "text": "аннулировать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "право отзывать",
+                            "tr": [
+                                {
+                                    "text": "droit de révoquer"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "отзывать заявку",
+                            "tr": [
+                                {
+                                    "text": "retirer une demande"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "se rétracter",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "отрекаться"
+                        }
+                    ]
+                },
+                {
+                    "text": "renvoyer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "увольнять"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "disbelieve",
+            "pos": "verb",
+            "ts": "dɪsbɪˈliːv",
+            "tr": [
+                {
+                    "text": "не верить",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "не доверять",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "не поверить",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "не веровать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "разувериться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "not believe"
+                        },
+                        {
+                            "text": "distrust"
+                        }
+                    ]
+                },
+                {
+                    "text": "верить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "believe"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

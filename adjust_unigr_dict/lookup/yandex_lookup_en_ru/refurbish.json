@@ -1,0 +1,96 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "refurbish",
+            "pos": "verb",
+            "ts": "riːˈfɜːbɪʃ",
+            "tr": [
+                {
+                    "text": "обновлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обновить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подновить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подновлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "renew"
+                        },
+                        {
+                            "text": "upgrade"
+                        }
+                    ]
+                },
+                {
+                    "text": "отремонтировать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "ремонтировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "renovate"
+                        }
+                    ]
+                },
+                {
+                    "text": "отреставрировать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "восстановить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "восстанавливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "реставрировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "restore"
+                        },
+                        {
+                            "text": "rebuild"
+                        }
+                    ]
+                },
+                {
+                    "text": "переоборудовать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "reconstruct"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

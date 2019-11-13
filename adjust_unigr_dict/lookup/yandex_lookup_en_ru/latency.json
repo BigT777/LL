@@ -1,0 +1,100 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "latency",
+            "pos": "noun",
+            "ts": "ˈleɪtənsɪ",
+            "tr": [
+                {
+                    "text": "время ожидания",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "время задержки",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "waiting time"
+                        },
+                        {
+                            "text": "delay time"
+                        }
+                    ]
+                },
+                {
+                    "text": "скрытое состояние",
+                    "pos": "noun"
+                },
+                {
+                    "text": "задержка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "латентность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "delay"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "network latency",
+                            "tr": [
+                                {
+                                    "text": "сетевая задержка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "латентный период",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "инкубационный период",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "latent period"
+                        },
+                        {
+                            "text": "incubation period"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "latency",
+            "pos": "adjective",
+            "ts": "ˈleɪtənsɪ",
+            "tr": [
+                {
+                    "text": "латентный",
+                    "pos": "adjective",
+                    "ex": [
+                        {
+                            "text": "latency period",
+                            "tr": [
+                                {
+                                    "text": "латентный период"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

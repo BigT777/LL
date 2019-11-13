@@ -1,0 +1,195 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "deploy",
+            "pos": "verb",
+            "ts": "dɪˈplɔɪ",
+            "tr": [
+                {
+                    "text": "развертывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "развернуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разворачивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "дислоцировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "expand"
+                        },
+                        {
+                            "text": "station"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "deploy the system",
+                            "tr": [
+                                {
+                                    "text": "развернуть систему"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "использовать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "задействовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "utilize"
+                        },
+                        {
+                            "text": "employ"
+                        }
+                    ]
+                },
+                {
+                    "text": "развертываться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разворачиваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "развернуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "unfold"
+                        }
+                    ]
+                },
+                {
+                    "text": "разместить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "размещать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "locate"
+                        }
+                    ]
+                },
+                {
+                    "text": "внедрять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "внедрить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "применять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "implement"
+                        }
+                    ]
+                },
+                {
+                    "text": "установить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "устанавливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "install"
+                        }
+                    ]
+                },
+                {
+                    "text": "раскрывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "disclose"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "deploy",
+            "pos": "noun",
+            "ts": "dɪˈplɔɪ",
+            "tr": [
+                {
+                    "text": "развертывание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "внедрение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "deployment"
+                        },
+                        {
+                            "text": "implement"
+                        }
+                    ]
+                },
+                {
+                    "text": "размещение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "placing"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

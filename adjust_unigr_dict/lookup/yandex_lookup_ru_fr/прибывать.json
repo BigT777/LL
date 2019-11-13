@@ -1,0 +1,55 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "прибывать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "arriver",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "venir",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "приезжать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "прибывать в пятницу",
+                            "tr": [
+                                {
+                                    "text": "arriver le vendredi"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "aborder",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "подойти"
+                        }
+                    ]
+                },
+                {
+                    "text": "grossir",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "возрастать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

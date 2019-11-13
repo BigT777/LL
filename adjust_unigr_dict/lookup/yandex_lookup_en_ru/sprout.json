@@ -1,0 +1,205 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sprout",
+            "pos": "noun",
+            "ts": "spraʊt",
+            "tr": [
+                {
+                    "text": "побег",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "отросток",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shoot"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bamboo sprouts",
+                            "tr": [
+                                {
+                                    "text": "побеги бамбука"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "росток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "росточек",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "germ"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bean sprouts",
+                            "tr": [
+                                {
+                                    "text": "ростки бобов"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "брюссельская капуста",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "капуста",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "brussels sprouts"
+                        },
+                        {
+                            "text": "cauliflower"
+                        }
+                    ]
+                },
+                {
+                    "text": "рассада",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "всходы",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "проросток",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "seedling"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sprout",
+            "pos": "verb",
+            "ts": "spraʊt",
+            "tr": [
+                {
+                    "text": "расти",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отращивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вырастать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вырасти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "произрастать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отрастить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grow"
+                        }
+                    ]
+                },
+                {
+                    "text": "пускать ростки",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "прорастать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "прорасти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "всходить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "проращивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "давать ростки",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bud"
+                        },
+                        {
+                            "text": "germinate"
+                        },
+                        {
+                            "text": "rise"
+                        }
+                    ]
+                },
+                {
+                    "text": "взойти",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "ascend"
+                        }
+                    ]
+                },
+                {
+                    "text": "дать ростки",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

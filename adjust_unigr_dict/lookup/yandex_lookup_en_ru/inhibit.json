@@ -1,0 +1,187 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "inhibit",
+            "pos": "verb",
+            "ts": "ɪnˈhɪbɪt",
+            "tr": [
+                {
+                    "text": "ингибировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сдерживать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подавлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "угнетать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подавить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "inhibition"
+                        },
+                        {
+                            "text": "restrain"
+                        },
+                        {
+                            "text": "suppress"
+                        },
+                        {
+                            "text": "oppress"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "inhibiting effect",
+                            "tr": [
+                                {
+                                    "text": "ингибирующее действие"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тормозить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "замедлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "затормозить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "затормаживать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hamper"
+                        },
+                        {
+                            "text": "slow down"
+                        },
+                        {
+                            "text": "retard"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "inhibit the development",
+                            "tr": [
+                                {
+                                    "text": "тормозить развитие"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "препятствовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "мешать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "затруднять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "помешать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "воспрепятствовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hinder"
+                        },
+                        {
+                            "text": "interfere"
+                        },
+                        {
+                            "text": "prevent"
+                        }
+                    ]
+                },
+                {
+                    "text": "запрещать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "запретить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "prohibit"
+                        }
+                    ]
+                },
+                {
+                    "text": "задерживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "detain"
+                        }
+                    ]
+                },
+                {
+                    "text": "блокировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "заблокировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "block"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

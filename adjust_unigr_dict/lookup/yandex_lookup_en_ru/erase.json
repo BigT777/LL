@@ -1,0 +1,149 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "erase",
+            "pos": "verb",
+            "ts": "ɪˈreɪz",
+            "tr": [
+                {
+                    "text": "стирать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "стереть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "удалить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "удалять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "уничтожить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wipe"
+                        },
+                        {
+                            "text": "remove"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "erase the memory",
+                            "tr": [
+                                {
+                                    "text": "стереть память"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "подчищать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подчистить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clean up"
+                        },
+                        {
+                            "text": "clean"
+                        }
+                    ]
+                },
+                {
+                    "text": "стираться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "стереться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "blur"
+                        },
+                        {
+                            "text": "fade"
+                        }
+                    ]
+                },
+                {
+                    "text": "вычеркнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "уничтожать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вычеркивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "delete"
+                        }
+                    ]
+                },
+                {
+                    "text": "изгладить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "blot out"
+                        }
+                    ]
+                },
+                {
+                    "text": "очищать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "clear"
+                        }
+                    ]
+                },
+                {
+                    "text": "затирать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "rub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

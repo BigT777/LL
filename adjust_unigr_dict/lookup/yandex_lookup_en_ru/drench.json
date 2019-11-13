@@ -1,0 +1,95 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "drench",
+            "pos": "noun",
+            "ts": "drenʧ",
+            "tr": [
+                {
+                    "text": "промокание",
+                    "pos": "noun",
+                    "gen": "ср"
+                },
+                {
+                    "text": "кисель",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "jelly"
+                        }
+                    ]
+                },
+                {
+                    "text": "проливной дождь",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "pouring rain"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "drench",
+            "pos": "verb",
+            "ts": "drenʧ",
+            "tr": [
+                {
+                    "text": "смочить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "мочить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "moisten"
+                        }
+                    ]
+                },
+                {
+                    "text": "заливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "залить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "облить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pour"
+                        },
+                        {
+                            "text": "douse"
+                        }
+                    ]
+                },
+                {
+                    "text": "промокать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "soak"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

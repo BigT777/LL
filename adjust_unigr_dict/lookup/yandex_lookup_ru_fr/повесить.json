@@ -1,0 +1,59 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "повесить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "accrocher",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "pendre",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "suspendre",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "вешать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "повесить картину",
+                            "tr": [
+                                {
+                                    "text": "accrocher un tableau"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "traîner",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "висеть"
+                        }
+                    ]
+                },
+                {
+                    "text": "étendre",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "класть"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

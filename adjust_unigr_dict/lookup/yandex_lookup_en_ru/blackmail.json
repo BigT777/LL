@@ -1,0 +1,88 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "blackmail",
+            "pos": "noun",
+            "ts": "ˈblækmeɪl",
+            "tr": [
+                {
+                    "text": "шантаж",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "вымогательство",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "intimidation"
+                        },
+                        {
+                            "text": "extortion"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "political blackmail",
+                            "tr": [
+                                {
+                                    "text": "политический шантаж"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шантажирование",
+                    "pos": "noun",
+                    "gen": "ср"
+                }
+            ]
+        },
+        {
+            "text": "blackmail",
+            "pos": "verb",
+            "ts": "ˈblækmeɪl",
+            "tr": [
+                {
+                    "text": "шантажировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "ex": [
+                        {
+                            "text": "blackmail the world",
+                            "tr": [
+                                {
+                                    "text": "шантажировать мир"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вымогать деньги",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "вымогать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "extort money"
+                        },
+                        {
+                            "text": "extort"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

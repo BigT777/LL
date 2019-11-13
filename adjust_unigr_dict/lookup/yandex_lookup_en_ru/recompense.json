@@ -1,0 +1,160 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "recompense",
+            "pos": "noun",
+            "ts": "ˈrekəmpens",
+            "tr": [
+                {
+                    "text": "компенсация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "возмещение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "вознаграждение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "indemnification"
+                        },
+                        {
+                            "text": "compensation"
+                        },
+                        {
+                            "text": "remuneration"
+                        }
+                    ]
+                },
+                {
+                    "text": "награда",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "воздаяние",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "возмездие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reward"
+                        },
+                        {
+                            "text": "retribution"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "great recompense",
+                            "tr": [
+                                {
+                                    "text": "великая награда"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "справедливое возмездие",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "recompense",
+            "pos": "verb",
+            "ts": "ˈrekəmpens",
+            "tr": [
+                {
+                    "text": "компенсировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "возмещать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "возместить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "окупать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "compensate"
+                        },
+                        {
+                            "text": "reimburse"
+                        },
+                        {
+                            "text": "pay back"
+                        }
+                    ]
+                },
+                {
+                    "text": "воздавать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вознаграждать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "воздать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reward"
+                        },
+                        {
+                            "text": "give"
+                        }
+                    ]
+                },
+                {
+                    "text": "вознаградить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "награждать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reward"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

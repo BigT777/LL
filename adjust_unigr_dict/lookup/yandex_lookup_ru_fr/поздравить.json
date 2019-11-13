@@ -1,0 +1,39 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "поздравить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "saluer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "поприветствовать"
+                        }
+                    ]
+                },
+                {
+                    "text": "congratuler",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "complimenter",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "поздравлять"
+                        },
+                        {
+                            "text": "похвалить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

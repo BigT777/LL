@@ -1,0 +1,75 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "заказчик",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "client",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "commanditaire",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "покупатель"
+                        },
+                        {
+                            "text": "вкладчик"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "выбор заказчика",
+                            "tr": [
+                                {
+                                    "text": "choix du client"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "donneur d'ordre",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "покупатель"
+                        }
+                    ]
+                },
+                {
+                    "text": "maître d'ouvrage",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "застройщик"
+                        }
+                    ]
+                },
+                {
+                    "text": "maître de l'ouvrage",
+                    "pos": "noun"
+                },
+                {
+                    "text": "maître",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "владелец"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

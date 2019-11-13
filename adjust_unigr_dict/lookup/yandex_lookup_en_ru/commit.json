@@ -1,0 +1,267 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "commit",
+            "pos": "verb",
+            "ts": "kəˈmɪt",
+            "tr": [
+                {
+                    "text": "совершать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "совершить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "осуществить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "учинить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "perpetrate"
+                        },
+                        {
+                            "text": "perform"
+                        },
+                        {
+                            "text": "carry out"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "commit further crimes",
+                            "tr": [
+                                {
+                                    "text": "совершать новые преступления"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "commit mass murder",
+                            "tr": [
+                                {
+                                    "text": "совершать массовые убийства"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "commit mistakes",
+                            "tr": [
+                                {
+                                    "text": "совершать ошибки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "commit an offence",
+                            "tr": [
+                                {
+                                    "text": "совершить правонарушение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "поручать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вверять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поручить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "доверить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вверить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "charge"
+                        },
+                        {
+                            "text": "entrust"
+                        },
+                        {
+                            "text": "trust"
+                        }
+                    ]
+                },
+                {
+                    "text": "фиксировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "зафиксировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "record"
+                        },
+                        {
+                            "text": "fix"
+                        }
+                    ]
+                },
+                {
+                    "text": "обязывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обязать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "oblige"
+                        }
+                    ]
+                },
+                {
+                    "text": "предавать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "предать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "betray"
+                        }
+                    ]
+                },
+                {
+                    "text": "обязаться",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "пообещать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "undertake"
+                        },
+                        {
+                            "text": "promise"
+                        }
+                    ]
+                },
+                {
+                    "text": "допустить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "допускать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "admit"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "committed error",
+                            "tr": [
+                                {
+                                    "text": "допущенная ошибка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выделить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "allocate"
+                        }
+                    ]
+                },
+                {
+                    "text": "передать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "pass"
+                        }
+                    ]
+                },
+                {
+                    "text": "творить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "do"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "commit evil",
+                            "tr": [
+                                {
+                                    "text": "творить зло"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "commit",
+            "pos": "foreign word",
+            "ts": "kəˈmɪt",
+            "tr": [
+                {
+                    "text": "commit",
+                    "pos": "foreign word"
+                }
+            ]
+        }
+    ]
+}

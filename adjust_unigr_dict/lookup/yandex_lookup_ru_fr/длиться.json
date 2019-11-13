@@ -1,0 +1,67 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "длиться",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "vivre",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "durer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "прожить"
+                        },
+                        {
+                            "text": "продлиться"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "длиться вечно",
+                            "tr": [
+                                {
+                                    "text": "durer éternellement"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "persister",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "persévérer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "продолжаться"
+                        },
+                        {
+                            "text": "продолжать"
+                        }
+                    ]
+                },
+                {
+                    "text": "se prolonger",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "продлиться"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

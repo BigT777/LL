@@ -1,0 +1,86 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "enumerate",
+            "pos": "verb",
+            "ts": "ɪˈnjuːməreɪt",
+            "tr": [
+                {
+                    "text": "перечислять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "перечислить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "list"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "enumerated value",
+                            "tr": [
+                                {
+                                    "text": "перечисляемое значение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "нумеровать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "пронумеровать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "number"
+                        }
+                    ]
+                },
+                {
+                    "text": "пересчитать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "пересчитывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "recount"
+                        },
+                        {
+                            "text": "recalculate"
+                        }
+                    ]
+                },
+                {
+                    "text": "перебрать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "sort"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

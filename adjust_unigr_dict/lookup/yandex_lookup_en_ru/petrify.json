@@ -1,0 +1,53 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "petrify",
+            "pos": "verb",
+            "ts": "ˈpetrɪfaɪ",
+            "tr": [
+                {
+                    "text": "остолбенеть",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "поражать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "amaze"
+                        }
+                    ]
+                },
+                {
+                    "text": "окаменевать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "каменеть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "harden"
+                        }
+                    ]
+                },
+                {
+                    "text": "парализовать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "paralyze"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "diplôme",
+            "pos": "noun",
+            "gen": "m",
+            "ts": "diplom",
+            "tr": [
+                {
+                    "text": "degree",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "diploma",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "graduation",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "degré"
+                        },
+                        {
+                            "text": "Diploma"
+                        }
+                    ]
+                },
+                {
+                    "text": "graduate",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "diplômé"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "diplômé",
+            "pos": "noun",
+            "gen": "m",
+            "ts": "diplome",
+            "tr": [
+                {
+                    "text": "graduate",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "alumnus",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "grad",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "diplôme"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

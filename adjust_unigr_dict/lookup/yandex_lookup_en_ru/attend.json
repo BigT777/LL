@@ -1,0 +1,270 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "attend",
+            "pos": "verb",
+            "ts": "əˈtend",
+            "tr": [
+                {
+                    "text": "посещать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "посетить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "visit"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "attend primary school",
+                            "tr": [
+                                {
+                                    "text": "посещать начальную школу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "attend football matches",
+                            "tr": [
+                                {
+                                    "text": "посещать футбольные матчи"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "attend social events",
+                            "tr": [
+                                {
+                                    "text": "посещать светские мероприятия"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "attend church services",
+                            "tr": [
+                                {
+                                    "text": "посещать богослужения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "присутствовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "present"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "attend a funeral",
+                            "tr": [
+                                {
+                                    "text": "присутствовать на похоронах"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обслуживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "прислуживать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "serve"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "attending personnel",
+                            "tr": [
+                                {
+                                    "text": "обслуживающий персонал"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сопровождать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сопутствовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "accompany"
+                        }
+                    ]
+                },
+                {
+                    "text": "заботиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ухаживать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "take care"
+                        },
+                        {
+                            "text": "care"
+                        }
+                    ]
+                },
+                {
+                    "text": "следить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "follow"
+                        }
+                    ]
+                },
+                {
+                    "text": "уделять внимание",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "pay attention"
+                        }
+                    ]
+                },
+                {
+                    "text": "ходить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "идти",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "приходить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "go"
+                        },
+                        {
+                            "text": "come"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "attend lectures",
+                            "tr": [
+                                {
+                                    "text": "ходить на лекции"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "заниматься",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заняться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "озаботиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "engage"
+                        }
+                    ]
+                },
+                {
+                    "text": "учиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обучаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "learn"
+                        },
+                        {
+                            "text": "study"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "attend university",
+                            "tr": [
+                                {
+                                    "text": "учиться в университете"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "слушать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "прослушать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "listen"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

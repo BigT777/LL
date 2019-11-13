@@ -1,0 +1,318 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "escape",
+            "pos": "verb",
+            "ts": "ɪsˈkeɪp",
+            "tr": [
+                {
+                    "text": "бежать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ускользать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "убежать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сбежать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "спастись",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вырваться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "скрыться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "убегать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "ускользнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flee"
+                        },
+                        {
+                            "text": "elude"
+                        },
+                        {
+                            "text": "rescue"
+                        },
+                        {
+                            "text": "break"
+                        },
+                        {
+                            "text": "disappear"
+                        },
+                        {
+                            "text": "run away"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "escape from captivity",
+                            "tr": [
+                                {
+                                    "text": "сбежать из плена"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "escape outside",
+                            "tr": [
+                                {
+                                    "text": "вырваться наружу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "escape abroad",
+                            "tr": [
+                                {
+                                    "text": "скрыться за границей"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "избежать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "избегать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "избавиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "избегнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "avoid"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "escape justice",
+                            "tr": [
+                                {
+                                    "text": "избежать правосудия"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "escape death",
+                            "tr": [
+                                {
+                                    "text": "избегнуть смерти"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "уйти",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "leave"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "escape on foot",
+                            "tr": [
+                                {
+                                    "text": "уйти пешком"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "уцелеть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "survive"
+                        }
+                    ]
+                },
+                {
+                    "text": "спасать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "save"
+                        }
+                    ]
+                },
+                {
+                    "text": "экранировать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "screen"
+                        }
+                    ]
+                },
+                {
+                    "text": "вырваться наружу",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "break out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "escape",
+            "pos": "noun",
+            "ts": "ɪsˈkeɪp",
+            "tr": [
+                {
+                    "text": "побег",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "бегство",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "runaway"
+                        },
+                        {
+                            "text": "flee"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "daring escape",
+                            "tr": [
+                                {
+                                    "text": "дерзкий побег"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "attempt to escape",
+                            "tr": [
+                                {
+                                    "text": "попытка к бегству"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "спасение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "rescue"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "only escape",
+                            "tr": [
+                                {
+                                    "text": "единственное спасение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "эвакуация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "evacuation"
+                        }
+                    ]
+                },
+                {
+                    "text": "избежание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "avoiding"
+                        }
+                    ]
+                },
+                {
+                    "text": "убегание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "runaway"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "escape",
+            "pos": "adjective",
+            "ts": "ɪsˈkeɪp",
+            "tr": [
+                {
+                    "text": "эвакуационный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "evacuation"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

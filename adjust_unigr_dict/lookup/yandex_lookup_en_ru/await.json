@@ -1,0 +1,85 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "await",
+            "pos": "verb",
+            "ts": "əˈweɪt",
+            "tr": [
+                {
+                    "text": "ждать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ожидать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "дожидаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поджидать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "дождаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подождать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подстерегать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wait"
+                        },
+                        {
+                            "text": "lurk"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "await the moment",
+                            "tr": [
+                                {
+                                    "text": "ждать момента"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "await trial",
+                            "tr": [
+                                {
+                                    "text": "ожидать суда"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "предстоять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "come"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

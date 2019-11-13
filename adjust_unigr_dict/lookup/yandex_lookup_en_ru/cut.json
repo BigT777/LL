@@ -1,0 +1,315 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cut",
+            "pos": "verb",
+            "ts": "kʌt",
+            "fl": "cut, cut",
+            "tr": [
+                {
+                    "text": "отрезать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "вырезать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "резать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "разрезать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "срезать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "нарезать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "порезать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перерезать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "разрубить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cut off"
+                        },
+                        {
+                            "text": "cut out"
+                        },
+                        {
+                            "text": "slice"
+                        },
+                        {
+                            "text": "chop"
+                        },
+                        {
+                            "text": "slit"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cut into pieces",
+                            "tr": [
+                                {
+                                    "text": "разрезать на куски"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cut corners",
+                            "tr": [
+                                {
+                                    "text": "срезать углы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cut onions",
+                            "tr": [
+                                {
+                                    "text": "нарезать лук"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cut finger",
+                            "tr": [
+                                {
+                                    "text": "порезанный палец"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cut the ribbon",
+                            "tr": [
+                                {
+                                    "text": "перерезать ленточку"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сокращать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сократить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "урезать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "уменьшить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reduce"
+                        },
+                        {
+                            "text": "cut down"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cut down expenses",
+                            "tr": [
+                                {
+                                    "text": "сокращать расходы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cut the deficit",
+                            "tr": [
+                                {
+                                    "text": "сократить дефицит"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cut expenditures",
+                            "tr": [
+                                {
+                                    "text": "урезать расходы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обрезать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "trim"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cut the thread",
+                            "tr": [
+                                {
+                                    "text": "обрезать нить"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "прервать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "break"
+                        }
+                    ]
+                },
+                {
+                    "text": "прорубить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "hack"
+                        }
+                    ]
+                },
+                {
+                    "text": "обрывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "break"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cut",
+            "pos": "noun",
+            "ts": "kʌt",
+            "tr": [
+                {
+                    "text": "порез",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "разрез",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cutting"
+                        },
+                        {
+                            "text": "slit"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "long cut",
+                            "tr": [
+                                {
+                                    "text": "длинный порез"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "coal cut",
+                            "tr": [
+                                {
+                                    "text": "угольный разрез"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сокращение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "урезание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reduction"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "budget cut",
+                            "tr": [
+                                {
+                                    "text": "сокращение бюджета"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cuts in nuclear weapons",
+                            "tr": [
+                                {
+                                    "text": "сокращения ядерных вооружений"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "government spending cuts",
+                            "tr": [
+                                {
+                                    "text": "сокращение государственных расходов"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обрезка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "trim"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

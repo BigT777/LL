@@ -1,0 +1,61 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "juryman",
+            "pos": "adjective",
+            "ts": "ˈʤʊərɪmən",
+            "tr": [
+                {
+                    "text": "присяжный",
+                    "pos": "adjective",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "juror"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "juryman",
+            "pos": "noun",
+            "ts": "ˈʤʊərɪmən",
+            "tr": [
+                {
+                    "text": "член жюри",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "jury member"
+                        }
+                    ]
+                },
+                {
+                    "text": "присяжный заседатель",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "заседатель",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "народный заседатель",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "juror"
+                        },
+                        {
+                            "text": "assessor"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

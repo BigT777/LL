@@ -1,0 +1,225 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "lapse",
+            "pos": "noun",
+            "ts": "læps",
+            "tr": [
+                {
+                    "text": "ошибка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "оплошность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "описка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "промах",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "ляпсус",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mistake"
+                        },
+                        {
+                            "text": "slip"
+                        },
+                        {
+                            "text": "blunder"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lapse in judgment",
+                            "tr": [
+                                {
+                                    "text": "ошибка в суждении"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "истечение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "прекращение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "expiration"
+                        },
+                        {
+                            "text": "termination"
+                        }
+                    ]
+                },
+                {
+                    "text": "упущение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "omission"
+                        }
+                    ]
+                },
+                {
+                    "text": "течение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "course"
+                        }
+                    ]
+                },
+                {
+                    "text": "перерыв",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "промежуток",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "interruption"
+                        },
+                        {
+                            "text": "interval"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lapse of time",
+                            "tr": [
+                                {
+                                    "text": "промежуток времени"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "провал",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "failure"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lapse of memory",
+                            "tr": [
+                                {
+                                    "text": "провал памяти"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отклонение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "deviation"
+                        }
+                    ]
+                },
+                {
+                    "text": "вертикальный градиент",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "vertical gradient"
+                        }
+                    ]
+                },
+                {
+                    "text": "прегрешение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "transgression"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "lapse",
+            "pos": "verb",
+            "ts": "læps",
+            "tr": [
+                {
+                    "text": "впадать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "впасть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fall"
+                        }
+                    ]
+                },
+                {
+                    "text": "истечь",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "истекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "expire"
+                        }
+                    ]
+                },
+                {
+                    "text": "прекращаться",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        }
+    ]
+}

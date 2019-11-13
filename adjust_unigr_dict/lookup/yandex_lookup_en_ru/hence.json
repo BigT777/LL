@@ -1,0 +1,97 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "hence",
+            "pos": "parenthetic",
+            "ts": "hens",
+            "tr": [
+                {
+                    "text": "следовательно",
+                    "pos": "parenthetic",
+                    "mean": [
+                        {
+                            "text": "therefore"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hence",
+            "pos": "conjunction",
+            "ts": "hens",
+            "tr": [
+                {
+                    "text": "поэтому",
+                    "pos": "conjunction",
+                    "syn": [
+                        {
+                            "text": "Итак",
+                            "pos": "conjunction"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "therefore"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hence",
+            "pos": "adverb",
+            "ts": "hens",
+            "tr": [
+                {
+                    "text": "отсюда",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "away"
+                        }
+                    ]
+                },
+                {
+                    "text": "потому",
+                    "pos": "adverb"
+                },
+                {
+                    "text": "исходя из этого",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "on this basis"
+                        }
+                    ]
+                },
+                {
+                    "text": "вследствие этого",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "consequently"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hence",
+            "pos": "noun",
+            "ts": "hens",
+            "tr": [
+                {
+                    "text": "таким образом",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "thus"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

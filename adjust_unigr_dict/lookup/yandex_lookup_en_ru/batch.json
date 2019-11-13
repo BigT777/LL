@@ -1,0 +1,313 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "batch",
+            "pos": "noun",
+            "ts": "bæʧ",
+            "tr": [
+                {
+                    "text": "партия",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "party"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "batch number",
+                            "tr": [
+                                {
+                                    "text": "номер партии"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "серия",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "series"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "small batch",
+                            "tr": [
+                                {
+                                    "text": "малая серия"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пачка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "пакет",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pack"
+                        },
+                        {
+                            "text": "package"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "single batch",
+                            "tr": [
+                                {
+                                    "text": "единый пакет"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "порция",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "portion"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "next batch",
+                            "tr": [
+                                {
+                                    "text": "следующая порция"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пакетный режим",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "пакетная обработка",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "batch mode"
+                        },
+                        {
+                            "text": "batch processing"
+                        }
+                    ]
+                },
+                {
+                    "text": "выпечка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "замес",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "baking"
+                        },
+                        {
+                            "text": "mixing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fresh batch",
+                            "tr": [
+                                {
+                                    "text": "свежая выпечка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шихта",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "mixture"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "glass batch",
+                            "tr": [
+                                {
+                                    "text": "стекольная шихта"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дозирование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "dosing"
+                        }
+                    ]
+                },
+                {
+                    "text": "партия продукции",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "batch of products"
+                        }
+                    ]
+                },
+                {
+                    "text": "пакетное задание",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "batch job"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "batch",
+            "pos": "adjective",
+            "ts": "bæʧ",
+            "tr": [
+                {
+                    "text": "пакетный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "порционный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "packet"
+                        },
+                        {
+                            "text": "portion"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "batch mode",
+                            "tr": [
+                                {
+                                    "text": "пакетный режим"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "batch processing system",
+                            "tr": [
+                                {
+                                    "text": "система пакетной обработки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "серийный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "serial"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "batch manufacturing",
+                            "tr": [
+                                {
+                                    "text": "серийное производство"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "командный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "command"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "batch file",
+                            "tr": [
+                                {
+                                    "text": "командный файл"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "периодический",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "periodic"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "batch",
+            "ts": "bæʧ",
+            "tr": [
+                {
+                    "text": "batch"
+                }
+            ]
+        },
+        {
+            "text": "batch",
+            "pos": "verb",
+            "ts": "bæʧ",
+            "tr": [
+                {
+                    "text": "дозировать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "dose"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

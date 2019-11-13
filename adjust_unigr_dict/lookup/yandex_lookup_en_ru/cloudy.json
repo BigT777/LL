@@ -1,0 +1,112 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cloudy",
+            "pos": "adjective",
+            "ts": "ˈklaʊdɪ",
+            "tr": [
+                {
+                    "text": "облачный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "хмурый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "пасмурный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "сумрачный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cloud"
+                        },
+                        {
+                            "text": "gloomy"
+                        },
+                        {
+                            "text": "overcast"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cloudy day",
+                            "tr": [
+                                {
+                                    "text": "облачный день"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cloudy sky",
+                            "tr": [
+                                {
+                                    "text": "пасмурное небо"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "мутный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "туманный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "muddy"
+                        },
+                        {
+                            "text": "foggy"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cloudy solution",
+                            "tr": [
+                                {
+                                    "text": "мутный раствор"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cloudy",
+            "pos": "participle",
+            "ts": "ˈklaʊdɪ",
+            "tr": [
+                {
+                    "text": "затуманенный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "clouded"
+                        }
+                    ]
+                },
+                {
+                    "text": "замутненный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "muddy"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

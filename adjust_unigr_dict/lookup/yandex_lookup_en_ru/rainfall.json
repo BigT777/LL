@@ -1,0 +1,129 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "rainfall",
+            "pos": "noun",
+            "ts": "ˈreɪnfɔːl",
+            "tr": [
+                {
+                    "text": "осадки",
+                    "pos": "noun",
+                    "gen": "м",
+                    "num": "мн",
+                    "syn": [
+                        {
+                            "text": "количество осадков",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "выпадение осадков",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "атмосферные осадки",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "количество атмосферных осадков",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "precipitation events"
+                        },
+                        {
+                            "text": "precipitation"
+                        }
+                    ]
+                },
+                {
+                    "text": "ливень",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "дождь",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rain"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "heavy rainfall",
+                            "tr": [
+                                {
+                                    "text": "сильный ливень"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lack of rainfall",
+                            "tr": [
+                                {
+                                    "text": "отсутствие дождей"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дождевые осадки",
+                    "pos": "noun"
+                },
+                {
+                    "text": "уровень осадков",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "precipitation level"
+                        }
+                    ]
+                },
+                {
+                    "text": "количество дождевых осадков",
+                    "pos": "noun"
+                },
+                {
+                    "text": "выпадение дождей",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "rains"
+                        }
+                    ]
+                },
+                {
+                    "text": "дождевой сток",
+                    "pos": "noun"
+                },
+                {
+                    "text": "количество выпавших осадков",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "rainfall",
+            "pos": "adjective",
+            "ts": "ˈreɪnfɔːl",
+            "tr": [
+                {
+                    "text": "дождевой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "rain"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

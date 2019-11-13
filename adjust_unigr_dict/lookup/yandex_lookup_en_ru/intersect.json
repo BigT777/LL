@@ -1,0 +1,68 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "intersect",
+            "pos": "verb",
+            "ts": "ɪntəˈsekt",
+            "tr": [
+                {
+                    "text": "пересекаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "interfere"
+                        }
+                    ]
+                },
+                {
+                    "text": "пересечься",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "пересечь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перекрещиваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cross"
+                        }
+                    ]
+                },
+                {
+                    "text": "засекать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "detect"
+                        }
+                    ]
+                },
+                {
+                    "text": "перекрываться",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "перерезать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "slit"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

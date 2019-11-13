@@ -1,0 +1,108 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "clot",
+            "pos": "noun",
+            "ts": "klɒt",
+            "tr": [
+                {
+                    "text": "сгусток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "сгусток крови",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "тромб",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "комок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clump"
+                        },
+                        {
+                            "text": "blood clot"
+                        },
+                        {
+                            "text": "lump"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bloody clot",
+                            "tr": [
+                                {
+                                    "text": "кровяной сгусток"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тромбообразование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "thrombosis"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "clot",
+            "pos": "verb",
+            "ts": "klɒt",
+            "tr": [
+                {
+                    "text": "свернуться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "coil"
+                        }
+                    ]
+                },
+                {
+                    "text": "сгуститься",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "сгущаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "thicken"
+                        }
+                    ]
+                },
+                {
+                    "text": "свертываться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "coagulate"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

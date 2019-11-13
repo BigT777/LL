@@ -1,0 +1,137 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "detention",
+            "pos": "noun",
+            "ts": "dɪˈtent(ə)n",
+            "tr": [
+                {
+                    "text": "задержание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "арест",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "arrest"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "group on arbitrary detention",
+                            "tr": [
+                                {
+                                    "text": "группа по незаконному задержанию"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "report on administrative detention",
+                            "tr": [
+                                {
+                                    "text": "протокол об административном задержании"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "detention order",
+                            "tr": [
+                                {
+                                    "text": "ордер на арест"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "содержание под стражей",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "заключение под стражу",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "предварительное заключение",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "custody"
+                        },
+                        {
+                            "text": "pretrial detention"
+                        }
+                    ]
+                },
+                {
+                    "text": "задержка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "delay"
+                        }
+                    ]
+                },
+                {
+                    "text": "содержание под арестом",
+                    "pos": "noun"
+                },
+                {
+                    "text": "заключение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "imprisonment"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "place of detention",
+                            "tr": [
+                                {
+                                    "text": "место заключения"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "period of preventive detention",
+                            "tr": [
+                                {
+                                    "text": "срок предварительного заключения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "место заключения",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "места лишения свободы",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "place of detention"
+                        },
+                        {
+                            "text": "places of detention"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

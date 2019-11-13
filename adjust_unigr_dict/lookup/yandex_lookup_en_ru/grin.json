@@ -1,0 +1,157 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "grin",
+            "pos": "verb",
+            "ts": "grɪn",
+            "tr": [
+                {
+                    "text": "скалить зубы",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "скалить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ]
+                },
+                {
+                    "text": "ухмыляться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "улыбнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "ухмыльнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "усмехнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "улыбаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "усмехаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "smirk"
+                        },
+                        {
+                            "text": "smile"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "grin in return",
+                            "tr": [
+                                {
+                                    "text": "улыбнуться в ответ"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "оскалиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "snarl"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "grin",
+            "pos": "noun",
+            "ts": "grɪn",
+            "tr": [
+                {
+                    "text": "усмешка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "улыбка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "ухмылка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "оскал",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "smile"
+                        },
+                        {
+                            "text": "smirk"
+                        },
+                        {
+                            "text": "bared teeth"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sly grin",
+                            "tr": [
+                                {
+                                    "text": "хитрая усмешка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "boyish grin",
+                            "tr": [
+                                {
+                                    "text": "мальчишеская улыбка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "idiot grin",
+                            "tr": [
+                                {
+                                    "text": "идиотская ухмылка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "animal grin",
+                            "tr": [
+                                {
+                                    "text": "звериный оскал"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

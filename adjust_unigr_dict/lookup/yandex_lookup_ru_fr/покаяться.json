@@ -1,0 +1,39 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "покаяться",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "se repentir",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "раскаяться"
+                        }
+                    ]
+                },
+                {
+                    "text": "confesser",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "avouer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "исповедоваться"
+                        },
+                        {
+                            "text": "каяться"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fib",
+            "pos": "verb",
+            "ts": "fɪb",
+            "tr": [
+                {
+                    "text": "привирать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "наврать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "приврать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lie"
+                        }
+                    ]
+                },
+                {
+                    "text": "выдумать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выдумывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "invent"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fib",
+            "pos": "noun",
+            "ts": "fɪb",
+            "tr": [
+                {
+                    "text": "выдумка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "invention"
+                        }
+                    ]
+                },
+                {
+                    "text": "вранье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "ложь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lie"
+                        },
+                        {
+                            "text": "falsehood"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

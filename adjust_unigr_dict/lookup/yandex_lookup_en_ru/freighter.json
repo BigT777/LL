@@ -1,0 +1,60 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "freighter",
+            "pos": "noun",
+            "ts": "ˈfreɪtə",
+            "tr": [
+                {
+                    "text": "фрахтовщик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "charterer"
+                        }
+                    ]
+                },
+                {
+                    "text": "грузовой самолет",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "cargo plane"
+                        }
+                    ]
+                },
+                {
+                    "text": "грузовое судно",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "грузовой корабль",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "сухогруз",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cargo ship"
+                        }
+                    ]
+                },
+                {
+                    "text": "грузовой транспортный корабль",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "cargo spacecraft"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

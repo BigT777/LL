@@ -1,0 +1,211 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "swell",
+            "pos": "verb",
+            "ts": "swel",
+            "fl": "swelled, swollen",
+            "tr": [
+                {
+                    "text": "набухать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "разбухать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "раздуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разбухнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "набухнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bulk up"
+                        },
+                        {
+                            "text": "inflate"
+                        }
+                    ]
+                },
+                {
+                    "text": "опухать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "опухнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "распухнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "распухать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пухнуть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "припухнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "swell up"
+                        },
+                        {
+                            "text": "swollen"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "swollen face",
+                            "tr": [
+                                {
+                                    "text": "распухшее лицо"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "увеличиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "rise"
+                        }
+                    ]
+                },
+                {
+                    "text": "раздуваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "bloat"
+                        }
+                    ]
+                },
+                {
+                    "text": "вздуться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "bulge"
+                        }
+                    ]
+                },
+                {
+                    "text": "пополнить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "replenish"
+                        }
+                    ]
+                },
+                {
+                    "text": "надуваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "puff"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "swell",
+            "pos": "noun",
+            "ts": "swel",
+            "tr": [
+                {
+                    "text": "зыбь",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "ripple"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "light swell",
+                            "tr": [
+                                {
+                                    "text": "легкая зыбь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "разбухание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "набухание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "опухание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "swelling"
+                        }
+                    ]
+                },
+                {
+                    "text": "цаца",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "молодчик",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        }
+    ]
+}

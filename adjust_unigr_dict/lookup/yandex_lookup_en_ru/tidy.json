@@ -1,0 +1,146 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "tidy",
+            "pos": "adjective",
+            "ts": "ˈtaɪdɪ",
+            "tr": [
+                {
+                    "text": "аккуратный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "чистый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "опрятный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "чистоплотный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "neat"
+                        },
+                        {
+                            "text": "clean"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tidy man",
+                            "tr": [
+                                {
+                                    "text": "аккуратный человек"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "неплохой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "приличный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "nice"
+                        },
+                        {
+                            "text": "decent"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "tidy",
+            "pos": "verb",
+            "ts": "ˈtaɪdɪ",
+            "tr": [
+                {
+                    "text": "убирать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "приводить в порядок",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "убрать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прибирать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clean"
+                        },
+                        {
+                            "text": "put in order"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tidy the room",
+                            "tr": [
+                                {
+                                    "text": "убирать комнату"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "прибрать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "прибраться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clean up"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "tidy",
+            "pos": "noun",
+            "ts": "ˈtaɪdɪ",
+            "tr": [
+                {
+                    "text": "уборка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "cleaning"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

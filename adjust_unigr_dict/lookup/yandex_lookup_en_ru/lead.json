@@ -1,0 +1,325 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "lead",
+            "pos": "verb",
+            "ts": "led",
+            "tr": [
+                {
+                    "text": "вести",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "приводить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "привести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "провести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "повести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "водить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вывести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "conduct"
+                        },
+                        {
+                            "text": "result"
+                        },
+                        {
+                            "text": "will lead"
+                        },
+                        {
+                            "text": "put"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lead to conflicts",
+                            "tr": [
+                                {
+                                    "text": "приводить к конфликтам"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lead test",
+                            "tr": [
+                                {
+                                    "text": "провести испытание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "руководить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "возглавлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "возглавить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "direct"
+                        },
+                        {
+                            "text": "top"
+                        },
+                        {
+                            "text": "head"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lead the country",
+                            "tr": [
+                                {
+                                    "text": "руководить страной"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lead the team",
+                            "tr": [
+                                {
+                                    "text": "возглавить сборную"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "лидировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "dominate"
+                        }
+                    ]
+                },
+                {
+                    "text": "заставить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "вызывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "побудить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cause"
+                        },
+                        {
+                            "text": "encourage"
+                        }
+                    ]
+                },
+                {
+                    "text": "отвести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "увести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "уводить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pull"
+                        },
+                        {
+                            "text": "take away"
+                        },
+                        {
+                            "text": "take"
+                        }
+                    ]
+                },
+                {
+                    "text": "подвести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "подводить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "довести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bring"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "lead",
+            "pos": "noun",
+            "ts": "led",
+            "tr": [
+                {
+                    "text": "лидерство",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "руководство",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "лидер",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "leadership"
+                        },
+                        {
+                            "text": "leader"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "commanding lead",
+                            "tr": [
+                                {
+                                    "text": "безусловное лидерство"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "свинец",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "pb"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lead content",
+                            "tr": [
+                                {
+                                    "text": "содержание свинца"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "blood lead level",
+                            "tr": [
+                                {
+                                    "text": "уровень свинца в крови"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "lead",
+            "pos": "adjective",
+            "ts": "led",
+            "tr": [
+                {
+                    "text": "свинцовый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "leaded"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lead acid battery",
+                            "tr": [
+                                {
+                                    "text": "свинцовый аккумулятор"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lead crystal glass",
+                            "tr": [
+                                {
+                                    "text": "свинцовый хрусталь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "главный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "main"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

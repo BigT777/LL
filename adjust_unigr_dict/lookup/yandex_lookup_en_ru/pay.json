@@ -1,0 +1,388 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "pay",
+            "pos": "verb",
+            "ts": "peɪ",
+            "tr": [
+                {
+                    "text": "платить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "оплатить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "заплатить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оплачивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "расплачиваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "расплатиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "окупиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "рассчитаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pay in"
+                        },
+                        {
+                            "text": "pay off"
+                        },
+                        {
+                            "text": "will pay"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pay top dollar",
+                            "tr": [
+                                {
+                                    "text": "платить большие деньги"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pay child support",
+                            "tr": [
+                                {
+                                    "text": "платить алименты"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pay high prices",
+                            "tr": [
+                                {
+                                    "text": "платить высокую цену"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "paid leave",
+                            "tr": [
+                                {
+                                    "text": "оплаченный отпуск"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pay a fine",
+                            "tr": [
+                                {
+                                    "text": "заплатить штраф"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pay utility bills",
+                            "tr": [
+                                {
+                                    "text": "оплачивать коммунальные услуги"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pay the driver",
+                            "tr": [
+                                {
+                                    "text": "расплатиться с водителем"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выплачивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "уплачивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выплатить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "уплатить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "погасить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pay out"
+                        },
+                        {
+                            "text": "payable"
+                        },
+                        {
+                            "text": "repay"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pay premiums",
+                            "tr": [
+                                {
+                                    "text": "выплачивать премии"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pay income tax",
+                            "tr": [
+                                {
+                                    "text": "уплачивать подоходный налог"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pay dividends",
+                            "tr": [
+                                {
+                                    "text": "выплатить дивиденды"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обращать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обратить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "draw"
+                        },
+                        {
+                            "text": "turn"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pay special attention",
+                            "tr": [
+                                {
+                                    "text": "обращать особое внимание"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pay attention",
+                            "tr": [
+                                {
+                                    "text": "обратить внимание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "уделять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отдать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отдавать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "придавать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "paid"
+                        },
+                        {
+                            "text": "give"
+                        }
+                    ]
+                },
+                {
+                    "text": "вносить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "contribute"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "pay",
+            "pos": "noun",
+            "ts": "peɪ",
+            "tr": [
+                {
+                    "text": "плата",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "выплата",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "оплата",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "зарплата",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fee"
+                        },
+                        {
+                            "text": "payment"
+                        },
+                        {
+                            "text": "salary"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "low pay",
+                            "tr": [
+                                {
+                                    "text": "низкая заработная плата"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pay pensions",
+                            "tr": [
+                                {
+                                    "text": "выплата пенсий"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "gender pay gap",
+                            "tr": [
+                                {
+                                    "text": "разница в оплате труда"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pay per click advertising",
+                            "tr": [
+                                {
+                                    "text": "оплата за клик"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pay rise",
+                            "tr": [
+                                {
+                                    "text": "повышение зарплаты"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "получка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "ex": [
+                        {
+                            "text": "pay day",
+                            "tr": [
+                                {
+                                    "text": "день получки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "погашение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "repayment"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "pay",
+            "pos": "adjective",
+            "ts": "peɪ",
+            "tr": [
+                {
+                    "text": "платный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "paid"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

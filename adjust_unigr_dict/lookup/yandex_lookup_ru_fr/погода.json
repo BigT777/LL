@@ -1,0 +1,43 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "погода",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "temps",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "température",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "дни"
+                        },
+                        {
+                            "text": "температура"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ясная погода",
+                            "tr": [
+                                {
+                                    "text": "temps clair"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "jam",
+            "pos": "noun",
+            "ts": "ʤæm",
+            "tr": [
+                {
+                    "text": "варенье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "джем",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "повидло",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "варение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "marmalade"
+                        },
+                        {
+                            "text": "cooking"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "raspberry jam",
+                            "tr": [
+                                {
+                                    "text": "малиновое варенье"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "strawberry jam",
+                            "tr": [
+                                {
+                                    "text": "клубничный джем"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "затор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "пробка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "congestion"
+                        },
+                        {
+                            "text": "traffic jam"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ice jam",
+                            "tr": [
+                                {
+                                    "text": "ледяной затор"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "massive traffic jam",
+                            "tr": [
+                                {
+                                    "text": "огромная пробка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "застревание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "заклинивание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "заедание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "jamming"
+                        }
+                    ]
+                },
+                {
+                    "text": "замятие",
+                    "pos": "noun",
+                    "gen": "ср"
+                },
+                {
+                    "text": "помеха",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "jammer"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "jam",
+            "pos": "verb",
+            "ts": "ʤæm",
+            "tr": [
+                {
+                    "text": "глушить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "suppress"
+                        }
+                    ]
+                },
+                {
+                    "text": "заклинить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "заклинивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wedge"
+                        }
+                    ]
+                },
+                {
+                    "text": "заедать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заесть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "seize"
+                        }
+                    ]
+                },
+                {
+                    "text": "застревать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "stick"
+                        }
+                    ]
+                },
+                {
+                    "text": "затереть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "rub"
+                        }
+                    ]
+                },
+                {
+                    "text": "заклиниться",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        }
+    ]
+}

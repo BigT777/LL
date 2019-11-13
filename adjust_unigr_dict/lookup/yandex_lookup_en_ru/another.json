@@ -1,0 +1,141 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "another",
+            "pos": "pronoun",
+            "ts": "əˈnʌðə",
+            "tr": [
+                {
+                    "text": "другой",
+                    "pos": "pronoun",
+                    "syn": [
+                        {
+                            "text": "иной",
+                            "pos": "pronoun"
+                        },
+                        {
+                            "text": "еще один",
+                            "pos": "pronoun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "else"
+                        },
+                        {
+                            "text": "different"
+                        },
+                        {
+                            "text": "another one"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "another way",
+                            "tr": [
+                                {
+                                    "text": "другой способ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "another",
+            "pos": "adjective",
+            "ts": "əˈnʌðə",
+            "tr": [
+                {
+                    "text": "новый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "очередной",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "new"
+                        },
+                        {
+                            "text": "next"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "another attempt",
+                            "tr": [
+                                {
+                                    "text": "новая попытка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "another trip",
+                            "tr": [
+                                {
+                                    "text": "очередной поход"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "чужой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "other"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "another",
+            "pos": "numeral",
+            "ts": "əˈnʌðə",
+            "tr": [
+                {
+                    "text": "второй",
+                    "pos": "numeral",
+                    "mean": [
+                        {
+                            "text": "second"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "another",
+            "pos": "particle",
+            "ts": "əˈnʌðə",
+            "tr": [
+                {
+                    "text": "еще",
+                    "pos": "particle",
+                    "mean": [
+                        {
+                            "text": "still"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "another move",
+                            "tr": [
+                                {
+                                    "text": "еще один шаг"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

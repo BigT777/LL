@@ -1,0 +1,183 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "clap",
+            "pos": "verb",
+            "ts": "klæp",
+            "tr": [
+                {
+                    "text": "хлопать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "похлопать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "хлопнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "хлопать в ладоши",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "похлопывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "прихлопывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "прихлопнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "slam"
+                        },
+                        {
+                            "text": "pat"
+                        },
+                        {
+                            "text": "clap their hands"
+                        },
+                        {
+                            "text": "swat"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "clap eyes",
+                            "tr": [
+                                {
+                                    "text": "хлопать глазами"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "аплодировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "рукоплескать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "applaud"
+                        }
+                    ]
+                },
+                {
+                    "text": "упечь",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "send"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "clap",
+            "pos": "noun",
+            "ts": "klæp",
+            "tr": [
+                {
+                    "text": "хлопок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "cotton"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "loud clap",
+                            "tr": [
+                                {
+                                    "text": "громкий хлопок"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "удар",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "blow"
+                        }
+                    ]
+                },
+                {
+                    "text": "триппер",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "gonorrhoea"
+                        }
+                    ]
+                },
+                {
+                    "text": "хлопанье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "хлопок в ладоши",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clapping"
+                        }
+                    ]
+                },
+                {
+                    "text": "аплодисменты",
+                    "pos": "noun",
+                    "gen": "м",
+                    "num": "мн",
+                    "mean": [
+                        {
+                            "text": "applaud"
+                        }
+                    ]
+                },
+                {
+                    "text": "раскат",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "peal"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

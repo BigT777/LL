@@ -1,0 +1,59 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "лечить",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "traiter",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "soigner",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "обработать"
+                        },
+                        {
+                            "text": "вылечить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "лечить симптомы",
+                            "tr": [
+                                {
+                                    "text": "traiter les symptômes"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "guérir",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "вылечить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "лечить болезнь",
+                            "tr": [
+                                {
+                                    "text": "guérir une maladie"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

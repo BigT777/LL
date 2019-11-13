@@ -1,0 +1,189 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "warp",
+            "pos": "verb",
+            "ts": "wɔːp",
+            "tr": [
+                {
+                    "text": "деформировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "деформироваться",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "покоробиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "deform"
+                        },
+                        {
+                            "text": "scorch"
+                        }
+                    ]
+                },
+                {
+                    "text": "коробить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "коробиться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "покоробить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "buckle"
+                        },
+                        {
+                            "text": "jar"
+                        }
+                    ]
+                },
+                {
+                    "text": "искажать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "исказить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перекосить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "distort"
+                        }
+                    ]
+                },
+                {
+                    "text": "сновать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "scurry"
+                        }
+                    ]
+                },
+                {
+                    "text": "калечить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "cripple"
+                        }
+                    ]
+                },
+                {
+                    "text": "верповать",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "warp",
+            "pos": "noun",
+            "ts": "wɔːp",
+            "tr": [
+                {
+                    "text": "деформация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "коробление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "искривление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "deformation"
+                        },
+                        {
+                            "text": "warpage"
+                        },
+                        {
+                            "text": "curvature"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "time warp",
+                            "tr": [
+                                {
+                                    "text": "искривление времени"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "основа",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "basis"
+                        }
+                    ]
+                },
+                {
+                    "text": "перекос",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "искажение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "distortion"
+                        }
+                    ]
+                },
+                {
+                    "text": "перлинь",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "hawser"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

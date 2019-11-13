@@ -1,0 +1,66 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "attendee",
+            "pos": "noun",
+            "ts": "əˈtendiː",
+            "tr": [
+                {
+                    "text": "участник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "слушатель",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "participant"
+                        },
+                        {
+                            "text": "listener"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "conference attendee",
+                            "tr": [
+                                {
+                                    "text": "участник конференции"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "посетитель",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "visitor"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "regular attendee",
+                            "tr": [
+                                {
+                                    "text": "постоянный посетитель"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "участник встречи",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

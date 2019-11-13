@@ -1,0 +1,59 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "reimburse",
+            "pos": "verb",
+            "ts": "riːɪmˈbɜːs",
+            "tr": [
+                {
+                    "text": "возмещать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "компенсировать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "возместить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оплачивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "возмещать расходы",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "compensate"
+                        }
+                    ]
+                },
+                {
+                    "text": "возвращать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "возвратить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "return"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "clank",
+            "pos": "noun",
+            "ts": "klæŋk",
+            "tr": [
+                {
+                    "text": "лязг",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "звон",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "бряцание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "лязганье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "звяканье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clang"
+                        },
+                        {
+                            "text": "ringing"
+                        },
+                        {
+                            "text": "saber"
+                        },
+                        {
+                            "text": "tinkle"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "metallic clank",
+                            "tr": [
+                                {
+                                    "text": "металлический лязг"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "clank",
+            "pos": "verb",
+            "ts": "klæŋk",
+            "tr": [
+                {
+                    "text": "греметь",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "лязгать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "бряцать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "позвякивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rattle"
+                        },
+                        {
+                            "text": "clang"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

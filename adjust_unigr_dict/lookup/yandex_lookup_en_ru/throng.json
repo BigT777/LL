@@ -1,0 +1,118 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "throng",
+            "pos": "noun",
+            "ts": "θrɒŋ",
+            "tr": [
+                {
+                    "text": "толпа",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "толчея",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "скопление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "давка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "скопище",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crowd"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "countless throngs",
+                            "tr": [
+                                {
+                                    "text": "бесчисленные толпы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "масса",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "множество",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mass"
+                        },
+                        {
+                            "text": "multitude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "throng",
+            "pos": "verb",
+            "ts": "θrɒŋ",
+            "tr": [
+                {
+                    "text": "заполнять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "переполнять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fill"
+                        }
+                    ]
+                },
+                {
+                    "text": "толпиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "стекаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crowd"
+                        },
+                        {
+                            "text": "flock"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "peep",
+            "pos": "verb",
+            "ts": "piːp",
+            "tr": [
+                {
+                    "text": "выглядывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "проглядывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выглянуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "look out"
+                        },
+                        {
+                            "text": "appear"
+                        }
+                    ]
+                },
+                {
+                    "text": "подглядывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подсматривать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подсмотреть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подглядеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spy"
+                        }
+                    ]
+                },
+                {
+                    "text": "заглядывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заглянуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "peek"
+                        },
+                        {
+                            "text": "glance"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "peep inside",
+                            "tr": [
+                                {
+                                    "text": "заглянуть внутрь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пищать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "squeak"
+                        }
+                    ]
+                },
+                {
+                    "text": "пикнуть",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "peep",
+            "pos": "noun",
+            "ts": "piːp",
+            "tr": [
+                {
+                    "text": "писк",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "squeak"
+                        }
+                    ]
+                },
+                {
+                    "text": "проблеск",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "glimpse"
+                        }
+                    ]
+                },
+                {
+                    "text": "щель",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "slit"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

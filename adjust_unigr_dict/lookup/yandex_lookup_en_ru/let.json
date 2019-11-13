@@ -1,0 +1,222 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "let",
+            "pos": "verb",
+            "ts": "let",
+            "tr": [
+                {
+                    "text": "позволять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "позволить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разрешить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "allow"
+                        }
+                    ]
+                },
+                {
+                    "text": "выпустить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выпускать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отпускать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пустить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "release"
+                        },
+                        {
+                            "text": "produce"
+                        },
+                        {
+                            "text": "start"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "let off steam",
+                            "tr": [
+                                {
+                                    "text": "выпустить пар"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "let go",
+                            "tr": [
+                                {
+                                    "text": "выпускать из рук"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "let a tear",
+                            "tr": [
+                                {
+                                    "text": "пустить слезу"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отпустить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "let go"
+                        }
+                    ]
+                },
+                {
+                    "text": "допустим",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "предположим",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "supposing"
+                        }
+                    ]
+                },
+                {
+                    "text": "сообщить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "inform"
+                        }
+                    ]
+                },
+                {
+                    "text": "пускай",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "впустить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "впускать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "admit"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "let the visitor",
+                            "tr": [
+                                {
+                                    "text": "впустить посетителя"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "предоставить",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "пропускать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "miss"
+                        }
+                    ]
+                },
+                {
+                    "text": "подвести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "bring"
+                        }
+                    ]
+                },
+                {
+                    "text": "сдать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "put"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "let",
+            "pos": "conjunction",
+            "ts": "let",
+            "tr": [
+                {
+                    "text": "да",
+                    "pos": "conjunction",
+                    "syn": [
+                        {
+                            "text": "пусть",
+                            "pos": "conjunction"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "yes"
+                        },
+                        {
+                            "text": "even"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

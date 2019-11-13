@@ -1,0 +1,119 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "hiss",
+            "pos": "verb",
+            "ts": "hɪs",
+            "tr": [
+                {
+                    "text": "шипеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "свистеть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "зашипеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прошипеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "шикать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sizzle"
+                        },
+                        {
+                            "text": "whistle"
+                        },
+                        {
+                            "text": "boo"
+                        }
+                    ]
+                },
+                {
+                    "text": "освистывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "освистать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "boo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hiss",
+            "pos": "noun",
+            "ts": "hɪs",
+            "tr": [
+                {
+                    "text": "шипение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "свист",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "шипящий звук",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hissing"
+                        },
+                        {
+                            "text": "whistle"
+                        },
+                        {
+                            "text": "hissing sound"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "loud hiss",
+                            "tr": [
+                                {
+                                    "text": "громкое шипение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sharp hiss",
+                            "tr": [
+                                {
+                                    "text": "резкий свист"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

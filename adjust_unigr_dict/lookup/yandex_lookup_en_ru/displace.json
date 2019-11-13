@@ -1,0 +1,148 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "displace",
+            "pos": "verb",
+            "ts": "dɪsˈpleɪs",
+            "tr": [
+                {
+                    "text": "заменять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "замещать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "заменить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "заместить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "replace"
+                        }
+                    ]
+                },
+                {
+                    "text": "перемещать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "переместить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перемещаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "move"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "internally displaced person",
+                            "tr": [
+                                {
+                                    "text": "внутренне перемещенное лицо"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "смещать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сместить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "смещаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shift"
+                        },
+                        {
+                            "text": "oust"
+                        }
+                    ]
+                },
+                {
+                    "text": "вытеснять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вытеснить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "потеснить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "supersede"
+                        },
+                        {
+                            "text": "press"
+                        }
+                    ]
+                },
+                {
+                    "text": "сворачивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "minimize"
+                        }
+                    ]
+                },
+                {
+                    "text": "переселить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "переселять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "resettle"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

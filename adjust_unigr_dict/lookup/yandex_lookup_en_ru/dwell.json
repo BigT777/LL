@@ -1,0 +1,118 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "dwell",
+            "pos": "verb",
+            "ts": "dwel",
+            "tr": [
+                {
+                    "text": "жить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "пребывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обитать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "останавливаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "находиться",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "остановиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "проживать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "задержаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "live"
+                        },
+                        {
+                            "text": "abide"
+                        },
+                        {
+                            "text": "stay"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dwell in peace",
+                            "tr": [
+                                {
+                                    "text": "пребывать в мире"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "dwell therein",
+                            "tr": [
+                                {
+                                    "text": "обитать там"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "задерживаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подробно останавливаться",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "linger"
+                        }
+                    ]
+                },
+                {
+                    "text": "размышлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "рассуждать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ponder"
+                        },
+                        {
+                            "text": "talk"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

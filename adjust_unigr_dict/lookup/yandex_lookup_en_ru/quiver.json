@@ -1,0 +1,122 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "quiver",
+            "pos": "noun",
+            "ts": "ˈkwɪvə",
+            "tr": [
+                {
+                    "text": "колчан",
+                    "pos": "noun",
+                    "gen": "м",
+                    "ex": [
+                        {
+                            "text": "quiver of arrows",
+                            "tr": [
+                                {
+                                    "text": "колчан со стрелами"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дрожь",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "трепет",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "дрожание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shiver"
+                        },
+                        {
+                            "text": "trembling"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "slight quiver",
+                            "tr": [
+                                {
+                                    "text": "легкая дрожь"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "quiver",
+            "pos": "verb",
+            "ts": "ˈkwɪvə",
+            "tr": [
+                {
+                    "text": "дрожать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подрагивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "трепетать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вздрагивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "затрепетать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "колыхаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tremble"
+                        },
+                        {
+                            "text": "shudder"
+                        },
+                        {
+                            "text": "sway"
+                        }
+                    ]
+                },
+                {
+                    "text": "трястись",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "shiver"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,283 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "thread",
+            "pos": "noun",
+            "ts": "θred",
+            "tr": [
+                {
+                    "text": "нить",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "нитка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "ниточка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "пряжа",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "filament"
+                        },
+                        {
+                            "text": "string"
+                        },
+                        {
+                            "text": "yarn"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "common thread running",
+                            "tr": [
+                                {
+                                    "text": "общая нить"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sewing thread",
+                            "tr": [
+                                {
+                                    "text": "швейная нитка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "thin thread",
+                            "tr": [
+                                {
+                                    "text": "тоненькая ниточка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "резьба",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "резьбовое соединение",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "screw"
+                        },
+                        {
+                            "text": "threaded connection"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "left hand thread",
+                            "tr": [
+                                {
+                                    "text": "левая резьба"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "metric screw thread",
+                            "tr": [
+                                {
+                                    "text": "метрическая резьба"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "волосок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "hair"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "golden thread",
+                            "tr": [
+                                {
+                                    "text": "золотистый волосок"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "нарезка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "cutting"
+                        }
+                    ]
+                },
+                {
+                    "text": "поток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "stream"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "worker thread",
+                            "tr": [
+                                {
+                                    "text": "рабочий поток"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "thread local storage",
+                            "tr": [
+                                {
+                                    "text": "локальная память потока"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тема",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "топик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "theme"
+                        },
+                        {
+                            "text": "topic"
+                        }
+                    ]
+                },
+                {
+                    "text": "ветка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "branch"
+                        }
+                    ]
+                },
+                {
+                    "text": "цепочка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "chain"
+                        }
+                    ]
+                },
+                {
+                    "text": "нарезание резьбы",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "нарезка резьбы",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "threading"
+                        }
+                    ]
+                },
+                {
+                    "text": "тред",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "нарез",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "сквозная тема",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "thread",
+            "pos": "verb",
+            "ts": "θred",
+            "tr": [
+                {
+                    "text": "продеть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "продеть нитку",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "продевать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pass"
+                        }
+                    ]
+                },
+                {
+                    "text": "нарезать резьбу",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "tap"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "thread",
+            "pos": "adjective",
+            "ts": "θred",
+            "tr": [
+                {
+                    "text": "ниточный",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

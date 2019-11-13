@@ -1,0 +1,70 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "preempt",
+            "pos": "verb",
+            "ts": "priːˈempt",
+            "tr": [
+                {
+                    "text": "зарезервировать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "резервировать",
+                            "pos": "verb"
+                        }
+                    ]
+                },
+                {
+                    "text": "вытеснять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "displace"
+                        }
+                    ]
+                },
+                {
+                    "text": "упредить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "упреждать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "forestall"
+                        },
+                        {
+                            "text": "anticipate"
+                        }
+                    ]
+                },
+                {
+                    "text": "выгружать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выгрузить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "unload"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

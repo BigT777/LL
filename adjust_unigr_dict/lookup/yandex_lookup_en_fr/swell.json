@@ -1,0 +1,53 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "swell",
+            "pos": "verb",
+            "ts": "swel",
+            "fl": "swelled, swollen",
+            "tr": [
+                {
+                    "text": "gonfler",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "puff"
+                        }
+                    ]
+                },
+                {
+                    "text": "enfler",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "puff"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "swell",
+            "pos": "noun",
+            "ts": "swel",
+            "tr": [
+                {
+                    "text": "houle",
+                    "pos": "noun",
+                    "gen": "f"
+                },
+                {
+                    "text": "gonflement",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "swelling"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

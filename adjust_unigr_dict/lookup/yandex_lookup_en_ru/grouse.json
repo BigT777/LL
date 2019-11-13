@@ -1,0 +1,92 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "grouse",
+            "pos": "verb",
+            "ts": "graʊs",
+            "tr": [
+                {
+                    "text": "ворчать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "grumble"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "grouse",
+            "pos": "noun",
+            "ts": "graʊs",
+            "tr": [
+                {
+                    "text": "рябчик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "тетерев",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "куропатка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "глухарь",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "дупель",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hazel grouse"
+                        },
+                        {
+                            "text": "black grouse"
+                        },
+                        {
+                            "text": "partridge"
+                        },
+                        {
+                            "text": "capercaillie"
+                        },
+                        {
+                            "text": "snipe"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "willow grouse",
+                            "tr": [
+                                {
+                                    "text": "белая куропатка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шотландская куропатка",
+                    "pos": "noun"
+                },
+                {
+                    "text": "граус",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        }
+    ]
+}

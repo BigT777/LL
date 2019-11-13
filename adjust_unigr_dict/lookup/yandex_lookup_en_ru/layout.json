@@ -1,0 +1,394 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "layout",
+            "pos": "noun",
+            "ts": "ˈleɪaʊt",
+            "tr": [
+                {
+                    "text": "макет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "планировка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "оформление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "дизайн",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "model"
+                        },
+                        {
+                            "text": "design"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "page layout",
+                            "tr": [
+                                {
+                                    "text": "макет страницы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "vertical layout",
+                            "tr": [
+                                {
+                                    "text": "вертикальная планировка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "graphic layout",
+                            "tr": [
+                                {
+                                    "text": "графическое оформление"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "расположение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "размещение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "расстановка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "arrangement"
+                        },
+                        {
+                            "text": "placement"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "transverse engine layout",
+                            "tr": [
+                                {
+                                    "text": "поперечное расположение двигателя"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "physical layout",
+                            "tr": [
+                                {
+                                    "text": "физическое размещение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "компоновка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "раскладка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "configuration"
+                        },
+                        {
+                            "text": "keymap"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "layout algorithm",
+                            "tr": [
+                                {
+                                    "text": "алгоритм компоновки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "keyboard layout",
+                            "tr": [
+                                {
+                                    "text": "раскладка клавиатуры"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "схема",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "структура",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "scheme"
+                        },
+                        {
+                            "text": "structure"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "structural layout",
+                            "tr": [
+                                {
+                                    "text": "конструктивная схема"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "разметка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "markup"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "horizontal layout",
+                            "tr": [
+                                {
+                                    "text": "горизонтальная разметка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "разбивка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "breakdown"
+                        }
+                    ]
+                },
+                {
+                    "text": "верстка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "макетирование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "makeup"
+                        },
+                        {
+                            "text": "prototyping"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "block layout",
+                            "tr": [
+                                {
+                                    "text": "блочная верстка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "план",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "генплан",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "plan"
+                        },
+                        {
+                            "text": "general plan"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "general layout",
+                            "tr": [
+                                {
+                                    "text": "генеральный план"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "формат",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "format"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "standard layout",
+                            "tr": [
+                                {
+                                    "text": "стандартный формат"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "компоновщик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "linker"
+                        }
+                    ]
+                },
+                {
+                    "text": "топология",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "topology"
+                        }
+                    ]
+                },
+                {
+                    "text": "расклад",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "alignment"
+                        }
+                    ]
+                },
+                {
+                    "text": "разводка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "wiring"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "board layout",
+                            "tr": [
+                                {
+                                    "text": "разводка платы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выкладка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "calculation"
+                        }
+                    ]
+                },
+                {
+                    "text": "схема размещения",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "allocation scheme"
+                        }
+                    ]
+                },
+                {
+                    "text": "верстальщик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "coder"
+                        }
+                    ]
+                },
+                {
+                    "text": "схема расположения",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "layout",
+            "pos": "adjective",
+            "ts": "ˈleɪaʊt",
+            "tr": [
+                {
+                    "text": "планировочный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "компоновочный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "planning"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

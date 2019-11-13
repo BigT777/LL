@@ -1,0 +1,54 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "apportion",
+            "pos": "verb",
+            "ts": "əˈpɔːʃn",
+            "tr": [
+                {
+                    "text": "распределять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "распределить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выделять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "allocate"
+                        },
+                        {
+                            "text": "distribute"
+                        }
+                    ]
+                },
+                {
+                    "text": "разделить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "разделять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "divide"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

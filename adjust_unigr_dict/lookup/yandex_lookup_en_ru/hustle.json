@@ -1,0 +1,125 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "hustle",
+            "pos": "noun",
+            "ts": "hʌsl",
+            "tr": [
+                {
+                    "text": "суета",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "сутолока",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "спешка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "суматоха",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bustle"
+                        },
+                        {
+                            "text": "haste"
+                        }
+                    ]
+                },
+                {
+                    "text": "давка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "толкотня",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crush"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hustle",
+            "pos": "verb",
+            "ts": "hʌsl",
+            "tr": [
+                {
+                    "text": "спешить",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "торопиться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "суетиться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поспешить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подгонять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "торопить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hurry"
+                        },
+                        {
+                            "text": "fuss"
+                        }
+                    ]
+                },
+                {
+                    "text": "толкать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "shove"
+                        }
+                    ]
+                },
+                {
+                    "text": "теснить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "push"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

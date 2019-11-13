@@ -1,0 +1,258 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "scare",
+            "pos": "verb",
+            "ts": "skeə",
+            "tr": [
+                {
+                    "text": "пугать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "напугать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "испугать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отпугивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "распугивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отпугнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "запугать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вспугнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "спугнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "запугивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "перепугать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "попугать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "распугать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "стращать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "устрашить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "устрашать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "frighten"
+                        },
+                        {
+                            "text": "scare away"
+                        },
+                        {
+                            "text": "intimidate"
+                        },
+                        {
+                            "text": "terrify"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "scare the kid",
+                            "tr": [
+                                {
+                                    "text": "напугать ребенка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "scare the children",
+                            "tr": [
+                                {
+                                    "text": "испугать детей"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "scare people",
+                            "tr": [
+                                {
+                                    "text": "отпугнуть людей"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "перепугаться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "испугаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "scare",
+            "pos": "noun",
+            "ts": "skeə",
+            "tr": [
+                {
+                    "text": "паника",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "испуг",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "страх",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "panic"
+                        },
+                        {
+                            "text": "fright"
+                        },
+                        {
+                            "text": "fear"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "red scare",
+                            "tr": [
+                                {
+                                    "text": "красная паника"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "устрашение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "запугивание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "intimidation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "scare tactics",
+                            "tr": [
+                                {
+                                    "text": "тактика запугивания"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "страшилка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "horror story"
+                        }
+                    ]
+                },
+                {
+                    "text": "отпугивание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "frightening"
+                        }
+                    ]
+                },
+                {
+                    "text": "внезапный испуг",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "scare",
+            "pos": "adjective",
+            "ts": "skeə",
+            "tr": [
+                {
+                    "text": "страшный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "scary"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

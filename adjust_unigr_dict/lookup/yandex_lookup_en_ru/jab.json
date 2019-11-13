@@ -1,0 +1,134 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "jab",
+            "pos": "noun",
+            "ts": "ʤæb",
+            "tr": [
+                {
+                    "text": "укол",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "пинок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "удар",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "тычок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shot"
+                        },
+                        {
+                            "text": "kick"
+                        },
+                        {
+                            "text": "blow"
+                        },
+                        {
+                            "text": "poke"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "left jab",
+                            "tr": [
+                                {
+                                    "text": "левый удар"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Джеб",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "внезапный удар",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "sudden blow"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "jab",
+            "pos": "verb",
+            "ts": "ʤæb",
+            "tr": [
+                {
+                    "text": "пихать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "тыкать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "ткнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shove"
+                        },
+                        {
+                            "text": "poke"
+                        }
+                    ]
+                },
+                {
+                    "text": "ударить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "kick"
+                        }
+                    ]
+                },
+                {
+                    "text": "уколоть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "stab"
+                        }
+                    ]
+                },
+                {
+                    "text": "вонзить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "thrust"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

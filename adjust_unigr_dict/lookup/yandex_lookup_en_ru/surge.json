@@ -1,0 +1,277 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "surge",
+            "pos": "noun",
+            "ts": "sɜːʤ",
+            "tr": [
+                {
+                    "text": "всплеск",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "скачок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "splash"
+                        },
+                        {
+                            "text": "spike"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "surge of interest",
+                            "tr": [
+                                {
+                                    "text": "всплеск интереса"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pressure surge",
+                            "tr": [
+                                {
+                                    "text": "скачок давления"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "подъем",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "рост",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rise"
+                        }
+                    ]
+                },
+                {
+                    "text": "перенапряжение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "помпаж",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "overvoltage"
+                        }
+                    ]
+                },
+                {
+                    "text": "волна",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "большая волна",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wave"
+                        },
+                        {
+                            "text": "big wave"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tidal surge",
+                            "tr": [
+                                {
+                                    "text": "приливная волна"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "прилив",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "tide"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "surge of strength",
+                            "tr": [
+                                {
+                                    "text": "прилив сил"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "скачок напряжения",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "всплеск напряжения",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "power surge"
+                        }
+                    ]
+                },
+                {
+                    "text": "пульсация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "pulsation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "power surge",
+                            "tr": [
+                                {
+                                    "text": "пульсация силы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "бросок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "throw"
+                        }
+                    ]
+                },
+                {
+                    "text": "выброс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "discharge"
+                        }
+                    ]
+                },
+                {
+                    "text": "импульс напряжения",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "voltage pulse"
+                        }
+                    ]
+                },
+                {
+                    "text": "выброс напряжения",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "voltage spike"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "surge",
+            "pos": "verb",
+            "ts": "sɜːʤ",
+            "tr": [
+                {
+                    "text": "вздыматься",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "rise"
+                        }
+                    ]
+                },
+                {
+                    "text": "хлынуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "прилить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flood"
+                        },
+                        {
+                            "text": "flow"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "surge",
+            "pos": "adjective",
+            "ts": "sɜːʤ",
+            "tr": [
+                {
+                    "text": "резкий",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "sharp"
+                        }
+                    ]
+                },
+                {
+                    "text": "импульсный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "pulse"
+                        }
+                    ]
+                },
+                {
+                    "text": "уравнительный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "equalizing"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

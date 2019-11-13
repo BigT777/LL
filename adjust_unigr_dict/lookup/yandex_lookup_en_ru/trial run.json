@@ -1,0 +1,81 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "trial run",
+            "pos": "noun",
+            "ts": "ˈtraɪəl rʌn",
+            "tr": [
+                {
+                    "text": "пробный запуск",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "пробный пуск",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "пробный прогон",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "test run"
+                        },
+                        {
+                            "text": "dry run"
+                        }
+                    ]
+                },
+                {
+                    "text": "испытание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "проба",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "testing"
+                        },
+                        {
+                            "text": "trial"
+                        }
+                    ]
+                },
+                {
+                    "text": "обкатка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "running"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "trial run",
+            "pos": "verb",
+            "ts": "ˈtraɪəl rʌn",
+            "tr": [
+                {
+                    "text": "обкатывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "run"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

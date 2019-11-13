@@ -1,0 +1,281 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "mount",
+            "pos": "verb",
+            "ts": "maʊnt",
+            "tr": [
+                {
+                    "text": "монтировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "устанавливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "смонтировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "установить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "install"
+                        }
+                    ]
+                },
+                {
+                    "text": "подниматься",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подняться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "взобраться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "climb"
+                        }
+                    ]
+                },
+                {
+                    "text": "подключить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "подключать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "connect"
+                        }
+                    ]
+                },
+                {
+                    "text": "крепиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "крепить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fasten"
+                        }
+                    ]
+                },
+                {
+                    "text": "нарастать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "grow"
+                        }
+                    ]
+                },
+                {
+                    "text": "вмонтировать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "fit"
+                        }
+                    ]
+                },
+                {
+                    "text": "подмонтировать",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "mount",
+            "pos": "noun",
+            "ts": "maʊnt",
+            "tr": [
+                {
+                    "text": "гора",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "Маунт",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mountain"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "temple mount in jerusalem",
+                            "tr": [
+                                {
+                                    "text": "храмовая гора в иерусалиме"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "монтаж",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "установка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "подключение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "installation"
+                        },
+                        {
+                            "text": "connect"
+                        }
+                    ]
+                },
+                {
+                    "text": "крепление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "держатель",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "кронштейн",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "монтировка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mounting"
+                        },
+                        {
+                            "text": "holder"
+                        },
+                        {
+                            "text": "bracket"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "wall mount",
+                            "tr": [
+                                {
+                                    "text": "настенное крепление"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "camera mount",
+                            "tr": [
+                                {
+                                    "text": "держатель камеры"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "монтирование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "mounting"
+                        }
+                    ]
+                },
+                {
+                    "text": "конь",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "скакун",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "horse"
+                        }
+                    ]
+                },
+                {
+                    "text": "ездовое животное",
+                    "pos": "noun"
+                },
+                {
+                    "text": "лошадь под седлом",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "mount",
+            "pos": "adjective",
+            "ts": "maʊnt",
+            "tr": [
+                {
+                    "text": "монтажный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "mounting"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

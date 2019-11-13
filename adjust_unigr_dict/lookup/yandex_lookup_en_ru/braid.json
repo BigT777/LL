@@ -1,0 +1,223 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "braid",
+            "pos": "noun",
+            "ts": "breɪd",
+            "tr": [
+                {
+                    "text": "коса",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "тесьма",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "косичка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "оплетка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "жгут",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "шнур",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "плетение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "plait"
+                        },
+                        {
+                            "text": "tape"
+                        },
+                        {
+                            "text": "pigtail"
+                        },
+                        {
+                            "text": "braiding"
+                        },
+                        {
+                            "text": "cord"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "braid group",
+                            "tr": [
+                                {
+                                    "text": "группа кос"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "gold braid",
+                            "tr": [
+                                {
+                                    "text": "золотая тесьма"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "thin braid",
+                            "tr": [
+                                {
+                                    "text": "тонкая косичка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "copper braid",
+                            "tr": [
+                                {
+                                    "text": "медная оплетка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шнурок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "галун",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "позумент",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lace"
+                        },
+                        {
+                            "text": "galloon"
+                        }
+                    ]
+                },
+                {
+                    "text": "сплетение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "tangle"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "braid",
+            "pos": "verb",
+            "ts": "breɪd",
+            "tr": [
+                {
+                    "text": "заплетать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заплести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "plait"
+                        }
+                    ]
+                },
+                {
+                    "text": "плести",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сплести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "weave"
+                        }
+                    ]
+                },
+                {
+                    "text": "скрутить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "скручивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "twist"
+                        }
+                    ]
+                },
+                {
+                    "text": "оплетать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "оплести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crisscross"
+                        },
+                        {
+                            "text": "twine"
+                        }
+                    ]
+                },
+                {
+                    "text": "обматывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "wind"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

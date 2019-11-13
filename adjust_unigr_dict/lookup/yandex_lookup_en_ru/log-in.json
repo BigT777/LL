@@ -1,0 +1,82 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "log in",
+            "pos": "noun",
+            "ts": "lɒg ɪn",
+            "tr": [
+                {
+                    "text": "вход",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "вход в систему",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "entrance"
+                        },
+                        {
+                            "text": "log on"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "log in",
+            "pos": "verb",
+            "ts": "lɒg ɪn",
+            "tr": [
+                {
+                    "text": "входить в систему",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "зайти в систему",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "log on"
+                        }
+                    ]
+                },
+                {
+                    "text": "входить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "зарегистрироваться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "войти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выполнить вход",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "enter"
+                        },
+                        {
+                            "text": "register"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

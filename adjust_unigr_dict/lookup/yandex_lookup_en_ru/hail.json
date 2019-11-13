@@ -1,0 +1,163 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "hail",
+            "pos": "noun",
+            "ts": "heɪl",
+            "tr": [
+                {
+                    "text": "привет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "приветствие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hello"
+                        },
+                        {
+                            "text": "welcome"
+                        }
+                    ]
+                },
+                {
+                    "text": "град",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "grad"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hail of bullets",
+                            "tr": [
+                                {
+                                    "text": "град пуль"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "оклик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "окрик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "call"
+                        },
+                        {
+                            "text": "shout"
+                        }
+                    ]
+                },
+                {
+                    "text": "слава",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "glory"
+                        }
+                    ]
+                },
+                {
+                    "text": "градина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "hailstone"
+                        }
+                    ]
+                },
+                {
+                    "text": "Хаиль",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "hail",
+            "pos": "verb",
+            "ts": "heɪl",
+            "tr": [
+                {
+                    "text": "приветствовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "поприветствовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "greet"
+                        }
+                    ]
+                },
+                {
+                    "text": "окликать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "окликнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "называть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "call"
+                        }
+                    ]
+                },
+                {
+                    "text": "происходить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "be"
+                        }
+                    ]
+                },
+                {
+                    "text": "восхвалять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "praise"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

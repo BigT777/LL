@@ -1,0 +1,413 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "piece",
+            "pos": "noun",
+            "ts": "piːs",
+            "tr": [
+                {
+                    "text": "кусок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "обломок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "фрагмент",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "кусочек",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "клочок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "осколок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "обрывок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "chunk"
+                        },
+                        {
+                            "text": "fragment"
+                        },
+                        {
+                            "text": "slice"
+                        },
+                        {
+                            "text": "scrap"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "piece of rye bread",
+                            "tr": [
+                                {
+                                    "text": "кусок ржаного хлеба"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "piece of raw meat",
+                            "tr": [
+                                {
+                                    "text": "кусок сырого мяса"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "piece of rock",
+                            "tr": [
+                                {
+                                    "text": "обломок скалы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "missing piece",
+                            "tr": [
+                                {
+                                    "text": "недостающий фрагмент"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "piece of chicken",
+                            "tr": [
+                                {
+                                    "text": "кусочек курицы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "piece of mirror",
+                            "tr": [
+                                {
+                                    "text": "осколок зеркала"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "часть",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "деталь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "частичка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "part"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "piece of real estate",
+                            "tr": [
+                                {
+                                    "text": "часть недвижимого имущества"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "piece of agricultural land",
+                            "tr": [
+                                {
+                                    "text": "часть пахотной земли"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "connection piece",
+                            "tr": [
+                                {
+                                    "text": "соединительная деталь"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "tiny piece",
+                            "tr": [
+                                {
+                                    "text": "крошечная частичка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "штука",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "фишка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "thing"
+                        },
+                        {
+                            "text": "chip"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "number of pieces",
+                            "tr": [
+                                {
+                                    "text": "количество штук"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "произведение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "пьеса",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "product"
+                        },
+                        {
+                            "text": "play"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "piece of fine art",
+                            "tr": [
+                                {
+                                    "text": "произведение изобразительного искусства"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "new piece of music",
+                            "tr": [
+                                {
+                                    "text": "новое музыкальное произведение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "piano piece",
+                            "tr": [
+                                {
+                                    "text": "фортепианная пьеса"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "предмет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "экспонат",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "item"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "piece of furniture",
+                            "tr": [
+                                {
+                                    "text": "предмет мебели"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "фигура",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "figure"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "chess piece",
+                            "tr": [
+                                {
+                                    "text": "шахматная фигура"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "единица",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "unit"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pieces of military equipment",
+                            "tr": [
+                                {
+                                    "text": "единиц военной техники"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отрезок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "cut"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "short piece",
+                            "tr": [
+                                {
+                                    "text": "короткий отрезок"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "заготовка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "blank"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dough piece",
+                            "tr": [
+                                {
+                                    "text": "тестовая заготовка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шашка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "checker"
+                        }
+                    ]
+                },
+                {
+                    "text": "клок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "shred"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "piece",
+            "pos": "adjective",
+            "ts": "piːs",
+            "tr": [
+                {
+                    "text": "штучный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "поштучный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "block"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "piece goods",
+                            "tr": [
+                                {
+                                    "text": "штучный товар"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "piece",
+            "ts": "piːs",
+            "tr": [
+                {
+                    "text": "шт."
+                }
+            ]
+        }
+    ]
+}

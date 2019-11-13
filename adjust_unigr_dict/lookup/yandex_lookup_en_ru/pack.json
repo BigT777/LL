@@ -1,0 +1,313 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "pack",
+            "pos": "noun",
+            "ts": "pæk",
+            "tr": [
+                {
+                    "text": "пакет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "упаковка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "пачка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "тюк",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "package"
+                        },
+                        {
+                            "text": "packaging"
+                        },
+                        {
+                            "text": "bundle"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "language pack",
+                            "tr": [
+                                {
+                                    "text": "языковой пакет"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "blister pack",
+                            "tr": [
+                                {
+                                    "text": "блистерная упаковка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "retail price per pack",
+                            "tr": [
+                                {
+                                    "text": "розничная цена за пачку"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "стая",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "свора",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flock"
+                        },
+                        {
+                            "text": "couple"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pack of stray dogs",
+                            "tr": [
+                                {
+                                    "text": "стая бродячих собак"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pack of hounds",
+                            "tr": [
+                                {
+                                    "text": "свора гончих"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вьюк",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "пак",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "pak"
+                        }
+                    ]
+                },
+                {
+                    "text": "колода",
+                    "pos": "noun",
+                    "gen": "м,ж",
+                    "mean": [
+                        {
+                            "text": "deck"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pack of cards",
+                            "tr": [
+                                {
+                                    "text": "колода карт"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ранец",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "backpack"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "jet pack",
+                            "tr": [
+                                {
+                                    "text": "реактивный ранец"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "компресс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "compress"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cold pack",
+                            "tr": [
+                                {
+                                    "text": "холодный компресс"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "pack",
+            "pos": "verb",
+            "ts": "pæk",
+            "tr": [
+                {
+                    "text": "упаковывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "упаковать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "запаковать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "расфасовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "packaging"
+                        },
+                        {
+                            "text": "package"
+                        },
+                        {
+                            "text": "wrap up"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pack things",
+                            "tr": [
+                                {
+                                    "text": "упаковывать вещи"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "паковать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "паковать вещи",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pack up"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pack a suitcase",
+                            "tr": [
+                                {
+                                    "text": "паковать чемодан"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "собрать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "collect"
+                        }
+                    ]
+                },
+                {
+                    "text": "укладывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "stack"
+                        }
+                    ]
+                },
+                {
+                    "text": "упаковать вещи",
+                    "pos": "verb"
+                },
+                {
+                    "text": "упаковывать вещи",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "pack",
+            "pos": "adjective",
+            "ts": "pæk",
+            "tr": [
+                {
+                    "text": "вьючный",
+                    "pos": "adjective",
+                    "ex": [
+                        {
+                            "text": "pack animal",
+                            "tr": [
+                                {
+                                    "text": "вьючное животное"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "паковый",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

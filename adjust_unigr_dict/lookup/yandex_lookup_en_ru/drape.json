@@ -1,0 +1,103 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "drape",
+            "pos": "noun",
+            "ts": "dreɪp",
+            "tr": [
+                {
+                    "text": "драпировка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "портьера",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "занавес",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drapery"
+                        },
+                        {
+                            "text": "curtain"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "heavy drapes",
+                            "tr": [
+                                {
+                                    "text": "тяжелые драпировки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "velvet drapes",
+                            "tr": [
+                                {
+                                    "text": "бархатные портьеры"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "салфетка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "napkin"
+                        }
+                    ]
+                },
+                {
+                    "text": "драп",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "drape",
+            "pos": "verb",
+            "ts": "dreɪp",
+            "tr": [
+                {
+                    "text": "драпировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "задрапировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ]
+                },
+                {
+                    "text": "задрапировывать",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "накрыть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "cover"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

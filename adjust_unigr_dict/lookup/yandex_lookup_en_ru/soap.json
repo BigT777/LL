@@ -1,0 +1,146 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "soap",
+            "pos": "noun",
+            "ts": "səʊp",
+            "tr": [
+                {
+                    "text": "мыло",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "хозяйственное мыло",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "кусок мыла",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "laundry soap"
+                        },
+                        {
+                            "text": "bar of soap"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hand washing with soap",
+                            "tr": [
+                                {
+                                    "text": "мытье рук с мылом"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "мыльница",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "soap dish"
+                        }
+                    ]
+                },
+                {
+                    "text": "мыльная опера",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "soap opera"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "soap",
+            "pos": "verb",
+            "ts": "səʊp",
+            "tr": [
+                {
+                    "text": "мылить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "намылить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "намыливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "намыливаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lather"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "soap",
+            "pos": "adjective",
+            "ts": "səʊp",
+            "tr": [
+                {
+                    "text": "мыловаренный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "мыльный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "soapy"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "soap factory",
+                            "tr": [
+                                {
+                                    "text": "мыловаренный завод"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "soap bubble",
+                            "tr": [
+                                {
+                                    "text": "мыльный пузырь"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "watch soap operas",
+                            "tr": [
+                                {
+                                    "text": "смотреть мыльные оперы"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

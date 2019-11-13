@@ -1,0 +1,75 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "залить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "verser",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "remplir",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "заливать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "затем залить",
+                            "tr": [
+                                {
+                                    "text": "puis verser"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "inonder",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "submerger",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "répandre",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "éteindre",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "заливать"
+                        },
+                        {
+                            "text": "вылить"
+                        },
+                        {
+                            "text": "тушить"
+                        }
+                    ]
+                },
+                {
+                    "text": "salir",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "намазать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

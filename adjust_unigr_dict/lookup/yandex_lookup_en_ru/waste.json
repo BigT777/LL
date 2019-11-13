@@ -1,0 +1,252 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "waste",
+            "pos": "noun",
+            "ts": "weɪst",
+            "tr": [
+                {
+                    "text": "отходы",
+                    "pos": "noun",
+                    "gen": "м",
+                    "num": "мн",
+                    "syn": [
+                        {
+                            "text": "стоки",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "waste management"
+                        },
+                        {
+                            "text": "wastewater"
+                        }
+                    ]
+                },
+                {
+                    "text": "отбросы",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "мусор",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "garbage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "construction waste",
+                            "tr": [
+                                {
+                                    "text": "строительный мусор"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "расточительство",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "растрата",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "squandering"
+                        },
+                        {
+                            "text": "embezzlement"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "terrible waste",
+                            "tr": [
+                                {
+                                    "text": "ужасное расточительство"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "трата",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "пустая трата",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "напрасная трата",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spending"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "senseless waste",
+                            "tr": [
+                                {
+                                    "text": "бессмысленная трата"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пустыня",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "пустырь",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "desert"
+                        },
+                        {
+                            "text": "wasteland"
+                        }
+                    ]
+                },
+                {
+                    "text": "шлак",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "slag"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "waste",
+            "pos": "verb",
+            "ts": "weɪst",
+            "tr": [
+                {
+                    "text": "тратить впустую",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "терять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "тратить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "растрачивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "потратить впустую",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "растратить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "напрасно тратить",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lose"
+                        },
+                        {
+                            "text": "spend"
+                        },
+                        {
+                            "text": "squander"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "waste",
+            "pos": "adjective",
+            "ts": "weɪst",
+            "tr": [
+                {
+                    "text": "сточный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "сбросной",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sewage"
+                        },
+                        {
+                            "text": "discharge"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "industrial waste water",
+                            "tr": [
+                                {
+                                    "text": "промышленная сточная вода"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "waste",
+            "pos": "participle",
+            "ts": "weɪst",
+            "tr": [
+                {
+                    "text": "отработанный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "spent"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

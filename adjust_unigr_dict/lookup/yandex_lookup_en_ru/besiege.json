@@ -1,0 +1,72 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "besiege",
+            "pos": "verb",
+            "ts": "bɪˈsiːʤ",
+            "tr": [
+                {
+                    "text": "осаждать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "осадить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обложить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "siege"
+                        },
+                        {
+                            "text": "impose"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "besiege the city",
+                            "tr": [
+                                {
+                                    "text": "осаждать город"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "besieged town",
+                            "tr": [
+                                {
+                                    "text": "осажденный город"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "окружить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "окружать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "surround"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

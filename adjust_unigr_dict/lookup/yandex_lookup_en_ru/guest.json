@@ -1,0 +1,207 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "guest",
+            "pos": "noun",
+            "ts": "gest",
+            "tr": [
+                {
+                    "text": "гость",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "постоялец",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "посетитель",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "гостья",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "visitor"
+                        },
+                        {
+                            "text": "hotel guest"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hotel guest",
+                            "tr": [
+                                {
+                                    "text": "гость отеля"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "guests from foreign countries",
+                            "tr": [
+                                {
+                                    "text": "гости из зарубежных стран"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "guests of this event",
+                            "tr": [
+                                {
+                                    "text": "гости мероприятия"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "new guest",
+                            "tr": [
+                                {
+                                    "text": "новый постоялец"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "number of guests",
+                            "tr": [
+                                {
+                                    "text": "количество посетителей"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "uninvited guest",
+                            "tr": [
+                                {
+                                    "text": "непрошеная гостья"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "клиент",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "client"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "regular guest",
+                            "tr": [
+                                {
+                                    "text": "постоянный клиент"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "гостевой",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "visitor"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "guest operating system",
+                            "tr": [
+                                {
+                                    "text": "гостевая ос"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "small guest houses",
+                            "tr": [
+                                {
+                                    "text": "гостевые домики"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отдыхающий",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "гость столицы",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "guest",
+            "pos": "participle",
+            "ts": "gest",
+            "tr": [
+                {
+                    "text": "приглашенный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "invited"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "guest",
+            "pos": "verb",
+            "ts": "gest",
+            "tr": [
+                {
+                    "text": "гостить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "stay"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "guest",
+            "pos": "adjective",
+            "ts": "gest",
+            "tr": [
+                {
+                    "text": "выездной",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "visiting"
+                        }
+                    ]
+                },
+                {
+                    "text": "приезжий",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "newcomer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

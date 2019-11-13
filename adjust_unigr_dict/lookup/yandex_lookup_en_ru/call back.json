@@ -1,0 +1,73 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "call back",
+            "pos": "verb",
+            "ts": "kɔːl bæk",
+            "tr": [
+                {
+                    "text": "перезвонить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "перезванивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "call again"
+                        },
+                        {
+                            "text": "return calls"
+                        }
+                    ]
+                },
+                {
+                    "text": "отозвать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "withdraw"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "call back",
+            "pos": "noun",
+            "ts": "kɔːl bæk",
+            "tr": [
+                {
+                    "text": "ответный звонок",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "callback"
+                        }
+                    ]
+                },
+                {
+                    "text": "обратный вызов",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "обратный звонок",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "callback"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,358 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fight",
+            "pos": "noun",
+            "ts": "faɪt",
+            "tr": [
+                {
+                    "text": "борьба",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "бой",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "сражение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "битва",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "схватка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "баталия",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "struggle"
+                        },
+                        {
+                            "text": "battle"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fight against corruption",
+                            "tr": [
+                                {
+                                    "text": "борьба с коррупцией"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fight against racial discrimination",
+                            "tr": [
+                                {
+                                    "text": "борьба против расовой дискриминации"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fight for human rights",
+                            "tr": [
+                                {
+                                    "text": "борьба за права человека"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fight against international terrorism",
+                            "tr": [
+                                {
+                                    "text": "борьба против международного терроризма"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fight for social justice",
+                            "tr": [
+                                {
+                                    "text": "борьба за социальную справедливость"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fight for national liberation",
+                            "tr": [
+                                {
+                                    "text": "борьба за национальное освобождение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "desperate fight",
+                            "tr": [
+                                {
+                                    "text": "отчаянное сражение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "unequal fight",
+                            "tr": [
+                                {
+                                    "text": "неравная битва"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "final fight",
+                            "tr": [
+                                {
+                                    "text": "финальная схватка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "драка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "ссора",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "потасовка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fighting"
+                        },
+                        {
+                            "text": "quarrel"
+                        },
+                        {
+                            "text": "brawl"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "real fight",
+                            "tr": [
+                                {
+                                    "text": "настоящая драка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "family fight",
+                            "tr": [
+                                {
+                                    "text": "семейная ссора"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "поединок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "duel"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "gladiator fights",
+                            "tr": [
+                                {
+                                    "text": "поединки гладиаторов"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fight",
+            "pos": "verb",
+            "ts": "faɪt",
+            "fl": "fought, fought",
+            "tr": [
+                {
+                    "text": "бороться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "воевать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сражаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сразиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "биться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подраться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "struggle"
+                        },
+                        {
+                            "text": "war"
+                        },
+                        {
+                            "text": "battle"
+                        },
+                        {
+                            "text": "beat"
+                        },
+                        {
+                            "text": "scuffle"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fight for freedom",
+                            "tr": [
+                                {
+                                    "text": "бороться за свободу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fight alone",
+                            "tr": [
+                                {
+                                    "text": "воевать самостоятельно"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fight bravely",
+                            "tr": [
+                                {
+                                    "text": "сражаться храбро"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fight to the death",
+                            "tr": [
+                                {
+                                    "text": "биться насмерть"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "драться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "scuffle"
+                        }
+                    ]
+                },
+                {
+                    "text": "вести",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "lead"
+                        }
+                    ]
+                },
+                {
+                    "text": "сопротивляться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "resist"
+                        }
+                    ]
+                },
+                {
+                    "text": "ссориться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "quarrel"
+                        }
+                    ]
+                },
+                {
+                    "text": "ратовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "stand up"
+                        }
+                    ]
+                },
+                {
+                    "text": "вести бой",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "combat"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fight",
+            "pos": "adjective",
+            "ts": "faɪt",
+            "tr": [
+                {
+                    "text": "боевой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "fighting"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

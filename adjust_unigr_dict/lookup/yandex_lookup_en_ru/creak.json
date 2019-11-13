@@ -1,0 +1,74 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "creak",
+            "pos": "verb",
+            "ts": "kriːk",
+            "tr": [
+                {
+                    "text": "скрипеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заскрипеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "трещать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "squeak"
+                        },
+                        {
+                            "text": "crackle"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "creak",
+            "pos": "noun",
+            "ts": "kriːk",
+            "tr": [
+                {
+                    "text": "скрип",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "скрипение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "squeak"
+                        },
+                        {
+                            "text": "creaking"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "door creak",
+                            "tr": [
+                                {
+                                    "text": "скрип двери"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

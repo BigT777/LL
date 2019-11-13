@@ -1,0 +1,147 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "devote",
+            "pos": "verb",
+            "ts": "dɪˈvəʊt",
+            "tr": [
+                {
+                    "text": "посвящать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "посвятить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "предназначить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "посвящать себя",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dedicate"
+                        },
+                        {
+                            "text": "devote themselves"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "devote time",
+                            "tr": [
+                                {
+                                    "text": "посвятить время"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отдавать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "уделять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "уделить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отдать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pay"
+                        },
+                        {
+                            "text": "give"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "devote attention",
+                            "tr": [
+                                {
+                                    "text": "уделить внимание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выделять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отводить",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "выделить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отвести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "allocate"
+                        }
+                    ]
+                },
+                {
+                    "text": "направить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "aim"
+                        }
+                    ]
+                },
+                {
+                    "text": "отдаться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "предаваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "surrender"
+                        },
+                        {
+                            "text": "indulge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

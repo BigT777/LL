@@ -1,0 +1,104 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "tram",
+            "pos": "noun",
+            "ts": "træm",
+            "tr": [
+                {
+                    "text": "трамвай",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "вагон",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "трамвайчик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "streetcar"
+                        },
+                        {
+                            "text": "wagon"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "city tram",
+                            "tr": [
+                                {
+                                    "text": "городской трамвай"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "трамвайная линия",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "tram line"
+                        }
+                    ]
+                },
+                {
+                    "text": "остановка трамвая",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "tram stop"
+                        }
+                    ]
+                },
+                {
+                    "text": "трамвайный вагон",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "tram car"
+                        }
+                    ]
+                },
+                {
+                    "text": "вагон трамвая",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "tram",
+            "pos": "adjective",
+            "ts": "træm",
+            "tr": [
+                {
+                    "text": "трамвайный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "tramway"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tram stop",
+                            "tr": [
+                                {
+                                    "text": "трамвайная остановка"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

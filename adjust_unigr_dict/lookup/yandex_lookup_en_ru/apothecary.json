@@ -1,0 +1,64 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "apothecary",
+            "pos": "noun",
+            "ts": "əˈpɒθək(ə)rɪ",
+            "tr": [
+                {
+                    "text": "аптекарь",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "фармацевт",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pharmacist"
+                        }
+                    ]
+                },
+                {
+                    "text": "аптека",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "pharmacy"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "apothecary",
+            "pos": "adjective",
+            "ts": "əˈpɒθək(ə)rɪ",
+            "tr": [
+                {
+                    "text": "аптечный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "аптекарский",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pharmacy"
+                        },
+                        {
+                            "text": "pharmaceutical"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

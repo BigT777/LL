@@ -1,0 +1,233 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "drip",
+            "pos": "verb",
+            "ts": "drɪp",
+            "tr": [
+                {
+                    "text": "капать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "стекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "закапать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "капнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "накапать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "закапывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dribble"
+                        },
+                        {
+                            "text": "drain"
+                        },
+                        {
+                            "text": "drop"
+                        },
+                        {
+                            "text": "instill"
+                        },
+                        {
+                            "text": "bury"
+                        }
+                    ]
+                },
+                {
+                    "text": "течь",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "протекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flow"
+                        }
+                    ]
+                },
+                {
+                    "text": "просачиваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "seep"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "drip",
+            "pos": "noun",
+            "ts": "drɪp",
+            "tr": [
+                {
+                    "text": "капанье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "капание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dripping"
+                        }
+                    ]
+                },
+                {
+                    "text": "капля",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "капель",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drop"
+                        },
+                        {
+                            "text": "dropping"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "drips of water",
+                            "tr": [
+                                {
+                                    "text": "капли воды"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "капельница",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "dropper"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "intravenous drip",
+                            "tr": [
+                                {
+                                    "text": "внутривенная капельница"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "потек",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "отлив",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "ebb"
+                        }
+                    ]
+                },
+                {
+                    "text": "капельник",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "просачивание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "подтекание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "seepage"
+                        },
+                        {
+                            "text": "leak"
+                        }
+                    ]
+                },
+                {
+                    "text": "слезник",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "drip",
+            "pos": "adjective",
+            "ts": "drɪp",
+            "tr": [
+                {
+                    "text": "капельный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "trickle"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "drip infusion",
+                            "tr": [
+                                {
+                                    "text": "капельная инфузия"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

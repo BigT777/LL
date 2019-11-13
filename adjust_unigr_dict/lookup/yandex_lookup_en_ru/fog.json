@@ -1,0 +1,139 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fog",
+            "pos": "noun",
+            "ts": "fɒg",
+            "tr": [
+                {
+                    "text": "туман",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "мгла",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "дымка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "густой туман",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mist"
+                        },
+                        {
+                            "text": "haze"
+                        },
+                        {
+                            "text": "thick fog"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dense fog",
+                            "tr": [
+                                {
+                                    "text": "густой туман"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "thick white fog",
+                            "tr": [
+                                {
+                                    "text": "густой белый туман"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "туманность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "nebula"
+                        }
+                    ]
+                },
+                {
+                    "text": "вуаль",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "veil"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fog",
+            "pos": "verb",
+            "ts": "fɒg",
+            "tr": [
+                {
+                    "text": "затуманивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "затуманить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cloud"
+                        },
+                        {
+                            "text": "blur"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fog",
+            "pos": "adjective",
+            "ts": "fɒg",
+            "tr": [
+                {
+                    "text": "противотуманный",
+                    "pos": "adjective"
+                },
+                {
+                    "text": "туманный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "foggy"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fog horn",
+                            "tr": [
+                                {
+                                    "text": "туманный горн"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

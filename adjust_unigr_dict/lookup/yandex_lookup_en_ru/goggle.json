@@ -1,0 +1,80 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "goggle",
+            "pos": "participle",
+            "ts": "gɒgl",
+            "tr": [
+                {
+                    "text": "изумленный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "surprised"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "goggle",
+            "pos": "noun",
+            "ts": "gɒgl",
+            "tr": [
+                {
+                    "text": "защитные очки",
+                    "pos": "noun"
+                },
+                {
+                    "text": "изумленный взгляд",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "goggle",
+            "pos": "verb",
+            "ts": "gɒgl",
+            "tr": [
+                {
+                    "text": "таращить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вытаращить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "таращить глаза",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stare"
+                        }
+                    ]
+                },
+                {
+                    "text": "выпучить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выпучить глаза",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bulge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

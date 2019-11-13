@@ -1,0 +1,187 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sack",
+            "pos": "noun",
+            "ts": "sæk",
+            "tr": [
+                {
+                    "text": "мешок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "вкладыш",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "мешочек",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "сумка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bag"
+                        },
+                        {
+                            "text": "liner"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "paper sack",
+                            "tr": [
+                                {
+                                    "text": "бумажный мешок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "leather sack",
+                            "tr": [
+                                {
+                                    "text": "кожаный мешочек"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Куль",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "разграбление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "plunder"
+                        }
+                    ]
+                },
+                {
+                    "text": "постель",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "bed"
+                        }
+                    ]
+                },
+                {
+                    "text": "увольнение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "dismissal"
+                        }
+                    ]
+                },
+                {
+                    "text": "мешковина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "sacking"
+                        }
+                    ]
+                },
+                {
+                    "text": "бурдюк",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "wineskin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sack",
+            "pos": "verb",
+            "ts": "sæk",
+            "tr": [
+                {
+                    "text": "увольнять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "уволить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dismiss"
+                        }
+                    ]
+                },
+                {
+                    "text": "грабить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разграбить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "ограбить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "plunder"
+                        }
+                    ]
+                },
+                {
+                    "text": "выгонять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "expel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sack",
+            "pos": "adjective",
+            "ts": "sæk",
+            "tr": [
+                {
+                    "text": "мешочный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "bag"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,267 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "convert",
+            "pos": "verb",
+            "ts": "ˈkɒnvɜːt",
+            "tr": [
+                {
+                    "text": "конвертировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "преобразовывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "превращать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "преобразовать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "превратить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "превратиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перекодировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "convertible"
+                        },
+                        {
+                            "text": "transform"
+                        },
+                        {
+                            "text": "encode"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "convert currency",
+                            "tr": [
+                                {
+                                    "text": "конвертировать валюту"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "convert data",
+                            "tr": [
+                                {
+                                    "text": "преобразовывать данные"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "converted signal",
+                            "tr": [
+                                {
+                                    "text": "преобразованный сигнал"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "переводить",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "перевести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "translate"
+                        }
+                    ]
+                },
+                {
+                    "text": "переоборудовать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "refurbish"
+                        }
+                    ]
+                },
+                {
+                    "text": "обращать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "превращаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обратить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обратиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "draw"
+                        },
+                        {
+                            "text": "turn"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "convert men",
+                            "tr": [
+                                {
+                                    "text": "обращать людей"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "перейти",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "move"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "convert to islam",
+                            "tr": [
+                                {
+                                    "text": "перейти в ислам"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пересчитывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "пересчитать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "recalculate"
+                        },
+                        {
+                            "text": "count"
+                        }
+                    ]
+                },
+                {
+                    "text": "сконвертировать",
+                    "pos": "verb"
+                },
+                {
+                    "text": "переделать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "alter"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "convert",
+            "pos": "noun",
+            "ts": "ˈkɒnvɜːt",
+            "tr": [
+                {
+                    "text": "преобразование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "превращение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "конверсия",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "conversion"
+                        },
+                        {
+                            "text": "transformation"
+                        }
+                    ]
+                },
+                {
+                    "text": "перевод",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "пересчет",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "translation"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "convert",
+            "pos": "adjective",
+            "ts": "ˈkɒnvɜːt",
+            "tr": [
+                {
+                    "text": "новообращенный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "converted"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

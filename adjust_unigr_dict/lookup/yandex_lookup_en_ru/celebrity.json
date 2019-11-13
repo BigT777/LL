@@ -1,0 +1,150 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "celebrity",
+            "pos": "noun",
+            "ts": "sɪˈlebrɪtɪ",
+            "tr": [
+                {
+                    "text": "знаменитость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "звезда",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "celeb"
+                        },
+                        {
+                            "text": "star"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "local celebrity",
+                            "tr": [
+                                {
+                                    "text": "местная знаменитость"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "real celebrity",
+                            "tr": [
+                                {
+                                    "text": "настоящая звезда"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "слава",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "известность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "популярность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fame"
+                        },
+                        {
+                            "text": "popularity"
+                        }
+                    ]
+                },
+                {
+                    "text": "знаменитый человек",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "известный человек",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "известная личность",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "famous person"
+                        }
+                    ]
+                },
+                {
+                    "text": "селебрити",
+                    "pos": "noun",
+                    "gen": "м,ж"
+                }
+            ]
+        },
+        {
+            "text": "celebrity",
+            "pos": "adjective",
+            "ts": "sɪˈlebrɪtɪ",
+            "tr": [
+                {
+                    "text": "известный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "знаменитый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "famous"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "celebrity chef",
+                            "tr": [
+                                {
+                                    "text": "знаменитый повар"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "звездный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "star"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "celebrity status",
+                            "tr": [
+                                {
+                                    "text": "звездный статус"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

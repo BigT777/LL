@@ -1,0 +1,222 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "discard",
+            "pos": "verb",
+            "ts": "ˈdɪskɑːd",
+            "tr": [
+                {
+                    "text": "отбрасывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отбросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выбросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выбрасывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выкинуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "откинуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выкидывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "throw"
+                        },
+                        {
+                            "text": "throw away"
+                        }
+                    ]
+                },
+                {
+                    "text": "отказываться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отвергать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отклонить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выбраковывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "забраковать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "браковать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reject"
+                        }
+                    ]
+                },
+                {
+                    "text": "сбрасывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "избавляться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dump"
+                        }
+                    ]
+                },
+                {
+                    "text": "удалять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "исключать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "remove"
+                        },
+                        {
+                            "text": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "text": "отменить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "cancel"
+                        }
+                    ]
+                },
+                {
+                    "text": "утилизировать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "utilize"
+                        }
+                    ]
+                },
+                {
+                    "text": "списывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "списать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "write off"
+                        }
+                    ]
+                },
+                {
+                    "text": "отбраковывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отбраковать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reject"
+                        },
+                        {
+                            "text": "cull"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "discard",
+            "pos": "noun",
+            "ts": "ˈdɪskɑːd",
+            "tr": [
+                {
+                    "text": "сброс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "сбрасывание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "отбрасывание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reset"
+                        },
+                        {
+                            "text": "dropping"
+                        },
+                        {
+                            "text": "rejection"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

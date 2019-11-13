@@ -1,0 +1,150 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "threaten",
+            "pos": "verb",
+            "ts": "θretn",
+            "tr": [
+                {
+                    "text": "угрожать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "грозить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пригрозить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "ставить под угрозу",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "поставить под угрозу",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "представлять угрозу",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "создавать угрозы",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "endanger"
+                        },
+                        {
+                            "text": "face"
+                        },
+                        {
+                            "text": "jeopardize"
+                        },
+                        {
+                            "text": "pose a threat"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "threaten violence",
+                            "tr": [
+                                {
+                                    "text": "угрожать насилием"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пугать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "запугивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "запугать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "frighten"
+                        },
+                        {
+                            "text": "intimidate"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "threaten people",
+                            "tr": [
+                                {
+                                    "text": "пугать людей"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "грозиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "bluster"
+                        }
+                    ]
+                },
+                {
+                    "text": "погрозить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "wag"
+                        }
+                    ]
+                },
+                {
+                    "text": "замахнуться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "blow"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "threaten",
+            "pos": "adverb",
+            "ts": "θretn",
+            "tr": [
+                {
+                    "text": "под угрозу",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "endanger"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

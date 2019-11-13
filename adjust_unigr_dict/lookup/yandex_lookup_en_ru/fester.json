@@ -1,0 +1,116 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fester",
+            "pos": "verb",
+            "ts": "ˈfestə",
+            "tr": [
+                {
+                    "text": "гноиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "нарывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "загноиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "нагноиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "suppurate"
+                        }
+                    ]
+                },
+                {
+                    "text": "мучить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "терзать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "torment"
+                        },
+                        {
+                            "text": "bedevil"
+                        }
+                    ]
+                },
+                {
+                    "text": "тлеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "гнить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "smolder"
+                        },
+                        {
+                            "text": "rot"
+                        }
+                    ]
+                },
+                {
+                    "text": "усугубляться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "aggravate"
+                        }
+                    ]
+                },
+                {
+                    "text": "разлагаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "decay"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fester",
+            "pos": "noun",
+            "ts": "ˈfestə",
+            "tr": [
+                {
+                    "text": "нагноение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "suppuration"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

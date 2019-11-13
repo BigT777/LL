@@ -1,0 +1,245 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "back",
+            "pos": "noun",
+            "ts": "bæk",
+            "tr": [
+                {
+                    "text": "спина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "спинка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "задняя часть",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "behind"
+                        },
+                        {
+                            "text": "backrest"
+                        },
+                        {
+                            "text": "rear"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "green back",
+                            "tr": [
+                                {
+                                    "text": "зеленая спинка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "чан",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "большой чан",
+                            "pos": "noun"
+                        }
+                    ]
+                },
+                {
+                    "text": "возврат",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "back",
+            "pos": "adjective",
+            "ts": "bæk",
+            "tr": [
+                {
+                    "text": "задний",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "обратный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "тыльный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rear"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "back panel",
+                            "tr": [
+                                {
+                                    "text": "задняя панель"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "own back yard",
+                            "tr": [
+                                {
+                                    "text": "собственный задний двор"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "back right corner",
+                            "tr": [
+                                {
+                                    "text": "задний правый угол"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "back pair of legs",
+                            "tr": [
+                                {
+                                    "text": "задняя пара ног"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "back part of neck",
+                            "tr": [
+                                {
+                                    "text": "задняя часть шеи"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "back pressure valve",
+                            "tr": [
+                                {
+                                    "text": "обратный клапан"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "way back home",
+                            "tr": [
+                                {
+                                    "text": "обратный путь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "резервный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "backup"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "back up",
+                            "tr": [
+                                {
+                                    "text": "резервная копия"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "back",
+            "pos": "adverb",
+            "ts": "bæk",
+            "tr": [
+                {
+                    "text": "назад",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "обратно",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "вспять",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "взад",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ago"
+                        },
+                        {
+                            "text": "back to"
+                        },
+                        {
+                            "text": "backwards"
+                        }
+                    ]
+                },
+                {
+                    "text": "сзади",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "behind"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "back",
+            "pos": "verb",
+            "ts": "bæk",
+            "tr": [
+                {
+                    "text": "возвращать",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "отступить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "отступать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "step"
+                        },
+                        {
+                            "text": "retreat"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

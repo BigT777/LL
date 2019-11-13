@@ -1,0 +1,102 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "belch",
+            "pos": "verb",
+            "ts": "belʧ",
+            "tr": [
+                {
+                    "text": "изрыгать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "извергать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "изрыгнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "извергнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spew"
+                        },
+                        {
+                            "text": "disgorge"
+                        }
+                    ]
+                },
+                {
+                    "text": "рыгать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "рыгнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отрыгивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отрыгнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "икнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "burp"
+                        },
+                        {
+                            "text": "regurgitate"
+                        },
+                        {
+                            "text": "hiccup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "belch",
+            "pos": "noun",
+            "ts": "belʧ",
+            "tr": [
+                {
+                    "text": "отрыжка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "eructation"
+                        }
+                    ]
+                },
+                {
+                    "text": "белч",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        }
+    ]
+}

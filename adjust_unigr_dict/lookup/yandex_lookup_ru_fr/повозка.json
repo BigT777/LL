@@ -1,0 +1,74 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "повозка",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "charrette",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "chariot",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "char",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "телега"
+                        }
+                    ]
+                },
+                {
+                    "text": "wagon",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "véhicule",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "voiture",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "вагонетка"
+                        },
+                        {
+                            "text": "тележка"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "конная повозка",
+                            "tr": [
+                                {
+                                    "text": "voiture à cheval"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "pousse-pousse",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "unfreeze",
+            "pos": "verb",
+            "ts": "ʌnˈfriːz",
+            "fl": "unfroze, unfrozen",
+            "tr": [
+                {
+                    "text": "размораживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разморозить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "thaw"
+                        }
+                    ]
+                },
+                {
+                    "text": "разблокировать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "unlock"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

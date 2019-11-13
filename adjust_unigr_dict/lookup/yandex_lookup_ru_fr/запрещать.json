@@ -1,0 +1,109 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "запрещать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "interdire",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "prohiber",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "empêcher",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "proscrire",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "défendre",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "bloquer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "censurer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "запретить"
+                        },
+                        {
+                            "text": "исключать"
+                        },
+                        {
+                            "text": "порицать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "запрещать ношение",
+                            "tr": [
+                                {
+                                    "text": "interdire le port"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "refuser",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "nier",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "запретить"
+                        },
+                        {
+                            "text": "отрицать"
+                        }
+                    ]
+                },
+                {
+                    "text": "restreindre",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "inhiber",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ограничивать"
+                        }
+                    ]
+                },
+                {
+                    "text": "désactiver",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "запретить"
+                        }
+                    ]
+                },
+                {
+                    "text": "frapper d'interdiction",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

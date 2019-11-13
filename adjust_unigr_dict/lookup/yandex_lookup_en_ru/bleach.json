@@ -1,0 +1,151 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "bleach",
+            "pos": "verb",
+            "ts": "bliːʧ",
+            "tr": [
+                {
+                    "text": "отбеливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "белить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обесцвечивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выбелить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отбелить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "whiten"
+                        },
+                        {
+                            "text": "white"
+                        },
+                        {
+                            "text": "discolor"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bleaching agent",
+                            "tr": [
+                                {
+                                    "text": "отбеливающее вещество"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bleach",
+            "pos": "noun",
+            "ts": "bliːʧ",
+            "tr": [
+                {
+                    "text": "отбеливатель",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "отбеливающее вещество",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "отбелка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bleaching agent"
+                        },
+                        {
+                            "text": "bleaching"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "household bleach",
+                            "tr": [
+                                {
+                                    "text": "бытовой отбеливатель"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отбеливание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "беление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "whitening"
+                        }
+                    ]
+                },
+                {
+                    "text": "хлорка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "хлорная известь",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "chlorine"
+                        },
+                        {
+                            "text": "chloride lime"
+                        }
+                    ]
+                },
+                {
+                    "text": "хлорсодержащий раствор",
+                    "pos": "noun"
+                },
+                {
+                    "text": "обесцвечивание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "bleaching"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

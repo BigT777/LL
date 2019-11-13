@@ -1,0 +1,67 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "вылечить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "guérir",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "лечить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "вылечить прыщи",
+                            "tr": [
+                                {
+                                    "text": "guérir l'acné"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "soigner",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "лечить"
+                        }
+                    ]
+                },
+                {
+                    "text": "réparer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "corriger",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "заживлять"
+                        },
+                        {
+                            "text": "устранить"
+                        }
+                    ]
+                },
+                {
+                    "text": "remettre sur pied",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "поднять"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

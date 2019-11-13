@@ -1,0 +1,89 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "bicycle",
+            "pos": "noun",
+            "ts": "ˈbaɪsɪkl",
+            "tr": [
+                {
+                    "text": "велосипед",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "велотренажер",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "мотоцикл",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bike"
+                        },
+                        {
+                            "text": "motorcycle"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "mountain bicycle",
+                            "tr": [
+                                {
+                                    "text": "горный велосипед"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "бицикл",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "bicycle",
+            "pos": "adjective",
+            "ts": "ˈbaɪsɪkl",
+            "tr": [
+                {
+                    "text": "велосипедный",
+                    "pos": "adjective",
+                    "ex": [
+                        {
+                            "text": "bicycle path",
+                            "tr": [
+                                {
+                                    "text": "велосипедная дорожка"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bicycle",
+            "pos": "verb",
+            "ts": "ˈbaɪsɪkl",
+            "tr": [
+                {
+                    "text": "ездить на велосипеде",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "ride a bike"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

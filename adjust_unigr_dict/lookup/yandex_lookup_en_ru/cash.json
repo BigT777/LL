@@ -1,0 +1,238 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cash",
+            "pos": "noun",
+            "ts": "kæʃ",
+            "tr": [
+                {
+                    "text": "наличные деньги",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "денежные средства",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "наличность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "наличные средства",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cash money"
+                        },
+                        {
+                            "text": "money"
+                        },
+                        {
+                            "text": "cashflow"
+                        },
+                        {
+                            "text": "cash flow"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cash deficit",
+                            "tr": [
+                                {
+                                    "text": "дефицит наличности"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "наличный расчет",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "cash payment"
+                        }
+                    ]
+                },
+                {
+                    "text": "деньги",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "num": "мн",
+                    "syn": [
+                        {
+                            "text": "нал",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "money"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ready cash",
+                            "tr": [
+                                {
+                                    "text": "наличные деньги"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "касса",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "ex": [
+                        {
+                            "text": "operating cash",
+                            "tr": [
+                                {
+                                    "text": "операционная касса"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "кэш",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "cache"
+                        }
+                    ]
+                },
+                {
+                    "text": "кассовая наличность",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "cash balance"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cash",
+            "pos": "adjective",
+            "ts": "kæʃ",
+            "tr": [
+                {
+                    "text": "денежный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "кассовый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "money"
+                        },
+                        {
+                            "text": "cashier"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cash income",
+                            "tr": [
+                                {
+                                    "text": "денежный доход"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "large cash prize",
+                            "tr": [
+                                {
+                                    "text": "крупный денежный приз"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "free cash flow generation",
+                            "tr": [
+                                {
+                                    "text": "свободный денежный поток"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cash register receipt",
+                            "tr": [
+                                {
+                                    "text": "кассовый чек"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "наличными",
+                    "pos": "adjective"
+                }
+            ]
+        },
+        {
+            "text": "cash",
+            "pos": "verb",
+            "ts": "kæʃ",
+            "tr": [
+                {
+                    "text": "обналичить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "обналичивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "encash"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cashed dividend",
+                            "tr": [
+                                {
+                                    "text": "обналиченный дивиденд"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "получать наличными",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "cash",
+            "pos": "adverb",
+            "ts": "kæʃ",
+            "tr": [
+                {
+                    "text": "за наличные",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

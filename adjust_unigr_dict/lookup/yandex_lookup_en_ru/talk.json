@@ -1,0 +1,275 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "talk",
+            "pos": "verb",
+            "ts": "tɔːk",
+            "tr": [
+                {
+                    "text": "говорить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разговаривать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поговорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "беседовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "заговорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "побеседовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "рассуждать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "переговорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поговаривать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "say"
+                        },
+                        {
+                            "text": "speak"
+                        },
+                        {
+                            "text": "chat"
+                        },
+                        {
+                            "text": "argue"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "talk for hours",
+                            "tr": [
+                                {
+                                    "text": "говорить часами"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "talk loudly",
+                            "tr": [
+                                {
+                                    "text": "громко разговаривать"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "talk alone",
+                            "tr": [
+                                {
+                                    "text": "поговорить наедине"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "talk to people",
+                            "tr": [
+                                {
+                                    "text": "беседовать с людьми"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "talk again",
+                            "tr": [
+                                {
+                                    "text": "заговорить снова"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "talk sensibly",
+                            "tr": [
+                                {
+                                    "text": "рассуждать здраво"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "болтать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "chat"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "talk away",
+                            "tr": [
+                                {
+                                    "text": "болтать без умолку"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обсуждать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обсудить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "discuss"
+                        }
+                    ]
+                },
+                {
+                    "text": "общаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "communicate"
+                        }
+                    ]
+                },
+                {
+                    "text": "толковать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "потолковать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "interpret"
+                        },
+                        {
+                            "text": "have a talk"
+                        }
+                    ]
+                },
+                {
+                    "text": "разговориться",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "talk",
+            "pos": "noun",
+            "ts": "tɔːk",
+            "tr": [
+                {
+                    "text": "разговор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "беседа",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "речь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "conversation"
+                        },
+                        {
+                            "text": "speech"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "straight talk",
+                            "tr": [
+                                {
+                                    "text": "откровенный разговор"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "common talk",
+                            "tr": [
+                                {
+                                    "text": "обычная речь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "общение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "dialogue"
+                        }
+                    ]
+                },
+                {
+                    "text": "болтовня",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "chatter"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "idle talk",
+                            "tr": [
+                                {
+                                    "text": "пустая болтовня"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

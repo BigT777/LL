@@ -1,0 +1,101 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "allergy",
+            "pos": "noun",
+            "ts": "ˈæləʤɪ",
+            "tr": [
+                {
+                    "text": "аллергия",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "аллергик",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "аллергическая реакция",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "пищевая аллергия",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "allergic individual"
+                        },
+                        {
+                            "text": "allergic reaction"
+                        },
+                        {
+                            "text": "food allergy"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "food allergy",
+                            "tr": [
+                                {
+                                    "text": "пищевая аллергия"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "drug allergy",
+                            "tr": [
+                                {
+                                    "text": "лекарственная аллергия"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "аллергология",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "allergology"
+                        }
+                    ]
+                },
+                {
+                    "text": "аллергические заболевания",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "allergy",
+            "pos": "adjective",
+            "ts": "ˈæləʤɪ",
+            "tr": [
+                {
+                    "text": "аллергический",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "allergenic"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "allergy test",
+                            "tr": [
+                                {
+                                    "text": "аллергическая проба"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

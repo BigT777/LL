@@ -1,0 +1,96 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "пересылка",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "expédition",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "envoi",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "réexpédition",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "отправка"
+                        },
+                        {
+                            "text": "переотправка"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "быстрая пересылка",
+                            "tr": [
+                                {
+                                    "text": "expédition rapide"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "пересылка почты",
+                            "tr": [
+                                {
+                                    "text": "réexpédition du courrier"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "transfert",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "acheminement",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "transport",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "remise",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "передача"
+                        },
+                        {
+                            "text": "доставка"
+                        }
+                    ]
+                },
+                {
+                    "text": "swapping",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "обмен"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

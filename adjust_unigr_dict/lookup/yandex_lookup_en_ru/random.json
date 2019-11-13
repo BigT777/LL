@@ -1,0 +1,251 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "random",
+            "pos": "adjective",
+            "ts": "ˈrændəm",
+            "tr": [
+                {
+                    "text": "случайный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "произвольный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "выборочный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "accidental"
+                        },
+                        {
+                            "text": "arbitrary"
+                        },
+                        {
+                            "text": "selective"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "random walk",
+                            "tr": [
+                                {
+                                    "text": "случайное блуждание"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "discrete random variable",
+                            "tr": [
+                                {
+                                    "text": "дискретная случайная величина"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "simple random sampling",
+                            "tr": [
+                                {
+                                    "text": "простая случайная выборка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "stationary random process",
+                            "tr": [
+                                {
+                                    "text": "стационарный случайный процесс"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "random phase approximation",
+                            "tr": [
+                                {
+                                    "text": "приближение случайных фаз"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "true random number generator",
+                            "tr": [
+                                {
+                                    "text": "генератор случайных чисел"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "random matrix theory",
+                            "tr": [
+                                {
+                                    "text": "теория случайных матриц"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "random access memory",
+                            "tr": [
+                                {
+                                    "text": "память с произвольным доступом"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "random check",
+                            "tr": [
+                                {
+                                    "text": "выборочная проверка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "беспорядочный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "хаотичный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "хаотический",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "бессистемный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "chaotic"
+                        },
+                        {
+                            "text": "unsystematic"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "random thoughts",
+                            "tr": [
+                                {
+                                    "text": "беспорядочные мысли"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "random",
+            "pos": "adverb",
+            "ts": "ˈrændəm",
+            "tr": [
+                {
+                    "text": "произвольно",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "наугад",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "наудачу",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "at random"
+                        }
+                    ]
+                },
+                {
+                    "text": "случайно",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "by chance"
+                        }
+                    ]
+                },
+                {
+                    "text": "беспорядочно",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "disorderly"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "random",
+            "pos": "noun",
+            "ts": "ˈrændəm",
+            "tr": [
+                {
+                    "text": "случайность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "accidental"
+                        }
+                    ]
+                },
+                {
+                    "text": "случайный выбор",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "random selection"
+                        }
+                    ]
+                },
+                {
+                    "text": "случайное число",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "random number"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "random",
+            "pos": "participle",
+            "ts": "ˈrændəm",
+            "tr": [
+                {
+                    "text": "произвольно выбранный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "arbitrary"
+                        }
+                    ]
+                },
+                {
+                    "text": "рандомизированный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "randomized"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

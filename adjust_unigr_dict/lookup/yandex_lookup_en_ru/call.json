@@ -1,0 +1,385 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "call",
+            "pos": "verb",
+            "ts": "kɔːl",
+            "tr": [
+                {
+                    "text": "призывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "призвать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "urge"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "call to order",
+                            "tr": [
+                                {
+                                    "text": "призывать к порядку"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "call on governments",
+                            "tr": [
+                                {
+                                    "text": "призвать правительства"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "звонить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "позвонить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "phone"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "call the cops",
+                            "tr": [
+                                {
+                                    "text": "звонить копам"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "call tomorrow",
+                            "tr": [
+                                {
+                                    "text": "позвонить завтра"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вызывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вызвать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cause"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "called party",
+                            "tr": [
+                                {
+                                    "text": "вызываемый абонент"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "call a doctor",
+                            "tr": [
+                                {
+                                    "text": "вызвать врача"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "требовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "require"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "call for attention",
+                            "tr": [
+                                {
+                                    "text": "требовать внимания"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "называть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "называться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "назвать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "звать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обратиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "именовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "name"
+                        },
+                        {
+                            "text": "title"
+                        },
+                        {
+                            "text": "refer"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "call a spade",
+                            "tr": [
+                                {
+                                    "text": "называть вещи"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "call the album",
+                            "tr": [
+                                {
+                                    "text": "назвать альбом"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "позвать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "invite"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "call the priest",
+                            "tr": [
+                                {
+                                    "text": "позвать священника"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "созвать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "convene"
+                        }
+                    ]
+                },
+                {
+                    "text": "уравнять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "equal"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "call",
+            "pos": "noun",
+            "ts": "kɔːl",
+            "tr": [
+                {
+                    "text": "вызов",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "призыв",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "зов",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "звонок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "calling"
+                        },
+                        {
+                            "text": "appeal"
+                        },
+                        {
+                            "text": "ring"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "outgoing call",
+                            "tr": [
+                                {
+                                    "text": "исходящий вызов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "automatic call distribution",
+                            "tr": [
+                                {
+                                    "text": "автоматическое распределение вызовов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "call management system",
+                            "tr": [
+                                {
+                                    "text": "система управления вызовами"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "function call operator",
+                            "tr": [
+                                {
+                                    "text": "оператор вызова функции"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "answer an incoming call",
+                            "tr": [
+                                {
+                                    "text": "отвечать на вызовы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "call for social justice",
+                            "tr": [
+                                {
+                                    "text": "призыв к социальной справедливости"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "call of nature",
+                            "tr": [
+                                {
+                                    "text": "зов природы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "long distance call",
+                            "tr": [
+                                {
+                                    "text": "междугородний звонок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "anonymous phone call",
+                            "tr": [
+                                {
+                                    "text": "анонимный телефонный звонок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "international telephone calls",
+                            "tr": [
+                                {
+                                    "text": "международные телефонные звонки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "разговор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "talk"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "local call",
+                            "tr": [
+                                {
+                                    "text": "местный телефонный разговор"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "колл",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        }
+    ]
+}

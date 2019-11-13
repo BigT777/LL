@@ -1,0 +1,76 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "расторгнуть",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "résilier",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "dissoudre",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "dénoncer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "annuler",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "résoudre",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "расторгать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "расторгнуть договор",
+                            "tr": [
+                                {
+                                    "text": "résilier le contrat"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "rompre",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "briser",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "прервать"
+                        },
+                        {
+                            "text": "разорвать"
+                        }
+                    ]
+                },
+                {
+                    "text": "abroger",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "расторгать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

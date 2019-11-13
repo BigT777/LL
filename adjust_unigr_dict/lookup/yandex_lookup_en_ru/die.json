@@ -1,0 +1,214 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "die",
+            "pos": "verb",
+            "ts": "daɪ",
+            "tr": [
+                {
+                    "text": "умереть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "умирать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "скончаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "погибнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "помереть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сдохнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "помирать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подохнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подыхать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dead"
+                        },
+                        {
+                            "text": "pass away"
+                        },
+                        {
+                            "text": "perish"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "die of thirst",
+                            "tr": [
+                                {
+                                    "text": "умереть от жажды"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "die slowly",
+                            "tr": [
+                                {
+                                    "text": "умирать медленно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "погибать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "гибнуть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "perish"
+                        }
+                    ]
+                },
+                {
+                    "text": "угасать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "угаснуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "затихнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fade"
+                        },
+                        {
+                            "text": "quiet"
+                        }
+                    ]
+                },
+                {
+                    "text": "отмирать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отмереть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "die off"
+                        }
+                    ]
+                },
+                {
+                    "text": "вымирать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "die out"
+                        }
+                    ]
+                },
+                {
+                    "text": "пасть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "fall down"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "die",
+            "pos": "noun",
+            "ts": "daɪ",
+            "tr": [
+                {
+                    "text": "смерть",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "death"
+                        }
+                    ]
+                },
+                {
+                    "text": "штамп",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "stamp"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cutting die",
+                            "tr": [
+                                {
+                                    "text": "вырубной штамп"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "плашка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "plate"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

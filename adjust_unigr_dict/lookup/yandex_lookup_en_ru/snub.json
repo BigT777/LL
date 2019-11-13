@@ -1,0 +1,119 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "snub",
+            "pos": "adjective",
+            "ts": "snʌb",
+            "tr": [
+                {
+                    "text": "курносый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "вздернутый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "retrousse"
+                        },
+                        {
+                            "text": "upturned"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "snub nose",
+                            "tr": [
+                                {
+                                    "text": "вздернутый нос"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "snub",
+            "pos": "verb",
+            "ts": "snʌb",
+            "tr": [
+                {
+                    "text": "осадить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "осаживать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "besiege"
+                        },
+                        {
+                            "text": "upset"
+                        }
+                    ]
+                },
+                {
+                    "text": "пренебречь",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "neglect"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "snub",
+            "pos": "noun",
+            "ts": "snʌb",
+            "tr": [
+                {
+                    "text": "пренебрежение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "disdain"
+                        }
+                    ]
+                },
+                {
+                    "text": "оскорбление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "insulting"
+                        }
+                    ]
+                },
+                {
+                    "text": "щелчок",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "выговор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "reprimand"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

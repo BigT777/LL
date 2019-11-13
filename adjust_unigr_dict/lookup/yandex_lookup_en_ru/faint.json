@@ -1,0 +1,240 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "faint",
+            "pos": "adjective",
+            "ts": "feɪnt",
+            "tr": [
+                {
+                    "text": "слабый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "слабенький",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "weak"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "faint light",
+                            "tr": [
+                                {
+                                    "text": "слабый свет"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тусклый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "бледный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "неяркий",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dim"
+                        },
+                        {
+                            "text": "pale"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "faint star",
+                            "tr": [
+                                {
+                                    "text": "тусклая звезда"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тихий",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "quiet"
+                        }
+                    ]
+                },
+                {
+                    "text": "неясный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "нечеткий",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "неотчетливый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "vague"
+                        },
+                        {
+                            "text": "indistinct"
+                        }
+                    ]
+                },
+                {
+                    "text": "робкий",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "timid"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "faint",
+            "pos": "noun",
+            "ts": "feɪnt",
+            "tr": [
+                {
+                    "text": "обморок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "потеря сознания",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fainting"
+                        },
+                        {
+                            "text": "loss of consciousness"
+                        }
+                    ]
+                },
+                {
+                    "text": "слабость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "weakness"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "feeling faint",
+                            "tr": [
+                                {
+                                    "text": "ощущение слабости"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "faint",
+            "pos": "verb",
+            "ts": "feɪnt",
+            "tr": [
+                {
+                    "text": "падать в обморок",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "потерять сознание",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "упасть в обморок",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "терять сознание",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "swoon"
+                        },
+                        {
+                            "text": "lose consciousness"
+                        },
+                        {
+                            "text": "collapse"
+                        }
+                    ]
+                },
+                {
+                    "text": "слабеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ослабеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "изнемочь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "ослабевать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "weaken"
+                        },
+                        {
+                            "text": "weak"
+                        },
+                        {
+                            "text": "succumb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "faint",
+            "pos": "adverb",
+            "ts": "feɪnt",
+            "tr": [
+                {
+                    "text": "слабо",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "weakly"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

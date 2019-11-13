@@ -1,0 +1,134 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "babble",
+            "pos": "verb",
+            "ts": "bæbl",
+            "tr": [
+                {
+                    "text": "лепетать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "болтать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "трепаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "prattle"
+                        },
+                        {
+                            "text": "chatter"
+                        }
+                    ]
+                },
+                {
+                    "text": "бормотать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "журчать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пролепетать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mutter"
+                        },
+                        {
+                            "text": "murmur"
+                        }
+                    ]
+                },
+                {
+                    "text": "проболтаться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "talk"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "babble",
+            "pos": "noun",
+            "ts": "bæbl",
+            "tr": [
+                {
+                    "text": "лепет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "бормотание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "журчание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "babbling"
+                        },
+                        {
+                            "text": "murmur"
+                        }
+                    ]
+                },
+                {
+                    "text": "болтовня",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "chatter"
+                        }
+                    ]
+                },
+                {
+                    "text": "гомон",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "шум",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hubbub"
+                        },
+                        {
+                            "text": "hum"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

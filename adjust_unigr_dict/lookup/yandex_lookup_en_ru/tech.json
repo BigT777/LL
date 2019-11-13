@@ -1,0 +1,97 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "tech",
+            "pos": "noun",
+            "ts": "tek",
+            "tr": [
+                {
+                    "text": "технология",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "техника",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "техник",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "technology"
+                        },
+                        {
+                            "text": "technician"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "low tech",
+                            "tr": [
+                                {
+                                    "text": "низкая технология"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "new tech",
+                            "tr": [
+                                {
+                                    "text": "новый техник"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "tech",
+            "pos": "adjective",
+            "ts": "tek",
+            "tr": [
+                {
+                    "text": "технический",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "технологический",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "технологичный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "technical"
+                        },
+                        {
+                            "text": "technology"
+                        },
+                        {
+                            "text": "technological"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tech support",
+                            "tr": [
+                                {
+                                    "text": "техническая поддержка"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

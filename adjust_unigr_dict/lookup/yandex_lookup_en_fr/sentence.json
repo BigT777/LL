@@ -1,0 +1,58 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sentence",
+            "pos": "noun",
+            "ts": "ˈsentəns",
+            "tr": [
+                {
+                    "text": "phrase",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "phrase"
+                        }
+                    ]
+                },
+                {
+                    "text": "condamnation",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "condamné",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "condemn"
+                        },
+                        {
+                            "text": "convict"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sentence",
+            "pos": "verb",
+            "ts": "ˈsentəns",
+            "tr": [
+                {
+                    "text": "condamner",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "convict"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

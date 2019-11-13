@@ -1,0 +1,93 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "bless",
+            "pos": "verb",
+            "ts": "bles",
+            "fl": "blessed/blest, blessed/blest",
+            "tr": [
+                {
+                    "text": "благословлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "благословить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "осенять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "beatify"
+                        },
+                        {
+                            "text": "overshadow"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bless the lord",
+                            "tr": [
+                                {
+                                    "text": "благословлять господа"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "bless god",
+                            "tr": [
+                                {
+                                    "text": "благословить бога"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "освятить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "освящать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sanctify"
+                        }
+                    ]
+                },
+                {
+                    "text": "одарить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "осчастливить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bestow"
+                        },
+                        {
+                            "text": "happy"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

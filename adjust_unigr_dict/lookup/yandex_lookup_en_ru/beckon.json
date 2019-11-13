@@ -1,0 +1,69 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "beckon",
+            "pos": "verb",
+            "ts": "ˈbekən",
+            "tr": [
+                {
+                    "text": "манить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "поманить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lure"
+                        }
+                    ]
+                },
+                {
+                    "text": "кивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "nod"
+                        }
+                    ]
+                },
+                {
+                    "text": "подозвать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "звать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подзывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подманить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "call"
+                        },
+                        {
+                            "text": "entice"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

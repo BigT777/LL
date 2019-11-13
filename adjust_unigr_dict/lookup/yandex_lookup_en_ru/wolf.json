@@ -1,0 +1,103 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "wolf",
+            "pos": "noun",
+            "ts": "wʊlf",
+            "tr": [
+                {
+                    "text": "волк",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "волчонок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "волчица",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "volf"
+                        },
+                        {
+                            "text": "cub"
+                        },
+                        {
+                            "text": "female wolf"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "big gray wolf",
+                            "tr": [
+                                {
+                                    "text": "большой серый волк"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "бабник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "womanizer"
+                        }
+                    ]
+                },
+                {
+                    "text": "Вулф",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "Вульф",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "Вольф",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "wolf",
+            "pos": "pronoun",
+            "ts": "wʊlf",
+            "tr": [
+                {
+                    "text": "волчий",
+                    "pos": "pronoun",
+                    "mean": [
+                        {
+                            "text": "lupine"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "wolf howl",
+                            "tr": [
+                                {
+                                    "text": "волчий вой"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

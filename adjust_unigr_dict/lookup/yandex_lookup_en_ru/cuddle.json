@@ -1,0 +1,133 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cuddle",
+            "pos": "verb",
+            "ts": "kʌdl",
+            "tr": [
+                {
+                    "text": "обнимать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "прижимать к себе",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "обнять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hug"
+                        }
+                    ]
+                },
+                {
+                    "text": "прижимать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "прижать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "press"
+                        }
+                    ]
+                },
+                {
+                    "text": "прижаться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "прильнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "snuggle"
+                        },
+                        {
+                            "text": "cling"
+                        }
+                    ]
+                },
+                {
+                    "text": "свернуться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "свернуться калачиком",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "curl up"
+                        }
+                    ]
+                },
+                {
+                    "text": "ласкать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "caress"
+                        }
+                    ]
+                },
+                {
+                    "text": "баюкать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "cradle"
+                        }
+                    ]
+                },
+                {
+                    "text": "обняться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "embrace"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cuddle",
+            "pos": "noun",
+            "ts": "kʌdl",
+            "tr": [
+                {
+                    "text": "объятие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "embrace"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

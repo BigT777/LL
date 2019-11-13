@@ -1,0 +1,94 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "daub",
+            "pos": "noun",
+            "ts": "dɔːb",
+            "tr": [
+                {
+                    "text": "мазня",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "мазок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "scribble"
+                        },
+                        {
+                            "text": "smear"
+                        }
+                    ]
+                },
+                {
+                    "text": "штукатурка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "plaster"
+                        }
+                    ]
+                },
+                {
+                    "text": "подмалевок",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "daub",
+            "pos": "verb",
+            "ts": "dɔːb",
+            "tr": [
+                {
+                    "text": "мазать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "малевать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "smear"
+                        },
+                        {
+                            "text": "paint"
+                        }
+                    ]
+                },
+                {
+                    "text": "обмазывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обмазать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "smear"
+                        },
+                        {
+                            "text": "coat"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

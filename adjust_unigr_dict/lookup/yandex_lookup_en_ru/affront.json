@@ -1,0 +1,111 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "affront",
+            "pos": "noun",
+            "ts": "əˈfrʌnt",
+            "tr": [
+                {
+                    "text": "оскорбление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "унижение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "обида",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "insult"
+                        },
+                        {
+                            "text": "humiliation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "public affront",
+                            "tr": [
+                                {
+                                    "text": "публичное оскорбление"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "personal affront",
+                            "tr": [
+                                {
+                                    "text": "личная обида"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "афронт",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "публичное оскорбление",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "public insult"
+                        }
+                    ]
+                },
+                {
+                    "text": "поругание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "reproach"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "affront",
+            "pos": "verb",
+            "ts": "əˈfrʌnt",
+            "tr": [
+                {
+                    "text": "оскорблять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "оскорбить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обидеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "insult"
+                        },
+                        {
+                            "text": "offend"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

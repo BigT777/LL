@@ -1,0 +1,61 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "puke",
+            "pos": "verb",
+            "ts": "pjuːk",
+            "tr": [
+                {
+                    "text": "блевать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "рвать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "тошнить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "vomit"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "puke",
+            "pos": "noun",
+            "ts": "pjuːk",
+            "tr": [
+                {
+                    "text": "рвота",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "блевотина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "vomiting"
+                        },
+                        {
+                            "text": "vomit"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

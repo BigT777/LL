@@ -1,0 +1,242 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "upgrade",
+            "pos": "verb",
+            "ts": "ˈʌpgreɪd",
+            "tr": [
+                {
+                    "text": "модернизировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "совершенствовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "повысить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "повышать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "усовершенствовать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "улучшить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "модернизироваться",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "улучшать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "modernize"
+                        },
+                        {
+                            "text": "improve"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "upgraded version",
+                            "tr": [
+                                {
+                                    "text": "усовершенствованная версия"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обновить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "обновлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обновляться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обновиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "модифицировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "update"
+                        },
+                        {
+                            "text": "renew"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "upgrade",
+            "pos": "noun",
+            "ts": "ˈʌpgreɪd",
+            "tr": [
+                {
+                    "text": "усовершенствование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "улучшение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "повышение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "совершенствование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "improvement"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "significant upgrade",
+                            "tr": [
+                                {
+                                    "text": "значительное усовершенствование"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "status upgrade",
+                            "tr": [
+                                {
+                                    "text": "повышение статуса"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "подъем",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "lifting"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "time for an upgrade",
+                            "tr": [
+                                {
+                                    "text": "время для подъема"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обновление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "апгрейд",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "update"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "operating system upgrade",
+                            "tr": [
+                                {
+                                    "text": "обновление операционной системы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "модернизация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "modernization"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "upgrade of production facilities",
+                            "tr": [
+                                {
+                                    "text": "модернизация производства"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "рост",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "increase"
+                        }
+                    ]
+                },
+                {
+                    "text": "модификация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "updating"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

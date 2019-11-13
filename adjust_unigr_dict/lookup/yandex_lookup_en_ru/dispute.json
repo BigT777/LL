@@ -1,0 +1,268 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "dispute",
+            "pos": "noun",
+            "ts": "dɪsˈpjuːt",
+            "tr": [
+                {
+                    "text": "спор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "диспут",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "дискуссия",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "полемика",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "разногласия",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "конфликт",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "спорный вопрос",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "controversy"
+                        },
+                        {
+                            "text": "debate"
+                        },
+                        {
+                            "text": "conflict"
+                        },
+                        {
+                            "text": "issue"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "scientific dispute",
+                            "tr": [
+                                {
+                                    "text": "научный диспут"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fierce dispute",
+                            "tr": [
+                                {
+                                    "text": "острая дискуссия"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "public dispute",
+                            "tr": [
+                                {
+                                    "text": "публичная полемика"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "methods of resolving disputes",
+                            "tr": [
+                                {
+                                    "text": "методы разрешения конфликтов"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ссора",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "quarrel"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "family dispute",
+                            "tr": [
+                                {
+                                    "text": "семейная ссора"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "спорная ситуация",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "disputable situation"
+                        }
+                    ]
+                },
+                {
+                    "text": "тяжба",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "litigation"
+                        }
+                    ]
+                },
+                {
+                    "text": "трудовой конфликт",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "labour dispute"
+                        }
+                    ]
+                },
+                {
+                    "text": "пререкания",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "squabble"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dispute",
+            "pos": "verb",
+            "ts": "dɪsˈpjuːt",
+            "tr": [
+                {
+                    "text": "оспаривать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "оспорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "challenge"
+                        }
+                    ]
+                },
+                {
+                    "text": "спорить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "дискутировать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поспорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "препираться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "debate"
+                        },
+                        {
+                            "text": "argue"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "disputing party",
+                            "tr": [
+                                {
+                                    "text": "спорящая сторона"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dispute",
+            "pos": "adjective",
+            "ts": "dɪsˈpjuːt",
+            "tr": [
+                {
+                    "text": "спорный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "конфликтный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "controversial"
+                        },
+                        {
+                            "text": "conflict"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "disputed territory",
+                            "tr": [
+                                {
+                                    "text": "спорная территория"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dispute",
+            "pos": "parenthetic",
+            "ts": "dɪsˈpjuːt",
+            "tr": [
+                {
+                    "text": "бесспорно",
+                    "pos": "parenthetic",
+                    "mean": [
+                        {
+                            "text": "certainly"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

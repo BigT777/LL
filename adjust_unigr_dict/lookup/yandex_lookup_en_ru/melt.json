@@ -1,0 +1,285 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "melt",
+            "pos": "noun",
+            "ts": "melt",
+            "tr": [
+                {
+                    "text": "расплав",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "molten"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "silicate melt",
+                            "tr": [
+                                {
+                                    "text": "силикатный расплав"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "плавление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "плавка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "выплавка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "таяние",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "оплавление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "melting"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "heat of melting",
+                            "tr": [
+                                {
+                                    "text": "теплота плавления"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "snow melt",
+                            "tr": [
+                                {
+                                    "text": "таяние снега"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "снеготаяние",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "snowmelt"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "melt",
+            "pos": "verb",
+            "ts": "melt",
+            "tr": [
+                {
+                    "text": "плавить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "растапливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "расплавить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "растопить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "расплавлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "переплавлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "переплавить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "smelt"
+                        },
+                        {
+                            "text": "kindle"
+                        },
+                        {
+                            "text": "melt down"
+                        },
+                        {
+                            "text": "remelt"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "melt metal",
+                            "tr": [
+                                {
+                                    "text": "плавить металл"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "melted butter",
+                            "tr": [
+                                {
+                                    "text": "расплавленное масло"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "melt ice",
+                            "tr": [
+                                {
+                                    "text": "растопить лед"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "таять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "растаять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оттаять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подтаять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оттаивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "thaw"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "melt away",
+                            "tr": [
+                                {
+                                    "text": "таять вдали"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "умиляться",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "расплавиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "оплавить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оплавлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fuse"
+                        }
+                    ]
+                },
+                {
+                    "text": "раствориться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "dissolve"
+                        }
+                    ]
+                },
+                {
+                    "text": "стаять",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "растворяться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "fade"
+                        }
+                    ]
+                },
+                {
+                    "text": "проплавить",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "выплавить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "smelt"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

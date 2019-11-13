@@ -1,0 +1,200 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "quarrel",
+            "pos": "noun",
+            "ts": "ˈkwɒrəl",
+            "tr": [
+                {
+                    "text": "ссора",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "раздор",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "распря",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "размолвка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "strife"
+                        },
+                        {
+                            "text": "discord"
+                        },
+                        {
+                            "text": "spat"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "family quarrel",
+                            "tr": [
+                                {
+                                    "text": "семейная ссора"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "internal quarrels",
+                            "tr": [
+                                {
+                                    "text": "внутренние раздоры"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "спор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "dispute"
+                        }
+                    ]
+                },
+                {
+                    "text": "свара",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "склока",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "перепалка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "squabble"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "quarrel",
+            "pos": "verb",
+            "ts": "ˈkwɒrəl",
+            "tr": [
+                {
+                    "text": "ссориться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ругаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поссориться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "враждовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поругаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "рассориться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разругаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "переругаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "squabble"
+                        },
+                        {
+                            "text": "swear"
+                        },
+                        {
+                            "text": "fall out"
+                        },
+                        {
+                            "text": "enmity"
+                        },
+                        {
+                            "text": "scold"
+                        }
+                    ]
+                },
+                {
+                    "text": "спорить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "dispute"
+                        }
+                    ]
+                },
+                {
+                    "text": "поссорить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "embroil"
+                        }
+                    ]
+                },
+                {
+                    "text": "перессориться",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "браниться",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "переругиваться",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "затевать ссору",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

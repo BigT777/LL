@@ -1,0 +1,164 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "squint",
+            "pos": "verb",
+            "ts": "skwɪnt",
+            "tr": [
+                {
+                    "text": "щуриться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "жмуриться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "прищуриться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "покоситься",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "зажмуриться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "blink"
+                        }
+                    ]
+                },
+                {
+                    "text": "косить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "mow"
+                        }
+                    ]
+                },
+                {
+                    "text": "смотреть искоса",
+                    "pos": "verb"
+                },
+                {
+                    "text": "вглядываться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "peer"
+                        }
+                    ]
+                },
+                {
+                    "text": "щурить",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "squint",
+            "pos": "noun",
+            "ts": "skwɪnt",
+            "tr": [
+                {
+                    "text": "косоглазие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "прищур",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "strabismus"
+                        }
+                    ]
+                },
+                {
+                    "text": "беглый взгляд",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "glimpse"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "squint",
+            "pos": "adjective",
+            "ts": "skwɪnt",
+            "tr": [
+                {
+                    "text": "косой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "раскосый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "oblique"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "squint eyes",
+                            "tr": [
+                                {
+                                    "text": "косых глаза"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "косоглазый",
+                    "pos": "adjective"
+                }
+            ]
+        },
+        {
+            "text": "squint",
+            "pos": "adverb",
+            "ts": "skwɪnt",
+            "tr": [
+                {
+                    "text": "искоса",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "украдкой",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "askew"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

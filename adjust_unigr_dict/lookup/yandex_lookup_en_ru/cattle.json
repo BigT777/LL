@@ -1,0 +1,160 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cattle",
+            "pos": "noun",
+            "ts": "kætl",
+            "tr": [
+                {
+                    "text": "крупный рогатый скот",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "скот",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "рогатый скот",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "КРС",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "коровы",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bovine"
+                        },
+                        {
+                            "text": "livestock"
+                        },
+                        {
+                            "text": "horned cattle"
+                        },
+                        {
+                            "text": "kine"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dairy cattle",
+                            "tr": [
+                                {
+                                    "text": "молочный скот"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "скотина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "beast"
+                        }
+                    ]
+                },
+                {
+                    "text": "скотоводство",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "breeding"
+                        }
+                    ]
+                },
+                {
+                    "text": "быдло",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "populace"
+                        }
+                    ]
+                },
+                {
+                    "text": "крупный скот",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "herd"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cattle",
+            "pos": "adjective",
+            "ts": "kætl",
+            "tr": [
+                {
+                    "text": "животноводческий",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "скотоводческий",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "livestock"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cattle farm",
+                            "tr": [
+                                {
+                                    "text": "животноводческая ферма"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "скотный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "скотский",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stockyard"
+                        },
+                        {
+                            "text": "animal"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cattle market",
+                            "tr": [
+                                {
+                                    "text": "скотный рынок"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

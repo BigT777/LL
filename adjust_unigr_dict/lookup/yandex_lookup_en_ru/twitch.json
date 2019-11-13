@@ -1,0 +1,133 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "twitch",
+            "pos": "noun",
+            "ts": "twɪʧ",
+            "tr": [
+                {
+                    "text": "подергивание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "рывок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "jerk"
+                        }
+                    ]
+                },
+                {
+                    "text": "судорога",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "конвульсия",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cramp"
+                        },
+                        {
+                            "text": "convulsion"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "twitch",
+            "pos": "verb",
+            "ts": "twɪʧ",
+            "tr": [
+                {
+                    "text": "подергиваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "дернуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "дернуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "jerk"
+                        }
+                    ]
+                },
+                {
+                    "text": "дрогнуть",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "задергаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вздрогнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подрагивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подергивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tremble"
+                        },
+                        {
+                            "text": "shudder"
+                        },
+                        {
+                            "text": "quiver"
+                        },
+                        {
+                            "text": "tug"
+                        }
+                    ]
+                },
+                {
+                    "text": "дергаться",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "вздрагивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "shudder"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

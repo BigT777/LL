@@ -1,0 +1,109 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "matte",
+            "pos": "adjective",
+            "ts": "mæt",
+            "tr": [
+                {
+                    "text": "матовый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "штейновый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "matt"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "matte coating",
+                            "tr": [
+                                {
+                                    "text": "матовое покрытие"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "matte",
+            "pos": "noun",
+            "ts": "mæt",
+            "tr": [
+                {
+                    "text": "матовость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "матовое покрытие",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "матовая поверхность",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mat"
+                        },
+                        {
+                            "text": "matte finish"
+                        },
+                        {
+                            "text": "matte surface"
+                        }
+                    ]
+                },
+                {
+                    "text": "файнштейн",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "штейн",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "feinstein"
+                        },
+                        {
+                            "text": "stein"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "nickel matte",
+                            "tr": [
+                                {
+                                    "text": "никелевый штейн"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "матовое стекло",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "frosted glass"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

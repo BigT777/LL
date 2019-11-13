@@ -1,0 +1,59 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "подключить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "brancher",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "raccorder",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "подключать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "затем подключить",
+                            "tr": [
+                                {
+                                    "text": "puis brancher"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "attacher",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "rattacher",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "joindre",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "присоединить"
+                        },
+                        {
+                            "text": "подсоединить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

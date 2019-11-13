@@ -1,0 +1,81 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "взимать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "prélever",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "percevoir",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "recouvrer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "collecter",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "отчислять"
+                        },
+                        {
+                            "text": "взыскивать"
+                        },
+                        {
+                            "text": "собирать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "право взимать",
+                            "tr": [
+                                {
+                                    "text": "droit de prélever"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "взимать плату",
+                            "tr": [
+                                {
+                                    "text": "percevoir une redevance"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "lever",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "поднимать"
+                        }
+                    ]
+                },
+                {
+                    "text": "retirer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "изымать"
+                        }
+                    ]
+                },
+                {
+                    "text": "ponctionner",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

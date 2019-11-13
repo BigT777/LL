@@ -1,0 +1,161 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ferment",
+            "pos": "noun",
+            "ts": "ˈfɜːment",
+            "tr": [
+                {
+                    "text": "брожение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "закваска",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "ферментация",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fermentation"
+                        },
+                        {
+                            "text": "leaven"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "political ferment",
+                            "tr": [
+                                {
+                                    "text": "политическое брожение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "фермент",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "enzyme"
+                        }
+                    ]
+                },
+                {
+                    "text": "волнение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "excitement"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ferment",
+            "pos": "verb",
+            "ts": "ˈfɜːment",
+            "tr": [
+                {
+                    "text": "бродить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "roam"
+                        }
+                    ]
+                },
+                {
+                    "text": "заквасить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "заквашивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сбраживать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сквашивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sour"
+                        }
+                    ]
+                },
+                {
+                    "text": "забродить",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "волноваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "worry"
+                        }
+                    ]
+                },
+                {
+                    "text": "выхаживать",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "возбуждаться",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "ferment",
+            "pos": "adjective",
+            "ts": "ˈfɜːment",
+            "tr": [
+                {
+                    "text": "ферментный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "ферментативный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "enzyme"
+                        },
+                        {
+                            "text": "enzymatic"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

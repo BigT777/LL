@@ -1,0 +1,95 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cackle",
+            "pos": "verb",
+            "ts": "kækl",
+            "tr": [
+                {
+                    "text": "кудахтать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "хихикать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "гоготать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cluck"
+                        },
+                        {
+                            "text": "giggle"
+                        }
+                    ]
+                },
+                {
+                    "text": "болтать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "chatter"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cackle",
+            "pos": "noun",
+            "ts": "kækl",
+            "tr": [
+                {
+                    "text": "кудахтанье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "гоготанье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "хихиканье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "гогот",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "гоготание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cluck"
+                        },
+                        {
+                            "text": "gaggle"
+                        },
+                        {
+                            "text": "giggle"
+                        },
+                        {
+                            "text": "guffaw"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

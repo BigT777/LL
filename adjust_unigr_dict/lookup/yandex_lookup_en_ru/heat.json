@@ -1,0 +1,393 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "heat",
+            "pos": "noun",
+            "ts": "hiːt",
+            "tr": [
+                {
+                    "text": "тепло",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "теплота",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "теплоемкость",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "warmth"
+                        },
+                        {
+                            "text": "heat capacity"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "heat recovery system",
+                            "tr": [
+                                {
+                                    "text": "система регенерации тепла"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ultimate heat sink",
+                            "tr": [
+                                {
+                                    "text": "конечный поглотитель тепла"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "heat of fusion",
+                            "tr": [
+                                {
+                                    "text": "теплота плавления"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "жара",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "жар",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "зной",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hot weather"
+                        },
+                        {
+                            "text": "fever"
+                        },
+                        {
+                            "text": "sultriness"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "intense heat",
+                            "tr": [
+                                {
+                                    "text": "сильная жара"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "burning heat",
+                            "tr": [
+                                {
+                                    "text": "жгучий жар"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "afternoon heat",
+                            "tr": [
+                                {
+                                    "text": "полуденный зной"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "подогрев",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "нагрев",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "нагревание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "обогрев",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "heating"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "heated pool",
+                            "tr": [
+                                {
+                                    "text": "бассейн с подогревом"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "heat control",
+                            "tr": [
+                                {
+                                    "text": "регулирование нагрева"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "excessive heat",
+                            "tr": [
+                                {
+                                    "text": "чрезмерное нагревание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "температура",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "высокая температура",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "temperature"
+                        },
+                        {
+                            "text": "high temperature"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "heat carrier",
+                            "tr": [
+                                {
+                                    "text": "температура теплоносителя"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тепловая энергия",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "thermal energy"
+                        }
+                    ]
+                },
+                {
+                    "text": "тепловыделение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "теплоотдача",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "heat generation"
+                        },
+                        {
+                            "text": "heat transfer"
+                        }
+                    ]
+                },
+                {
+                    "text": "разгар",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "height"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "heat",
+            "pos": "verb",
+            "ts": "hiːt",
+            "tr": [
+                {
+                    "text": "нагревать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обогревать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "нагреваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "нагреть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разогреть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "warm"
+                        },
+                        {
+                            "text": "warm up"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "heat the water",
+                            "tr": [
+                                {
+                                    "text": "нагревать воду"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "heated floor",
+                            "tr": [
+                                {
+                                    "text": "обогреваемый пол"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "heated gas",
+                            "tr": [
+                                {
+                                    "text": "нагретый газ"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "жарить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "fry"
+                        }
+                    ]
+                },
+                {
+                    "text": "потопить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "sink"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "heat",
+            "pos": "adjective",
+            "ts": "hiːt",
+            "tr": [
+                {
+                    "text": "тепловой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "теплообменный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "thermal"
+                        },
+                        {
+                            "text": "heat exchanger"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "heat power plant",
+                            "tr": [
+                                {
+                                    "text": "тепловая электростанция"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "heat shock protein",
+                            "tr": [
+                                {
+                                    "text": "белок теплового шока"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "critical heat flux",
+                            "tr": [
+                                {
+                                    "text": "критический тепловой поток"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "heat balance equation",
+                            "tr": [
+                                {
+                                    "text": "уравнение теплового баланса"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "heat energy",
+                            "tr": [
+                                {
+                                    "text": "тепловая энергия"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

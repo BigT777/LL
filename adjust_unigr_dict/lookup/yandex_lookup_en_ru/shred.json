@@ -1,0 +1,192 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "shred",
+            "pos": "verb",
+            "ts": "ʃred",
+            "fl": "shred/shredded, shred/shredded",
+            "tr": [
+                {
+                    "text": "кромсать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "резать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hack"
+                        },
+                        {
+                            "text": "slice"
+                        }
+                    ]
+                },
+                {
+                    "text": "измельчать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "grind"
+                        }
+                    ]
+                },
+                {
+                    "text": "расползаться",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "нашинковать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "шинковать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "chop"
+                        }
+                    ]
+                },
+                {
+                    "text": "уничтожать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "destroy"
+                        }
+                    ]
+                },
+                {
+                    "text": "раскромсать",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "раздирать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "tear"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "shred",
+            "pos": "noun",
+            "ts": "ʃred",
+            "tr": [
+                {
+                    "text": "лоскуток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "клочок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "обрывок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "клок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "кусочек",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "кусок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "лоскут",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "scrap"
+                        },
+                        {
+                            "text": "piece"
+                        },
+                        {
+                            "text": "rag"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "last shreds",
+                            "tr": [
+                                {
+                                    "text": "последние клочки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "shreds of clouds",
+                            "tr": [
+                                {
+                                    "text": "клочья облаков"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "толика",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "modicum"
+                        }
+                    ]
+                },
+                {
+                    "text": "капля",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "drop"
+                        }
+                    ]
+                },
+                {
+                    "text": "измельчение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "crushing"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

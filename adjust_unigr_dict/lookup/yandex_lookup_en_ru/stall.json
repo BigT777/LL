@@ -1,0 +1,310 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "stall",
+            "pos": "noun",
+            "ts": "stɔːl",
+            "tr": [
+                {
+                    "text": "ларек",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "прилавок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "киоск",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "kiosk"
+                        },
+                        {
+                            "text": "counter"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "roadside stall",
+                            "tr": [
+                                {
+                                    "text": "придорожный ларек"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "flower stall",
+                            "tr": [
+                                {
+                                    "text": "цветочный киоск"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "стойло",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "stable"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "empty stall",
+                            "tr": [
+                                {
+                                    "text": "пустое стойло"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "палатка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "tent"
+                        }
+                    ]
+                },
+                {
+                    "text": "кабина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "кабинка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cabin"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shower stall",
+                            "tr": [
+                                {
+                                    "text": "душевая кабина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "опрокидывание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "сваливание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rollover"
+                        },
+                        {
+                            "text": "dumping"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "stall speed",
+                            "tr": [
+                                {
+                                    "text": "скорость сваливания"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "срыв",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "срыв потока",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "breakdown"
+                        }
+                    ]
+                },
+                {
+                    "text": "лоток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "tray"
+                        }
+                    ]
+                },
+                {
+                    "text": "лавка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "shop"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "stall",
+            "pos": "verb",
+            "ts": "stɔːl",
+            "tr": [
+                {
+                    "text": "тянуть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "pull"
+                        }
+                    ]
+                },
+                {
+                    "text": "глохнуть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заглохнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "буксовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "забуксовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "deaf"
+                        },
+                        {
+                            "text": "die"
+                        },
+                        {
+                            "text": "slip"
+                        }
+                    ]
+                },
+                {
+                    "text": "застопориться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "остановиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "приостановиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "стопориться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stop"
+                        }
+                    ]
+                },
+                {
+                    "text": "тормозить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "затормозить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "slow"
+                        },
+                        {
+                            "text": "slow down"
+                        }
+                    ]
+                },
+                {
+                    "text": "застрять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "trap"
+                        }
+                    ]
+                },
+                {
+                    "text": "срываться",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "ставить в стойло",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "stall",
+            "pos": "adjective",
+            "ts": "stɔːl",
+            "tr": [
+                {
+                    "text": "стойловый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "barnyard"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

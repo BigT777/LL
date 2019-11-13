@@ -1,0 +1,84 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "diabetic",
+            "pos": "noun",
+            "ts": "daɪəˈbetɪk",
+            "tr": [
+                {
+                    "text": "диабетик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "сахарный диабет",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "диабет",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "diabetes"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "diabetic complications",
+                            "tr": [
+                                {
+                                    "text": "осложнения диабета"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "diabetic",
+            "pos": "adjective",
+            "ts": "daɪəˈbetɪk",
+            "tr": [
+                {
+                    "text": "диабетический",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "diabetes"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "diabetic foot",
+                            "tr": [
+                                {
+                                    "text": "диабетическая стопа"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "больной диабетом",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "больной сахарным диабетом",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "diabetes patient"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "grind",
+            "pos": "verb",
+            "ts": "graɪnd",
+            "fl": "ground, ground",
+            "tr": [
+                {
+                    "text": "broyer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "moudre",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "meuler",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crush"
+                        },
+                        {
+                            "text": "mill"
+                        }
+                    ]
+                },
+                {
+                    "text": "meulage",
+                    "pos": "noun",
+                    "gen": "m"
+                }
+            ]
+        },
+        {
+            "text": "grind",
+            "pos": "noun",
+            "ts": "graɪnd",
+            "tr": [
+                {
+                    "text": "mouture",
+                    "pos": "noun",
+                    "gen": "f"
+                }
+            ]
+        }
+    ]
+}

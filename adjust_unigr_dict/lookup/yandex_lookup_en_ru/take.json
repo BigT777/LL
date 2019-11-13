@@ -1,0 +1,323 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "take",
+            "pos": "verb",
+            "ts": "teɪk",
+            "fl": "took, taken",
+            "tr": [
+                {
+                    "text": "брать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "взять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "снять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "get"
+                        },
+                        {
+                            "text": "bring"
+                        },
+                        {
+                            "text": "remove"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "take the floor",
+                            "tr": [
+                                {
+                                    "text": "брать слово"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "take the book",
+                            "tr": [
+                                {
+                                    "text": "взять книгу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "take the edge",
+                            "tr": [
+                                {
+                                    "text": "снять остроту"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "принять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "приниматься",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "предпринимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "adopt"
+                        },
+                        {
+                            "text": "start"
+                        },
+                        {
+                            "text": "undertake"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "take appropriate measures",
+                            "tr": [
+                                {
+                                    "text": "принять надлежащие меры"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "take into account",
+                            "tr": [
+                                {
+                                    "text": "приниматься во внимание"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "take decisive action",
+                            "tr": [
+                                {
+                                    "text": "предпринимать решительные действия"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "принимать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "воспринимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "accept"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "take various forms",
+                            "tr": [
+                                {
+                                    "text": "принимать различные формы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "take criticism",
+                            "tr": [
+                                {
+                                    "text": "воспринимать критику"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "занять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "занимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "occupy"
+                        },
+                        {
+                            "text": "be"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "take longer",
+                            "tr": [
+                                {
+                                    "text": "занимать больше времени"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "потребоваться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "требоваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "need"
+                        }
+                    ]
+                },
+                {
+                    "text": "забрать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "забирать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отвезти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pick"
+                        },
+                        {
+                            "text": "drive"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "take the prize",
+                            "tr": [
+                                {
+                                    "text": "забрать приз"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "take the spoil",
+                            "tr": [
+                                {
+                                    "text": "забирать добычу"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "иметь",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "have"
+                        }
+                    ]
+                },
+                {
+                    "text": "воспользоваться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "use"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "take the opportunity",
+                            "tr": [
+                                {
+                                    "text": "воспользоваться случаем"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "захватить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "grab"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "take over",
+                            "tr": [
+                                {
+                                    "text": "захватить власть"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отнять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "отнимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "take away"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "take a life",
+                            "tr": [
+                                {
+                                    "text": "отнять жизнь"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

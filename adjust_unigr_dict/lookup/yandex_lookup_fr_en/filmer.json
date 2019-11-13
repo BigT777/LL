@@ -1,0 +1,56 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "filmer",
+            "pos": "verb",
+            "ts": "filme",
+            "tr": [
+                {
+                    "text": "film",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "shot",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "film"
+                        },
+                        {
+                            "text": "tir"
+                        }
+                    ]
+                },
+                {
+                    "text": "movie",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "filming",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "videotape",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "shooting",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "film"
+                        },
+                        {
+                            "text": "tournage"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

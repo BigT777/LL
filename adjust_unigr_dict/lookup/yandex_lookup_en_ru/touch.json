@@ -1,0 +1,277 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "touch",
+            "pos": "verb",
+            "ts": "tʌʧ",
+            "tr": [
+                {
+                    "text": "касаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "прикасаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "трогать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "затрагивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "соприкасаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "коснуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прикоснуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "затронуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "тронуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "дотронуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "потрогать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "дотрагиваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "concern"
+                        },
+                        {
+                            "text": "contact"
+                        },
+                        {
+                            "text": "move"
+                        },
+                        {
+                            "text": "affect"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "touch the ball",
+                            "tr": [
+                                {
+                                    "text": "касаться мяча"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "touch a woman",
+                            "tr": [
+                                {
+                                    "text": "прикасаться к женщине"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "touch the body",
+                            "tr": [
+                                {
+                                    "text": "трогать тело"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "touch the ground",
+                            "tr": [
+                                {
+                                    "text": "соприкасаться с землей"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "touch the soul",
+                            "tr": [
+                                {
+                                    "text": "затронуть душу"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "touch",
+            "pos": "noun",
+            "ts": "tʌʧ",
+            "tr": [
+                {
+                    "text": "касание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "прикосновение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "осязание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "ощупь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "touching"
+                        },
+                        {
+                            "text": "sense of touch"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "touch sensor",
+                            "tr": [
+                                {
+                                    "text": "датчик касания"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "touch of her hand",
+                            "tr": [
+                                {
+                                    "text": "прикосновение руки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sense of touch",
+                            "tr": [
+                                {
+                                    "text": "чувство осязания"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "контакт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "связь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "contact"
+                        },
+                        {
+                            "text": "link"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "constant touch",
+                            "tr": [
+                                {
+                                    "text": "постоянный контакт"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lose touch",
+                            "tr": [
+                                {
+                                    "text": "потерять связь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "штрих",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "stroke"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "final touch",
+                            "tr": [
+                                {
+                                    "text": "последний штрих"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "touch",
+            "pos": "adjective",
+            "ts": "tʌʧ",
+            "tr": [
+                {
+                    "text": "сенсорный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "sensor"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "touch screen control panel",
+                            "tr": [
+                                {
+                                    "text": "сенсорная панель"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

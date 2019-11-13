@@ -1,0 +1,94 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "prattle",
+            "pos": "verb",
+            "ts": "prætl",
+            "tr": [
+                {
+                    "text": "болтать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "лепетать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "трепаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "chatter"
+                        },
+                        {
+                            "text": "babble"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "prattle",
+            "pos": "noun",
+            "ts": "prætl",
+            "tr": [
+                {
+                    "text": "лепет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "болтовня",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "babble"
+                        },
+                        {
+                            "text": "chatter"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "childish prattle",
+                            "tr": [
+                                {
+                                    "text": "детский лепет"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "щебетание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "chirping"
+                        }
+                    ]
+                },
+                {
+                    "text": "журчание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "murmur"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

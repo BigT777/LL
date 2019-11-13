@@ -1,0 +1,106 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fission",
+            "pos": "noun",
+            "ts": "fɪʃn",
+            "tr": [
+                {
+                    "text": "деление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "расщепление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "распад",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dividing"
+                        },
+                        {
+                            "text": "splitting"
+                        },
+                        {
+                            "text": "disintegration"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fission product",
+                            "tr": [
+                                {
+                                    "text": "продукт деления"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fission event",
+                            "tr": [
+                                {
+                                    "text": "случай расщепления"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "реакция деления",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "fission reaction"
+                        }
+                    ]
+                },
+                {
+                    "text": "расщепление ядра",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "ядерное деление",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "nuclear fission"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fission",
+            "pos": "verb",
+            "ts": "fɪʃn",
+            "tr": [
+                {
+                    "text": "расщепляться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "расщеплять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "split"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

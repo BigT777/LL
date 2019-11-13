@@ -1,0 +1,80 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "in-law",
+            "pos": "noun",
+            "ts": "ˈɪnlɔː",
+            "tr": [
+                {
+                    "text": "родственник",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "свекровь",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "зять",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "in law",
+            "pos": "adverb",
+            "ts": "ɪn lɔː",
+            "tr": [
+                {
+                    "text": "в законе",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "в законодательстве",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "in the law"
+                        },
+                        {
+                            "text": "in the legislation"
+                        }
+                    ]
+                },
+                {
+                    "text": "по закону",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "согласно закону",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "в праве",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "by law"
+                        },
+                        {
+                            "text": "in the right"
+                        }
+                    ]
+                },
+                {
+                    "text": "в области права",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

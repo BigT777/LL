@@ -1,0 +1,276 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "encounter",
+            "pos": "verb",
+            "ts": "ɪnˈkaʊntə",
+            "tr": [
+                {
+                    "text": "сталкиваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "столкнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "натолкнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "face"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "encounter difficulty",
+                            "tr": [
+                                {
+                                    "text": "сталкиваться с трудностями"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "encounter problems",
+                            "tr": [
+                                {
+                                    "text": "столкнуться с проблемами"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "встречаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "встретить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "встретиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "встречать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "повстречаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "повстречать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "meet"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "encounter resistance",
+                            "tr": [
+                                {
+                                    "text": "встречать сопротивление"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "возникнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "возникать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "arise"
+                        }
+                    ]
+                },
+                {
+                    "text": "испытывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "experience"
+                        }
+                    ]
+                },
+                {
+                    "text": "обнаруживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "detect"
+                        }
+                    ]
+                },
+                {
+                    "text": "попадаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "come across"
+                        }
+                    ]
+                },
+                {
+                    "text": "сталкивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "push"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "encounter",
+            "pos": "noun",
+            "ts": "ɪnˈkaʊntə",
+            "tr": [
+                {
+                    "text": "столкновение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "стычка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clash"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "direct encounter",
+                            "tr": [
+                                {
+                                    "text": "прямое столкновение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "random encounter",
+                            "tr": [
+                                {
+                                    "text": "случайная стычка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "схватка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "struggle"
+                        }
+                    ]
+                },
+                {
+                    "text": "встреча",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "meeting"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "unpleasant encounter",
+                            "tr": [
+                                {
+                                    "text": "неприятная встреча"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "контакт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "contact"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sexual encounter",
+                            "tr": [
+                                {
+                                    "text": "сексуальный контакт"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сближение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "convergence"
+                        }
+                    ]
+                },
+                {
+                    "text": "неожиданная встреча",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "unexpected meeting"
+                        }
+                    ]
+                },
+                {
+                    "text": "случайная встреча",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "chance encounter"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

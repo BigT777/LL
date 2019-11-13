@@ -1,0 +1,180 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "vintage",
+            "pos": "adjective",
+            "ts": "ˈvɪntɪʤ",
+            "tr": [
+                {
+                    "text": "марочный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "старинный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "винтажный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "коллекционный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "раритетный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "branded"
+                        },
+                        {
+                            "text": "ancient"
+                        },
+                        {
+                            "text": "collection"
+                        },
+                        {
+                            "text": "rare"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "vintage wine",
+                            "tr": [
+                                {
+                                    "text": "марочное вино"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "vintage car",
+                            "tr": [
+                                {
+                                    "text": "старинный автомобиль"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "vintage dress",
+                            "tr": [
+                                {
+                                    "text": "винтажное платье"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "классический",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "classical"
+                        }
+                    ]
+                },
+                {
+                    "text": "старомодный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "outdated"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "vintage",
+            "pos": "noun",
+            "ts": "ˈvɪntɪʤ",
+            "tr": [
+                {
+                    "text": "сбор винограда",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "урожай",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "урожай винограда",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grape harvest"
+                        },
+                        {
+                            "text": "harvest"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "new vintage",
+                            "tr": [
+                                {
+                                    "text": "новый урожай"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "марочное вино",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "вино",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "vintage wine"
+                        },
+                        {
+                            "text": "wine"
+                        }
+                    ]
+                },
+                {
+                    "text": "винтаж",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "год сбора винограда",
+                    "pos": "noun"
+                },
+                {
+                    "text": "год изготовления вина",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "vintage",
+            "pos": "participle",
+            "ts": "ˈvɪntɪʤ",
+            "tr": [
+                {
+                    "text": "выдержанный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "aged"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

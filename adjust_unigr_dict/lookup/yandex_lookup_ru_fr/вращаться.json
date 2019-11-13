@@ -1,0 +1,53 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "вращаться",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "tourner",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "rouler",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "вращать"
+                        },
+                        {
+                            "text": "катить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "продолжать вращаться",
+                            "tr": [
+                                {
+                                    "text": "continuer à tourner"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "être tourné",
+                    "pos": "verb"
+                },
+                {
+                    "text": "se tourner",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "повернуться"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

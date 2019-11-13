@@ -1,0 +1,132 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "grocery",
+            "pos": "noun",
+            "ts": "ˈgrəʊsərɪ",
+            "tr": [
+                {
+                    "text": "бакалея",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "бакалейная лавка",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "grocer"
+                        }
+                    ]
+                },
+                {
+                    "text": "продукты",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "stuff"
+                        }
+                    ]
+                },
+                {
+                    "text": "гастроном",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "продовольственный магазин",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "бакалейный магазин",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grocery store"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "local grocery store",
+                            "tr": [
+                                {
+                                    "text": "местный гастроном"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "магазин",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "shop"
+                        }
+                    ]
+                },
+                {
+                    "text": "бакалейный товар",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "grocery",
+            "pos": "adjective",
+            "ts": "ˈgrəʊsərɪ",
+            "tr": [
+                {
+                    "text": "продуктовый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "продовольственный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "бакалейный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "food"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "grocery bag",
+                            "tr": [
+                                {
+                                    "text": "продуктовый мешок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "grocery item",
+                            "tr": [
+                                {
+                                    "text": "продовольственные товары"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "grocery goods",
+                            "tr": [
+                                {
+                                    "text": "бакалейные товары"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

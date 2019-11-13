@@ -1,0 +1,130 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "reply",
+            "pos": "verb",
+            "ts": "rɪˈplaɪ",
+            "tr": [
+                {
+                    "text": "отвечать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ответить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "answer"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "reply to sender",
+                            "tr": [
+                                {
+                                    "text": "ответить отправителю"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "возражать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "objection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "reply",
+            "pos": "noun",
+            "ts": "rɪˈplaɪ",
+            "tr": [
+                {
+                    "text": "отклик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "ответ",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "response"
+                        },
+                        {
+                            "text": "answer"
+                        }
+                    ]
+                },
+                {
+                    "text": "реплика",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "remark"
+                        }
+                    ]
+                },
+                {
+                    "text": "ответное письмо",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "letter"
+                        }
+                    ]
+                },
+                {
+                    "text": "ответное сообщение",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "response message"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "reply",
+            "pos": "adjective",
+            "ts": "rɪˈplaɪ",
+            "tr": [
+                {
+                    "text": "ответный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "response"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "reply message",
+                            "tr": [
+                                {
+                                    "text": "ответное сообщение"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

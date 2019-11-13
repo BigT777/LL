@@ -1,0 +1,78 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "pencil",
+            "pos": "noun",
+            "ts": "pensl",
+            "tr": [
+                {
+                    "text": "карандаш",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "грифель",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "карандашик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pen"
+                        },
+                        {
+                            "text": "lead"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "color pencil",
+                            "tr": [
+                                {
+                                    "text": "цветной карандаш"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пучок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "bundle"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "pencil",
+            "pos": "adjective",
+            "ts": "pensl",
+            "tr": [
+                {
+                    "text": "карандашный",
+                    "pos": "adjective",
+                    "ex": [
+                        {
+                            "text": "pencil drawing",
+                            "tr": [
+                                {
+                                    "text": "карандашный рисунок"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

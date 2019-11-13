@@ -1,0 +1,266 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "shipment",
+            "pos": "noun",
+            "ts": "ˈʃɪpmənt",
+            "tr": [
+                {
+                    "text": "отгрузка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "груз",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "перевозка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "погрузка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "транспортировка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "доставка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "грузоперевозки",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "перевозка груза",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "delivery"
+                        },
+                        {
+                            "text": "cargo"
+                        },
+                        {
+                            "text": "transportation"
+                        },
+                        {
+                            "text": "loading"
+                        },
+                        {
+                            "text": "shipping"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "port of shipment",
+                            "tr": [
+                                {
+                                    "text": "порт отгрузки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "arms shipment",
+                            "tr": [
+                                {
+                                    "text": "груз оружия"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "container shipment",
+                            "tr": [
+                                {
+                                    "text": "контейнерная перевозка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "shipment route",
+                            "tr": [
+                                {
+                                    "text": "маршрут транспортировки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "international shipment",
+                            "tr": [
+                                {
+                                    "text": "международная доставка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отправка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "пересылка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "отправление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "посылка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "отправка товара",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sending"
+                        },
+                        {
+                            "text": "forwarding"
+                        },
+                        {
+                            "text": "departure"
+                        },
+                        {
+                            "text": "parcel"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "carload shipment",
+                            "tr": [
+                                {
+                                    "text": "повагонная отправка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "next shipment",
+                            "tr": [
+                                {
+                                    "text": "следующая пересылка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "freight shipments",
+                            "tr": [
+                                {
+                                    "text": "грузовые отправления"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "поставка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "supply"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shipments of natural gas",
+                            "tr": [
+                                {
+                                    "text": "поставки природного газа"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "партия",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "party"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shipment of cocaine",
+                            "tr": [
+                                {
+                                    "text": "партия кокаина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "партия груза",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "партия товара",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "consignment"
+                        }
+                    ]
+                },
+                {
+                    "text": "отправка груза",
+                    "pos": "noun"
+                },
+                {
+                    "text": "отгрузка товаров",
+                    "pos": "noun"
+                },
+                {
+                    "text": "отгрузка продукции",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "shipment of production"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "shipment",
+            "pos": "adjective",
+            "ts": "ˈʃɪpmənt",
+            "tr": [
+                {
+                    "text": "отгрузочный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "shipping"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

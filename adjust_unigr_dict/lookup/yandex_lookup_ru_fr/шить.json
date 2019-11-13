@@ -1,0 +1,56 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "шить",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "coudre",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "broder",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "habiller",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "сшить"
+                        },
+                        {
+                            "text": "вышивать"
+                        },
+                        {
+                            "text": "одевать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "шить одежду",
+                            "tr": [
+                                {
+                                    "text": "coudre des vêtements"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "piquer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "колоть"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "глотка",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "pharynx",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "зев"
+                        }
+                    ]
+                },
+                {
+                    "text": "gorge",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "gosier",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "gueule",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "горло"
+                        },
+                        {
+                            "text": "гортань"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "стенка глотки",
+                            "tr": [
+                                {
+                                    "text": "la gorge"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "pipe",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "tuyau",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

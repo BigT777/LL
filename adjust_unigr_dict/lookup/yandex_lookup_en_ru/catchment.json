@@ -1,0 +1,81 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "catchment",
+            "pos": "noun",
+            "ts": "ˈkæʧmənt",
+            "tr": [
+                {
+                    "text": "дренаж",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "drainage"
+                        }
+                    ]
+                },
+                {
+                    "text": "водосбор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "водосборный бассейн",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "водосборная площадь",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "watershed"
+                        },
+                        {
+                            "text": "catchment area"
+                        }
+                    ]
+                },
+                {
+                    "text": "бассейн",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "basin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "catchment",
+            "pos": "adjective",
+            "ts": "ˈkæʧmənt",
+            "tr": [
+                {
+                    "text": "водосборный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "drainage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "catchment basin",
+                            "tr": [
+                                {
+                                    "text": "водосборный бассейн"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

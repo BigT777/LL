@@ -1,0 +1,145 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ignite",
+            "pos": "verb",
+            "ts": "ɪgˈnaɪt",
+            "tr": [
+                {
+                    "text": "зажигать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разжигать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "зажечь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поджигать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "разжечь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "воспламениться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "kindle"
+                        },
+                        {
+                            "text": "spark"
+                        },
+                        {
+                            "text": "fire"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ignite the fire",
+                            "tr": [
+                                {
+                                    "text": "зажечь огонь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "воспламенять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "воспламенить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "inflame"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ignite the fuel",
+                            "tr": [
+                                {
+                                    "text": "воспламенить топливо"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "загораться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "зажигаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "загореться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "light up"
+                        },
+                        {
+                            "text": "light"
+                        },
+                        {
+                            "text": "catch fire"
+                        }
+                    ]
+                },
+                {
+                    "text": "возгораться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "flare up"
+                        }
+                    ]
+                },
+                {
+                    "text": "вызывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "arouse"
+                        }
+                    ]
+                },
+                {
+                    "text": "прокаливать",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        }
+    ]
+}

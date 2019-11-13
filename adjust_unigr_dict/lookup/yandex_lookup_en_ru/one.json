@@ -1,0 +1,131 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "one",
+            "pos": "pronoun",
+            "ts": "wʌn",
+            "tr": [
+                {
+                    "text": "один",
+                    "pos": "pronoun",
+                    "syn": [
+                        {
+                            "text": "какой-то",
+                            "pos": "pronoun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "a"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "one year",
+                            "tr": [
+                                {
+                                    "text": "один год"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "one time",
+                            "tr": [
+                                {
+                                    "text": "один раз"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "кто-то",
+                    "pos": "pronoun",
+                    "mean": [
+                        {
+                            "text": "somebody"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "one",
+            "pos": "numeral",
+            "ts": "wʌn",
+            "tr": [
+                {
+                    "text": "первый",
+                    "pos": "numeral",
+                    "mean": [
+                        {
+                            "text": "first"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "one",
+            "pos": "noun",
+            "ts": "wʌn",
+            "tr": [
+                {
+                    "text": "единица",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "unit"
+                        }
+                    ]
+                },
+                {
+                    "text": "человек",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "одна",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "one",
+            "pos": "adjective",
+            "ts": "wʌn",
+            "tr": [
+                {
+                    "text": "единственный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "единый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "only"
+                        },
+                        {
+                            "text": "single"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "one god",
+                            "tr": [
+                                {
+                                    "text": "единый бог"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

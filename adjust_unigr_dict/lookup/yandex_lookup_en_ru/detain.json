@@ -1,0 +1,108 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "detain",
+            "pos": "verb",
+            "ts": "dɪˈteɪn",
+            "tr": [
+                {
+                    "text": "задерживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "арестовывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "задержать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "арестовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "заключить под стражу",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "arrest"
+                        },
+                        {
+                            "text": "imprison"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "detain people",
+                            "tr": [
+                                {
+                                    "text": "задержать людей"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "удерживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "удержать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "withhold"
+                        }
+                    ]
+                },
+                {
+                    "text": "содержать под стражей",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "hold"
+                        }
+                    ]
+                },
+                {
+                    "text": "задерживаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "delay"
+                        }
+                    ]
+                },
+                {
+                    "text": "мурыжить",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "detain",
+            "pos": "adverb",
+            "ts": "dɪˈteɪn",
+            "tr": [
+                {
+                    "text": "под стражу",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

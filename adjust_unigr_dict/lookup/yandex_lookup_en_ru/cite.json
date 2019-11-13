@@ -1,0 +1,109 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cite",
+            "pos": "verb",
+            "ts": "saɪt",
+            "tr": [
+                {
+                    "text": "цитировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "процитировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "quote"
+                        }
+                    ]
+                },
+                {
+                    "text": "ссылаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сослаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "упоминать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "указывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "refer"
+                        },
+                        {
+                            "text": "mention"
+                        },
+                        {
+                            "text": "indicate"
+                        }
+                    ]
+                },
+                {
+                    "text": "приводить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "lead"
+                        }
+                    ]
+                },
+                {
+                    "text": "назвать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "call"
+                        }
+                    ]
+                },
+                {
+                    "text": "перечислить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "перечислять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "list"
+                        }
+                    ]
+                },
+                {
+                    "text": "вспоминать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "recall"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

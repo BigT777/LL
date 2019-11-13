@@ -1,0 +1,299 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sweep",
+            "pos": "verb",
+            "ts": "swiːp",
+            "fl": "swept, swept",
+            "tr": [
+                {
+                    "text": "подметать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "мести",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подмести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "broom"
+                        },
+                        {
+                            "text": "sweep up"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sweep the street",
+                            "tr": [
+                                {
+                                    "text": "мести улицу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sweep the floor",
+                            "tr": [
+                                {
+                                    "text": "подмести пол"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "проноситься",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "нестись",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пронестись",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "float"
+                        },
+                        {
+                            "text": "race"
+                        },
+                        {
+                            "text": "pass"
+                        }
+                    ]
+                },
+                {
+                    "text": "сметать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "смести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разметать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sweep away"
+                        },
+                        {
+                            "text": "disperse"
+                        }
+                    ]
+                },
+                {
+                    "text": "охватить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "заметать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "замести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cover"
+                        }
+                    ]
+                },
+                {
+                    "text": "прокатиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "ride"
+                        }
+                    ]
+                },
+                {
+                    "text": "вымести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выметать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "vent"
+                        }
+                    ]
+                },
+                {
+                    "text": "захлестнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "захлестывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "overwhelm"
+                        },
+                        {
+                            "text": "overflow"
+                        }
+                    ]
+                },
+                {
+                    "text": "скользнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "slide"
+                        }
+                    ]
+                },
+                {
+                    "text": "ворваться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "burst"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sweep",
+            "pos": "noun",
+            "ts": "swiːp",
+            "tr": [
+                {
+                    "text": "стреловидность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "размах",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sweepback"
+                        },
+                        {
+                            "text": "swing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "wing sweep",
+                            "tr": [
+                                {
+                                    "text": "стреловидность крыла"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "epic sweep",
+                            "tr": [
+                                {
+                                    "text": "эпический размах"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "развертка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "свипирование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "scan"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sweep time",
+                            "tr": [
+                                {
+                                    "text": "время развертки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "взмах",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "wave"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sweep of his arm",
+                            "tr": [
+                                {
+                                    "text": "взмах руки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "зачистка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "cleaning"
+                        }
+                    ]
+                },
+                {
+                    "text": "сметание",
+                    "pos": "noun",
+                    "gen": "ср"
+                }
+            ]
+        }
+    ]
+}

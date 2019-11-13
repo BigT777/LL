@@ -1,0 +1,132 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "batter",
+            "pos": "verb",
+            "ts": "ˈbætə",
+            "tr": [
+                {
+                    "text": "колотить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "долбить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pound"
+                        },
+                        {
+                            "text": "hammer"
+                        }
+                    ]
+                },
+                {
+                    "text": "громить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разбивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "разгромить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разбить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "smash"
+                        },
+                        {
+                            "text": "crush"
+                        }
+                    ]
+                },
+                {
+                    "text": "избивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "beat"
+                        }
+                    ]
+                },
+                {
+                    "text": "сильно бить",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "batter",
+            "pos": "noun",
+            "ts": "ˈbætə",
+            "tr": [
+                {
+                    "text": "бэттер",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "тесто",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "кляр",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "жидкое тесто",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dough"
+                        },
+                        {
+                            "text": "liquid dough"
+                        }
+                    ]
+                },
+                {
+                    "text": "замес",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "batch"
+                        }
+                    ]
+                },
+                {
+                    "text": "болтушка",
+                    "pos": "noun",
+                    "gen": "м,ж",
+                    "mean": [
+                        {
+                            "text": "mash"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

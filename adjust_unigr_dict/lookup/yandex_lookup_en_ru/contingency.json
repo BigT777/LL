@@ -1,0 +1,119 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "contingency",
+            "pos": "noun",
+            "ts": "kənˈtɪnʤənsɪ",
+            "tr": [
+                {
+                    "text": "случайность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "accident"
+                        }
+                    ]
+                },
+                {
+                    "text": "случай",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "incident"
+                        }
+                    ]
+                },
+                {
+                    "text": "нештатная ситуация",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "чрезвычайная ситуация",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "непредвиденная ситуация",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "аварийная ситуация",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "emergency situation"
+                        },
+                        {
+                            "text": "emergency"
+                        }
+                    ]
+                },
+                {
+                    "text": "сопряженность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "conjugacy"
+                        }
+                    ]
+                },
+                {
+                    "text": "резерв",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "standby"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "contingency",
+            "pos": "adjective",
+            "ts": "kənˈtɪnʤənsɪ",
+            "tr": [
+                {
+                    "text": "резервный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "backup"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "contingency fund",
+                            "tr": [
+                                {
+                                    "text": "резервный фонд"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "аварийный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "экстренный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "emergency"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

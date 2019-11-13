@@ -1,0 +1,85 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "drop off",
+            "pos": "verb",
+            "ts": "drɒp ɒf",
+            "tr": [
+                {
+                    "text": "заснуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "забыться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sleep"
+                        },
+                        {
+                            "text": "forget"
+                        }
+                    ]
+                },
+                {
+                    "text": "уменьшаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сокращаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "decrease"
+                        }
+                    ]
+                },
+                {
+                    "text": "отпадать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "опасть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fall"
+                        }
+                    ]
+                },
+                {
+                    "text": "падать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "drop"
+                        }
+                    ]
+                },
+                {
+                    "text": "завезти",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "bring"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

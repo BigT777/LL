@@ -1,0 +1,128 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "lunch",
+            "pos": "noun",
+            "ts": "lʌnʧ",
+            "tr": [
+                {
+                    "text": "обед",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "ланч",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "ленч",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "второй завтрак",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dinner"
+                        },
+                        {
+                            "text": "luncheon"
+                        },
+                        {
+                            "text": "lunchtime"
+                        },
+                        {
+                            "text": "second breakfast"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lunch time",
+                            "tr": [
+                                {
+                                    "text": "время обеда"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "late lunch",
+                            "tr": [
+                                {
+                                    "text": "поздний ленч"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "lunch",
+            "pos": "verb",
+            "ts": "lʌnʧ",
+            "tr": [
+                {
+                    "text": "обедать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "завтракать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пообедать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "позавтракать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dine"
+                        },
+                        {
+                            "text": "breakfast"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "lunch",
+            "pos": "adjective",
+            "ts": "lʌnʧ",
+            "tr": [
+                {
+                    "text": "обеденный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "dining"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lunch table",
+                            "tr": [
+                                {
+                                    "text": "обеденный стол"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

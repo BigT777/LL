@@ -1,0 +1,70 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cut",
+            "pos": "verb",
+            "ts": "kʌt",
+            "fl": "cut, cut",
+            "tr": [
+                {
+                    "text": "couper",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "découper",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cutting"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cut",
+            "pos": "noun",
+            "ts": "kʌt",
+            "tr": [
+                {
+                    "text": "coupe",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "Cut",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "coupé",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "coupure",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cutting"
+                        }
+                    ]
+                },
+                {
+                    "text": "découpé",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "cut out"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

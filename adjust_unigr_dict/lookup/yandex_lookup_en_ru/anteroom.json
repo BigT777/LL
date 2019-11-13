@@ -1,0 +1,82 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "anteroom",
+            "pos": "noun",
+            "ts": "ˈæntɪrum",
+            "tr": [
+                {
+                    "text": "передняя",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "приемная",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "reception room"
+                        }
+                    ]
+                },
+                {
+                    "text": "прихожая",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "entrance hall"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "small anteroom",
+                            "tr": [
+                                {
+                                    "text": "небольшая прихожая"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "предбанник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "вестибюль",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "тамбур",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "waiting room"
+                        },
+                        {
+                            "text": "vestibule"
+                        }
+                    ]
+                },
+                {
+                    "text": "аванзал",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "antechamber"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

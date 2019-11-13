@@ -1,0 +1,53 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "neigh",
+            "pos": "verb",
+            "ts": "neɪ",
+            "tr": [
+                {
+                    "text": "ржать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заржать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "laugh"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "neigh",
+            "pos": "noun",
+            "ts": "neɪ",
+            "tr": [
+                {
+                    "text": "ржание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "ржанье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "whinny"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

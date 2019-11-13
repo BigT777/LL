@@ -1,0 +1,136 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "renovate",
+            "pos": "verb",
+            "ts": "ˈrenəveɪt",
+            "tr": [
+                {
+                    "text": "реконструировать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "remodel"
+                        }
+                    ]
+                },
+                {
+                    "text": "обновлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подновлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обновить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обновляться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "модернизировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "renew"
+                        },
+                        {
+                            "text": "upgrade"
+                        },
+                        {
+                            "text": "modernize"
+                        }
+                    ]
+                },
+                {
+                    "text": "восстанавливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отреставрировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "реставрировать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "восстановить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перестраивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "restore"
+                        },
+                        {
+                            "text": "rebuild"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "renovated historic building",
+                            "tr": [
+                                {
+                                    "text": "отреставрированное историческое здание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отремонтировать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "ремонтировать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "подновить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "refurbish"
+                        },
+                        {
+                            "text": "repair"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "renovated apartment",
+                            "tr": [
+                                {
+                                    "text": "отремонтированная квартира"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

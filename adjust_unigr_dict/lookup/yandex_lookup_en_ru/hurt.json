@@ -1,0 +1,372 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "hurt",
+            "pos": "verb",
+            "ts": "hɜːt",
+            "fl": "hurt, hurt",
+            "tr": [
+                {
+                    "text": "ранить",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "ушибить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "травмировать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "ушибать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поранить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пораниться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "покалечить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "уязвить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wound"
+                        },
+                        {
+                            "text": "bump"
+                        },
+                        {
+                            "text": "injure"
+                        },
+                        {
+                            "text": "cripple"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hurt feelings",
+                            "tr": [
+                                {
+                                    "text": "ранить чувства"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "болеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "страдать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пострадать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "suffer"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hurt again",
+                            "tr": [
+                                {
+                                    "text": "болеть снова"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обижать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "задевать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "задеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обидеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оскорбить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обидеться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оскорблять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "offend"
+                        },
+                        {
+                            "text": "touch"
+                        },
+                        {
+                            "text": "insult"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hurt a woman",
+                            "tr": [
+                                {
+                                    "text": "обидеть женщину"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "причинять боль",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "pain"
+                        }
+                    ]
+                },
+                {
+                    "text": "причинить боль",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "причинить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "причинять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "нанести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cause pain"
+                        },
+                        {
+                            "text": "cause"
+                        }
+                    ]
+                },
+                {
+                    "text": "повредить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "вредить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "навредить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "нанести ущерб",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "damage"
+                        },
+                        {
+                            "text": "harm"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hurt the skin",
+                            "tr": [
+                                {
+                                    "text": "повредить кожу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hurt men",
+                            "tr": [
+                                {
+                                    "text": "вредить людям"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hurt the baby",
+                            "tr": [
+                                {
+                                    "text": "навредить ребенку"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "мучить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "torment"
+                        }
+                    ]
+                },
+                {
+                    "text": "бить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "beat"
+                        }
+                    ]
+                },
+                {
+                    "text": "ушибиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "покалечиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hurt myself"
+                        }
+                    ]
+                },
+                {
+                    "text": "больно ударить",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "hurt",
+            "pos": "noun",
+            "ts": "hɜːt",
+            "tr": [
+                {
+                    "text": "боль",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "pain"
+                        }
+                    ]
+                },
+                {
+                    "text": "вред",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "harm"
+                        }
+                    ]
+                },
+                {
+                    "text": "обида",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "insult"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "old hurts",
+                            "tr": [
+                                {
+                                    "text": "старые обиды"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "наносящий ущерб",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "detrimental"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hurt",
+            "pos": "adjective",
+            "ts": "hɜːt",
+            "tr": [
+                {
+                    "text": "болезненный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "painful"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

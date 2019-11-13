@@ -1,0 +1,63 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "bathroom",
+            "pos": "noun",
+            "ts": "ˈbɑːθrum",
+            "tr": [
+                {
+                    "text": "ванная",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "ванная комната",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "туалет",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "санузел",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "ванна",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "toilet"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "en suite bathroom",
+                            "tr": [
+                                {
+                                    "text": "отдельный санузел"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "уборная",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "washroom"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

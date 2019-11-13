@@ -1,0 +1,166 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "lend",
+            "pos": "verb",
+            "ts": "lend",
+            "fl": "lent, lent",
+            "tr": [
+                {
+                    "text": "придавать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "давать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "предоставлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "оказывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "оказать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "дать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "предоставить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "придать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "give"
+                        },
+                        {
+                            "text": "provide"
+                        },
+                        {
+                            "text": "render"
+                        },
+                        {
+                            "text": "impart"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lend support",
+                            "tr": [
+                                {
+                                    "text": "оказать поддержку"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "одалживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ссужать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "одолжить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "ссудить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "loan"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lend money",
+                            "tr": [
+                                {
+                                    "text": "ссужать деньги"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "кредитовать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "предоставлять займы",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "предоставлять кредиты",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "credit"
+                        },
+                        {
+                            "text": "provide loans"
+                        }
+                    ]
+                },
+                {
+                    "text": "давать взаймы",
+                    "pos": "verb"
+                },
+                {
+                    "text": "подставить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "substitute"
+                        }
+                    ]
+                },
+                {
+                    "text": "давать в долг",
+                    "pos": "verb"
+                },
+                {
+                    "text": "годиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "suit"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

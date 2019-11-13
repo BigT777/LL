@@ -1,0 +1,61 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "взбить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "fouetter",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "battre",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "secouer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "взбивать"
+                        },
+                        {
+                            "text": "взболтать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "взбитые сливки",
+                            "tr": [
+                                {
+                                    "text": "crème fouettée"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "взбитые яйца",
+                            "tr": [
+                                {
+                                    "text": "œufs battus"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "mélanger",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "смешать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

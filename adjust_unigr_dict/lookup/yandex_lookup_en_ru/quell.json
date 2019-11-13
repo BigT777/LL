@@ -1,0 +1,71 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "quell",
+            "pos": "verb",
+            "ts": "kwel",
+            "tr": [
+                {
+                    "text": "подавлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подавить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "усмирять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "suppress"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "quell the rebellion",
+                            "tr": [
+                                {
+                                    "text": "подавить восстание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "успокаивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "успокоить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "soothe"
+                        }
+                    ]
+                },
+                {
+                    "text": "потушить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "extinguish"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

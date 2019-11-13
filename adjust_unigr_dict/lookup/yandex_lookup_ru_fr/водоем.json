@@ -1,0 +1,101 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "водоем",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "étang",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "bassin",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "fontaine",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "mare",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "пруд"
+                        },
+                        {
+                            "text": "фонтан"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "искусственный водоем",
+                            "tr": [
+                                {
+                                    "text": "étang artificiel"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "réservoir",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "citerne",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "водохранилище"
+                        },
+                        {
+                            "text": "резервуар"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "искусственные водоемы",
+                            "tr": [
+                                {
+                                    "text": "réservoirs artificiels"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "réservoir d'eau",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "водохранилище"
+                        }
+                    ]
+                },
+                {
+                    "text": "pièce d'eau",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "пруд"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

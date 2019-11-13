@@ -1,0 +1,304 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "reset",
+            "pos": "noun",
+            "ts": "riːˈset",
+            "tr": [
+                {
+                    "text": "сброс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "обнуление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "discharge"
+                        },
+                        {
+                            "text": "zero"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "reset button",
+                            "tr": [
+                                {
+                                    "text": "кнопка сброса"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "восстановление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "restore"
+                        }
+                    ]
+                },
+                {
+                    "text": "перезагрузка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "перезапуск",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reboot"
+                        },
+                        {
+                            "text": "restart"
+                        }
+                    ]
+                },
+                {
+                    "text": "возврат",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "return"
+                        }
+                    ]
+                },
+                {
+                    "text": "настройка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "перенастройка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "setting"
+                        },
+                        {
+                            "text": "reconfigure"
+                        }
+                    ]
+                },
+                {
+                    "text": "переустановка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "повторная установка",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reinstall"
+                        }
+                    ]
+                },
+                {
+                    "text": "кнопка сброса",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "reset button"
+                        }
+                    ]
+                },
+                {
+                    "text": "сигнал сброса",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "reset signal"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "reset",
+            "pos": "verb",
+            "ts": "riːˈset",
+            "tr": [
+                {
+                    "text": "вновь устанавливать",
+                    "pos": "verb"
+                },
+                {
+                    "text": "восстанавливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "восстановить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "restore"
+                        }
+                    ]
+                },
+                {
+                    "text": "сбросить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "сбрасывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сброситься",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drop"
+                        },
+                        {
+                            "text": "dump"
+                        },
+                        {
+                            "text": "fold"
+                        }
+                    ]
+                },
+                {
+                    "text": "перезагрузить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "перезагружать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "перезапустить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "restart"
+                        },
+                        {
+                            "text": "reboot"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "reset the system",
+                            "tr": [
+                                {
+                                    "text": "перезагрузить систему"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обнулить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "обнулять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "zero"
+                        }
+                    ]
+                },
+                {
+                    "text": "переустановить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "переустанавливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reinstall"
+                        }
+                    ]
+                },
+                {
+                    "text": "перенастроить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "перенастраивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reconfigure"
+                        }
+                    ]
+                },
+                {
+                    "text": "вправлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "set"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "reset",
+            "pos": "participle",
+            "ts": "riːˈset",
+            "tr": [
+                {
+                    "text": "сброшенный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "dropped"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

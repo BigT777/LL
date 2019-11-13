@@ -1,0 +1,161 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fruit",
+            "pos": "noun",
+            "ts": "fruːt",
+            "tr": [
+                {
+                    "text": "фрукты",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "плоды",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "harvest"
+                        }
+                    ]
+                },
+                {
+                    "text": "результат",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "result"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "practical fruit",
+                            "tr": [
+                                {
+                                    "text": "практический результат"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ягода",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "berry"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "wild fruits",
+                            "tr": [
+                                {
+                                    "text": "лесные ягоды"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fruit",
+            "pos": "adjective",
+            "ts": "fruːt",
+            "tr": [
+                {
+                    "text": "фруктовый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "плодовый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fruity"
+                        },
+                        {
+                            "text": "fruit tree"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fruit salad",
+                            "tr": [
+                                {
+                                    "text": "фруктовый салат"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "natural fruit juice",
+                            "tr": [
+                                {
+                                    "text": "натуральный фруктовый сок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fruit ice cream",
+                            "tr": [
+                                {
+                                    "text": "фруктовое мороженое"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fresh fruit market",
+                            "tr": [
+                                {
+                                    "text": "фруктовый рынок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "branches of fruit trees",
+                            "tr": [
+                                {
+                                    "text": "ветки плодовых деревьев"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "плодово-ягодный",
+                    "pos": "adjective"
+                },
+                {
+                    "text": "фруктово-ягодный",
+                    "pos": "adjective"
+                }
+            ]
+        },
+        {
+            "text": "fruit",
+            "pos": "verb",
+            "ts": "fruːt",
+            "tr": [
+                {
+                    "text": "плодоносить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "bear fruit"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

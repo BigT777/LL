@@ -1,0 +1,83 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "навоз",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "fumier",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "engrais",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "fumure",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "удобрение"
+                        },
+                        {
+                            "text": "компост"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "количество навоза",
+                            "tr": [
+                                {
+                                    "text": "quantité de fumier"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "lisier",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "навозная жижа"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "свиной навоз",
+                            "tr": [
+                                {
+                                    "text": "lisier de porc"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "fiente",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "помет"
+                        }
+                    ]
+                },
+                {
+                    "text": "paillé",
+                    "pos": "noun",
+                    "gen": "m"
+                }
+            ]
+        }
+    ]
+}

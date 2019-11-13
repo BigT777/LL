@@ -1,0 +1,59 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "месяц",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "mois",
+                    "pos": "noun",
+                    "gen": "m",
+                    "num": "pl",
+                    "mean": [
+                        {
+                            "text": "месячник"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "текущий месяц",
+                            "tr": [
+                                {
+                                    "text": "mois courant"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "mensuel",
+                    "pos": "noun",
+                    "gen": "m"
+                },
+                {
+                    "text": "lune",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "croissant",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "луна"
+                        },
+                        {
+                            "text": "полумесяц"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

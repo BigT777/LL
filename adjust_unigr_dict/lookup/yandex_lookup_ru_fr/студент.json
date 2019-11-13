@@ -1,0 +1,43 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "студент",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "étudiante",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "студентка"
+                        }
+                    ]
+                },
+                {
+                    "text": "étudiant",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "учащийся"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "студенты университета",
+                            "tr": [
+                                {
+                                    "text": "étudiants universitaires"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

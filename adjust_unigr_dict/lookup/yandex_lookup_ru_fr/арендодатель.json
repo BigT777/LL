@@ -1,0 +1,59 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "арендодатель",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "bailleur",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "loueur",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "preneur",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "prêteur",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "лизингодатель"
+                        },
+                        {
+                            "text": "наймодатель"
+                        },
+                        {
+                            "text": "арендатор"
+                        },
+                        {
+                            "text": "кредитор"
+                        }
+                    ]
+                },
+                {
+                    "text": "propriétaire",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "собственник"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,258 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "heap",
+            "pos": "noun",
+            "ts": "hiːp",
+            "tr": [
+                {
+                    "text": "куча",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "груда",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "уйма",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "кучка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "ворох",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "нагромождение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "кипа",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "стопка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pile"
+                        },
+                        {
+                            "text": "lot"
+                        },
+                        {
+                            "text": "bunch"
+                        },
+                        {
+                            "text": "stack"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "managed heap",
+                            "tr": [
+                                {
+                                    "text": "управляемая куча"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "heap of scrap metal",
+                            "tr": [
+                                {
+                                    "text": "куча металлолома"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "compost heap",
+                            "tr": [
+                                {
+                                    "text": "компостная куча"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "heap of ruins",
+                            "tr": [
+                                {
+                                    "text": "груда развалин"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "heap of ashes",
+                            "tr": [
+                                {
+                                    "text": "кучка пепла"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "heap of wheat",
+                            "tr": [
+                                {
+                                    "text": "ворох пшеницы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "heap of stones",
+                            "tr": [
+                                {
+                                    "text": "нагромождение камней"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отвал",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "террикон",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dumps"
+                        },
+                        {
+                            "text": "waste heap"
+                        }
+                    ]
+                },
+                {
+                    "text": "масса",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "mass"
+                        }
+                    ]
+                },
+                {
+                    "text": "гора",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "mountain"
+                        }
+                    ]
+                },
+                {
+                    "text": "завал",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "blockage"
+                        }
+                    ]
+                },
+                {
+                    "text": "динамическая память",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "dynamic memory"
+                        }
+                    ]
+                },
+                {
+                    "text": "помойка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "garbage"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "heap",
+            "pos": "verb",
+            "ts": "hiːp",
+            "tr": [
+                {
+                    "text": "нагромождать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "навалить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "наваливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "громоздить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pile"
+                        }
+                    ]
+                },
+                {
+                    "text": "осыпать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "strew"
+                        }
+                    ]
+                },
+                {
+                    "text": "наворотить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "heap up"
+                        }
+                    ]
+                },
+                {
+                    "text": "завалить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "fill up"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

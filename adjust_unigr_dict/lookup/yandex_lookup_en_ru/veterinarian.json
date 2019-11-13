@@ -1,0 +1,80 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "veterinarian",
+            "pos": "noun",
+            "ts": "vet(ə)rɪˈne(ə)rɪən",
+            "tr": [
+                {
+                    "text": "ветеринарный врач",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "ветеринар",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "ветврач",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "veterinary"
+                        },
+                        {
+                            "text": "vet"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "local veterinarian",
+                            "tr": [
+                                {
+                                    "text": "местный ветеринар"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "chief veterinarian",
+                            "tr": [
+                                {
+                                    "text": "главный ветврач"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "veterinarian",
+            "pos": "adjective",
+            "ts": "vet(ə)rɪˈne(ə)rɪən",
+            "tr": [
+                {
+                    "text": "ветеринарный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "veterinary"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "veterinarian clinic",
+                            "tr": [
+                                {
+                                    "text": "ветеринарная клиника"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

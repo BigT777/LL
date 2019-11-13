@@ -1,0 +1,87 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "mortuary",
+            "pos": "noun",
+            "ts": "ˈmɔːʧʊ(ə)rɪ",
+            "tr": [
+                {
+                    "text": "морг",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "покойницкая",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "morgue"
+                        }
+                    ]
+                },
+                {
+                    "text": "могильник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "burial"
+                        }
+                    ]
+                },
+                {
+                    "text": "мертвецкая",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        },
+        {
+            "text": "mortuary",
+            "pos": "adjective",
+            "ts": "ˈmɔːʧʊ(ə)rɪ",
+            "tr": [
+                {
+                    "text": "погребальный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "похоронный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "заупокойный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "траурный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "funeral"
+                        },
+                        {
+                            "text": "requiem"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "mortuary temple",
+                            "tr": [
+                                {
+                                    "text": "погребальный храм"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

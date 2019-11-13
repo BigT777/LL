@@ -1,0 +1,162 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "basement",
+            "pos": "noun",
+            "ts": "ˈbeɪsmənt",
+            "tr": [
+                {
+                    "text": "подвал",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "цоколь",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "цокольный этаж",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "подвальное помещение",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "подвальный этаж",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "погреб",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "подвальчик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cellar"
+                        },
+                        {
+                            "text": "socle"
+                        },
+                        {
+                            "text": "ground floor"
+                        },
+                        {
+                            "text": "basement room"
+                        },
+                        {
+                            "text": "basement floor"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "basement garage",
+                            "tr": [
+                                {
+                                    "text": "подвал гаража"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "фундамент",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "основание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "foundation"
+                        },
+                        {
+                            "text": "ground"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "concrete basement",
+                            "tr": [
+                                {
+                                    "text": "бетонный фундамент"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "crystalline basement",
+                            "tr": [
+                                {
+                                    "text": "кристаллическое основание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "полуподвальный этаж",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "basement",
+            "pos": "adjective",
+            "ts": "ˈbeɪsmənt",
+            "tr": [
+                {
+                    "text": "подвальный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "полуподвальный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "цокольный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "semibasement"
+                        },
+                        {
+                            "text": "socle"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "basement floor",
+                            "tr": [
+                                {
+                                    "text": "подвальный этаж"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "basement storey",
+                            "tr": [
+                                {
+                                    "text": "цокольный этаж"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

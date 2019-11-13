@@ -1,0 +1,59 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "gargle",
+            "pos": "verb",
+            "ts": "gɑːgl",
+            "tr": [
+                {
+                    "text": "полоскать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "полоскать горло",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "прополоскать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прополоскать рот",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "пополоскать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rinse"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "gargle",
+            "pos": "noun",
+            "ts": "gɑːgl",
+            "tr": [
+                {
+                    "text": "полоскание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "rinse"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

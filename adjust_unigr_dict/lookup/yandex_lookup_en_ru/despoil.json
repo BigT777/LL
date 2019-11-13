@@ -1,0 +1,61 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "despoil",
+            "pos": "verb",
+            "ts": "dɪsˈpɔɪl",
+            "tr": [
+                {
+                    "text": "грабить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ограбить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "расхитить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "plunder"
+                        }
+                    ]
+                },
+                {
+                    "text": "лишать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "лишить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "deprive"
+                        }
+                    ]
+                },
+                {
+                    "text": "обобрать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "gather"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

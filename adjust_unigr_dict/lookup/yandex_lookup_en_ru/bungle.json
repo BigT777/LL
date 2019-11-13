@@ -1,0 +1,87 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "bungle",
+            "pos": "noun",
+            "ts": "bʌŋgl",
+            "tr": [
+                {
+                    "text": "путаница",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "mess"
+                        }
+                    ]
+                },
+                {
+                    "text": "халтура",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "botch"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bungle",
+            "pos": "verb",
+            "ts": "bʌŋgl",
+            "tr": [
+                {
+                    "text": "сварганить",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "запороть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "испортить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "портить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spoil"
+                        }
+                    ]
+                },
+                {
+                    "text": "халтурить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "moonlight"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bungle",
+            "pos": "adverb",
+            "ts": "bʌŋgl",
+            "tr": [
+                {
+                    "text": "неумело",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

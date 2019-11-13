@@ -1,0 +1,71 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "lung",
+            "pos": "noun",
+            "ts": "lʌŋ",
+            "tr": [
+                {
+                    "text": "легкое",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "ex": [
+                        {
+                            "text": "lung disease",
+                            "tr": [
+                                {
+                                    "text": "болезнь легких"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "рак легких",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "болезнь легких",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lung cancer"
+                        },
+                        {
+                            "text": "lung disease"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "lung",
+            "pos": "adjective",
+            "ts": "lʌŋ",
+            "tr": [
+                {
+                    "text": "легочный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "pulmonary"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lung tissue",
+                            "tr": [
+                                {
+                                    "text": "легочная ткань"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

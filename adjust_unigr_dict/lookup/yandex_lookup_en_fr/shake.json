@@ -1,0 +1,66 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "shake",
+            "pos": "verb",
+            "ts": "ʃeɪk",
+            "fl": "shook, shaken",
+            "tr": [
+                {
+                    "text": "secouer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "serrer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "agiter",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "ébranler",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "trembler",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rock"
+                        },
+                        {
+                            "text": "clench"
+                        },
+                        {
+                            "text": "wave"
+                        },
+                        {
+                            "text": "tremble"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "shake",
+            "pos": "noun",
+            "ts": "ʃeɪk",
+            "tr": [
+                {
+                    "text": "secousse",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "quake"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

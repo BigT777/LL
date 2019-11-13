@@ -1,0 +1,77 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "drop",
+            "pos": "noun",
+            "ts": "drɒp",
+            "tr": [
+                {
+                    "text": "baisse",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "fall"
+                        }
+                    ]
+                },
+                {
+                    "text": "goutte",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "chute",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "droplet"
+                        },
+                        {
+                            "text": "fall"
+                        }
+                    ]
+                },
+                {
+                    "text": "déroulante",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "drop",
+            "pos": "verb",
+            "ts": "drɒp",
+            "tr": [
+                {
+                    "text": "tomber",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "déposer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "chuter",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fall"
+                        }
+                    ]
+                },
+                {
+                    "text": "Drop",
+                    "pos": "noun",
+                    "gen": "m"
+                }
+            ]
+        }
+    ]
+}

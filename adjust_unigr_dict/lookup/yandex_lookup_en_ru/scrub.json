@@ -1,0 +1,245 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "scrub",
+            "pos": "verb",
+            "ts": "skrʌb",
+            "tr": [
+                {
+                    "text": "скрести",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "тереть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "драить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "scrape"
+                        },
+                        {
+                            "text": "rub"
+                        },
+                        {
+                            "text": "swab"
+                        }
+                    ]
+                },
+                {
+                    "text": "мыть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вымыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "чистить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "почистить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "стирать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wash"
+                        },
+                        {
+                            "text": "brush"
+                        }
+                    ]
+                },
+                {
+                    "text": "потереть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "протереть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оттирать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "оттереть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rub"
+                        },
+                        {
+                            "text": "wipe"
+                        }
+                    ]
+                },
+                {
+                    "text": "вычистить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "вычищать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clean"
+                        }
+                    ]
+                },
+                {
+                    "text": "отскрести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "scrape"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "scrub",
+            "pos": "noun",
+            "ts": "skrʌb",
+            "tr": [
+                {
+                    "text": "кустарник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "куст",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shrubs"
+                        },
+                        {
+                            "text": "bush"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "low scrub",
+                            "tr": [
+                                {
+                                    "text": "низкий кустарник"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "скраб",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "пилинг",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "peeling"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "salt scrub",
+                            "tr": [
+                                {
+                                    "text": "соляной скраб"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "щетка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "жесткая щетка",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "brush"
+                        }
+                    ]
+                },
+                {
+                    "text": "поросль",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "undergrowth"
+                        }
+                    ]
+                },
+                {
+                    "text": "кустарниковые заросли",
+                    "pos": "noun"
+                },
+                {
+                    "text": "невысокий кустарник",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "scrub",
+            "pos": "adjective",
+            "ts": "skrʌb",
+            "tr": [
+                {
+                    "text": "кустарниковый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "shrub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

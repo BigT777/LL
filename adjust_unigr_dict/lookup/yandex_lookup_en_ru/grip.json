@@ -1,0 +1,287 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "grip",
+            "pos": "noun",
+            "ts": "grɪp",
+            "tr": [
+                {
+                    "text": "захват",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "capture"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "secure grip",
+                            "tr": [
+                                {
+                                    "text": "надежный захват"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "хватка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "тиски",
+                            "pos": "noun",
+                            "gen": "м",
+                            "num": "мн"
+                        },
+                        {
+                            "text": "сцепление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grasp"
+                        },
+                        {
+                            "text": "clutch"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "iron grip",
+                            "tr": [
+                                {
+                                    "text": "железная хватка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mechanical grip",
+                            "tr": [
+                                {
+                                    "text": "механическое сцепление"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ручка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "рукоять",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "рукоятка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "хват",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "handle"
+                        },
+                        {
+                            "text": "hold"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rubber grip",
+                            "tr": [
+                                {
+                                    "text": "резиновая ручка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "reverse grip",
+                            "tr": [
+                                {
+                                    "text": "обратный хват"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сжатие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "compression"
+                        }
+                    ]
+                },
+                {
+                    "text": "власть",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "power"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "good grip",
+                            "tr": [
+                                {
+                                    "text": "хорошая власть"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "объятие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "пожатие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "squeeze"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "grip",
+            "pos": "verb",
+            "ts": "grɪp",
+            "tr": [
+                {
+                    "text": "схватить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "grab"
+                        }
+                    ]
+                },
+                {
+                    "text": "сжать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "сжимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "squeeze"
+                        }
+                    ]
+                },
+                {
+                    "text": "захватывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "seize"
+                        }
+                    ]
+                },
+                {
+                    "text": "зажимать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "зажать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clamp"
+                        }
+                    ]
+                },
+                {
+                    "text": "ухватиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "схватиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grasp"
+                        },
+                        {
+                            "text": "grapple"
+                        }
+                    ]
+                },
+                {
+                    "text": "охватить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "cover"
+                        }
+                    ]
+                },
+                {
+                    "text": "крепко держать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "firmly hold"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "grip",
+            "pos": "adjective",
+            "ts": "grɪp",
+            "tr": [
+                {
+                    "text": "зажимной",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "clamping"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

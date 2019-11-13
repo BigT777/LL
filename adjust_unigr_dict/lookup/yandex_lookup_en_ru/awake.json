@@ -1,0 +1,125 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "awake",
+            "pos": "verb",
+            "ts": "əˈweɪk",
+            "fl": "awaked/awoke, awaked/awoke/awoken",
+            "tr": [
+                {
+                    "text": "проснуться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "просыпаться",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "будить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "разбудить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "очнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wake"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "awake again",
+                            "tr": [
+                                {
+                                    "text": "проснуться снова"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пробуждать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "пробудиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пробудить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пробуждаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "awaken"
+                        }
+                    ]
+                },
+                {
+                    "text": "бодрствовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "не спать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wake"
+                        },
+                        {
+                            "text": "not sleep"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "awake",
+            "pos": "adjective",
+            "ts": "əˈweɪk",
+            "tr": [
+                {
+                    "text": "активный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "vigorous"
+                        }
+                    ]
+                },
+                {
+                    "text": "бодрый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "cheerful"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

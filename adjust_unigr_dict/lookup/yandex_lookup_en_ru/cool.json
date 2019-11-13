@@ -1,0 +1,362 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cool",
+            "pos": "adjective",
+            "ts": "kuːl",
+            "tr": [
+                {
+                    "text": "прохладный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "холодный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "хладнокровный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cold"
+                        },
+                        {
+                            "text": "chilly"
+                        },
+                        {
+                            "text": "calm"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cool weather",
+                            "tr": [
+                                {
+                                    "text": "прохладная погода"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cool sea breeze",
+                            "tr": [
+                                {
+                                    "text": "прохладный морской бриз"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cool dry season",
+                            "tr": [
+                                {
+                                    "text": "прохладный сухой сезон"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cool night air",
+                            "tr": [
+                                {
+                                    "text": "холодный ночной воздух"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cool white light",
+                            "tr": [
+                                {
+                                    "text": "холодный белый свет"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cool gray eyes",
+                            "tr": [
+                                {
+                                    "text": "холодные серые глаза"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "крутой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "классный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "клевый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "прикольный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "крутейший",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "steep"
+                        },
+                        {
+                            "text": "classroom"
+                        },
+                        {
+                            "text": "really cool"
+                        },
+                        {
+                            "text": "funny"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cool dude",
+                            "tr": [
+                                {
+                                    "text": "крутой чувак"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cool idea",
+                            "tr": [
+                                {
+                                    "text": "классная идея"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cool girl",
+                            "tr": [
+                                {
+                                    "text": "прикольная девчонка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отличный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "замечательный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "great"
+                        },
+                        {
+                            "text": "wonderful"
+                        }
+                    ]
+                },
+                {
+                    "text": "интересный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "interesting"
+                        }
+                    ]
+                },
+                {
+                    "text": "холодноватый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "coldish"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cool",
+            "pos": "verb",
+            "ts": "kuːl",
+            "tr": [
+                {
+                    "text": "остыть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "остынуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "остывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "охладиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "охладеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cool down"
+                        },
+                        {
+                            "text": "cold"
+                        }
+                    ]
+                },
+                {
+                    "text": "охлаждать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "охладить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "остудить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "остужать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "chill"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cooling fan",
+                            "tr": [
+                                {
+                                    "text": "охлаждающий вентилятор"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cooled water",
+                            "tr": [
+                                {
+                                    "text": "охлажденная вода"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cool",
+            "pos": "noun",
+            "ts": "kuːl",
+            "tr": [
+                {
+                    "text": "прохлада",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "chill"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "evening cool",
+                            "tr": [
+                                {
+                                    "text": "вечерняя прохлада"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "охлаждение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "остывание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cooling"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "passive cooling system",
+                            "tr": [
+                                {
+                                    "text": "пассивная система охлаждения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "хладнокровие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "composure"
+                        }
+                    ]
+                },
+                {
+                    "text": "крутость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "slope"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cool",
+            "pos": "adverb",
+            "ts": "kuːl",
+            "tr": [
+                {
+                    "text": "классно",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "great"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,440 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "rate",
+            "pos": "noun",
+            "ts": "reɪt",
+            "tr": [
+                {
+                    "text": "ставка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "тариф",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "расценка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "стоимость",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bet"
+                        },
+                        {
+                            "text": "tariff"
+                        },
+                        {
+                            "text": "price"
+                        },
+                        {
+                            "text": "cost"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rate of customs duty",
+                            "tr": [
+                                {
+                                    "text": "ставка таможенной пошлины"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cheap rate",
+                            "tr": [
+                                {
+                                    "text": "дешевый тариф"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "piece rate",
+                            "tr": [
+                                {
+                                    "text": "сдельная расценка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "room rate",
+                            "tr": [
+                                {
+                                    "text": "стоимость номера"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "курс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "course"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "conversion rate",
+                            "tr": [
+                                {
+                                    "text": "обменный курс"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "скорость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "частота",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "speed"
+                        },
+                        {
+                            "text": "frequency"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "data transfer rate",
+                            "tr": [
+                                {
+                                    "text": "скорость передачи данных"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "specific growth rate",
+                            "tr": [
+                                {
+                                    "text": "удельная скорость роста"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "angular rate sensor",
+                            "tr": [
+                                {
+                                    "text": "датчик угловой скорости"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "refresh rate",
+                            "tr": [
+                                {
+                                    "text": "частота обновления"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "коэффициент",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "процент",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "уровень",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "показатель",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "coefficient"
+                        },
+                        {
+                            "text": "percent"
+                        },
+                        {
+                            "text": "level"
+                        },
+                        {
+                            "text": "indicator"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "error rate",
+                            "tr": [
+                                {
+                                    "text": "коэффициент ошибок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lending rate",
+                            "tr": [
+                                {
+                                    "text": "ссудный процент"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "rate of maternal mortality",
+                            "tr": [
+                                {
+                                    "text": "уровень материнской смертности"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "average annual rate",
+                            "tr": [
+                                {
+                                    "text": "среднегодовой показатель"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "темп",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "ритм",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pace"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rate of inflation",
+                            "tr": [
+                                {
+                                    "text": "темп инфляции"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "heart rate monitor",
+                            "tr": [
+                                {
+                                    "text": "монитор сердечного ритма"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "размер",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "amount"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rate of commission",
+                            "tr": [
+                                {
+                                    "text": "размер вознаграждения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "норма",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "norm"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "daily rate",
+                            "tr": [
+                                {
+                                    "text": "суточная норма"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "интенсивность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "intensity"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "evaporation rate",
+                            "tr": [
+                                {
+                                    "text": "интенсивность испарения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "такса",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "fee"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "special rate",
+                            "tr": [
+                                {
+                                    "text": "специальная такса"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "случаи",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "incidence"
+                        }
+                    ]
+                },
+                {
+                    "text": "рейтинг",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "rating"
+                        }
+                    ]
+                },
+                {
+                    "text": "учетная ставка",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "discount rate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "rate",
+            "pos": "verb",
+            "ts": "reɪt",
+            "tr": [
+                {
+                    "text": "оценивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "оценить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "estimate"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rate games",
+                            "tr": [
+                                {
+                                    "text": "оценить игру"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "расклассифицировать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "classify"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "rate",
+            "pos": "adjective",
+            "ts": "reɪt",
+            "tr": [
+                {
+                    "text": "тарифный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "tariff"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rate schedule",
+                            "tr": [
+                                {
+                                    "text": "тарифная сетка"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

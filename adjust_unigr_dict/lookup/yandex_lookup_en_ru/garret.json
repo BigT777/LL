@@ -1,0 +1,86 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "garret",
+            "pos": "noun",
+            "ts": "ˈgærɪt",
+            "tr": [
+                {
+                    "text": "чердак",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "мансарда",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "чердачное помещение",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "attic"
+                        },
+                        {
+                            "text": "attic space"
+                        }
+                    ]
+                },
+                {
+                    "text": "Гаррет",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "каморка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "closet"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "garret",
+            "pos": "adjective",
+            "ts": "ˈgærɪt",
+            "tr": [
+                {
+                    "text": "чердачный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "мансардный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "attic"
+                        },
+                        {
+                            "text": "mansard"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "garret room",
+                            "tr": [
+                                {
+                                    "text": "чердачное помещение"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

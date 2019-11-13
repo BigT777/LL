@@ -1,0 +1,284 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "steal",
+            "pos": "verb",
+            "ts": "stiːl",
+            "fl": "stole, stolen",
+            "tr": [
+                {
+                    "text": "красть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "воровать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "украсть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "стащить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "грабить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "своровать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "спереть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обокрасть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "стырить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rob"
+                        },
+                        {
+                            "text": "pull"
+                        },
+                        {
+                            "text": "filch"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "steal the money",
+                            "tr": [
+                                {
+                                    "text": "красть деньги"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "steal food",
+                            "tr": [
+                                {
+                                    "text": "воровать еду"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "stolen document",
+                            "tr": [
+                                {
+                                    "text": "украденный документ"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "похищать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "похитить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выкрасть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выкрадывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "kidnap"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "stolen property",
+                            "tr": [
+                                {
+                                    "text": "похищенное имущество"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "угнать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "угонять",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hijack"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "stolen car",
+                            "tr": [
+                                {
+                                    "text": "угнанная машина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "забрать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "отнять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "увести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "take away"
+                        }
+                    ]
+                },
+                {
+                    "text": "подкрасться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "подкрадываться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "прокрасться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "creep"
+                        },
+                        {
+                            "text": "sneak"
+                        }
+                    ]
+                },
+                {
+                    "text": "разворовывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разворовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "plunder"
+                        }
+                    ]
+                },
+                {
+                    "text": "наворовать",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "steal",
+            "pos": "noun",
+            "ts": "stiːl",
+            "tr": [
+                {
+                    "text": "воровство",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "кража",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "хищение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "theft"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "stolen information",
+                            "tr": [
+                                {
+                                    "text": "кража информации"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "steal",
+            "pos": "adverb",
+            "ts": "stiːl",
+            "tr": [
+                {
+                    "text": "украдкой",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "sneak"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

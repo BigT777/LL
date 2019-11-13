@@ -1,0 +1,68 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "taxable",
+            "pos": "participle",
+            "ts": "ˈtæksəbl",
+            "tr": [
+                {
+                    "text": "облагаемый налогом",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "облагаемый",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "taxed"
+                        }
+                    ]
+                },
+                {
+                    "text": "подлежащий налогообложению",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "subject to taxation"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "taxable",
+            "pos": "adjective",
+            "ts": "ˈtæksəbl",
+            "tr": [
+                {
+                    "text": "налогооблагаемый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "налоговый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tax"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "taxable income",
+                            "tr": [
+                                {
+                                    "text": "налогооблагаемый доход"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

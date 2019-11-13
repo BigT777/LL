@@ -1,0 +1,56 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "привозить",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "amener",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "apporter",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "porter",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "ramener",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "привезти"
+                        },
+                        {
+                            "text": "приносить"
+                        }
+                    ]
+                },
+                {
+                    "text": "emmener",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "привезти"
+                        }
+                    ]
+                },
+                {
+                    "text": "importer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "ввозить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

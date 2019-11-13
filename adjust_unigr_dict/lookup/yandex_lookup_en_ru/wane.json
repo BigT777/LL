@@ -1,0 +1,211 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "wane",
+            "pos": "verb",
+            "ts": "weɪn",
+            "tr": [
+                {
+                    "text": "уменьшаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "убывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "уменьшиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "снижаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сокращаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "спадать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "diminish"
+                        },
+                        {
+                            "text": "subside"
+                        },
+                        {
+                            "text": "decrease"
+                        },
+                        {
+                            "text": "decline"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "waning moon",
+                            "tr": [
+                                {
+                                    "text": "убывающая луна"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "падать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "идти на убыль",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "decline"
+                        }
+                    ]
+                },
+                {
+                    "text": "ослабевать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ослабнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "ослабеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "слабеть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "weaken"
+                        }
+                    ]
+                },
+                {
+                    "text": "угасать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "угаснуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "таять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "гаснуть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "увядать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "меркнуть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fade away"
+                        },
+                        {
+                            "text": "fade"
+                        },
+                        {
+                            "text": "extinguish"
+                        }
+                    ]
+                },
+                {
+                    "text": "иссякнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "dry up"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "wane",
+            "pos": "noun",
+            "ts": "weɪn",
+            "tr": [
+                {
+                    "text": "спад",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "упадок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "ослабление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "decline"
+                        },
+                        {
+                            "text": "weakening"
+                        }
+                    ]
+                },
+                {
+                    "text": "обзол",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "убыль",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "decrease"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

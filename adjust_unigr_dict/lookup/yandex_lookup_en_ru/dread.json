@@ -1,0 +1,168 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "dread",
+            "pos": "adjective",
+            "ts": "dred",
+            "tr": [
+                {
+                    "text": "страшный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "ужасный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "грозный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dreadful"
+                        },
+                        {
+                            "text": "horrible"
+                        },
+                        {
+                            "text": "menacing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dreaded disease",
+                            "tr": [
+                                {
+                                    "text": "страшная болезнь"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dread",
+            "pos": "verb",
+            "ts": "dred",
+            "tr": [
+                {
+                    "text": "бояться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "страшиться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "опасаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fear"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dread death",
+                            "tr": [
+                                {
+                                    "text": "бояться смерти"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dread",
+            "pos": "noun",
+            "ts": "dred",
+            "tr": [
+                {
+                    "text": "страх",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "боязнь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "опасение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fear"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "superstitious dread",
+                            "tr": [
+                                {
+                                    "text": "суеверный страх"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ужас",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "жуть",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "horror"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "mortal dread",
+                            "tr": [
+                                {
+                                    "text": "смертный ужас"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "трепет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "благоговейный страх",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "awe"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

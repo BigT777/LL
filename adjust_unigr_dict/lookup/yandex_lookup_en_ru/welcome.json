@@ -1,0 +1,363 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "welcome",
+            "pos": "verb",
+            "ts": "ˈwelkəm",
+            "tr": [
+                {
+                    "text": "приветствовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "поприветствовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "привечать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "greet"
+                        }
+                    ]
+                },
+                {
+                    "text": "добро пожаловать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "пожаловать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grant"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "welcome at the hotel",
+                            "tr": [
+                                {
+                                    "text": "пожаловать в отель"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "встретить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "встречать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "meet"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "welcome tourists",
+                            "tr": [
+                                {
+                                    "text": "встречать туристов"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "одобрять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "commend"
+                        }
+                    ]
+                },
+                {
+                    "text": "принять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "принимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "одобрить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "accept"
+                        },
+                        {
+                            "text": "approve"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "welcome visitors",
+                            "tr": [
+                                {
+                                    "text": "принять посетителей"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "приглашать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "пригласить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "invite"
+                        }
+                    ]
+                },
+                {
+                    "text": "ждать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "wait"
+                        }
+                    ]
+                },
+                {
+                    "text": "рады приветствовать",
+                    "pos": "verb"
+                },
+                {
+                    "text": "радушно принимать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "радушно принять",
+                            "pos": "verb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "welcome",
+            "pos": "adjective",
+            "ts": "ˈwelkəm",
+            "tr": [
+                {
+                    "text": "желанный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "долгожданный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "desired"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "welcome guest",
+                            "tr": [
+                                {
+                                    "text": "желанный гость"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "welcome change",
+                            "tr": [
+                                {
+                                    "text": "долгожданное изменение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "приятный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "отрадный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pleasant"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "welcome news",
+                            "tr": [
+                                {
+                                    "text": "приятная новость"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "welcome sign",
+                            "tr": [
+                                {
+                                    "text": "отрадный признак"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "приветственный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "радушный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "welcoming"
+                        },
+                        {
+                            "text": "friendly"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "welcome dinner",
+                            "tr": [
+                                {
+                                    "text": "приветственный ужин"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "welcome",
+            "pos": "noun",
+            "ts": "ˈwelkəm",
+            "tr": [
+                {
+                    "text": "приветствие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "greeting"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "welcome page",
+                            "tr": [
+                                {
+                                    "text": "страница приветствия"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "гостеприимство",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "радушный прием",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hospitality"
+                        },
+                        {
+                            "text": "hearty welcome"
+                        }
+                    ]
+                },
+                {
+                    "text": "прием",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "reception"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "receive a warm welcome",
+                            "tr": [
+                                {
+                                    "text": "получать теплый прием"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "встреча",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "желанный гость",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "welcome guest"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "welcome",
+            "ts": "ˈwelkəm",
+            "tr": [
+                {
+                    "text": "Welcome"
+                }
+            ]
+        }
+    ]
+}

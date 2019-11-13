@@ -1,0 +1,351 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cast",
+            "pos": "verb",
+            "ts": "kɑːst",
+            "fl": "cast, cast",
+            "tr": [
+                {
+                    "text": "отбрасывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "бросать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "бросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отбросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выбросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "ввергнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "низвергнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "набросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "throw"
+                        },
+                        {
+                            "text": "plunge"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cast a shadow",
+                            "tr": [
+                                {
+                                    "text": "отбрасывать тени"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cast stones",
+                            "tr": [
+                                {
+                                    "text": "бросать камни"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cast lots",
+                            "tr": [
+                                {
+                                    "text": "бросить жребий"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cast away",
+                            "tr": [
+                                {
+                                    "text": "отбросить прочь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отлить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mold"
+                        }
+                    ]
+                },
+                {
+                    "text": "отвергнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "reject"
+                        }
+                    ]
+                },
+                {
+                    "text": "выгнать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "expel"
+                        }
+                    ]
+                },
+                {
+                    "text": "подать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "give"
+                        }
+                    ]
+                },
+                {
+                    "text": "закидать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "cast aside"
+                        }
+                    ]
+                },
+                {
+                    "text": "навевать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "blow"
+                        }
+                    ]
+                },
+                {
+                    "text": "наложить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "put"
+                        }
+                    ]
+                },
+                {
+                    "text": "разыгрывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "play"
+                        }
+                    ]
+                },
+                {
+                    "text": "извергнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "spew"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cast",
+            "pos": "noun",
+            "ts": "kɑːst",
+            "tr": [
+                {
+                    "text": "бросание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "отливка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "casting"
+                        }
+                    ]
+                },
+                {
+                    "text": "литье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "casting"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "continuous cast",
+                            "tr": [
+                                {
+                                    "text": "непрерывное литье"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "слепок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "impression"
+                        }
+                    ]
+                },
+                {
+                    "text": "актеры",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "актерский состав",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "исполнители",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cast members"
+                        }
+                    ]
+                },
+                {
+                    "text": "приведение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "bring"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cast operator",
+                            "tr": [
+                                {
+                                    "text": "оператор приведения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "каста",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "caste"
+                        }
+                    ]
+                },
+                {
+                    "text": "повязка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "bandage"
+                        }
+                    ]
+                },
+                {
+                    "text": "труппа",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "troupe"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cast",
+            "pos": "participle",
+            "ts": "kɑːst",
+            "tr": [
+                {
+                    "text": "литой",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "molded"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cast",
+            "pos": "adjective",
+            "ts": "kɑːst",
+            "tr": [
+                {
+                    "text": "литейный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "foundry"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,316 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ease",
+            "pos": "noun",
+            "ts": "iːz",
+            "tr": [
+                {
+                    "text": "легкость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "простота",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "непринужденность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "удобство",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "easy"
+                        },
+                        {
+                            "text": "simplicity"
+                        },
+                        {
+                            "text": "naturalness"
+                        },
+                        {
+                            "text": "convenience"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ease of installation",
+                            "tr": [
+                                {
+                                    "text": "легкость установки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ease of maintenance",
+                            "tr": [
+                                {
+                                    "text": "простота обслуживания"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ease of use",
+                            "tr": [
+                                {
+                                    "text": "удобство эксплуатации"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "облегчение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "упрощение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "relief"
+                        },
+                        {
+                            "text": "simplification"
+                        }
+                    ]
+                },
+                {
+                    "text": "покой",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "rest"
+                        }
+                    ]
+                },
+                {
+                    "text": "ослабление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "weaken"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ease",
+            "pos": "verb",
+            "ts": "iːz",
+            "tr": [
+                {
+                    "text": "облегчать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "облегчить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "facilitate"
+                        },
+                        {
+                            "text": "relieve"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ease the burden",
+                            "tr": [
+                                {
+                                    "text": "облегчить бремя"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ослаблять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ослабить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "ослабнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "ослабевать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "ослабиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "weaken"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ease the pressure",
+                            "tr": [
+                                {
+                                    "text": "ослаблять давление"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ease tensions",
+                            "tr": [
+                                {
+                                    "text": "ослабить напряженность"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "упростить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "упрощать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "simplify"
+                        }
+                    ]
+                },
+                {
+                    "text": "смягчить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "смягчать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "alleviate"
+                        }
+                    ]
+                },
+                {
+                    "text": "расслабиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "relax"
+                        }
+                    ]
+                },
+                {
+                    "text": "успокоить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "успокоиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "calm"
+                        }
+                    ]
+                },
+                {
+                    "text": "потравить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "poison"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ease",
+            "pos": "adjective",
+            "ts": "iːz",
+            "tr": [
+                {
+                    "text": "легкий",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "easy"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ease of access",
+                            "tr": [
+                                {
+                                    "text": "легкий доступ"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "спокойный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "непринужденный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "calm"
+                        },
+                        {
+                            "text": "relaxed"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

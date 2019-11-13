@@ -1,0 +1,71 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "jot",
+            "pos": "noun",
+            "ts": "ʤɒt",
+            "tr": [
+                {
+                    "text": "йота",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "iota"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "jot",
+            "pos": "verb",
+            "ts": "ʤɒt",
+            "tr": [
+                {
+                    "text": "кратко записать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "кратко записывать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "jot down"
+                        }
+                    ]
+                },
+                {
+                    "text": "записывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "записать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "write down"
+                        }
+                    ]
+                },
+                {
+                    "text": "набрасывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "throw"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

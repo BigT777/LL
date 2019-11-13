@@ -1,0 +1,133 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "lag",
+            "pos": "noun",
+            "ts": "læg",
+            "tr": [
+                {
+                    "text": "отставание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "задержка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "запаздывание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "лаг",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "backlog"
+                        },
+                        {
+                            "text": "delay"
+                        },
+                        {
+                            "text": "las"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "economic lag",
+                            "tr": [
+                                {
+                                    "text": "экономическое отставание"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lag time",
+                            "tr": [
+                                {
+                                    "text": "время задержки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lag effect",
+                            "tr": [
+                                {
+                                    "text": "эффект запаздывания"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "зависание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "freeze"
+                        }
+                    ]
+                },
+                {
+                    "text": "инерционность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "inertia"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "lag",
+            "pos": "verb",
+            "ts": "læg",
+            "tr": [
+                {
+                    "text": "отставать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "запаздывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отстать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lag behind"
+                        },
+                        {
+                            "text": "delay"
+                        }
+                    ]
+                },
+                {
+                    "text": "плестись",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "trail"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

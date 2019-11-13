@@ -1,0 +1,83 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sunscreen",
+            "pos": "noun",
+            "ts": "ˈsʌnskriːn",
+            "tr": [
+                {
+                    "text": "солнцезащитный крем",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "солнцезащитные средства",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "солнцезащитное средство",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "солнцезащитный фильтр",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sunblock"
+                        },
+                        {
+                            "text": "sunscreen products"
+                        }
+                    ]
+                },
+                {
+                    "text": "солнцезащитный экран",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "sun shield"
+                        }
+                    ]
+                },
+                {
+                    "text": "солнце",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "sun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sunscreen",
+            "pos": "adjective",
+            "ts": "ˈsʌnskriːn",
+            "tr": [
+                {
+                    "text": "солнцезащитный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "sun"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sunscreen cream",
+                            "tr": [
+                                {
+                                    "text": "солнцезащитный крем"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

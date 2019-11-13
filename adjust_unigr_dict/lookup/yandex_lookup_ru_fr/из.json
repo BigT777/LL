@@ -1,0 +1,75 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "из",
+            "pos": "preposition",
+            "tr": [
+                {
+                    "text": "de",
+                    "pos": "preposition",
+                    "syn": [
+                        {
+                            "text": "en",
+                            "pos": "preposition"
+                        },
+                        {
+                            "text": "avec",
+                            "pos": "preposition"
+                        },
+                        {
+                            "text": "par",
+                            "pos": "preposition"
+                        },
+                        {
+                            "text": "depuis",
+                            "pos": "preposition"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "от"
+                        },
+                        {
+                            "text": "с"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "статьи из Википедии",
+                            "tr": [
+                                {
+                                    "text": "articles de Wikipedia"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "parmi",
+                    "pos": "preposition",
+                    "syn": [
+                        {
+                            "text": "issu",
+                            "pos": "preposition"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "среди"
+                        }
+                    ]
+                },
+                {
+                    "text": "dehors",
+                    "pos": "preposition",
+                    "mean": [
+                        {
+                            "text": "вне"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

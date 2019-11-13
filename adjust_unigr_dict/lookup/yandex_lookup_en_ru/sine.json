@@ -1,0 +1,87 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sine",
+            "pos": "noun",
+            "ts": "saɪn",
+            "tr": [
+                {
+                    "text": "синус",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "арксинус",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sinus"
+                        },
+                        {
+                            "text": "arcsine"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hyperbolic sine",
+                            "tr": [
+                                {
+                                    "text": "гиперболический синус"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "синусоида",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "sinusoid"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sine",
+            "pos": "adjective",
+            "ts": "saɪn",
+            "tr": [
+                {
+                    "text": "синусоидальный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "синусный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sinusoidal"
+                        },
+                        {
+                            "text": "sinus"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sine curve",
+                            "tr": [
+                                {
+                                    "text": "синусоидальная кривая"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

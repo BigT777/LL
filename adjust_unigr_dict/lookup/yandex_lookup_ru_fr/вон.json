@@ -1,0 +1,62 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "вон",
+            "pos": "particle",
+            "tr": [
+                {
+                    "text": "won",
+                    "pos": "particle"
+                },
+                {
+                    "text": "voilà",
+                    "pos": "particle",
+                    "mean": [
+                        {
+                            "text": "вот"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "вон",
+            "pos": "adverb",
+            "tr": [
+                {
+                    "text": "dehors",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "hors",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "наружу"
+                        }
+                    ]
+                },
+                {
+                    "text": "là",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "туда"
+                        }
+                    ]
+                },
+                {
+                    "text": "sortez",
+                    "pos": "adverb"
+                },
+                {
+                    "text": "à la porte",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

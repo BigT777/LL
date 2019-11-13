@@ -1,0 +1,300 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "weight",
+            "pos": "noun",
+            "ts": "weɪt",
+            "tr": [
+                {
+                    "text": "вес",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "масса",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "масса тела",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "weigh"
+                        },
+                        {
+                            "text": "mass"
+                        },
+                        {
+                            "text": "body weight"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "average molecular weight",
+                            "tr": [
+                                {
+                                    "text": "средняя молекулярная масса"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ideal body weight",
+                            "tr": [
+                                {
+                                    "text": "идеальная масса тела"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "груз",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "грузик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cargo"
+                        },
+                        {
+                            "text": "plummet"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dead weight",
+                            "tr": [
+                                {
+                                    "text": "мертвый груз"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тяжесть",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "gravity"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "weight lifting",
+                            "tr": [
+                                {
+                                    "text": "поднятие тяжестей"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "гиря",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "гантель",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "kettlebell"
+                        },
+                        {
+                            "text": "dumbbell"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lead weight",
+                            "tr": [
+                                {
+                                    "text": "свинцовая гиря"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "нагрузка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "load"
+                        }
+                    ]
+                },
+                {
+                    "text": "бремя",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "отягощение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "burden"
+                        }
+                    ]
+                },
+                {
+                    "text": "удельный вес",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "плотность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "density"
+                        }
+                    ]
+                },
+                {
+                    "text": "весы",
+                    "pos": "noun",
+                    "gen": "м",
+                    "num": "мн",
+                    "mean": [
+                        {
+                            "text": "scales"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "divers weights",
+                            "tr": [
+                                {
+                                    "text": "неодинаковые весы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "весовой коэффициент",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "weight coefficient"
+                        }
+                    ]
+                },
+                {
+                    "text": "весовая категория",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "weight category"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "weight",
+            "pos": "verb",
+            "ts": "weɪt",
+            "tr": [
+                {
+                    "text": "весить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "взвесить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "weigh"
+                        }
+                    ]
+                },
+                {
+                    "text": "худеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "lose weight"
+                        }
+                    ]
+                },
+                {
+                    "text": "утяжелять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "утяжелить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "weight",
+            "pos": "adjective",
+            "ts": "weɪt",
+            "tr": [
+                {
+                    "text": "весовой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "weighing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "different weight classes",
+                            "tr": [
+                                {
+                                    "text": "разные весовые категории"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "весомый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "significant"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

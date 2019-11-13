@@ -1,0 +1,204 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "rear",
+            "pos": "adjective",
+            "ts": "rɪə",
+            "tr": [
+                {
+                    "text": "задний",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "тыльный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "тыловой",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "хвостовой",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "back"
+                        },
+                        {
+                            "text": "logistical"
+                        },
+                        {
+                            "text": "tail"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rear side",
+                            "tr": [
+                                {
+                                    "text": "тыльная сторона"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "rear base",
+                            "tr": [
+                                {
+                                    "text": "тыловая база"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "rear",
+            "pos": "noun",
+            "ts": "rɪə",
+            "tr": [
+                {
+                    "text": "тыл",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "арьергард",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "behind"
+                        },
+                        {
+                            "text": "rearguard"
+                        }
+                    ]
+                },
+                {
+                    "text": "задняя сторона",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "зад",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "back"
+                        }
+                    ]
+                },
+                {
+                    "text": "задняя часть",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "хвостовая часть",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "back"
+                        },
+                        {
+                            "text": "tail"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "rear",
+            "pos": "verb",
+            "ts": "rɪə",
+            "tr": [
+                {
+                    "text": "воспитывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "поднимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "растить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поднять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "воспитать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вырастить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "raise"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rear children",
+                            "tr": [
+                                {
+                                    "text": "воспитывать детей"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выращивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разводить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grow"
+                        },
+                        {
+                            "text": "breed"
+                        }
+                    ]
+                },
+                {
+                    "text": "вскормить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "feed"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

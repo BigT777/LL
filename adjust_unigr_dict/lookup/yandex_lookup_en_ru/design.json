@@ -1,0 +1,360 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "design",
+            "pos": "noun",
+            "ts": "dɪˈzaɪn",
+            "tr": [
+                {
+                    "text": "дизайн",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "конструкция",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "конструирование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "style"
+                        },
+                        {
+                            "text": "construction"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "original interior design",
+                            "tr": [
+                                {
+                                    "text": "оригинальный дизайн интерьера"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "graphic design studio",
+                            "tr": [
+                                {
+                                    "text": "студия графического дизайна"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "modular design concept",
+                            "tr": [
+                                {
+                                    "text": "модульная конструкция"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "проект",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "замысел",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "project"
+                        },
+                        {
+                            "text": "plan"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "technical design",
+                            "tr": [
+                                {
+                                    "text": "технический проект"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "grand design",
+                            "tr": [
+                                {
+                                    "text": "великий замысел"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "проектирование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "разработка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "designing"
+                        },
+                        {
+                            "text": "development"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "design process",
+                            "tr": [
+                                {
+                                    "text": "процесс проектирования"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "design time",
+                            "tr": [
+                                {
+                                    "text": "время разработки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "оформление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "decoration"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "artistic design",
+                            "tr": [
+                                {
+                                    "text": "художественное оформление"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "образец",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "sample"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "number of designs",
+                            "tr": [
+                                {
+                                    "text": "числа образцов"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "design",
+            "pos": "verb",
+            "ts": "dɪˈzaɪn",
+            "tr": [
+                {
+                    "text": "проектировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "конструировать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "спроектировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сконструировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "project"
+                        },
+                        {
+                            "text": "construct"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "design the house",
+                            "tr": [
+                                {
+                                    "text": "спроектировать дом"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "разрабатывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разработать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "develop"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "designed algorithm",
+                            "tr": [
+                                {
+                                    "text": "разработанный алгоритм"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "предназначать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "intend"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "design",
+            "pos": "adjective",
+            "ts": "dɪˈzaɪn",
+            "tr": [
+                {
+                    "text": "проектный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "конструкторский",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "project"
+                        },
+                        {
+                            "text": "construction"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "design documentation",
+                            "tr": [
+                                {
+                                    "text": "проектная документация"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "design service life",
+                            "tr": [
+                                {
+                                    "text": "проектный ресурс"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "special design office",
+                            "tr": [
+                                {
+                                    "text": "особое конструкторское бюро"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "own design bureau",
+                            "tr": [
+                                {
+                                    "text": "собственное конструкторское бюро"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дизайнерский",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "designer"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "design solution",
+                            "tr": [
+                                {
+                                    "text": "дизайнерское решение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "конструктивный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "constructive"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "design characteristic",
+                            "tr": [
+                                {
+                                    "text": "конструктивная характеристика"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

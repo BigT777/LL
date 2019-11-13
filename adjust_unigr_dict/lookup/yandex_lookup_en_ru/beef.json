@@ -1,0 +1,149 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "beef",
+            "pos": "noun",
+            "ts": "biːf",
+            "tr": [
+                {
+                    "text": "говядина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "мясо говядины",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "телятина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bovine"
+                        },
+                        {
+                            "text": "veal"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "beef production",
+                            "tr": [
+                                {
+                                    "text": "производство говядины"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "фарш",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "meat"
+                        }
+                    ]
+                },
+                {
+                    "text": "бык",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "bull"
+                        }
+                    ]
+                },
+                {
+                    "text": "бифштекс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "steak"
+                        }
+                    ]
+                },
+                {
+                    "text": "мясной скот",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "beef cattle"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "beef",
+            "pos": "verb",
+            "ts": "biːf",
+            "tr": [
+                {
+                    "text": "жаловаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "complain"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "beef",
+            "pos": "pronoun",
+            "ts": "biːf",
+            "tr": [
+                {
+                    "text": "говяжий",
+                    "pos": "pronoun",
+                    "ex": [
+                        {
+                            "text": "beef tongue",
+                            "tr": [
+                                {
+                                    "text": "говяжий язык"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "beef",
+            "pos": "adjective",
+            "ts": "biːf",
+            "tr": [
+                {
+                    "text": "мясной",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "meat"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "beef broth",
+                            "tr": [
+                                {
+                                    "text": "мясной бульон"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

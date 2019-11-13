@@ -1,0 +1,297 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "assault",
+            "pos": "noun",
+            "ts": "əˈsɔːlt",
+            "tr": [
+                {
+                    "text": "нападение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "нападки",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "посягательство",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "атака",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "разбойное нападение",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "приступ",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "attack"
+                        },
+                        {
+                            "text": "robbery"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "armed assault",
+                            "tr": [
+                                {
+                                    "text": "разбойное нападение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "new assault",
+                            "tr": [
+                                {
+                                    "text": "новое посягательство"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "frontal assault",
+                            "tr": [
+                                {
+                                    "text": "лобовая атака"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "штурм",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "storm"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "final assault",
+                            "tr": [
+                                {
+                                    "text": "последний штурм"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "изнасилование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "насилие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "физическое насилие",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "рукоприкладство",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rape"
+                        },
+                        {
+                            "text": "violence"
+                        },
+                        {
+                            "text": "physical abuse"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sexual assault victims",
+                            "tr": [
+                                {
+                                    "text": "жертвы сексуального насилия"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "наступление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "натиск",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "offensive"
+                        },
+                        {
+                            "text": "onslaught"
+                        }
+                    ]
+                },
+                {
+                    "text": "десант",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "штурмовик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "landing"
+                        },
+                        {
+                            "text": "attack aircraft"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "amphibious assault",
+                            "tr": [
+                                {
+                                    "text": "морской десант"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "оскорбление действием",
+                    "pos": "noun"
+                },
+                {
+                    "text": "словесное оскорбление",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "verbal abuse"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "assault",
+            "pos": "verb",
+            "ts": "əˈsɔːlt",
+            "tr": [
+                {
+                    "text": "атаковать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "напасть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "нападать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "наброситься",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "attack"
+                        }
+                    ]
+                },
+                {
+                    "text": "штурмовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "storm"
+                        }
+                    ]
+                },
+                {
+                    "text": "изнасиловать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "насиловать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rape"
+                        }
+                    ]
+                },
+                {
+                    "text": "оскорблять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "insult"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "assault",
+            "pos": "adjective",
+            "ts": "əˈsɔːlt",
+            "tr": [
+                {
+                    "text": "штурмовой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "attack"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "assault rifle",
+                            "tr": [
+                                {
+                                    "text": "штурмовая винтовка"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,249 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "foul",
+            "pos": "adjective",
+            "ts": "faʊl",
+            "tr": [
+                {
+                    "text": "грязный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "отвратительный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "скверный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "подлый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "омерзительный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "мерзкий",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "гнусный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "дурной",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "паскудный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "filthy"
+                        },
+                        {
+                            "text": "disgusting"
+                        },
+                        {
+                            "text": "bad"
+                        },
+                        {
+                            "text": "vile"
+                        },
+                        {
+                            "text": "nasty"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "foul straw",
+                            "tr": [
+                                {
+                                    "text": "грязная солома"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "foul mood",
+                            "tr": [
+                                {
+                                    "text": "скверное настроение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "foul creatures",
+                            "tr": [
+                                {
+                                    "text": "мерзкие твари"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "foul crime",
+                            "tr": [
+                                {
+                                    "text": "гнусное преступление"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "нечистый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "unclean"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "foul spirit",
+                            "tr": [
+                                {
+                                    "text": "нечистый дух"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вонючий",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "зловонный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "smelly"
+                        },
+                        {
+                            "text": "fetid"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "foul breath",
+                            "tr": [
+                                {
+                                    "text": "зловонное дыхание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "непотребный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "obscene"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "foul",
+            "pos": "verb",
+            "ts": "faʊl",
+            "tr": [
+                {
+                    "text": "нарушать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "нарушать правила",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "violate"
+                        },
+                        {
+                            "text": "break the rules"
+                        }
+                    ]
+                },
+                {
+                    "text": "фолить",
+                    "pos": "verb"
+                },
+                {
+                    "text": "загрязнять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "pollute"
+                        }
+                    ]
+                },
+                {
+                    "text": "гадить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "shit"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "foul",
+            "pos": "noun",
+            "ts": "faʊl",
+            "tr": [
+                {
+                    "text": "сквернословие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "мат",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "profanity"
+                        },
+                        {
+                            "text": "mat"
+                        }
+                    ]
+                },
+                {
+                    "text": "фол",
+                    "pos": "noun",
+                    "gen": "м",
+                    "ex": [
+                        {
+                            "text": "technical foul",
+                            "tr": [
+                                {
+                                    "text": "технический фол"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

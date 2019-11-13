@@ -1,0 +1,88 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "diaper",
+            "pos": "noun",
+            "ts": "ˈdaɪəpə",
+            "tr": [
+                {
+                    "text": "подгузник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "пеленка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "памперс",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "пеленание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "nappy"
+                        },
+                        {
+                            "text": "pampers"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "disposable diaper",
+                            "tr": [
+                                {
+                                    "text": "одноразовый подгузник"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "wet diaper",
+                            "tr": [
+                                {
+                                    "text": "мокрая пеленка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "узорчатая ткань",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "diaper",
+            "pos": "verb",
+            "ts": "ˈdaɪəpə",
+            "tr": [
+                {
+                    "text": "пеленать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "спеленать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "swaddle"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "forbid",
+            "pos": "verb",
+            "ts": "fəˈbɪd",
+            "fl": "forbad/forbade, forbidden",
+            "tr": [
+                {
+                    "text": "запрещать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "воспрещать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "запретить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "воспретить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "prohibit"
+                        },
+                        {
+                            "text": "ban"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "forbid discrimination",
+                            "tr": [
+                                {
+                                    "text": "запрещать дискриминацию"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "forbidden zone",
+                            "tr": [
+                                {
+                                    "text": "запрещенная зона"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "препятствовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "prevent"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

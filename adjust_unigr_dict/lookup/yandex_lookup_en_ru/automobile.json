@@ -1,0 +1,156 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "automobile",
+            "pos": "noun",
+            "ts": "ˈɔːtəməbiːl",
+            "tr": [
+                {
+                    "text": "автомобиль",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "автомашина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "машина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "авто",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "автотранспорт",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "легковой автомобиль",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "car"
+                        },
+                        {
+                            "text": "vehicle"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "passenger automobile",
+                            "tr": [
+                                {
+                                    "text": "легковой автомобиль"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "new automobiles",
+                            "tr": [
+                                {
+                                    "text": "новые автомашины"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "автомобилестроение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "автотехника",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "automotive"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "automobile",
+            "pos": "adjective",
+            "ts": "ˈɔːtəməbiːl",
+            "tr": [
+                {
+                    "text": "автомобильный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "легковой",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "автомобилестроительный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "автотранспортный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "car"
+                        },
+                        {
+                            "text": "automotive"
+                        },
+                        {
+                            "text": "motor"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "automobile plant",
+                            "tr": [
+                                {
+                                    "text": "автомобильный завод"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "international automobile federation",
+                            "tr": [
+                                {
+                                    "text": "международная автомобильная федерация"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "length of automobile roads",
+                            "tr": [
+                                {
+                                    "text": "протяженность автомобильных дорог"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "automobile transport",
+                            "tr": [
+                                {
+                                    "text": "легковой транспорт"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

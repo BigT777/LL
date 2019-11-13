@@ -1,0 +1,301 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cry",
+            "pos": "noun",
+            "ts": "kraɪ",
+            "tr": [
+                {
+                    "text": "крик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "вопль",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "плач",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "клич",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "выкрик",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "возглас",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "восклицание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "scream"
+                        },
+                        {
+                            "text": "weeping"
+                        },
+                        {
+                            "text": "call"
+                        },
+                        {
+                            "text": "shout"
+                        },
+                        {
+                            "text": "exclamation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cry for help",
+                            "tr": [
+                                {
+                                    "text": "крик о помощи"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "shrill cry",
+                            "tr": [
+                                {
+                                    "text": "пронзительный вопль"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "baby cry",
+                            "tr": [
+                                {
+                                    "text": "детский плач"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "battle cry",
+                            "tr": [
+                                {
+                                    "text": "боевой клич"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "loud cry",
+                            "tr": [
+                                {
+                                    "text": "громкий выкрик"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "guttural cries",
+                            "tr": [
+                                {
+                                    "text": "гортанные возгласы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "слезы",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "weeping"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cry",
+            "pos": "verb",
+            "ts": "kraɪ",
+            "tr": [
+                {
+                    "text": "кричать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вопить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "воскликнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "закричать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "крикнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "возопить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вскрикнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "восклицать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выкрикнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прокричать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "завопить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shout"
+                        },
+                        {
+                            "text": "scream"
+                        },
+                        {
+                            "text": "exclaim"
+                        },
+                        {
+                            "text": "cry out"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cry aloud",
+                            "tr": [
+                                {
+                                    "text": "кричать громко"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "плакать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "рыдать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "заплакать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "расплакаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поплакать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оплакивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "зарыдать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разрыдаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "проплакать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "weep"
+                        },
+                        {
+                            "text": "burst into tears"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cry so",
+                            "tr": [
+                                {
+                                    "text": "плакать так"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "взывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вскричать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вопиять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cry out"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

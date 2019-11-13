@@ -1,0 +1,342 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "step",
+            "pos": "noun",
+            "ts": "step",
+            "tr": [
+                {
+                    "text": "шаг",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "move"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "practical step",
+                            "tr": [
+                                {
+                                    "text": "практический шаг"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "take reasonable steps",
+                            "tr": [
+                                {
+                                    "text": "предпринять разумные шаги"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "next logical step",
+                            "tr": [
+                                {
+                                    "text": "следующий логический шаг"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "important step forward",
+                            "tr": [
+                                {
+                                    "text": "важный шаг"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "last few steps",
+                            "tr": [
+                                {
+                                    "text": "последние шаги"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "small step for man",
+                            "tr": [
+                                {
+                                    "text": "маленький шаг для человека"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ступень",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "ступенька",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "стадия",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stage"
+                        },
+                        {
+                            "text": "stair"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bottom step",
+                            "tr": [
+                                {
+                                    "text": "нижняя ступень"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "step height",
+                            "tr": [
+                                {
+                                    "text": "высота ступеньки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "действие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "мера",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "action"
+                        },
+                        {
+                            "text": "measure"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "simple steps",
+                            "tr": [
+                                {
+                                    "text": "несложные действия"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "number of concrete steps",
+                            "tr": [
+                                {
+                                    "text": "ряд конкретных мер"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "этап",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "stage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "step in this process",
+                            "tr": [
+                                {
+                                    "text": "этап этого процесса"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шажок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "short step"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "little step",
+                            "tr": [
+                                {
+                                    "text": "маленький шажок"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "step",
+            "pos": "verb",
+            "ts": "step",
+            "tr": [
+                {
+                    "text": "ступать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "шагать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "шагнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выйти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "ступить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "go"
+                        },
+                        {
+                            "text": "walk"
+                        },
+                        {
+                            "text": "take a step"
+                        },
+                        {
+                            "text": "tread"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "step away",
+                            "tr": [
+                                {
+                                    "text": "шагнуть прочь"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "step outside",
+                            "tr": [
+                                {
+                                    "text": "выйти наружу"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "наступить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "come"
+                        }
+                    ]
+                },
+                {
+                    "text": "отступить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "back"
+                        }
+                    ]
+                },
+                {
+                    "text": "перешагнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "переступить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "overcome"
+                        },
+                        {
+                            "text": "cross"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "step",
+            "pos": "adjective",
+            "ts": "step",
+            "tr": [
+                {
+                    "text": "пошаговый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "ступенчатый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "шаговый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stepping"
+                        },
+                        {
+                            "text": "stage"
+                        },
+                        {
+                            "text": "stepper"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "step",
+            "pos": "adverb",
+            "ts": "step",
+            "tr": [
+                {
+                    "text": "поэтапно",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

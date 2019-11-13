@@ -1,0 +1,259 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "leaf",
+            "pos": "noun",
+            "ts": "liːf",
+            "tr": [
+                {
+                    "text": "лист",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "листок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "листик",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "листочек",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sheet"
+                        },
+                        {
+                            "text": "leaves"
+                        },
+                        {
+                            "text": "leaflet"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "maple leaf",
+                            "tr": [
+                                {
+                                    "text": "кленовый лист"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fig leaf",
+                            "tr": [
+                                {
+                                    "text": "фиговый листок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "green leaf",
+                            "tr": [
+                                {
+                                    "text": "зеленый листик"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mint leaf",
+                            "tr": [
+                                {
+                                    "text": "листочек мяты"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "створка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "sash"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "leaf of the gate",
+                            "tr": [
+                                {
+                                    "text": "створка ворот"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "листва",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "листопад",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "foliage"
+                        },
+                        {
+                            "text": "leaf fall"
+                        }
+                    ]
+                },
+                {
+                    "text": "полотно",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "canvas"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "door leaf",
+                            "tr": [
+                                {
+                                    "text": "дверное полотно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вкладыш",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "liner"
+                        }
+                    ]
+                },
+                {
+                    "text": "фольга",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "foil"
+                        }
+                    ]
+                },
+                {
+                    "text": "лепесток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "petal"
+                        }
+                    ]
+                },
+                {
+                    "text": "табачный лист",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "tobacco leaf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "leaf",
+            "pos": "verb",
+            "ts": "liːf",
+            "tr": [
+                {
+                    "text": "перелистывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "листать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "перелистать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flip"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "leaf",
+            "pos": "adjective",
+            "ts": "liːf",
+            "tr": [
+                {
+                    "text": "листовой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "лиственный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sheet"
+                        },
+                        {
+                            "text": "deciduous"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "loose leaf tea",
+                            "tr": [
+                                {
+                                    "text": "листовой чай"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "leaf area index",
+                            "tr": [
+                                {
+                                    "text": "индекс листовой поверхности"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пластинчатый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "plate"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "browse",
+            "pos": "verb",
+            "ts": "braʊz",
+            "tr": [
+                {
+                    "text": "просматривать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "просмотреть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "view"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "browse the web",
+                            "tr": [
+                                {
+                                    "text": "просматривать интернет"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "объедать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "eat"
+                        }
+                    ]
+                },
+                {
+                    "text": "найти",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выбрать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "find"
+                        },
+                        {
+                            "text": "select"
+                        }
+                    ]
+                },
+                {
+                    "text": "пролистать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "листать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пролистывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "полистать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "scroll"
+                        },
+                        {
+                            "text": "flip"
+                        }
+                    ]
+                },
+                {
+                    "text": "перейти",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "go"
+                        }
+                    ]
+                },
+                {
+                    "text": "пастись",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "browse",
+            "pos": "noun",
+            "ts": "braʊz",
+            "tr": [
+                {
+                    "text": "просмотр",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "обзор",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "view"
+                        },
+                        {
+                            "text": "review"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "browse mode",
+                            "tr": [
+                                {
+                                    "text": "режим просмотра"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "навигация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "navigation"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "dental",
+            "pos": "adjective",
+            "ts": "dentl",
+            "tr": [
+                {
+                    "text": "стоматологический",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "зубоврачебный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "зубной",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "дентальный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "зуботехнический",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stomatological"
+                        },
+                        {
+                            "text": "dental surgery"
+                        },
+                        {
+                            "text": "tooth"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dental clinic",
+                            "tr": [
+                                {
+                                    "text": "стоматологическая клиника"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "dental health care",
+                            "tr": [
+                                {
+                                    "text": "стоматологическая помощь"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "dental school",
+                            "tr": [
+                                {
+                                    "text": "зубоврачебная школа"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "dental laboratory technician",
+                            "tr": [
+                                {
+                                    "text": "зубной техник"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dental",
+            "pos": "noun",
+            "ts": "dentl",
+            "tr": [
+                {
+                    "text": "зуб",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "tooth"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dental surface",
+                            "tr": [
+                                {
+                                    "text": "поверхность зуба"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "стоматология",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "стоматологический кабинет",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dentistry"
+                        },
+                        {
+                            "text": "dental office"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dental surgery",
+                            "tr": [
+                                {
+                                    "text": "хирургическая стоматология"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "стоматолог",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "дантист",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dentist"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dental association",
+                            "tr": [
+                                {
+                                    "text": "ассоциация стоматологов"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

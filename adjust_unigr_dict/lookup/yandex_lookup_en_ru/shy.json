@@ -1,0 +1,191 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "shy",
+            "pos": "adjective",
+            "ts": "ʃaɪ",
+            "tr": [
+                {
+                    "text": "застенчивый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "стеснительный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "робкий",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "пугливый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "стыдливый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "нерешительный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "timid"
+                        },
+                        {
+                            "text": "constraining"
+                        },
+                        {
+                            "text": "bashful"
+                        },
+                        {
+                            "text": "hesitant"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shy person",
+                            "tr": [
+                                {
+                                    "text": "застенчивый человек"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "shy guy",
+                            "tr": [
+                                {
+                                    "text": "стеснительный парень"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "shy people",
+                            "tr": [
+                                {
+                                    "text": "робкий человек"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "shy animals",
+                            "tr": [
+                                {
+                                    "text": "пугливые животные"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "скромный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "humble"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shy girl",
+                            "tr": [
+                                {
+                                    "text": "скромная девочка"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "shy",
+            "pos": "participle",
+            "ts": "ʃaɪ",
+            "tr": [
+                {
+                    "text": "осторожный",
+                    "pos": "participle"
+                },
+                {
+                    "text": "смущенный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "confused"
+                        }
+                    ]
+                },
+                {
+                    "text": "стесняющийся",
+                    "pos": "participle"
+                }
+            ]
+        },
+        {
+            "text": "shy",
+            "pos": "verb",
+            "ts": "ʃaɪ",
+            "tr": [
+                {
+                    "text": "робеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "чураться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "timid"
+                        },
+                        {
+                            "text": "avoid"
+                        }
+                    ]
+                },
+                {
+                    "text": "уклоняться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "evade"
+                        }
+                    ]
+                },
+                {
+                    "text": "смущать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "confuse"
+                        }
+                    ]
+                },
+                {
+                    "text": "шарахнуться",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "пугаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "fear"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

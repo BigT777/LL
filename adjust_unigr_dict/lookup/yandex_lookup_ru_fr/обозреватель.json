@@ -1,0 +1,53 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "обозреватель",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "navigateur",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "браузер"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "окно обозревателя",
+                            "tr": [
+                                {
+                                    "text": "fenêtre de navigateur"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "commentateur",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "rédacteur",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "комментатор"
+                        },
+                        {
+                            "text": "редактор"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sprain",
+            "pos": "noun",
+            "ts": "spreɪn",
+            "tr": [
+                {
+                    "text": "растяжение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "растяжение связок",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "вывих",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stretching"
+                        },
+                        {
+                            "text": "dislocation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sprain of ligaments",
+                            "tr": [
+                                {
+                                    "text": "растяжение связок"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sprain",
+            "pos": "verb",
+            "ts": "spreɪn",
+            "tr": [
+                {
+                    "text": "растягивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "растянуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stretch"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

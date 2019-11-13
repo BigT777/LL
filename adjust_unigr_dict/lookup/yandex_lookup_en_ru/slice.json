@@ -1,0 +1,278 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "slice",
+            "pos": "noun",
+            "ts": "slaɪs",
+            "tr": [
+                {
+                    "text": "ломтик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "ломоть",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "кусочек",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "кусок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "долька",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "piece"
+                        },
+                        {
+                            "text": "chunk"
+                        },
+                        {
+                            "text": "clove"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "slice of lemon peel",
+                            "tr": [
+                                {
+                                    "text": "ломтик лимона"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "thick slice",
+                            "tr": [
+                                {
+                                    "text": "толстый ломоть"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "slice of meat",
+                            "tr": [
+                                {
+                                    "text": "кусочек мяса"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "slice of chocolate cake",
+                            "tr": [
+                                {
+                                    "text": "кусочек торта"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "last slice of bread",
+                            "tr": [
+                                {
+                                    "text": "последний кусок хлеба"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "slice of orange",
+                            "tr": [
+                                {
+                                    "text": "долька апельсина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "часть",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "доля",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "portion"
+                        },
+                        {
+                            "text": "share"
+                        }
+                    ]
+                },
+                {
+                    "text": "срез",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "cut"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "horizontal slice",
+                            "tr": [
+                                {
+                                    "text": "горизонтальный срез"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "фрагмент",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "fragment"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "new slice",
+                            "tr": [
+                                {
+                                    "text": "новый фрагмент"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "слайс",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "пластина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "wafer"
+                        }
+                    ]
+                },
+                {
+                    "text": "слой",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "layer"
+                        }
+                    ]
+                },
+                {
+                    "text": "нарезка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "cutting"
+                        }
+                    ]
+                },
+                {
+                    "text": "сечение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "section"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "slice",
+            "pos": "verb",
+            "ts": "slaɪs",
+            "tr": [
+                {
+                    "text": "нарезать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "разрезать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "порезать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отрезать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "нарезать ломтиками",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "резать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вырезать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "срезать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "рассекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "тонко нарезать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cut"
+                        },
+                        {
+                            "text": "cut into slices"
+                        },
+                        {
+                            "text": "thinly slice"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "slice onions",
+                            "tr": [
+                                {
+                                    "text": "нарезать лук"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

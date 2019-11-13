@@ -1,0 +1,101 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "whimper",
+            "pos": "verb",
+            "ts": "ˈwɪmpə",
+            "tr": [
+                {
+                    "text": "хныкать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "скулить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "захныкать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "заскулить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "стонать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "ныть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "whine"
+                        },
+                        {
+                            "text": "moan"
+                        }
+                    ]
+                },
+                {
+                    "text": "поскуливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "поскулить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "whimper",
+            "pos": "noun",
+            "ts": "ˈwɪmpə",
+            "tr": [
+                {
+                    "text": "хныканье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "нытье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "whimpering"
+                        },
+                        {
+                            "text": "whining"
+                        }
+                    ]
+                },
+                {
+                    "text": "всхлип",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "sob"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "shed",
+            "pos": "noun",
+            "ts": "ʃed",
+            "tr": [
+                {
+                    "text": "сарай",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "навес",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "ангар",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "хлев",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "сарайчик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "barn"
+                        },
+                        {
+                            "text": "canopy"
+                        },
+                        {
+                            "text": "hangar"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "wood shed",
+                            "tr": [
+                                {
+                                    "text": "дровяной сарай"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "wooden shed",
+                            "tr": [
+                                {
+                                    "text": "деревянный навес"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "metal shed",
+                            "tr": [
+                                {
+                                    "text": "металлический ангар"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "депо",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "depot"
+                        }
+                    ]
+                },
+                {
+                    "text": "Шед",
+                    "pos": "noun"
+                },
+                {
+                    "text": "будка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "booth"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "shed",
+            "pos": "verb",
+            "ts": "ʃed",
+            "fl": "shed, shed",
+            "tr": [
+                {
+                    "text": "лить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "проливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пролить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pour"
+                        },
+                        {
+                            "text": "spill"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shed tears",
+                            "tr": [
+                                {
+                                    "text": "лить слезы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сбрасывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "терять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сбросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "потерять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отбросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "скинуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "избавляться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dump"
+                        },
+                        {
+                            "text": "lose"
+                        },
+                        {
+                            "text": "throw"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shed weight",
+                            "tr": [
+                                {
+                                    "text": "потерять вес"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ронять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "drop"
+                        }
+                    ]
+                },
+                {
+                    "text": "линять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "molt"
+                        }
+                    ]
+                },
+                {
+                    "text": "литься",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "излить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pour"
+                        }
+                    ]
+                },
+                {
+                    "text": "источать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "exude"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

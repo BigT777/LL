@@ -1,0 +1,84 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "Bush",
+            "pos": "noun",
+            "ts": "bʊʃ",
+            "tr": [
+                {
+                    "text": "Буш",
+                    "pos": "noun"
+                },
+                {
+                    "text": "кустарник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "куст",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "кустик",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "заросли",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shrubs"
+                        },
+                        {
+                            "text": "shrub"
+                        },
+                        {
+                            "text": "thicket"
+                        }
+                    ]
+                },
+                {
+                    "text": "втулка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "sleeve"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Bush",
+            "pos": "adjective",
+            "ts": "bʊʃ",
+            "tr": [
+                {
+                    "text": "кустарниковый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "кустовой",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shrub"
+                        }
+                    ]
+                },
+                {
+                    "text": "втулочный",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

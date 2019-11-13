@@ -1,0 +1,146 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "pardon",
+            "pos": "noun",
+            "ts": "pɑːdn",
+            "tr": [
+                {
+                    "text": "прощение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "извинение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "помилование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "forgiveness"
+                        },
+                        {
+                            "text": "apology"
+                        },
+                        {
+                            "text": "clemency"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "beg pardon",
+                            "tr": [
+                                {
+                                    "text": "просить прощения"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "presidential pardon",
+                            "tr": [
+                                {
+                                    "text": "президентское помилование"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "амнистия",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "amnesty"
+                        }
+                    ]
+                },
+                {
+                    "text": "индульгенция",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "indulgence"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "pardon",
+            "pos": "verb",
+            "ts": "pɑːdn",
+            "tr": [
+                {
+                    "text": "извинять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "excuse"
+                        }
+                    ]
+                },
+                {
+                    "text": "прощать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "миловать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "простить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "помиловать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "извинить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "просить прощения",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "forgive"
+                        },
+                        {
+                            "text": "mercy"
+                        },
+                        {
+                            "text": "excuse"
+                        }
+                    ]
+                },
+                {
+                    "text": "амнистировать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "amnesty"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "орошать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "irriguer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "arroser",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "asperger",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "оросить"
+                        },
+                        {
+                            "text": "опрыскивать"
+                        }
+                    ]
+                },
+                {
+                    "text": "inonder",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "baigner",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "залить"
+                        },
+                        {
+                            "text": "смачивать"
+                        }
+                    ]
+                },
+                {
+                    "text": "rincer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "промывать"
+                        }
+                    ]
+                },
+                {
+                    "text": "mouiller",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "поливать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

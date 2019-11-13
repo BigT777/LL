@@ -1,0 +1,247 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "notice",
+            "pos": "verb",
+            "ts": "ˈnəʊtɪs",
+            "tr": [
+                {
+                    "text": "замечать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отмечать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "заметить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отметить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обнаружить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подметить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "приметить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подмечать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "note"
+                        },
+                        {
+                            "text": "discover"
+                        },
+                        {
+                            "text": "observe"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "notice the difference",
+                            "tr": [
+                                {
+                                    "text": "замечать разницу"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "уведомлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "уведомить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "notify"
+                        }
+                    ]
+                },
+                {
+                    "text": "обращать внимание",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "обращать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pay attention"
+                        },
+                        {
+                            "text": "pay"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "notice",
+            "pos": "noun",
+            "ts": "ˈnəʊtɪs",
+            "tr": [
+                {
+                    "text": "извещение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "уведомление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "предупреждение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "сообщение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "notification"
+                        },
+                        {
+                            "text": "warning"
+                        },
+                        {
+                            "text": "message"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "written notice",
+                            "tr": [
+                                {
+                                    "text": "письменное извещение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "prior notice",
+                            "tr": [
+                                {
+                                    "text": "предварительное уведомление"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "advance notice",
+                            "tr": [
+                                {
+                                    "text": "предварительное предупреждение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "short notice",
+                            "tr": [
+                                {
+                                    "text": "краткое сообщение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "внимание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "замечание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "note"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "worth notice",
+                            "tr": [
+                                {
+                                    "text": "достойный внимания"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "объявление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "announcement"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "public notice",
+                            "tr": [
+                                {
+                                    "text": "публичное объявление"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "нотис",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "аншлаг",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "full house"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

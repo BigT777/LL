@@ -1,0 +1,69 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "waive",
+            "pos": "verb",
+            "ts": "weɪv",
+            "tr": [
+                {
+                    "text": "отказываться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отказаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "disclaim"
+                        },
+                        {
+                            "text": "refuse"
+                        }
+                    ]
+                },
+                {
+                    "text": "поступиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "поступаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "renounce"
+                        }
+                    ]
+                },
+                {
+                    "text": "отменить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "cancel"
+                        }
+                    ]
+                },
+                {
+                    "text": "уклоняться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "evade"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

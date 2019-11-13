@@ -1,0 +1,89 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "feign",
+            "pos": "verb",
+            "ts": "feɪn",
+            "tr": [
+                {
+                    "text": "притворяться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "притвориться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "делать вид",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "прикидываться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "прикинуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pretend"
+                        }
+                    ]
+                },
+                {
+                    "text": "симулировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "инсценировать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "изображать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "simulate"
+                        },
+                        {
+                            "text": "dramatize"
+                        },
+                        {
+                            "text": "portray"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "feign illness",
+                            "tr": [
+                                {
+                                    "text": "симулировать болезнь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "придумать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "invent"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

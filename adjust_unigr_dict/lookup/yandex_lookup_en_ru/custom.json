@@ -1,0 +1,341 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "custom",
+            "pos": "noun",
+            "ts": "ˈkʌstəm",
+            "tr": [
+                {
+                    "text": "обычай",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "традиция",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tradition"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "local custom",
+                            "tr": [
+                                {
+                                    "text": "местный обычай"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "custom of the church",
+                            "tr": [
+                                {
+                                    "text": "традиция церкви"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "привычка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "обыкновение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "habit"
+                        },
+                        {
+                            "text": "wont"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "old custom",
+                            "tr": [
+                                {
+                                    "text": "старая привычка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "заказ",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "индивидуальный заказ",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "order"
+                        },
+                        {
+                            "text": "individual order"
+                        }
+                    ]
+                },
+                {
+                    "text": "обиход",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "use"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "custom",
+            "pos": "participle",
+            "ts": "ˈkʌstəm",
+            "tr": [
+                {
+                    "text": "изготовленный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "made"
+                        }
+                    ]
+                },
+                {
+                    "text": "настраиваемый",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "customizable"
+                        }
+                    ]
+                },
+                {
+                    "text": "изготовленный на заказ",
+                    "pos": "participle"
+                },
+                {
+                    "text": "специализированный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "special"
+                        }
+                    ]
+                },
+                {
+                    "text": "настроенный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "customized"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "custom",
+            "pos": "adjective",
+            "ts": "ˈkʌstəm",
+            "tr": [
+                {
+                    "text": "пользовательский",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "произвольный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "user"
+                        },
+                        {
+                            "text": "arbitrary"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "custom control",
+                            "tr": [
+                                {
+                                    "text": "пользовательский элемент управления"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "custom user interface",
+                            "tr": [
+                                {
+                                    "text": "пользовательский интерфейс"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "custom color palette",
+                            "tr": [
+                                {
+                                    "text": "пользовательская цветовая палитра"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "custom application development",
+                            "tr": [
+                                {
+                                    "text": "разработка пользовательского приложения"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "custom show",
+                            "tr": [
+                                {
+                                    "text": "произвольный показ"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "нестандартный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "заказной",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "nonstandard"
+                        },
+                        {
+                            "text": "registered"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "custom design",
+                            "tr": [
+                                {
+                                    "text": "нестандартная конструкция"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "custom install",
+                            "tr": [
+                                {
+                                    "text": "заказная установка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "собственный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "индивидуальный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "own"
+                        },
+                        {
+                            "text": "individual"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "custom view",
+                            "tr": [
+                                {
+                                    "text": "собственное представление"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "custom tailoring",
+                            "tr": [
+                                {
+                                    "text": "индивидуальный пошив"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "специальный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "special"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "custom insert",
+                            "tr": [
+                                {
+                                    "text": "специальная вставка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выборочный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "selective"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "custom installation",
+                            "tr": [
+                                {
+                                    "text": "выборочная установка"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "custom",
+            "pos": "adverb",
+            "ts": "ˈkʌstəm",
+            "tr": [
+                {
+                    "text": "на заказ",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "раздавать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "distribuer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "répandre",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "dispenser",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "partager",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "раздать"
+                        },
+                        {
+                            "text": "распространять"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "раздавать брошюры",
+                            "tr": [
+                                {
+                                    "text": "distribuer des brochures"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "donner",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "transmettre",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "отдавать"
+                        },
+                        {
+                            "text": "вручать"
+                        }
+                    ]
+                },
+                {
+                    "text": "servir",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "давать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

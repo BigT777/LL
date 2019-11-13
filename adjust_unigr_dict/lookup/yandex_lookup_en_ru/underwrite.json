@@ -1,0 +1,59 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "underwrite",
+            "pos": "verb",
+            "ts": "ˈʌndəraɪt",
+            "fl": "underwrote, underwritten",
+            "tr": [
+                {
+                    "text": "гарантировать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "guarantee"
+                        }
+                    ]
+                },
+                {
+                    "text": "подписываться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подписаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "subscribe"
+                        }
+                    ]
+                },
+                {
+                    "text": "подписать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "sign"
+                        }
+                    ]
+                },
+                {
+                    "text": "страховать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "insure"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

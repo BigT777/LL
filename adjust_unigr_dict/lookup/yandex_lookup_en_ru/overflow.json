@@ -1,0 +1,233 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "overflow",
+            "pos": "noun",
+            "ts": "ˈəʊvəfləʊ",
+            "tr": [
+                {
+                    "text": "переполнение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "перелив",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "overrun"
+                        },
+                        {
+                            "text": "spillover"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "overflow error",
+                            "tr": [
+                                {
+                                    "text": "ошибка переполнения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "разлив",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "spill"
+                        }
+                    ]
+                },
+                {
+                    "text": "переток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "перетекание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flow"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "overflow",
+            "pos": "verb",
+            "ts": "ˈəʊvəfləʊ",
+            "tr": [
+                {
+                    "text": "переполнять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "переполнить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "переполниться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "захлестнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "переполняться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "захлестывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fill"
+                        },
+                        {
+                            "text": "overfill"
+                        },
+                        {
+                            "text": "overwhelm"
+                        },
+                        {
+                            "text": "sweep"
+                        }
+                    ]
+                },
+                {
+                    "text": "разливаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разлиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spill"
+                        },
+                        {
+                            "text": "flood"
+                        }
+                    ]
+                },
+                {
+                    "text": "переливаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "переливаться через край",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "перелиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flow"
+                        },
+                        {
+                            "text": "overrun"
+                        },
+                        {
+                            "text": "spill over"
+                        }
+                    ]
+                },
+                {
+                    "text": "перетекать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "flow"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "overflow",
+            "pos": "adjective",
+            "ts": "ˈəʊvəfləʊ",
+            "tr": [
+                {
+                    "text": "переливной",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "перепускной",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "сливной",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "overflowing"
+                        },
+                        {
+                            "text": "bypass"
+                        },
+                        {
+                            "text": "drain"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "overflow valve",
+                            "tr": [
+                                {
+                                    "text": "переливной клапан"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "overflow pipe",
+                            "tr": [
+                                {
+                                    "text": "сливная труба"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "водосливный",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

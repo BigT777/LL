@@ -1,0 +1,116 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "rustle",
+            "pos": "verb",
+            "ts": "-rʌs(ə)l",
+            "tr": [
+                {
+                    "text": "шелестеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "шуршать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "зашуршать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прошелестеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пошуршать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "whisper"
+                        }
+                    ]
+                },
+                {
+                    "text": "шуметь",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "make noise"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "rustle",
+            "pos": "noun",
+            "ts": "-rʌs(ə)l",
+            "tr": [
+                {
+                    "text": "шелест",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "шуршание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "шорох",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "шум",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "хруст",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rustling"
+                        },
+                        {
+                            "text": "hum"
+                        },
+                        {
+                            "text": "crunch"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rustle of leaves",
+                            "tr": [
+                                {
+                                    "text": "шелест листвы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "slight rustle",
+                            "tr": [
+                                {
+                                    "text": "легкий шорох"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

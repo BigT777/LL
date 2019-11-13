@@ -1,0 +1,62 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "whet",
+            "pos": "verb",
+            "ts": "wet",
+            "tr": [
+                {
+                    "text": "возбуждать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "возбудить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "arouse"
+                        },
+                        {
+                            "text": "excite"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "whet the appetite",
+                            "tr": [
+                                {
+                                    "text": "возбудить аппетит"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "точить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "sharpen"
+                        }
+                    ]
+                },
+                {
+                    "text": "разжечь",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "kindle"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

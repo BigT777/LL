@@ -1,0 +1,80 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "заземление",
+            "pos": "noun",
+            "gen": "ср",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "terre",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "masse",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "sol",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "грунт"
+                        },
+                        {
+                            "text": "корпус"
+                        },
+                        {
+                            "text": "основание"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "сопротивление заземления",
+                            "tr": [
+                                {
+                                    "text": "résistance de terre"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "провод заземления",
+                            "tr": [
+                                {
+                                    "text": "fils de masse"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "prise de terre",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "заземлитель"
+                        }
+                    ]
+                },
+                {
+                    "text": "connexion de terre",
+                    "pos": "noun"
+                },
+                {
+                    "text": "prise de masse",
+                    "pos": "noun"
+                },
+                {
+                    "text": "mise en terre",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,308 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "grab",
+            "pos": "verb",
+            "ts": "græb",
+            "tr": [
+                {
+                    "text": "захватывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "хватать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "захватить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вцепиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "seize"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "grab the phone",
+                            "tr": [
+                                {
+                                    "text": "хватать телефон"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "grab the flag",
+                            "tr": [
+                                {
+                                    "text": "захватить флаг"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "схватывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "схватить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "ухватить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прихватить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поймать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сцапать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "catch"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "grab a knife",
+                            "tr": [
+                                {
+                                    "text": "схватить нож"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ухватиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "уцепиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grasp"
+                        },
+                        {
+                            "text": "seize"
+                        }
+                    ]
+                },
+                {
+                    "text": "взять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "брать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "забрать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pick up"
+                        },
+                        {
+                            "text": "take"
+                        },
+                        {
+                            "text": "pick"
+                        }
+                    ]
+                },
+                {
+                    "text": "урвать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "отхватить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "хапнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "нахапать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "snatch"
+                        },
+                        {
+                            "text": "snap"
+                        }
+                    ]
+                },
+                {
+                    "text": "привлечь",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "draw"
+                        }
+                    ]
+                },
+                {
+                    "text": "сгрести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "scoop"
+                        }
+                    ]
+                },
+                {
+                    "text": "обхватить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "clasp"
+                        }
+                    ]
+                },
+                {
+                    "text": "прихватывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "take"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "grab",
+            "pos": "noun",
+            "ts": "græb",
+            "tr": [
+                {
+                    "text": "захват",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "capture"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "land grab",
+                            "tr": [
+                                {
+                                    "text": "захват земли"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "грейфер",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "grapple"
+                        }
+                    ]
+                },
+                {
+                    "text": "самосхват",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "подхват",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "дночерпатель",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "grab",
+            "pos": "adjective",
+            "ts": "græb",
+            "tr": [
+                {
+                    "text": "грейферный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "clamshell"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "grab crane",
+                            "tr": [
+                                {
+                                    "text": "грейферный кран"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "grab bucket",
+                            "tr": [
+                                {
+                                    "text": "грейферный ковш"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

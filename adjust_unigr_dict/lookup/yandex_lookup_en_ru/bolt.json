@@ -1,0 +1,268 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "bolt",
+            "pos": "noun",
+            "ts": "bəʊlt",
+            "tr": [
+                {
+                    "text": "болт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "винт",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "болтик",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "шуруп",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "screw"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bolt head",
+                            "tr": [
+                                {
+                                    "text": "головка болта"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "new bolt",
+                            "tr": [
+                                {
+                                    "text": "новый винт"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "засов",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "задвижка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "ригель",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "latch"
+                        },
+                        {
+                            "text": "crossbar"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rusty bolt",
+                            "tr": [
+                                {
+                                    "text": "ржавый засов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "door bolt",
+                            "tr": [
+                                {
+                                    "text": "дверная задвижка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "затвор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "shutter"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rotary bolt",
+                            "tr": [
+                                {
+                                    "text": "поворотный затвор"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "рулон",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "roll"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bolt of silk cloth",
+                            "tr": [
+                                {
+                                    "text": "рулон шелка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шпилька",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "stud"
+                        }
+                    ]
+                },
+                {
+                    "text": "стрела",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "молния",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "arrow"
+                        },
+                        {
+                            "text": "lightning"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "crossbow bolt",
+                            "tr": [
+                                {
+                                    "text": "арбалетная стрела"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шлямбур",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "jumper"
+                        }
+                    ]
+                },
+                {
+                    "text": "запор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "lock"
+                        }
+                    ]
+                },
+                {
+                    "text": "арбалетная стрела",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "crossbow bolt"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bolt",
+            "pos": "verb",
+            "ts": "bəʊlt",
+            "tr": [
+                {
+                    "text": "запереть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "запирать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lock"
+                        }
+                    ]
+                },
+                {
+                    "text": "удрать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "flee"
+                        }
+                    ]
+                },
+                {
+                    "text": "скрепить болтами",
+                    "pos": "verb"
+                },
+                {
+                    "text": "помчаться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "rush"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bolt",
+            "pos": "adjective",
+            "ts": "bəʊlt",
+            "tr": [
+                {
+                    "text": "болтовой",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

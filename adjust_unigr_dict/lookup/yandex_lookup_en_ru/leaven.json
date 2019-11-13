@@ -1,0 +1,82 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "leaven",
+            "pos": "noun",
+            "ts": "levn",
+            "tr": [
+                {
+                    "text": "закваска",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "дрожжи",
+                            "pos": "noun",
+                            "gen": "м",
+                            "num": "мн"
+                        },
+                        {
+                            "text": "опара",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ferment"
+                        },
+                        {
+                            "text": "yeast"
+                        },
+                        {
+                            "text": "dough"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "old leaven",
+                            "tr": [
+                                {
+                                    "text": "старая закваска"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "разрыхлитель",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "leaven",
+            "pos": "adjective",
+            "ts": "levn",
+            "tr": [
+                {
+                    "text": "квасной",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "kvass"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "leavened bread",
+                            "tr": [
+                                {
+                                    "text": "квасной хлеб"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

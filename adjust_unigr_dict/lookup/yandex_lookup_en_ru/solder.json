@@ -1,0 +1,155 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "solder",
+            "pos": "noun",
+            "ts": "hard",
+            "tr": [
+                {
+                    "text": "припой",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "пайка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "паяльник",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "спайка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "soldering"
+                        },
+                        {
+                            "text": "soldering iron"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "silver solder",
+                            "tr": [
+                                {
+                                    "text": "серебряный припой"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "soldering temperature",
+                            "tr": [
+                                {
+                                    "text": "температура пайки"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "solder",
+            "pos": "verb",
+            "ts": "hard",
+            "tr": [
+                {
+                    "text": "паять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "припаять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "спаять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "припаивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "впаять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "запаять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "запаивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "braze"
+                        },
+                        {
+                            "text": "weld"
+                        },
+                        {
+                            "text": "seal"
+                        }
+                    ]
+                },
+                {
+                    "text": "спаивать",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "solder",
+            "pos": "adjective",
+            "ts": "hard",
+            "tr": [
+                {
+                    "text": "паяльный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "паяный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "soldering"
+                        },
+                        {
+                            "text": "brazed"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "solder paste",
+                            "tr": [
+                                {
+                                    "text": "паяльная паста"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

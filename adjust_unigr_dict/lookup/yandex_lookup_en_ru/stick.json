@@ -1,0 +1,350 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "stick",
+            "pos": "verb",
+            "ts": "stɪk",
+            "fl": "stuck, stuck",
+            "tr": [
+                {
+                    "text": "придерживаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "держаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "прилипать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "прилипнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "adhere"
+                        },
+                        {
+                            "text": "hold"
+                        },
+                        {
+                            "text": "cling"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "stick to the rules",
+                            "tr": [
+                                {
+                                    "text": "придерживаться правил"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "stick together",
+                            "tr": [
+                                {
+                                    "text": "держаться вместе"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "втыкать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вставить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вставлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "воткнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "insert"
+                        }
+                    ]
+                },
+                {
+                    "text": "торчать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сунуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "засунуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "высунуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "высовываться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "засовывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stick out"
+                        },
+                        {
+                            "text": "put"
+                        },
+                        {
+                            "text": "shove"
+                        },
+                        {
+                            "text": "protrude"
+                        }
+                    ]
+                },
+                {
+                    "text": "застревать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заклинить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "jam"
+                        }
+                    ]
+                },
+                {
+                    "text": "приклеивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "приклеить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прикрепить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "клеить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "paste"
+                        },
+                        {
+                            "text": "glue"
+                        },
+                        {
+                            "text": "attach"
+                        }
+                    ]
+                },
+                {
+                    "text": "завязнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "mire"
+                        }
+                    ]
+                },
+                {
+                    "text": "остаться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "remain"
+                        }
+                    ]
+                },
+                {
+                    "text": "приставать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "bother"
+                        }
+                    ]
+                },
+                {
+                    "text": "закрепиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "fix"
+                        }
+                    ]
+                },
+                {
+                    "text": "воткнуться",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "stick",
+            "pos": "noun",
+            "ts": "stɪk",
+            "tr": [
+                {
+                    "text": "палка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "палочка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "клюшка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pole"
+                        },
+                        {
+                            "text": "wand"
+                        },
+                        {
+                            "text": "club"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bamboo stick",
+                            "tr": [
+                                {
+                                    "text": "бамбуковая палка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fish stick",
+                            "tr": [
+                                {
+                                    "text": "рыбная палочка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ice hockey sticks",
+                            "tr": [
+                                {
+                                    "text": "хоккейные клюшки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "трость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "тросточка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cane"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "walking stick",
+                            "tr": [
+                                {
+                                    "text": "прогулочная трость"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ручка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "pen"
+                        }
+                    ]
+                },
+                {
+                    "text": "кнут",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "whip"
+                        }
+                    ]
+                },
+                {
+                    "text": "полено",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "log"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

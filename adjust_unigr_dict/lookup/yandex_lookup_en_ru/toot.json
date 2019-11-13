@@ -1,0 +1,56 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "Toot",
+            "pos": "noun",
+            "ts": "tuːt",
+            "tr": [
+                {
+                    "text": "гудок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "horn"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Toot",
+            "pos": "verb",
+            "ts": "tuːt",
+            "tr": [
+                {
+                    "text": "сигналить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "посигналить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "honk"
+                        }
+                    ]
+                },
+                {
+                    "text": "трубить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "trumpet"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

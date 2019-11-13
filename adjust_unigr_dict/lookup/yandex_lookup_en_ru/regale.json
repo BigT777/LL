@@ -1,0 +1,94 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "regale",
+            "pos": "verb",
+            "ts": "rɪˈgeɪl",
+            "tr": [
+                {
+                    "text": "потчевать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "угощать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "угостить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "попотчевать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "treat"
+                        }
+                    ]
+                },
+                {
+                    "text": "полакомиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "лакомиться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "угоститься",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "eat"
+                        }
+                    ]
+                },
+                {
+                    "text": "радовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "gladden"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "regale",
+            "pos": "noun",
+            "ts": "rɪˈgeɪl",
+            "tr": [
+                {
+                    "text": "изысканное блюдо",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "угощение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "treat"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

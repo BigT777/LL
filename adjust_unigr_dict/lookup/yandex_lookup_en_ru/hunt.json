@@ -1,0 +1,239 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "hunt",
+            "pos": "verb",
+            "ts": "hʌnt",
+            "tr": [
+                {
+                    "text": "искать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разыскивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поискать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выискивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "search"
+                        },
+                        {
+                            "text": "seek"
+                        }
+                    ]
+                },
+                {
+                    "text": "охотиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "преследовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поохотиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "заниматься охотой",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "chase"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hunt in packs",
+                            "tr": [
+                                {
+                                    "text": "охотиться стаями"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выследить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выслеживать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "затравить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "track down"
+                        },
+                        {
+                            "text": "track"
+                        },
+                        {
+                            "text": "hound"
+                        }
+                    ]
+                },
+                {
+                    "text": "ловить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "поймать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "catch"
+                        }
+                    ]
+                },
+                {
+                    "text": "гнать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "травить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pursue"
+                        },
+                        {
+                            "text": "poison"
+                        }
+                    ]
+                },
+                {
+                    "text": "рыскать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "scour"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hunt",
+            "pos": "noun",
+            "ts": "hʌnt",
+            "tr": [
+                {
+                    "text": "охота",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "hunting"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "duck hunt",
+                            "tr": [
+                                {
+                                    "text": "утиная охота"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hunt for red october",
+                            "tr": [
+                                {
+                                    "text": "охота за красным октябрем"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Хант",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "поиск",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "searching"
+                        }
+                    ]
+                },
+                {
+                    "text": "травля",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "persecution"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hunt",
+            "pos": "adjective",
+            "ts": "hʌnt",
+            "tr": [
+                {
+                    "text": "охотничий",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "hunting"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hunting reserve",
+                            "tr": [
+                                {
+                                    "text": "охотничий заказник"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

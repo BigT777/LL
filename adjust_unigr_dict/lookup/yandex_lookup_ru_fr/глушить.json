@@ -1,0 +1,39 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "глушить",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "brouiller",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "мешать"
+                        }
+                    ]
+                },
+                {
+                    "text": "étouffer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "éteindre",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "заглушить"
+                        },
+                        {
+                            "text": "заглушать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

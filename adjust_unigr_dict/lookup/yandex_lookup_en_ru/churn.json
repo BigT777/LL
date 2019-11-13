@@ -1,0 +1,132 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "churn",
+            "pos": "noun",
+            "ts": "ʧɜːn",
+            "tr": [
+                {
+                    "text": "маслобойка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "butter churn"
+                        }
+                    ]
+                },
+                {
+                    "text": "отток абонентов",
+                    "pos": "noun"
+                },
+                {
+                    "text": "текучесть",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "turnover"
+                        }
+                    ]
+                },
+                {
+                    "text": "отток абонентской базы",
+                    "pos": "noun"
+                },
+                {
+                    "text": "фляга",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "flask"
+                        }
+                    ]
+                },
+                {
+                    "text": "перемешивание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "stirring"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "churn",
+            "pos": "verb",
+            "ts": "ʧɜːn",
+            "tr": [
+                {
+                    "text": "взбалтывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "взбивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "взбить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shake"
+                        },
+                        {
+                            "text": "whip"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "churn butter",
+                            "tr": [
+                                {
+                                    "text": "взбивать масло"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сбивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "bring down"
+                        }
+                    ]
+                },
+                {
+                    "text": "штамповать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "stamp"
+                        }
+                    ]
+                },
+                {
+                    "text": "вспенить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "foam"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

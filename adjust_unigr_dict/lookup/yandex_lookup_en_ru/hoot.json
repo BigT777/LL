@@ -1,0 +1,113 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "hoot",
+            "pos": "verb",
+            "ts": "huːt",
+            "tr": [
+                {
+                    "text": "гудеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "улюлюкать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "ухать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "свистеть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "buzz"
+                        },
+                        {
+                            "text": "cheer"
+                        },
+                        {
+                            "text": "whistle"
+                        }
+                    ]
+                },
+                {
+                    "text": "гикать",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "кричать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "shout"
+                        }
+                    ]
+                },
+                {
+                    "text": "погудеть",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "hoot",
+            "pos": "noun",
+            "ts": "huːt",
+            "tr": [
+                {
+                    "text": "крик совы",
+                    "pos": "noun"
+                },
+                {
+                    "text": "крик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "shout"
+                        }
+                    ]
+                },
+                {
+                    "text": "уханье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "улюлюканье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "whoop"
+                        }
+                    ]
+                },
+                {
+                    "text": "гудок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "beep"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

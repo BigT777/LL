@@ -1,0 +1,113 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "panic",
+            "pos": "noun",
+            "ts": "ˈpænɪk",
+            "tr": [
+                {
+                    "text": "паника",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "тревога",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "scare"
+                        },
+                        {
+                            "text": "anxiety"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "panic attack",
+                            "tr": [
+                                {
+                                    "text": "приступ паники"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "panic",
+            "pos": "adjective",
+            "ts": "ˈpænɪk",
+            "tr": [
+                {
+                    "text": "панический",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "alarmist"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "patients with panic disorder",
+                            "tr": [
+                                {
+                                    "text": "пациенты с паническим расстройством"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "panic",
+            "pos": "verb",
+            "ts": "ˈpænɪk",
+            "tr": [
+                {
+                    "text": "пугать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "scare"
+                        }
+                    ]
+                },
+                {
+                    "text": "паниковать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "запаниковать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "впадать в панику",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "впасть в панику",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "panick"
+                        },
+                        {
+                            "text": "flap"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

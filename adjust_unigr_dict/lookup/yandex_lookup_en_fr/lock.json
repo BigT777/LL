@@ -1,0 +1,85 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "lock",
+            "pos": "noun",
+            "ts": "lɒk",
+            "tr": [
+                {
+                    "text": "verrouillage",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "verrou",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "Lock",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "écluse",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "blocage",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lockout"
+                        },
+                        {
+                            "text": "keylock"
+                        },
+                        {
+                            "text": "sluice"
+                        },
+                        {
+                            "text": "locking"
+                        }
+                    ]
+                },
+                {
+                    "text": "serrure",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "latch"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "lock",
+            "pos": "verb",
+            "ts": "lɒk",
+            "tr": [
+                {
+                    "text": "verrouiller",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "enfermer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "locking"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

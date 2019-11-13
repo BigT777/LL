@@ -1,0 +1,129 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "vow",
+            "pos": "noun",
+            "ts": "vaʊ",
+            "tr": [
+                {
+                    "text": "обет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "обещание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "зарок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "promise"
+                        },
+                        {
+                            "text": "pledge"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "monastic vow",
+                            "tr": [
+                                {
+                                    "text": "монашеский обет"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "клятва",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "присяга",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "oath"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "solemn vow",
+                            "tr": [
+                                {
+                                    "text": "торжественная клятва"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "vow",
+            "pos": "verb",
+            "ts": "vaʊ",
+            "tr": [
+                {
+                    "text": "клясться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "поклясться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "дать обет",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "дать клятву",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "swear"
+                        },
+                        {
+                            "text": "oath"
+                        }
+                    ]
+                },
+                {
+                    "text": "пообещать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "обещать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "promise"
+                        }
+                    ]
+                },
+                {
+                    "text": "давать обет",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

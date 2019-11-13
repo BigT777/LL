@@ -1,0 +1,126 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "unload",
+            "pos": "verb",
+            "ts": "ʌnˈləʊd",
+            "tr": [
+                {
+                    "text": "разгружать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выгружать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выгрузить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разгрузить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разрядить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разряжать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сгрузить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "discharge"
+                        },
+                        {
+                            "text": "upload"
+                        },
+                        {
+                            "text": "offload"
+                        }
+                    ]
+                },
+                {
+                    "text": "разгрузиться",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "сгружать",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "выгрузиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "disembark"
+                        }
+                    ]
+                },
+                {
+                    "text": "избавляться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "dump"
+                        }
+                    ]
+                },
+                {
+                    "text": "вынимать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "remove"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "unload",
+            "pos": "adjective",
+            "ts": "ʌnˈləʊd",
+            "tr": [
+                {
+                    "text": "разгрузочный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "unloading"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "unloading device",
+                            "tr": [
+                                {
+                                    "text": "разгрузочное устройство"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

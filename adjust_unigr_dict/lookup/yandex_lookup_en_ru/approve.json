@@ -1,0 +1,106 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "approve",
+            "pos": "verb",
+            "ts": "əˈpruːv",
+            "tr": [
+                {
+                    "text": "утверждать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "одобрять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "санкционировать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "утвердить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "одобрить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "endorse"
+                        },
+                        {
+                            "text": "authorize"
+                        },
+                        {
+                            "text": "adopt"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "approved budget",
+                            "tr": [
+                                {
+                                    "text": "утвержденный бюджет"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "approved plan",
+                            "tr": [
+                                {
+                                    "text": "одобренный план"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "принимать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "accept"
+                        }
+                    ]
+                },
+                {
+                    "text": "подтвердить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "подтверждать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "affirm"
+                        },
+                        {
+                            "text": "confirm"
+                        }
+                    ]
+                },
+                {
+                    "text": "апробировать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "test"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "wheat",
+            "pos": "noun",
+            "ts": "wiːt",
+            "tr": [
+                {
+                    "text": "пшеница",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "зерно пшеницы",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "зерно",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "пшено",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grain"
+                        },
+                        {
+                            "text": "wheat grain"
+                        },
+                        {
+                            "text": "millet"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "winter wheat variety",
+                            "tr": [
+                                {
+                                    "text": "сорт озимой пшеницы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "tons of wheat",
+                            "tr": [
+                                {
+                                    "text": "тонн зерна"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сорт пшеницы",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "wheat",
+            "pos": "adjective",
+            "ts": "wiːt",
+            "tr": [
+                {
+                    "text": "пшеничный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "wheaten"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "wheat flour",
+                            "tr": [
+                                {
+                                    "text": "пшеничная мука"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "whole wheat bread",
+                            "tr": [
+                                {
+                                    "text": "пшеничный хлеб"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

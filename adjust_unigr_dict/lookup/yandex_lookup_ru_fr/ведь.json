@@ -1,0 +1,48 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ведь",
+            "pos": "conjunction",
+            "tr": [
+                {
+                    "text": "mais",
+                    "pos": "conjunction",
+                    "syn": [
+                        {
+                            "text": "quand",
+                            "pos": "conjunction"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "но"
+                        },
+                        {
+                            "text": "когда"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ведь",
+            "pos": "particle",
+            "tr": [
+                {
+                    "text": "puisque",
+                    "pos": "particle",
+                    "mean": [
+                        {
+                            "text": "же"
+                        }
+                    ]
+                },
+                {
+                    "text": "pourtant",
+                    "pos": "particle"
+                }
+            ]
+        }
+    ]
+}

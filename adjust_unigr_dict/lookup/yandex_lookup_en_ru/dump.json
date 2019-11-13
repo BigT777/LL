@@ -1,0 +1,275 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "dump",
+            "pos": "noun",
+            "ts": "dʌmp",
+            "tr": [
+                {
+                    "text": "свалка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "помойка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dumping"
+                        },
+                        {
+                            "text": "garbage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "toxic waste dump",
+                            "tr": [
+                                {
+                                    "text": "свалка токсичных отходов"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отвал",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "dumps"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "internal dump",
+                            "tr": [
+                                {
+                                    "text": "внутренний отвал"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дамп",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "core dump"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dump file",
+                            "tr": [
+                                {
+                                    "text": "файл дампа"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "самосвал",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "dump truck"
+                        }
+                    ]
+                },
+                {
+                    "text": "сброс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "reset"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dump valve",
+                            "tr": [
+                                {
+                                    "text": "клапан сброса давления"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dump",
+            "pos": "verb",
+            "ts": "dʌmp",
+            "tr": [
+                {
+                    "text": "сваливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "свалить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "blame"
+                        },
+                        {
+                            "text": "fall down"
+                        }
+                    ]
+                },
+                {
+                    "text": "сбросить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "сбрасывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "бросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выбросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "бросать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выбрасывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "скинуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "throw"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dump the car",
+                            "tr": [
+                                {
+                                    "text": "бросить машину"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "dump the body",
+                            "tr": [
+                                {
+                                    "text": "выбросить тело"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вывалить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "вываливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "ссыпать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spill"
+                        },
+                        {
+                            "text": "throw out"
+                        },
+                        {
+                            "text": "pour"
+                        }
+                    ]
+                },
+                {
+                    "text": "демпинговать",
+                    "pos": "verb"
+                },
+                {
+                    "text": "сливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "merge"
+                        }
+                    ]
+                },
+                {
+                    "text": "избавляться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "shed"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dump",
+            "pos": "adjective",
+            "ts": "dʌmp",
+            "tr": [
+                {
+                    "text": "самосвальный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "dumper"
+                        }
+                    ]
+                },
+                {
+                    "text": "отвальный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "moldboard"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

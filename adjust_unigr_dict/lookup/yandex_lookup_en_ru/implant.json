@@ -1,0 +1,210 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "implant",
+            "pos": "verb",
+            "ts": "ɪmˈplɑːnt",
+            "tr": [
+                {
+                    "text": "имплантировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "вживлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вживить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ]
+                },
+                {
+                    "text": "внедрять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "внедрить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "introduce"
+                        },
+                        {
+                            "text": "embed"
+                        }
+                    ]
+                },
+                {
+                    "text": "насаждать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "насадить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "plant"
+                        }
+                    ]
+                },
+                {
+                    "text": "привить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "внушить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прививать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вселить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "graft"
+                        },
+                        {
+                            "text": "instill"
+                        },
+                        {
+                            "text": "vaccinate"
+                        },
+                        {
+                            "text": "instil"
+                        }
+                    ]
+                },
+                {
+                    "text": "укоренить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "укоренять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "root"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "implant",
+            "pos": "noun",
+            "ts": "ɪmˈplɑːnt",
+            "tr": [
+                {
+                    "text": "имплантат",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "имплантант",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "имплант",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "имплантация",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "эндопротез",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "graft"
+                        },
+                        {
+                            "text": "dental implant"
+                        },
+                        {
+                            "text": "implantation"
+                        },
+                        {
+                            "text": "endoprosthesis"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "breast implant",
+                            "tr": [
+                                {
+                                    "text": "грудной имплантат"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "implant technology",
+                            "tr": [
+                                {
+                                    "text": "технология имплантации"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "внедрение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "introducing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "implant",
+            "pos": "adjective",
+            "ts": "ɪmˈplɑːnt",
+            "tr": [
+                {
+                    "text": "имплантационный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "implantation"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

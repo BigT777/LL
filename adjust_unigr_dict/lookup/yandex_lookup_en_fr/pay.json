@@ -1,0 +1,58 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "pay",
+            "pos": "verb",
+            "ts": "peɪ",
+            "tr": [
+                {
+                    "text": "payer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "verser",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "prêter",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "paying"
+                        },
+                        {
+                            "text": "give"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "pay",
+            "pos": "noun",
+            "ts": "peɪ",
+            "tr": [
+                {
+                    "text": "Pay",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "rémunération",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "payment"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

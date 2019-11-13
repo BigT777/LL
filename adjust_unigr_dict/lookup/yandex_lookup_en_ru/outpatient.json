@@ -1,0 +1,92 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "outpatient",
+            "pos": "noun",
+            "ts": "ˈaʊtpeɪʃnt",
+            "tr": [
+                {
+                    "text": "амбулаторный больной",
+                    "pos": "noun"
+                },
+                {
+                    "text": "поликлиника",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "амбулатория",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "polyclinic"
+                        },
+                        {
+                            "text": "clinic"
+                        }
+                    ]
+                },
+                {
+                    "text": "амбулаторное лечение",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "outpatient treatment"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "outpatient",
+            "pos": "adjective",
+            "ts": "ˈaʊtpeɪʃnt",
+            "tr": [
+                {
+                    "text": "амбулаторный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "поликлинический",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ambulatory"
+                        },
+                        {
+                            "text": "polyclinic"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "outpatient treatment",
+                            "tr": [
+                                {
+                                    "text": "амбулаторное лечение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "outpatient department",
+                            "tr": [
+                                {
+                                    "text": "поликлиническое отделение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "амбулаторно-поликлинический",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

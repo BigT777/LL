@@ -1,0 +1,148 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "hike",
+            "pos": "verb",
+            "ts": "haɪk",
+            "tr": [
+                {
+                    "text": "гулять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "путешествовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "walk"
+                        },
+                        {
+                            "text": "journey"
+                        }
+                    ]
+                },
+                {
+                    "text": "путешествовать пешком",
+                    "pos": "verb"
+                },
+                {
+                    "text": "повысить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "поднять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "повышать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "increase"
+                        },
+                        {
+                            "text": "raise"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hike",
+            "pos": "noun",
+            "ts": "haɪk",
+            "tr": [
+                {
+                    "text": "экскурсия",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "прогулка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "поход",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "турпоход",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "туристический поход",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "excursion"
+                        },
+                        {
+                            "text": "walk"
+                        },
+                        {
+                            "text": "hiking"
+                        },
+                        {
+                            "text": "backpacking"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "short hike",
+                            "tr": [
+                                {
+                                    "text": "короткая экскурсия"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "повышение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "рост",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "подъем",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "подорожание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "increase"
+                        },
+                        {
+                            "text": "rise"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

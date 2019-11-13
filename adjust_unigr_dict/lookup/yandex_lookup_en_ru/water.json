@@ -1,0 +1,268 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "water",
+            "pos": "noun",
+            "ts": "ˈwɔːtə",
+            "tr": [
+                {
+                    "text": "вода",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "водичка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "water supply"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "distilled water",
+                            "tr": [
+                                {
+                                    "text": "дистиллированная вода"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "safe drinking water",
+                            "tr": [
+                                {
+                                    "text": "безопасная питьевая вода"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hot water temperature",
+                            "tr": [
+                                {
+                                    "text": "температура горячей воды"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ground water level",
+                            "tr": [
+                                {
+                                    "text": "уровень грунтовых вод"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "industrial waste water",
+                            "tr": [
+                                {
+                                    "text": "промышленная сточная вода"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "водоем",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "reservoir"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "natural water",
+                            "tr": [
+                                {
+                                    "text": "природный водоем"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "акватория",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "water area"
+                        }
+                    ]
+                },
+                {
+                    "text": "влага",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "moisture"
+                        }
+                    ]
+                },
+                {
+                    "text": "водность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "water content"
+                        }
+                    ]
+                },
+                {
+                    "text": "волны",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "waves"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "water",
+            "pos": "adjective",
+            "ts": "ˈwɔːtə",
+            "tr": [
+                {
+                    "text": "водяной",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "водный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "водопроводный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "водонапорный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "aquatic"
+                        },
+                        {
+                            "text": "tap"
+                        },
+                        {
+                            "text": "elevated"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "water bath",
+                            "tr": [
+                                {
+                                    "text": "водяная баня"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "inland water transport",
+                            "tr": [
+                                {
+                                    "text": "внутренний водный транспорт"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "water resources management",
+                            "tr": [
+                                {
+                                    "text": "управление водными ресурсами"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "state water cadastre",
+                            "tr": [
+                                {
+                                    "text": "государственный водный кадастр"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "water",
+            "pos": "verb",
+            "ts": "ˈwɔːtə",
+            "tr": [
+                {
+                    "text": "поливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "полить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pour"
+                        },
+                        {
+                            "text": "feed"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "water the flowers",
+                            "tr": [
+                                {
+                                    "text": "поливать цветы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "water the sheep",
+                            "tr": [
+                                {
+                                    "text": "поить овец"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "мочить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "намочить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wet"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

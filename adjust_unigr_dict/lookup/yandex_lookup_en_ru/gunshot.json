@@ -1,0 +1,96 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "gunshot",
+            "pos": "adjective",
+            "ts": "ˈgʌnʃɔt",
+            "tr": [
+                {
+                    "text": "огнестрельный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "firearm"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "multiple gunshot wounds",
+                            "tr": [
+                                {
+                                    "text": "многочисленные огнестрельные ранения"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "gunshot",
+            "pos": "noun",
+            "ts": "ˈgʌnʃɔt",
+            "tr": [
+                {
+                    "text": "огнестрельное ранение",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "огнестрельная рана",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "gunshot wound"
+                        }
+                    ]
+                },
+                {
+                    "text": "выстрел",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "пуля",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shot"
+                        },
+                        {
+                            "text": "bullet"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "single gunshot",
+                            "tr": [
+                                {
+                                    "text": "одиночный выстрел"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ружейный выстрел",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "rifle shot"
+                        }
+                    ]
+                },
+                {
+                    "text": "орудийный выстрел",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

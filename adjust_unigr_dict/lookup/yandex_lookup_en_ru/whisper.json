@@ -1,0 +1,168 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "whisper",
+            "pos": "noun",
+            "ts": "ˈwɪspə",
+            "tr": [
+                {
+                    "text": "шепот",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "шорох",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "шелест",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "шуршание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "шепоток",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "whispering"
+                        },
+                        {
+                            "text": "rustle"
+                        },
+                        {
+                            "text": "rustling"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "low whisper",
+                            "tr": [
+                                {
+                                    "text": "тихий шепот"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "stage whisper",
+                            "tr": [
+                                {
+                                    "text": "театральный шепот"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "слух",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "слушок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rumor"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "whisper",
+            "pos": "verb",
+            "ts": "ˈwɪspə",
+            "tr": [
+                {
+                    "text": "шептать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "нашептывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "шептаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "прошептать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "шепнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "зашептать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перешептываться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "нашептать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "murmur"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "whispering gallery",
+                            "tr": [
+                                {
+                                    "text": "шепчущая галерея"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "говорить шепотом",
+                    "pos": "verb"
+                },
+                {
+                    "text": "шуршать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "rustle"
+                        }
+                    ]
+                },
+                {
+                    "text": "шушукаться",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        }
+    ]
+}

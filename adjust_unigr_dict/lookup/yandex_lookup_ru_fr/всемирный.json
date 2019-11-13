@@ -2,6 +2,23 @@
     "head": {},
     "def": [
         {
+            "text": "Всемирный",
+            "pos": "noun",
+            "gen": "м",
+            "tr": [
+                {
+                    "text": "World",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "мировой"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "text": "всемирный",
             "pos": "adjective",
             "tr": [
@@ -46,23 +63,6 @@
                                     "text": "histoire universelle"
                                 }
                             ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "text": "Всемирный",
-            "pos": "noun",
-            "gen": "м",
-            "tr": [
-                {
-                    "text": "World",
-                    "pos": "noun",
-                    "gen": "m",
-                    "mean": [
-                        {
-                            "text": "мировой"
                         }
                     ]
                 }

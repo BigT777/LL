@@ -1,0 +1,115 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "downtown",
+            "pos": "adjective",
+            "ts": "ˈdaʊntaʊn",
+            "tr": [
+                {
+                    "text": "центральный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "center"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "downtown",
+            "pos": "noun",
+            "ts": "ˈdaʊntaʊn",
+            "tr": [
+                {
+                    "text": "деловой район",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "деловой центр города",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "business district"
+                        },
+                        {
+                            "text": "business center"
+                        }
+                    ]
+                },
+                {
+                    "text": "деловая часть города",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "downtown area"
+                        }
+                    ]
+                },
+                {
+                    "text": "центр",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "центр города",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "center"
+                        },
+                        {
+                            "text": "city centre"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "downtown boston",
+                            "tr": [
+                                {
+                                    "text": "центр бостона"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "downtown",
+            "pos": "adverb",
+            "ts": "ˈdaʊntaʊn",
+            "tr": [
+                {
+                    "text": "в центре города",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "в центре",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "in the center"
+                        }
+                    ]
+                },
+                {
+                    "text": "в город",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "into the city"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

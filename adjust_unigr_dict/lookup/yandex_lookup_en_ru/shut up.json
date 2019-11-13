@@ -1,0 +1,81 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "shut up",
+            "pos": "verb",
+            "ts": "ʃʌt ʌp",
+            "tr": [
+                {
+                    "text": "заткнуться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "замолчать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "затыкать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "запирать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "закрыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "закрывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "заколотить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shut"
+                        }
+                    ]
+                },
+                {
+                    "text": "умолкать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "замолкать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "silent"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "shut up",
+            "pos": "interjection",
+            "ts": "ʃʌt ʌp",
+            "tr": [
+                {
+                    "text": "цыц",
+                    "pos": "interjection"
+                }
+            ]
+        }
+    ]
+}

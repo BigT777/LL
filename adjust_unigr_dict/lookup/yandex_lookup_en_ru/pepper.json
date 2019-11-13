@@ -1,0 +1,165 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "pepper",
+            "pos": "noun",
+            "ts": "ˈpepə",
+            "tr": [
+                {
+                    "text": "перец",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "стручковый перец",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "перчик",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "черный перец",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "paprika"
+                        },
+                        {
+                            "text": "capsicum"
+                        },
+                        {
+                            "text": "black pepper"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sweet pepper",
+                            "tr": [
+                                {
+                                    "text": "сладкий перец"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hot red pepper",
+                            "tr": [
+                                {
+                                    "text": "острый красный перец"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ground black pepper",
+                            "tr": [
+                                {
+                                    "text": "черный молотый перец"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "spicy peppers",
+                            "tr": [
+                                {
+                                    "text": "острые перчики"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "перечница",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "pepperbox"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "old pepper",
+                            "tr": [
+                                {
+                                    "text": "старая перечница"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "pepper",
+            "pos": "verb",
+            "ts": "ˈpepə",
+            "tr": [
+                {
+                    "text": "перчить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "поперчить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "посыпать перцем",
+                            "pos": "verb"
+                        }
+                    ]
+                },
+                {
+                    "text": "наперчить",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "pepper",
+            "pos": "adjective",
+            "ts": "ˈpepə",
+            "tr": [
+                {
+                    "text": "перечный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "перцовый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "peppery"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pepper gas",
+                            "tr": [
+                                {
+                                    "text": "перечный газ"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pepper sauce",
+                            "tr": [
+                                {
+                                    "text": "перцовый соус"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,414 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "shoot",
+            "pos": "verb",
+            "ts": "ʃuːt",
+            "fl": "shot, shot",
+            "tr": [
+                {
+                    "text": "стрелять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выстрелить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выстреливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обстреливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fire"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shoot twice",
+                            "tr": [
+                                {
+                                    "text": "выстрелить дважды"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "расстреливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "застрелить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "расстрелять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пристрелить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подстрелить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перестрелять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "execute"
+                        },
+                        {
+                            "text": "kill"
+                        },
+                        {
+                            "text": "shoot down"
+                        },
+                        {
+                            "text": "shot"
+                        },
+                        {
+                            "text": "pick"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shoot a man",
+                            "tr": [
+                                {
+                                    "text": "застрелить человека"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "shoot a deer",
+                            "tr": [
+                                {
+                                    "text": "подстрелить оленя"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "снимать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "снять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "remove"
+                        },
+                        {
+                            "text": "take off"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shoot a film",
+                            "tr": [
+                                {
+                                    "text": "снимать фильм"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "shoot a video",
+                            "tr": [
+                                {
+                                    "text": "снять видео"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "застрелиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "отстреливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пострелять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отстрелить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shoot himself"
+                        },
+                        {
+                            "text": "fire back"
+                        },
+                        {
+                            "text": "do some shooting"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shoot the enemies",
+                            "tr": [
+                                {
+                                    "text": "отстреливать врагов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "shoot a bow",
+                            "tr": [
+                                {
+                                    "text": "пострелять из лука"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сниматься",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сняться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "film"
+                        },
+                        {
+                            "text": "withdraw"
+                        }
+                    ]
+                },
+                {
+                    "text": "прострелить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "простреливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shoot through"
+                        }
+                    ]
+                },
+                {
+                    "text": "бросить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "throw"
+                        }
+                    ]
+                },
+                {
+                    "text": "отснять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "capture"
+                        }
+                    ]
+                },
+                {
+                    "text": "взлететь",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "take off"
+                        }
+                    ]
+                },
+                {
+                    "text": "поснимать",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "отстреляться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "shoot out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "shoot",
+            "pos": "noun",
+            "ts": "ʃuːt",
+            "tr": [
+                {
+                    "text": "побег",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "escape"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "side shoot",
+                            "tr": [
+                                {
+                                    "text": "боковой побег"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "annual shoot",
+                            "tr": [
+                                {
+                                    "text": "однолетний побег"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "росток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "всходы",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sprout"
+                        },
+                        {
+                            "text": "seedling"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tender shoot",
+                            "tr": [
+                                {
+                                    "text": "нежный росток"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "съемка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "расстрел",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shooting"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "night shoot",
+                            "tr": [
+                                {
+                                    "text": "ночная съемка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "всход",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "фотосъемка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "видеосъемка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "photography"
+                        },
+                        {
+                            "text": "video"
+                        }
+                    ]
+                },
+                {
+                    "text": "стрелялка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "shooter"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

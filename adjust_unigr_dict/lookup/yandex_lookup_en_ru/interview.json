@@ -1,0 +1,191 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "interview",
+            "pos": "noun",
+            "ts": "ˈɪntəvjuː",
+            "tr": [
+                {
+                    "text": "интервью",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "беседа",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "собеседование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "встреча",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "интервьюирование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "interviewing"
+                        },
+                        {
+                            "text": "conversation"
+                        },
+                        {
+                            "text": "job interview"
+                        },
+                        {
+                            "text": "appointment"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "telephone interview",
+                            "tr": [
+                                {
+                                    "text": "собеседование по телефону"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "опрос",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "допрос",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "poll"
+                        },
+                        {
+                            "text": "interrogation"
+                        }
+                    ]
+                },
+                {
+                    "text": "проведение интервью",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "проведение собеседования",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "conducting interviews"
+                        }
+                    ]
+                },
+                {
+                    "text": "свидание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "visit"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "last interview",
+                            "tr": [
+                                {
+                                    "text": "последнее свидание"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "interview",
+            "pos": "verb",
+            "ts": "ˈɪntəvjuː",
+            "tr": [
+                {
+                    "text": "интервьюировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "взять интервью",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "брать интервью",
+                            "pos": "verb"
+                        }
+                    ]
+                },
+                {
+                    "text": "давать интервью",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "беседовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "give interviews"
+                        },
+                        {
+                            "text": "talk"
+                        }
+                    ]
+                },
+                {
+                    "text": "опросить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "опрашивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "interrogate"
+                        },
+                        {
+                            "text": "poll"
+                        }
+                    ]
+                },
+                {
+                    "text": "проводить собеседование",
+                    "pos": "verb"
+                },
+                {
+                    "text": "проводить интервью",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "conduct interviews"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

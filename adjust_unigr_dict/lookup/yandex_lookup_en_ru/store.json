@@ -1,0 +1,408 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "store",
+            "pos": "verb",
+            "ts": "stɔː",
+            "tr": [
+                {
+                    "text": "хранить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сохранять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сохранить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "складировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "keep"
+                        },
+                        {
+                            "text": "save"
+                        },
+                        {
+                            "text": "warehouse"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "extended stored procedure",
+                            "tr": [
+                                {
+                                    "text": "расширенная хранимая процедура"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "store heat",
+                            "tr": [
+                                {
+                                    "text": "сохранять тепло"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "store power",
+                            "tr": [
+                                {
+                                    "text": "сохранить власть"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "накапливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "запасать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "accumulate"
+                        },
+                        {
+                            "text": "reserve"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "store fat",
+                            "tr": [
+                                {
+                                    "text": "накапливать жир"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "запоминать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "remember"
+                        }
+                    ]
+                },
+                {
+                    "text": "записать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "record"
+                        }
+                    ]
+                },
+                {
+                    "text": "запасаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "stock up"
+                        }
+                    ]
+                },
+                {
+                    "text": "припасти",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "store",
+            "pos": "noun",
+            "ts": "stɔː",
+            "tr": [
+                {
+                    "text": "магазин",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "лавка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shop"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "jewelry store",
+                            "tr": [
+                                {
+                                    "text": "ювелирный магазин"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sporting goods store",
+                            "tr": [
+                                {
+                                    "text": "магазин спортивных товаров"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "chain store system",
+                            "tr": [
+                                {
+                                    "text": "сеть магазинов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "local grocery store",
+                            "tr": [
+                                {
+                                    "text": "местный продуктовый магазин"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "health food store",
+                            "tr": [
+                                {
+                                    "text": "магазин здоровой пищи"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cell phone store",
+                            "tr": [
+                                {
+                                    "text": "магазин сотовых телефонов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "online music store",
+                            "tr": [
+                                {
+                                    "text": "онлайновый музыкальный магазин"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cigar store",
+                            "tr": [
+                                {
+                                    "text": "табачная лавка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "хранилище",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "накопитель",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "storage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "data store",
+                            "tr": [
+                                {
+                                    "text": "хранилище данных"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "запас",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "stock"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "vast store",
+                            "tr": [
+                                {
+                                    "text": "огромный запас"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "склад",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "warehouse"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cold store",
+                            "tr": [
+                                {
+                                    "text": "холодильный склад"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "хранение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "storage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "camera store",
+                            "tr": [
+                                {
+                                    "text": "камера хранения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "универмаг",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "универсальный магазин",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stores"
+                        },
+                        {
+                            "text": "department store"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "famous department store",
+                            "tr": [
+                                {
+                                    "text": "знаменитый универмаг"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сохранение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "save"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "store operation",
+                            "tr": [
+                                {
+                                    "text": "операция сохранения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "кладовая",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "pantry"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "store",
+            "pos": "foreign word",
+            "ts": "stɔː",
+            "tr": [
+                {
+                    "text": "stores",
+                    "pos": "foreign word"
+                }
+            ]
+        },
+        {
+            "text": "store",
+            "pos": "adjective",
+            "ts": "stɔː",
+            "tr": [
+                {
+                    "text": "магазинный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "shop"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "store card",
+                            "tr": [
+                                {
+                                    "text": "магазинная карточка"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

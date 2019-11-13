@@ -1,0 +1,65 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "коляска",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "poussette",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "landau",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "calèche",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "voiture",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "детская коляска"
+                        },
+                        {
+                            "text": "бричка"
+                        },
+                        {
+                            "text": "повозка"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "прогулочная коляска",
+                            "tr": [
+                                {
+                                    "text": "poussette de bébé"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "voiture d'enfant",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "детская коляска"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

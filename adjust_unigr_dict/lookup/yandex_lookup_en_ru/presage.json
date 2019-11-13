@@ -1,0 +1,69 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "presage",
+            "pos": "verb",
+            "ts": "ˈpresɪʤ",
+            "tr": [
+                {
+                    "text": "предвещать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "предсказать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "foretell"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "presage",
+            "pos": "noun",
+            "ts": "ˈpresɪʤ",
+            "tr": [
+                {
+                    "text": "предзнаменование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "предчувствие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "предвестник",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "предвестие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "portent"
+                        },
+                        {
+                            "text": "presentiment"
+                        },
+                        {
+                            "text": "harbinger"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

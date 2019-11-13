@@ -1,0 +1,424 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "pull",
+            "pos": "verb",
+            "ts": "pʊl",
+            "tr": [
+                {
+                    "text": "тянуть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "натягивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "тащить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вытянуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вытащить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вытаскивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вынуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "натянуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "дергать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вырвать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вырывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "стянуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "стащить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выдергивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "стягивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "оттащить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выхватить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drag"
+                        },
+                        {
+                            "text": "stretch"
+                        },
+                        {
+                            "text": "pull out"
+                        },
+                        {
+                            "text": "take"
+                        },
+                        {
+                            "text": "tug"
+                        },
+                        {
+                            "text": "tear"
+                        },
+                        {
+                            "text": "pull off"
+                        },
+                        {
+                            "text": "tighten"
+                        },
+                        {
+                            "text": "snatch"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pull the cord",
+                            "tr": [
+                                {
+                                    "text": "тянуть за шнур"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pull forward",
+                            "tr": [
+                                {
+                                    "text": "вытянуть вперед"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pull a gun",
+                            "tr": [
+                                {
+                                    "text": "вытащить пистолет"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pull on the reins",
+                            "tr": [
+                                {
+                                    "text": "натянуть поводья"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pull the strings",
+                            "tr": [
+                                {
+                                    "text": "дергать за ниточки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pull teeth",
+                            "tr": [
+                                {
+                                    "text": "вырвать зубы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "потянуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "вытягивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "притянуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оттянуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "draw"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pull upwards",
+                            "tr": [
+                                {
+                                    "text": "потянуть вверх"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дернуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выдернуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "рвануть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отдернуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "yank"
+                        },
+                        {
+                            "text": "jerk"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pull the lever",
+                            "tr": [
+                                {
+                                    "text": "дернуть рычаг"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pull the rug",
+                            "tr": [
+                                {
+                                    "text": "выдернуть ковер"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "достать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "доставать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "get"
+                        }
+                    ]
+                },
+                {
+                    "text": "извлечь",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "вынимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "remove"
+                        }
+                    ]
+                },
+                {
+                    "text": "подтянуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "подтягивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tighten"
+                        },
+                        {
+                            "text": "pull up"
+                        }
+                    ]
+                },
+                {
+                    "text": "вывести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "withdraw"
+                        }
+                    ]
+                },
+                {
+                    "text": "спустить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "drop"
+                        }
+                    ]
+                },
+                {
+                    "text": "отвести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "lead"
+                        }
+                    ]
+                },
+                {
+                    "text": "потянуться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "reach"
+                        }
+                    ]
+                },
+                {
+                    "text": "придвинуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "пододвинуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "move up"
+                        },
+                        {
+                            "text": "push"
+                        }
+                    ]
+                },
+                {
+                    "text": "утягивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "drag away"
+                        }
+                    ]
+                },
+                {
+                    "text": "одергивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "straighten out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "pull",
+            "pos": "noun",
+            "ts": "pʊl",
+            "tr": [
+                {
+                    "text": "тяга",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "thrust"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "gravitational pull",
+                            "tr": [
+                                {
+                                    "text": "гравитационная тяга"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "precondition",
+            "pos": "noun",
+            "ts": "priːkənˈdɪʃn",
+            "tr": [
+                {
+                    "text": "предварительное условие",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "предпосылка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "предусловие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "непременное условие",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "prerequisite"
+                        },
+                        {
+                            "text": "indispensable condition"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "objective precondition",
+                            "tr": [
+                                {
+                                    "text": "объективная предпосылка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "входное условие",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "precondition",
+            "pos": "verb",
+            "ts": "priːkənˈdɪʃn",
+            "tr": [
+                {
+                    "text": "обусловить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "обусловливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "condition"
+                        },
+                        {
+                            "text": "determine"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

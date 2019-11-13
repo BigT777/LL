@@ -1,0 +1,213 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "frost",
+            "pos": "noun",
+            "ts": "frɒst",
+            "tr": [
+                {
+                    "text": "мороз",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "холод",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "морозец",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "стужа",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "сильный мороз",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "moroz"
+                        },
+                        {
+                            "text": "cold"
+                        },
+                        {
+                            "text": "slight frost"
+                        },
+                        {
+                            "text": "severe frost"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "father frost",
+                            "tr": [
+                                {
+                                    "text": "дед мороз"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "killing frost",
+                            "tr": [
+                                {
+                                    "text": "убийственный холод"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "light frost",
+                            "tr": [
+                                {
+                                    "text": "легкий морозец"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "иней",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "изморозь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hoarfrost"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "white frost",
+                            "tr": [
+                                {
+                                    "text": "белый иней"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "заморозки",
+                    "pos": "noun"
+                },
+                {
+                    "text": "замерзание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "промерзание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "замораживание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "freezing"
+                        },
+                        {
+                            "text": "freeze"
+                        }
+                    ]
+                },
+                {
+                    "text": "мерзлота",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "frozen ground"
+                        }
+                    ]
+                },
+                {
+                    "text": "гололед",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "ice"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "frost",
+            "pos": "adjective",
+            "ts": "frɒst",
+            "tr": [
+                {
+                    "text": "морозный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "frosty"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "frost",
+            "pos": "verb",
+            "ts": "frɒst",
+            "tr": [
+                {
+                    "text": "замораживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "freeze"
+                        }
+                    ]
+                },
+                {
+                    "text": "матировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "mat"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "frost",
+            "pos": "participle",
+            "ts": "frɒst",
+            "tr": [
+                {
+                    "text": "матированный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "mat"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

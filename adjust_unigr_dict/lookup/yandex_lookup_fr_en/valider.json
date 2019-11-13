@@ -1,0 +1,54 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "valider",
+            "pos": "verb",
+            "ts": "valide",
+            "tr": [
+                {
+                    "text": "validate",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "validation"
+                        }
+                    ]
+                },
+                {
+                    "text": "confirm",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "verify",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "confirmer"
+                        },
+                        {
+                            "text": "vérifier"
+                        }
+                    ]
+                },
+                {
+                    "text": "approve",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "endorse",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "approuver"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

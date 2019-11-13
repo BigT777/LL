@@ -1,0 +1,282 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "boot",
+            "pos": "noun",
+            "ts": "buːt",
+            "tr": [
+                {
+                    "text": "ботинок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "сапог",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "башмак",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "валенок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "сапожок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shoe"
+                        },
+                        {
+                            "text": "boots"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "leather boot",
+                            "tr": [
+                                {
+                                    "text": "кожаный ботинок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "winter boot",
+                            "tr": [
+                                {
+                                    "text": "зимний сапог"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "heavy boot",
+                            "tr": [
+                                {
+                                    "text": "тяжелый башмак"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "багажник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "багажный отсек",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "trunk"
+                        },
+                        {
+                            "text": "luggage compartment"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "car boot",
+                            "tr": [
+                                {
+                                    "text": "багажник машины"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "запуск",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "загрузка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "загрузка системы",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "загрузка компьютера",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "launch"
+                        },
+                        {
+                            "text": "loading"
+                        },
+                        {
+                            "text": "system boot"
+                        },
+                        {
+                            "text": "boot the computer"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "boot process",
+                            "tr": [
+                                {
+                                    "text": "процесс загрузки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "начальная загрузка",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "bootstrap"
+                        }
+                    ]
+                },
+                {
+                    "text": "бутсы",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "бутса",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "football boots"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "new boots",
+                            "tr": [
+                                {
+                                    "text": "новые бутсы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "бут",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "bout"
+                        }
+                    ]
+                },
+                {
+                    "text": "ботиночек",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "boot",
+            "pos": "verb",
+            "ts": "buːt",
+            "tr": [
+                {
+                    "text": "загрузиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "загрузить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "грузить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "load"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "boot the system",
+                            "tr": [
+                                {
+                                    "text": "загрузить систему"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "загружаться",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "boot",
+            "pos": "adjective",
+            "ts": "buːt",
+            "tr": [
+                {
+                    "text": "загрузочный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "bootable"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "boot disk",
+                            "tr": [
+                                {
+                                    "text": "загрузочный диск"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "master boot record",
+                            "tr": [
+                                {
+                                    "text": "главная загрузочная запись"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "boot sector virus",
+                            "tr": [
+                                {
+                                    "text": "загрузочный вирус"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

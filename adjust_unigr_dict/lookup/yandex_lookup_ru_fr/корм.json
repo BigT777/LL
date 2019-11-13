@@ -1,0 +1,86 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "корм",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "fourrage",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "aliment",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "nourriture",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "pâture",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "корма"
+                        },
+                        {
+                            "text": "еда"
+                        },
+                        {
+                            "text": "кормление"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "зеленый корм",
+                            "tr": [
+                                {
+                                    "text": "fourrage vert"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "корм для собак",
+                            "tr": [
+                                {
+                                    "text": "aliment pour chiens"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "корм для животных",
+                            "tr": [
+                                {
+                                    "text": "nourriture pour animaux"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "aliment du bétail",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "кормовой продукт"
+                        }
+                    ]
+                },
+                {
+                    "text": "pâtée",
+                    "pos": "noun",
+                    "gen": "f"
+                }
+            ]
+        }
+    ]
+}

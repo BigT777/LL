@@ -1,0 +1,132 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "edit",
+            "pos": "verb",
+            "ts": "ˈedɪt",
+            "tr": [
+                {
+                    "text": "редактировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отредактировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "править",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "modify"
+                        },
+                        {
+                            "text": "govern"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "edit table",
+                            "tr": [
+                                {
+                                    "text": "редактировать таблицу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "edited program",
+                            "tr": [
+                                {
+                                    "text": "отредактированная программа"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "монтировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "смонтировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mount"
+                        }
+                    ]
+                },
+                {
+                    "text": "изменить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "изменять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "корректировать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "change"
+                        },
+                        {
+                            "text": "adjust"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "edit content",
+                            "tr": [
+                                {
+                                    "text": "изменить содержимое"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "edit text",
+                            "tr": [
+                                {
+                                    "text": "изменять текст"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "издавать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "издать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "publish"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

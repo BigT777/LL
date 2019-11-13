@@ -1,0 +1,159 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "telephone",
+            "pos": "noun",
+            "ts": "ˈtelɪfəʊn",
+            "tr": [
+                {
+                    "text": "телефон",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "телефонный аппарат",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "phone"
+                        }
+                    ]
+                },
+                {
+                    "text": "телефонная связь",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "телефония",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "telephony"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "telephone",
+            "pos": "verb",
+            "ts": "ˈtelɪfəʊn",
+            "tr": [
+                {
+                    "text": "звонить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "позвонить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "call"
+                        },
+                        {
+                            "text": "phone"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "telephone the police",
+                            "tr": [
+                                {
+                                    "text": "позвонить в полицию"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "телефонировать",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "telephone",
+            "pos": "adjective",
+            "ts": "ˈtelɪfəʊn",
+            "tr": [
+                {
+                    "text": "телефонный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "phone"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "switched telephone network",
+                            "tr": [
+                                {
+                                    "text": "коммутируемая телефонная сеть"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "analog telephone line",
+                            "tr": [
+                                {
+                                    "text": "аналоговая телефонная линия"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "automatic telephone exchange",
+                            "tr": [
+                                {
+                                    "text": "автоматическая телефонная станция"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "telephone answering machine",
+                            "tr": [
+                                {
+                                    "text": "телефонный автоответчик"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "recorded telephone conversation",
+                            "tr": [
+                                {
+                                    "text": "запись телефонного разговора"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "anonymous telephone call",
+                            "tr": [
+                                {
+                                    "text": "анонимный телефонный звонок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "red telephone box",
+                            "tr": [
+                                {
+                                    "text": "красная телефонная будка"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

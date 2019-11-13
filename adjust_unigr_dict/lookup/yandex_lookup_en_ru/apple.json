@@ -1,0 +1,103 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "apple",
+            "pos": "noun",
+            "ts": "æpl",
+            "tr": [
+                {
+                    "text": "яблоко",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "яблочко",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pome"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "green apple",
+                            "tr": [
+                                {
+                                    "text": "зеленое яблоко"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "golden apples",
+                            "tr": [
+                                {
+                                    "text": "золотые яблочки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "корпорация Apple",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "apple",
+            "pos": "adjective",
+            "ts": "æpl",
+            "tr": [
+                {
+                    "text": "яблочный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "яблоневый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fresh apple juice",
+                            "tr": [
+                                {
+                                    "text": "свежий яблочный сок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hot apple pie",
+                            "tr": [
+                                {
+                                    "text": "горячий яблочный пирог"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "apple orchard",
+                            "tr": [
+                                {
+                                    "text": "яблоневый сад"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "apple",
+            "ts": "æpl",
+            "tr": [
+                {
+                    "text": "Apple"
+                }
+            ]
+        }
+    ]
+}

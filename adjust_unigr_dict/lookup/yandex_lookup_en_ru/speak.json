@@ -1,0 +1,307 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "speak",
+            "pos": "verb",
+            "ts": "spiːk",
+            "fl": "spake/spoke, spoken",
+            "tr": [
+                {
+                    "text": "говорить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сказать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разговаривать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поговорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "заговорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "рассказать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "рассказывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "произнести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "беседовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "произносить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "проговорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "переговорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "рассуждать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "заговаривать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "проговаривать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "say"
+                        },
+                        {
+                            "text": "talk"
+                        },
+                        {
+                            "text": "tell"
+                        },
+                        {
+                            "text": "accost"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "speak the truth",
+                            "tr": [
+                                {
+                                    "text": "говорить правду"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "speak very well",
+                            "tr": [
+                                {
+                                    "text": "говорить очень хорошо"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "often speak",
+                            "tr": [
+                                {
+                                    "text": "часто говорить"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "speak truly",
+                            "tr": [
+                                {
+                                    "text": "сказать правду"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "speak by phone",
+                            "tr": [
+                                {
+                                    "text": "разговаривать по телефону"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "speak privately",
+                            "tr": [
+                                {
+                                    "text": "поговорить наедине"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "spoken word",
+                            "tr": [
+                                {
+                                    "text": "произнесенное слово"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "speak words",
+                            "tr": [
+                                {
+                                    "text": "произносить слова"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выступать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выступить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "act"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "speak in public",
+                            "tr": [
+                                {
+                                    "text": "выступать публично"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "свидетельствовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "testify"
+                        }
+                    ]
+                },
+                {
+                    "text": "упоминать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "mention"
+                        }
+                    ]
+                },
+                {
+                    "text": "высказаться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "высказывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "высказать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "изъясняться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "speak out"
+                        },
+                        {
+                            "text": "express"
+                        }
+                    ]
+                },
+                {
+                    "text": "обращаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обратиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "contact"
+                        },
+                        {
+                            "text": "ask"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "speak directly",
+                            "tr": [
+                                {
+                                    "text": "обратиться непосредственно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "владеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "own"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "speak foreign languages",
+                            "tr": [
+                                {
+                                    "text": "владеть иностранным языком"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "объяснять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "explain"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

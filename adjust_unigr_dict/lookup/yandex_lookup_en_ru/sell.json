@@ -1,0 +1,230 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sell",
+            "pos": "verb",
+            "ts": "sel",
+            "fl": "sold, sold",
+            "tr": [
+                {
+                    "text": "продавать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "торговать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "продать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "распродавать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "продаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sale"
+                        },
+                        {
+                            "text": "trade"
+                        },
+                        {
+                            "text": "buy"
+                        },
+                        {
+                            "text": "sell out"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sell newspapers",
+                            "tr": [
+                                {
+                                    "text": "продавать газеты"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sell drugs",
+                            "tr": [
+                                {
+                                    "text": "торговать наркотиками"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sell shares",
+                            "tr": [
+                                {
+                                    "text": "продать акции"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "реализовать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "реализовывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "implement"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sell over",
+                            "tr": [
+                                {
+                                    "text": "реализовать более"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sell products",
+                            "tr": [
+                                {
+                                    "text": "реализовывать продукцию"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сбыть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "сбывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dispose"
+                        },
+                        {
+                            "text": "market"
+                        }
+                    ]
+                },
+                {
+                    "text": "поставлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "deliver"
+                        }
+                    ]
+                },
+                {
+                    "text": "предать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "betray"
+                        }
+                    ]
+                },
+                {
+                    "text": "отпускать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "let"
+                        }
+                    ]
+                },
+                {
+                    "text": "раскупаться",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "sell",
+            "pos": "noun",
+            "ts": "sel",
+            "tr": [
+                {
+                    "text": "реализация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "сбыт",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "продажа",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sale"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sell well",
+                            "tr": [
+                                {
+                                    "text": "иметь хороший сбыт"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sell order",
+                            "tr": [
+                                {
+                                    "text": "распоряжение о продаже"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "надувательство",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "swindle"
+                        }
+                    ]
+                },
+                {
+                    "text": "Селл",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "wrap",
+            "pos": "verb",
+            "ts": "ræp",
+            "tr": [
+                {
+                    "text": "envelopper",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "enrouler",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wrapping"
+                        },
+                        {
+                            "text": "curl"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "wrap",
+            "pos": "noun",
+            "ts": "ræp",
+            "tr": [
+                {
+                    "text": "enveloppement",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "pack"
+                        }
+                    ]
+                },
+                {
+                    "text": "pellicule",
+                    "pos": "noun",
+                    "gen": "f"
+                }
+            ]
+        }
+    ]
+}

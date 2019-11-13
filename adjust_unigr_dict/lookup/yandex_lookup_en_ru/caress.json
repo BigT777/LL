@@ -1,0 +1,118 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "caress",
+            "pos": "verb",
+            "ts": "kəˈres",
+            "tr": [
+                {
+                    "text": "ласкать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "гладить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "погладить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "приласкать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поласкать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обласкать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fondle"
+                        },
+                        {
+                            "text": "stroke"
+                        },
+                        {
+                            "text": "snuggle"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "caress",
+            "pos": "noun",
+            "ts": "kəˈres",
+            "tr": [
+                {
+                    "text": "ласка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "нежность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "affection"
+                        },
+                        {
+                            "text": "tenderness"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "gentle caress",
+                            "tr": [
+                                {
+                                    "text": "нежная ласка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "поглаживание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "stroke"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "caress",
+            "pos": "adjective",
+            "ts": "kəˈres",
+            "tr": [
+                {
+                    "text": "ласковый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "tender"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

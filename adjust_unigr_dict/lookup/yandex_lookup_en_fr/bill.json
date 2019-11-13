@@ -1,0 +1,63 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "bill",
+            "pos": "noun",
+            "ts": "bɪl",
+            "tr": [
+                {
+                    "text": "loi",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "facture",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "Bill",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "statute"
+                        },
+                        {
+                            "text": "invoice"
+                        }
+                    ]
+                },
+                {
+                    "text": "facturation",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "invoice"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bill",
+            "pos": "verb",
+            "ts": "bɪl",
+            "tr": [
+                {
+                    "text": "facturer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "charge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

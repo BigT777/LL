@@ -1,0 +1,82 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "look",
+            "pos": "verb",
+            "ts": "lʊk",
+            "tr": [
+                {
+                    "text": "regarder",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "ressembler",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "watch"
+                        },
+                        {
+                            "text": "sound"
+                        }
+                    ]
+                },
+                {
+                    "text": "chercher",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "rechercher",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "search"
+                        },
+                        {
+                            "text": "find"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "look",
+            "pos": "noun",
+            "ts": "lʊk",
+            "tr": [
+                {
+                    "text": "look",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "apparence",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "appearance"
+                        }
+                    ]
+                },
+                {
+                    "text": "regard",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "stare"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

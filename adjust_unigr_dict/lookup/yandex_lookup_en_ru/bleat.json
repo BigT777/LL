@@ -1,0 +1,69 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "bleat",
+            "pos": "verb",
+            "ts": "bliːt",
+            "tr": [
+                {
+                    "text": "блеять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "мычать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "baa"
+                        },
+                        {
+                            "text": "moo"
+                        }
+                    ]
+                },
+                {
+                    "text": "ныть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "whine"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bleat",
+            "pos": "noun",
+            "ts": "bliːt",
+            "tr": [
+                {
+                    "text": "блеяние",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "baa"
+                        }
+                    ]
+                },
+                {
+                    "text": "мычание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "moo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "depositor",
+            "pos": "noun",
+            "ts": "dɪˈpɒzɪtə",
+            "tr": [
+                {
+                    "text": "вкладчик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "депонент",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "депозитарий",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "investor"
+                        },
+                        {
+                            "text": "deponent"
+                        },
+                        {
+                            "text": "depositary"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "small depositor",
+                            "tr": [
+                                {
+                                    "text": "мелкий вкладчик"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "депозитор",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "залогодатель",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "поклажедатель",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mortgagor"
+                        },
+                        {
+                            "text": "bailor"
+                        }
+                    ]
+                },
+                {
+                    "text": "поклажедержатель",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        }
+    ]
+}

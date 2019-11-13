@@ -1,0 +1,61 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "subject",
+            "pos": "noun",
+            "ts": "ˈsʌbʤɪkt",
+            "tr": [
+                {
+                    "text": "sujet",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "objet",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "topic"
+                        },
+                        {
+                            "text": "object"
+                        }
+                    ]
+                },
+                {
+                    "text": "soumis",
+                    "pos": "adjective"
+                }
+            ]
+        },
+        {
+            "text": "subject",
+            "pos": "verb",
+            "ts": "ˈsʌbʤɪkt",
+            "tr": [
+                {
+                    "text": "soumettre",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "assujettir",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "submit"
+                        },
+                        {
+                            "text": "subjugate"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

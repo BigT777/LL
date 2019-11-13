@@ -1,0 +1,101 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "preface",
+            "pos": "noun",
+            "ts": "ˈprefɪs",
+            "tr": [
+                {
+                    "text": "введение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "вступление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "Предисловие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "пролог",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "прелюдия",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "introduction"
+                        },
+                        {
+                            "text": "prologue"
+                        },
+                        {
+                            "text": "prelude"
+                        }
+                    ]
+                },
+                {
+                    "text": "вводная часть",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "преамбула",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "introduction"
+                        },
+                        {
+                            "text": "preamble"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "preface",
+            "pos": "verb",
+            "ts": "ˈprefɪs",
+            "tr": [
+                {
+                    "text": "предварить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "предпослать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "предварять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "precede"
+                        },
+                        {
+                            "text": "premise"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

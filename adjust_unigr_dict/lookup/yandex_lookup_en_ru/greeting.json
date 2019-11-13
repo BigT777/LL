@@ -1,0 +1,122 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "greeting",
+            "pos": "noun",
+            "ts": "ˈgriːtɪŋ",
+            "tr": [
+                {
+                    "text": "приветствие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "поздравление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "пожелание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "welcome"
+                        },
+                        {
+                            "text": "congratulation"
+                        },
+                        {
+                            "text": "wish"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "warm greeting",
+                            "tr": [
+                                {
+                                    "text": "теплое приветствие"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "holiday greeting",
+                            "tr": [
+                                {
+                                    "text": "праздничное поздравление"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "встреча",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "meeting"
+                        }
+                    ]
+                },
+                {
+                    "text": "поклон",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "bow"
+                        }
+                    ]
+                },
+                {
+                    "text": "привет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "приветик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hi"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "greeting",
+            "pos": "adverb",
+            "ts": "ˈgriːtɪŋ",
+            "tr": [
+                {
+                    "text": "приветственно",
+                    "pos": "adverb"
+                }
+            ]
+        },
+        {
+            "text": "greeting",
+            "pos": "participle",
+            "ts": "ˈgriːtɪŋ",
+            "tr": [
+                {
+                    "text": "приветствующий",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "welcoming"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

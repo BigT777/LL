@@ -1,0 +1,340 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "hit",
+            "pos": "verb",
+            "ts": "hɪt",
+            "fl": "hit, hit",
+            "tr": [
+                {
+                    "text": "ударить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "ударять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "удариться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поражать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "бить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поразить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "strike"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hit a woman",
+                            "tr": [
+                                {
+                                    "text": "ударить женщину"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hit the ground",
+                            "tr": [
+                                {
+                                    "text": "удариться о землю"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hit people",
+                            "tr": [
+                                {
+                                    "text": "бить людей"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hit the enemy",
+                            "tr": [
+                                {
+                                    "text": "поразить врага"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "попасть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "достигнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "попадать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reach"
+                        },
+                        {
+                            "text": "fall"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hit the mark",
+                            "tr": [
+                                {
+                                    "text": "попасть в цель"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hit the target",
+                            "tr": [
+                                {
+                                    "text": "попадать в цель"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "нажать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "нажимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "click"
+                        },
+                        {
+                            "text": "press"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hit the button",
+                            "tr": [
+                                {
+                                    "text": "нажать на кнопку"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сбить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "стукнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подбить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "knock"
+                        },
+                        {
+                            "text": "line"
+                        }
+                    ]
+                },
+                {
+                    "text": "пострадать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "hurt"
+                        }
+                    ]
+                },
+                {
+                    "text": "задеть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "hurt"
+                        }
+                    ]
+                },
+                {
+                    "text": "наткнуться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "stumble"
+                        }
+                    ]
+                },
+                {
+                    "text": "врезать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "cut"
+                        }
+                    ]
+                },
+                {
+                    "text": "наносить удар",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "attack"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hit",
+            "pos": "noun",
+            "ts": "hɪt",
+            "tr": [
+                {
+                    "text": "удар",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "попадание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "strike"
+                        },
+                        {
+                            "text": "entry"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "especially hard hit",
+                            "tr": [
+                                {
+                                    "text": "особенно сильный удар"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "direct hit",
+                            "tr": [
+                                {
+                                    "text": "прямое попадание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шлягер",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "хит",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "smash hit"
+                        },
+                        {
+                            "text": "big hit"
+                        }
+                    ]
+                },
+                {
+                    "text": "показ",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "show"
+                        }
+                    ]
+                },
+                {
+                    "text": "заход",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "sunset"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hit",
+            "pos": "adjective",
+            "ts": "hɪt",
+            "tr": [
+                {
+                    "text": "хитовый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "catchy"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hit singles",
+                            "tr": [
+                                {
+                                    "text": "хитовых синглов"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

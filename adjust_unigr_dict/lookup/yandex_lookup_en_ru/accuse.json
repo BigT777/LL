@@ -1,0 +1,93 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "accuse",
+            "pos": "verb",
+            "ts": "əˈkjuːz",
+            "tr": [
+                {
+                    "text": "обвинять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обвинить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "винить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "осуждать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "упрекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "уличать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "blame"
+                        },
+                        {
+                            "text": "condemn"
+                        },
+                        {
+                            "text": "convict"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "accuse god",
+                            "tr": [
+                                {
+                                    "text": "обвинять бога"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "инкриминировать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "incriminate"
+                        }
+                    ]
+                },
+                {
+                    "text": "выдвигать обвинение",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "выдвинуть обвинение",
+                            "pos": "verb"
+                        }
+                    ]
+                },
+                {
+                    "text": "предъявлять обвинение",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "indict"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

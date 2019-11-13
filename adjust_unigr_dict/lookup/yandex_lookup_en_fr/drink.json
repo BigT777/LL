@@ -1,0 +1,49 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "drink",
+            "pos": "noun",
+            "ts": "drɪŋk",
+            "tr": [
+                {
+                    "text": "boisson",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "verre",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "beverage"
+                        },
+                        {
+                            "text": "glass"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "drink",
+            "pos": "verb",
+            "ts": "drɪŋk",
+            "fl": "drank, drunk",
+            "tr": [
+                {
+                    "text": "boire",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "drunk"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

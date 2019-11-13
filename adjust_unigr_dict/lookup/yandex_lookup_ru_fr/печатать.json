@@ -1,0 +1,69 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "печатать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "imprimer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "dactylographier",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "taper",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "éditer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "напечатать"
+                        },
+                        {
+                            "text": "писать"
+                        },
+                        {
+                            "text": "публиковать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "принтер печатать",
+                            "tr": [
+                                {
+                                    "text": "imprimante imprimer"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "frapper",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "tirer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "наносить"
+                        },
+                        {
+                            "text": "получать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

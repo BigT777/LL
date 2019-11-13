@@ -1,0 +1,76 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "debunk",
+            "pos": "verb",
+            "ts": "diːˈbʌŋk",
+            "tr": [
+                {
+                    "text": "развенчивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "развенчать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "развеять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "развеивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dispel"
+                        },
+                        {
+                            "text": "discredit"
+                        }
+                    ]
+                },
+                {
+                    "text": "разоблачать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разоблачить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "expose"
+                        }
+                    ]
+                },
+                {
+                    "text": "опровергнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "опровергать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "refute"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

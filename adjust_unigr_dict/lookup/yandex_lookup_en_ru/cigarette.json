@@ -1,0 +1,96 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cigarette",
+            "pos": "noun",
+            "ts": "sɪgəˈret",
+            "tr": [
+                {
+                    "text": "сигарета",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "папироса",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "пачка сигарет",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "Сигаретка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "smoke"
+                        },
+                        {
+                            "text": "pack of cigarettes"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ash from his cigarette",
+                            "tr": [
+                                {
+                                    "text": "пепел с сигареты"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "зажигалка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "lighter"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cigarette",
+            "pos": "adjective",
+            "ts": "sɪgəˈret",
+            "tr": [
+                {
+                    "text": "сигаретный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "папиросный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cigarette smoke",
+                            "tr": [
+                                {
+                                    "text": "сигаретный дым"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cigarette paper",
+                            "tr": [
+                                {
+                                    "text": "папиросная бумага"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

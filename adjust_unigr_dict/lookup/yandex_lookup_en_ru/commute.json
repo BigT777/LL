@@ -1,0 +1,104 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "commute",
+            "pos": "verb",
+            "ts": "kəˈmjuːt",
+            "tr": [
+                {
+                    "text": "заменять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заменить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "replace"
+                        }
+                    ]
+                },
+                {
+                    "text": "переключать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "коммутировать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "переключить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "change"
+                        },
+                        {
+                            "text": "commutate"
+                        },
+                        {
+                            "text": "switch"
+                        }
+                    ]
+                },
+                {
+                    "text": "добираться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ездить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "get"
+                        },
+                        {
+                            "text": "travel"
+                        }
+                    ]
+                },
+                {
+                    "text": "смягчить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "смягчать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "soften"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "commute the sentence",
+                            "tr": [
+                                {
+                                    "text": "смягчить наказание"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

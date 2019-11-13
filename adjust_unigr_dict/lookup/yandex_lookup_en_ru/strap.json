@@ -1,0 +1,259 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "strap",
+            "pos": "noun",
+            "ts": "stræp",
+            "tr": [
+                {
+                    "text": "ремень",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "ремешок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "лента",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "belt"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "leather strap",
+                            "tr": [
+                                {
+                                    "text": "кожаный ремень"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "rubber strap",
+                            "tr": [
+                                {
+                                    "text": "резиновый ремешок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "steel strap",
+                            "tr": [
+                                {
+                                    "text": "стальная лента"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "завязка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "бретелька",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "лямка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "string"
+                        },
+                        {
+                            "text": "webbing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bra strap",
+                            "tr": [
+                                {
+                                    "text": "бретелька лифчика"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "shoulder strap",
+                            "tr": [
+                                {
+                                    "text": "плечевая лямка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "хомут",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "скоба",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "планка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clamp"
+                        },
+                        {
+                            "text": "bracket"
+                        },
+                        {
+                            "text": "strip"
+                        }
+                    ]
+                },
+                {
+                    "text": "стропа",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "строп",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "line"
+                        },
+                        {
+                            "text": "sling"
+                        }
+                    ]
+                },
+                {
+                    "text": "штрипка",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "погон",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "epaulet"
+                        }
+                    ]
+                },
+                {
+                    "text": "браслет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "bracelet"
+                        }
+                    ]
+                },
+                {
+                    "text": "накладка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "lining"
+                        }
+                    ]
+                },
+                {
+                    "text": "перемычка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "jumper"
+                        }
+                    ]
+                },
+                {
+                    "text": "шлейка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "harness"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "strap",
+            "pos": "verb",
+            "ts": "stræp",
+            "tr": [
+                {
+                    "text": "привязать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "пристегивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обвязывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tie"
+                        },
+                        {
+                            "text": "fasten"
+                        }
+                    ]
+                },
+                {
+                    "text": "стянуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "pull"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "strap",
+            "pos": "adverb",
+            "ts": "stræp",
+            "tr": [
+                {
+                    "text": "на ремне",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

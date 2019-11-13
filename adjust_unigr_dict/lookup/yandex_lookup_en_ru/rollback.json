@@ -1,0 +1,61 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "rollback",
+            "pos": "noun",
+            "ts": "ˈrəʊlbæk",
+            "tr": [
+                {
+                    "text": "откат",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "возврат",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rolled back"
+                        },
+                        {
+                            "text": "refund"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "transaction rollback",
+                            "tr": [
+                                {
+                                    "text": "откат транзакции"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отмена",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "cancellation"
+                        }
+                    ]
+                },
+                {
+                    "text": "откат транзакции",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "transaction rollback"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

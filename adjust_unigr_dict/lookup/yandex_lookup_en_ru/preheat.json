@@ -1,0 +1,75 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "preheat",
+            "pos": "verb",
+            "ts": "priːˈhiːt",
+            "tr": [
+                {
+                    "text": "подогревать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подогреть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разогреть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "предварительно нагреть",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "предварительно подогреть",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "разогревать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "warm"
+                        },
+                        {
+                            "text": "heat"
+                        },
+                        {
+                            "text": "reheat"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "preheat",
+            "pos": "noun",
+            "ts": "priːˈhiːt",
+            "tr": [
+                {
+                    "text": "предварительный нагрев",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "предварительный подогрев",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "preheating"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

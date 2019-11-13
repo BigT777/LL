@@ -1,0 +1,79 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "resent",
+            "pos": "verb",
+            "ts": "rɪˈzent",
+            "tr": [
+                {
+                    "text": "возмущаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обижаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обидеться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "возмутиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rebel"
+                        },
+                        {
+                            "text": "offend"
+                        }
+                    ]
+                },
+                {
+                    "text": "негодовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "возмутить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "outrage"
+                        }
+                    ]
+                },
+                {
+                    "text": "противиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "oppose"
+                        }
+                    ]
+                },
+                {
+                    "text": "бесить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "infuriate"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

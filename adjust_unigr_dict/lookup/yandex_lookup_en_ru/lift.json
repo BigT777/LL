@@ -1,0 +1,367 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "lift",
+            "pos": "verb",
+            "ts": "lɪft",
+            "tr": [
+                {
+                    "text": "поднимать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "возвышать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поднять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "приподнять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вознести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "возвысить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "приподнимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "возносить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "raise"
+                        },
+                        {
+                            "text": "elevate"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lift weights",
+                            "tr": [
+                                {
+                                    "text": "поднимать гири"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lift the latch",
+                            "tr": [
+                                {
+                                    "text": "поднять щеколду"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lift the veil",
+                            "tr": [
+                                {
+                                    "text": "приподнять завесу"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "подниматься",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подняться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вознестись",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rise"
+                        },
+                        {
+                            "text": "ascend"
+                        }
+                    ]
+                },
+                {
+                    "text": "снять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "remove"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lift the blockade",
+                            "tr": [
+                                {
+                                    "text": "снять блокаду"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отменить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "cancel"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lift the ban",
+                            "tr": [
+                                {
+                                    "text": "отменить запрет"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "подвезти",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "ride"
+                        }
+                    ]
+                },
+                {
+                    "text": "вытащить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "pull"
+                        }
+                    ]
+                },
+                {
+                    "text": "поднести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "bring"
+                        }
+                    ]
+                },
+                {
+                    "text": "задрать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "задирать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bully"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "lift",
+            "pos": "noun",
+            "ts": "lɪft",
+            "tr": [
+                {
+                    "text": "подъем",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "поднятие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "подтяжка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lifting"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "height of lift",
+                            "tr": [
+                                {
+                                    "text": "высота подъема"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "face lift",
+                            "tr": [
+                                {
+                                    "text": "подтяжка лица"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "подъемник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "Лифт",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "подьемник",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hoist"
+                        },
+                        {
+                            "text": "elevator"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hydraulic lift",
+                            "tr": [
+                                {
+                                    "text": "гидравлический подъемник"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "подъемная сила",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "lifting force"
+                        }
+                    ]
+                },
+                {
+                    "text": "снятие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "отмена",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "removal"
+                        },
+                        {
+                            "text": "cancel"
+                        }
+                    ]
+                },
+                {
+                    "text": "подъемное устройство",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "lifting device"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "lift",
+            "pos": "adjective",
+            "ts": "lɪft",
+            "tr": [
+                {
+                    "text": "подъемный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "лифтовый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "лифтовой",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lifting"
+                        },
+                        {
+                            "text": "elevator"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "vertical lift bridge",
+                            "tr": [
+                                {
+                                    "text": "подъемный мост"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lift shaft",
+                            "tr": [
+                                {
+                                    "text": "лифтовая шахта"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

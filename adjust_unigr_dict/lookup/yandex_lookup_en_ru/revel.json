@@ -1,0 +1,98 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "revel",
+            "pos": "verb",
+            "ts": "revl",
+            "tr": [
+                {
+                    "text": "пировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "кутить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "feast"
+                        },
+                        {
+                            "text": "carouse"
+                        }
+                    ]
+                },
+                {
+                    "text": "наслаждаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "упиваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "relish"
+                        },
+                        {
+                            "text": "glory"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "revel",
+            "pos": "noun",
+            "ts": "revl",
+            "tr": [
+                {
+                    "text": "веселье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "joy"
+                        }
+                    ]
+                },
+                {
+                    "text": "пирушка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "кутеж",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "feast"
+                        },
+                        {
+                            "text": "binge"
+                        }
+                    ]
+                },
+                {
+                    "text": "Ревель",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "буйное веселье",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

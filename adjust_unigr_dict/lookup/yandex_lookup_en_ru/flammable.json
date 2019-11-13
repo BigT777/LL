@@ -1,0 +1,90 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "flammable",
+            "pos": "adjective",
+            "ts": "ˈflæməbl",
+            "tr": [
+                {
+                    "text": "легковоспламеняющийся",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "огнеопасный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "горючий",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "пожароопасный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "сгораемый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "inflammable"
+                        },
+                        {
+                            "text": "combustible"
+                        },
+                        {
+                            "text": "fire hazard"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "flammable materials",
+                            "tr": [
+                                {
+                                    "text": "сгораемые материалы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "возгораемый",
+                    "pos": "adjective"
+                }
+            ]
+        },
+        {
+            "text": "flammable",
+            "pos": "participle",
+            "ts": "ˈflæməbl",
+            "tr": [
+                {
+                    "text": "воспламеняющийся",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "легко воспламеняющийся",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "inflammable"
+                        }
+                    ]
+                },
+                {
+                    "text": "воспламеняющий",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "igniting"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

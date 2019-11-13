@@ -1,0 +1,81 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "flare up",
+            "pos": "verb",
+            "ts": "fleə ʌp",
+            "tr": [
+                {
+                    "text": "вспыхивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разгораться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вспылить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flare"
+                        }
+                    ]
+                },
+                {
+                    "text": "разгореться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "вспыхнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "inflame"
+                        },
+                        {
+                            "text": "break out"
+                        }
+                    ]
+                },
+                {
+                    "text": "возгораться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "ignite"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "flare up",
+            "pos": "noun",
+            "ts": "fleə ʌp",
+            "tr": [
+                {
+                    "text": "вспышка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "flare"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

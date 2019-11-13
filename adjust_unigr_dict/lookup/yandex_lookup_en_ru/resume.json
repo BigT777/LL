@@ -1,0 +1,238 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "resume",
+            "pos": "verb",
+            "ts": "rɪˈzjuːm",
+            "tr": [
+                {
+                    "text": "возобновлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "продолжать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "возобновить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "возобновиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "продолжить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "возобновляться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "продолжиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "restart"
+                        },
+                        {
+                            "text": "continue"
+                        },
+                        {
+                            "text": "renew"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "resume operation",
+                            "tr": [
+                                {
+                                    "text": "возобновлять работу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "resume execution",
+                            "tr": [
+                                {
+                                    "text": "продолжать выполнение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "resumed session",
+                            "tr": [
+                                {
+                                    "text": "возобновленная сессия"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "resume tomorrow",
+                            "tr": [
+                                {
+                                    "text": "возобновиться завтра"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "resume later",
+                            "tr": [
+                                {
+                                    "text": "продолжить позже"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "резюмировать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "summarize"
+                        }
+                    ]
+                },
+                {
+                    "text": "восстановить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "восстанавливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "restore"
+                        }
+                    ]
+                },
+                {
+                    "text": "вернуться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "return"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "resume the game",
+                            "tr": [
+                                {
+                                    "text": "вернуться к игре"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "снова начать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "вновь начать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "again begin"
+                        },
+                        {
+                            "text": "start again"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "resume",
+            "pos": "noun",
+            "ts": "rɪˈzjuːm",
+            "tr": [
+                {
+                    "text": "возобновление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "продолжение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "resumption"
+                        },
+                        {
+                            "text": "continued"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "resume dialogue",
+                            "tr": [
+                                {
+                                    "text": "возобновление диалога"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "резюме",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "summary"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "brief resume",
+                            "tr": [
+                                {
+                                    "text": "краткое резюме"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вывод",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "conclusion"
+                        }
+                    ]
+                },
+                {
+                    "text": "Аннотация",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        }
+    ]
+}

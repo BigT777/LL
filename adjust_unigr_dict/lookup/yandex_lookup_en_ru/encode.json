@@ -1,0 +1,85 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "encode",
+            "pos": "verb",
+            "ts": "ɪnˈkəʊd",
+            "tr": [
+                {
+                    "text": "кодировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "закодировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перекодировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "code"
+                        },
+                        {
+                            "text": "recode"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "encoded signal",
+                            "tr": [
+                                {
+                                    "text": "кодированный сигнал"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "encoded message",
+                            "tr": [
+                                {
+                                    "text": "закодированное сообщение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шифровать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "зашифровать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "зашифровывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "encrypt"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "encode information",
+                            "tr": [
+                                {
+                                    "text": "зашифровать информацию"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

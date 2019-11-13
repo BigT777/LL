@@ -1,0 +1,61 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "Mike",
+            "pos": "noun",
+            "ts": "maɪk",
+            "tr": [
+                {
+                    "text": "майк",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "микрофон",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "microphone"
+                        }
+                    ]
+                },
+                {
+                    "text": "Миша",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "мишка",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bear"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Mike",
+            "pos": "verb",
+            "ts": "maɪk",
+            "tr": [
+                {
+                    "text": "слоняться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "wander"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

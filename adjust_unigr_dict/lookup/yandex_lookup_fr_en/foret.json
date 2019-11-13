@@ -1,0 +1,56 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "foret",
+            "pos": "noun",
+            "gen": "m",
+            "ts": "fɔʁɛ",
+            "tr": [
+                {
+                    "text": "drill",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "perceuse"
+                        }
+                    ]
+                },
+                {
+                    "text": "drill bit",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "forêt",
+            "pos": "noun",
+            "gen": "f",
+            "ts": "fɔʁɛ",
+            "tr": [
+                {
+                    "text": "forest",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "rainforest",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "woodland",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "Forest"
+                        },
+                        {
+                            "text": "boisé"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

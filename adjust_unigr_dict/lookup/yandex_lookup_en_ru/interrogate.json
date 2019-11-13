@@ -1,0 +1,78 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "interrogate",
+            "pos": "verb",
+            "ts": "ɪnˈterəgeɪt",
+            "tr": [
+                {
+                    "text": "допрашивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "допросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "опросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "опрашивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "расспрашивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "расспросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "question"
+                        },
+                        {
+                            "text": "interview"
+                        },
+                        {
+                            "text": "inquire"
+                        },
+                        {
+                            "text": "ask"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "interrogate people",
+                            "tr": [
+                                {
+                                    "text": "опрашивать людей"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "запрашивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "query"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

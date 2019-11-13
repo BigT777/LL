@@ -1,0 +1,319 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "end",
+            "pos": "noun",
+            "ts": "end",
+            "tr": [
+                {
+                    "text": "конец",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "итог",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "late"
+                        },
+                        {
+                            "text": "result"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "end of civil war",
+                            "tr": [
+                                {
+                                    "text": "конец гражданской войне"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "end of last year",
+                            "tr": [
+                                {
+                                    "text": "конец прошлого года"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "окончание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "прекращение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "завершение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ending"
+                        },
+                        {
+                            "text": "termination"
+                        },
+                        {
+                            "text": "completion"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "end of high school",
+                            "tr": [
+                                {
+                                    "text": "окончание школы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "end of military action",
+                            "tr": [
+                                {
+                                    "text": "окончание военных действий"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "end of working day",
+                            "tr": [
+                                {
+                                    "text": "окончание рабочего дня"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "end to violence",
+                            "tr": [
+                                {
+                                    "text": "прекращение насилия"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "end of career",
+                            "tr": [
+                                {
+                                    "text": "завершение карьеры"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "цель",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "purpose"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "end of human life",
+                            "tr": [
+                                {
+                                    "text": "цель человеческой жизни"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "торец",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "edge"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "top end",
+                            "tr": [
+                                {
+                                    "text": "верхний торец"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "end",
+            "pos": "verb",
+            "ts": "end",
+            "tr": [
+                {
+                    "text": "кончаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "кончиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оканчиваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "окончиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "run"
+                        },
+                        {
+                            "text": "be over"
+                        },
+                        {
+                            "text": "terminate"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "end badly",
+                            "tr": [
+                                {
+                                    "text": "кончиться плохо"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "завершаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "кончать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "завершиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "закончить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "завершить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "заканчивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "finish"
+                        },
+                        {
+                            "text": "complete"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "end the game",
+                            "tr": [
+                                {
+                                    "text": "кончать игру"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "end the fight",
+                            "tr": [
+                                {
+                                    "text": "закончить бой"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "end the conversation",
+                            "tr": [
+                                {
+                                    "text": "заканчивать разговор"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "end",
+            "pos": "adjective",
+            "ts": "end",
+            "tr": [
+                {
+                    "text": "конечный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "final"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "end user",
+                            "tr": [
+                                {
+                                    "text": "конечный пользователь"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "quality of end product",
+                            "tr": [
+                                {
+                                    "text": "качество конечного продукта"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "концевой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "terminal"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

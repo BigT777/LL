@@ -1,0 +1,66 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "goo",
+            "pos": "adjective",
+            "ts": "guː",
+            "tr": [
+                {
+                    "text": "липкий",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "sticky"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "goo",
+            "pos": "noun",
+            "ts": "guː",
+            "tr": [
+                {
+                    "text": "слизь",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "жижа",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "липкая жидкость",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mucus"
+                        },
+                        {
+                            "text": "muck"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "grey goo",
+                            "tr": [
+                                {
+                                    "text": "серая слизь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "липкая масса",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

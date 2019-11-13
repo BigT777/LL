@@ -1,0 +1,66 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "temp",
+            "pos": "noun",
+            "ts": "temp",
+            "tr": [
+                {
+                    "text": "температура",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "temperature"
+                        }
+                    ]
+                },
+                {
+                    "text": "темп",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "pace"
+                        }
+                    ]
+                },
+                {
+                    "text": "временный сотрудник",
+                    "pos": "noun"
+                },
+                {
+                    "text": "временный секретарь",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "temp",
+            "pos": "adjective",
+            "ts": "temp",
+            "tr": [
+                {
+                    "text": "временный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "temporary"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "temp file",
+                            "tr": [
+                                {
+                                    "text": "временный файл"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

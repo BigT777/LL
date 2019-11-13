@@ -1,0 +1,171 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sip",
+            "pos": "verb",
+            "ts": "sɪp",
+            "tr": [
+                {
+                    "text": "потягивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "прихлебывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пить маленькими глотками",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stretch"
+                        }
+                    ]
+                },
+                {
+                    "text": "отхлебнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "глотнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отпить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пригубить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отпивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "gulp"
+                        },
+                        {
+                            "text": "drink"
+                        },
+                        {
+                            "text": "taste"
+                        }
+                    ]
+                },
+                {
+                    "text": "пить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выпить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "попивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "попить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "хлебать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drink"
+                        },
+                        {
+                            "text": "slurp"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sip champagne",
+                            "tr": [
+                                {
+                                    "text": "выпить шампанского"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sip",
+            "pos": "noun",
+            "ts": "sɪp",
+            "tr": [
+                {
+                    "text": "глоток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "маленький глоток",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "глоточек",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drink"
+                        },
+                        {
+                            "text": "thimbleful"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sip of wine",
+                            "tr": [
+                                {
+                                    "text": "глоток вина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "протокол SIP",
+                    "pos": "noun"
+                },
+                {
+                    "text": "СИП",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "пом",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        }
+    ]
+}

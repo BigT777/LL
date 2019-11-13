@@ -1,0 +1,141 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "paid",
+            "pos": "verb",
+            "ts": "peɪd",
+            "tr": [
+                {
+                    "text": "уделять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "pay"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "paid",
+            "pos": "participle",
+            "ts": "peɪd",
+            "tr": [
+                {
+                    "text": "оплачиваемый",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "выплаченный",
+                            "pos": "participle"
+                        },
+                        {
+                            "text": "выплачиваемый",
+                            "pos": "participle"
+                        },
+                        {
+                            "text": "уплачиваемый",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "payable"
+                        },
+                        {
+                            "text": "repaid"
+                        }
+                    ]
+                },
+                {
+                    "text": "оплаченный",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "уплаченный",
+                            "pos": "participle"
+                        },
+                        {
+                            "text": "заплаченный",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "prepaid"
+                        }
+                    ]
+                },
+                {
+                    "text": "оплативший",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "уплативший",
+                            "pos": "participle"
+                        }
+                    ]
+                },
+                {
+                    "text": "внесенный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "introduced"
+                        }
+                    ]
+                },
+                {
+                    "text": "заплативший",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "paying"
+                        }
+                    ]
+                },
+                {
+                    "text": "тарифицируемый",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "charged"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "paid",
+            "pos": "adjective",
+            "ts": "peɪd",
+            "tr": [
+                {
+                    "text": "платный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "pay"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "paid parking",
+                            "tr": [
+                                {
+                                    "text": "платная парковка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "проплаченный",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

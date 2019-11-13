@@ -1,0 +1,129 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "conjecture",
+            "pos": "noun",
+            "ts": "kənˈʤekʧə",
+            "tr": [
+                {
+                    "text": "гипотеза",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "предположение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "догадка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "домысел",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hypothesis"
+                        },
+                        {
+                            "text": "assumption"
+                        },
+                        {
+                            "text": "speculation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "following conjecture",
+                            "tr": [
+                                {
+                                    "text": "следующая гипотеза"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "various conjectures",
+                            "tr": [
+                                {
+                                    "text": "различные предположения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "конъюнктура",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "situation"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "conjecture",
+            "pos": "verb",
+            "ts": "kənˈʤekʧə",
+            "tr": [
+                {
+                    "text": "предполагать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "предположить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "suppose"
+                        }
+                    ]
+                },
+                {
+                    "text": "догадываться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "гадать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "догадаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "строить догадки",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "guess"
+                        },
+                        {
+                            "text": "wonder"
+                        },
+                        {
+                            "text": "speculate"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "map",
+            "pos": "noun",
+            "ts": "mæp",
+            "tr": [
+                {
+                    "text": "карта",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "географическая карта",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "card"
+                        },
+                        {
+                            "text": "geographical map"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "satellite map",
+                            "tr": [
+                                {
+                                    "text": "спутниковая карта"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "large scale map",
+                            "tr": [
+                                {
+                                    "text": "крупномасштабная карта"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "map of eastern europe",
+                            "tr": [
+                                {
+                                    "text": "карта восточной европы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отображение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "mapping"
+                        }
+                    ]
+                },
+                {
+                    "text": "схема",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "план",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "scheme"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cadastral map",
+                            "tr": [
+                                {
+                                    "text": "кадастровый план"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "map",
+            "pos": "verb",
+            "ts": "mæp",
+            "tr": [
+                {
+                    "text": "сопоставлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сопоставить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "compare"
+                        }
+                    ]
+                },
+                {
+                    "text": "отображаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отображать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отобразить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "display"
+                        }
+                    ]
+                },
+                {
+                    "text": "картировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "chart"
+                        }
+                    ]
+                },
+                {
+                    "text": "картографировать",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "map",
+            "pos": "adjective",
+            "ts": "mæp",
+            "tr": [
+                {
+                    "text": "картографический",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "cartographic"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

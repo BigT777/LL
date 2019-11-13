@@ -1,0 +1,118 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "hoard",
+            "pos": "verb",
+            "ts": "hɔːd",
+            "tr": [
+                {
+                    "text": "копить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "запасать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "накоплять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "накапливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "накопить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "скопить",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "припрятывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "припрятать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "accumulate"
+                        },
+                        {
+                            "text": "garner"
+                        },
+                        {
+                            "text": "stash"
+                        }
+                    ]
+                },
+                {
+                    "text": "хранить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "store"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hoard",
+            "pos": "noun",
+            "ts": "hɔːd",
+            "tr": [
+                {
+                    "text": "запас",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "stockpile"
+                        }
+                    ]
+                },
+                {
+                    "text": "сокровище",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "клад",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "treasure"
+                        }
+                    ]
+                },
+                {
+                    "text": "тезаврация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "hoarding"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

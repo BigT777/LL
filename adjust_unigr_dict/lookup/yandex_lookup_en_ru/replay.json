@@ -1,0 +1,72 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "replay",
+            "pos": "verb",
+            "ts": "ˈriːpleɪ",
+            "tr": [
+                {
+                    "text": "переигрывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "overplay"
+                        }
+                    ]
+                },
+                {
+                    "text": "воспроизводить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "воспроизвести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "переиграть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "проигрывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "play back"
+                        },
+                        {
+                            "text": "reproduce"
+                        },
+                        {
+                            "text": "play"
+                        }
+                    ]
+                },
+                {
+                    "text": "повторить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "повторять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "repeat"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

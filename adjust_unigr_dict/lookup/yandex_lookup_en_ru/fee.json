@@ -1,0 +1,330 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fee",
+            "pos": "noun",
+            "ts": "fiː",
+            "tr": [
+                {
+                    "text": "гонорар",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "вознаграждение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "плата",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "оплата",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "платеж",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "royalties"
+                        },
+                        {
+                            "text": "remuneration"
+                        },
+                        {
+                            "text": "payment"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "substantial fee",
+                            "tr": [
+                                {
+                                    "text": "солидный гонорар"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "commission fee",
+                            "tr": [
+                                {
+                                    "text": "комиссионное вознаграждение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "monthly subscription fee",
+                            "tr": [
+                                {
+                                    "text": "ежемесячная абонентская плата"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hourly fee",
+                            "tr": [
+                                {
+                                    "text": "почасовая оплата"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "flat fee",
+                            "tr": [
+                                {
+                                    "text": "твердая сумма платежа"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "членский взнос",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "вступительный взнос",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "взнос",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "membership fee"
+                        },
+                        {
+                            "text": "entrance fee"
+                        },
+                        {
+                            "text": "contribution"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "annual membership fee",
+                            "tr": [
+                                {
+                                    "text": "ежегодный членский взнос"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сбор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "денежный сбор",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "collection"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "consular fee",
+                            "tr": [
+                                {
+                                    "text": "консульский сбор"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "стоимость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "тариф",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "цена",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "расценки",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cost"
+                        },
+                        {
+                            "text": "tariff"
+                        },
+                        {
+                            "text": "price"
+                        },
+                        {
+                            "text": "quote"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fee for this service",
+                            "tr": [
+                                {
+                                    "text": "стоимость этой услуги"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "minimal fee",
+                            "tr": [
+                                {
+                                    "text": "минимальный тариф"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "комиссия",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "комиссионные",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "commission"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "management fee",
+                            "tr": [
+                                {
+                                    "text": "комиссия за управление"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "low fees",
+                            "tr": [
+                                {
+                                    "text": "низкие комиссионные"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пошлина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "госпошлина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "duty"
+                        },
+                        {
+                            "text": "state duty"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "state fee",
+                            "tr": [
+                                {
+                                    "text": "государственная пошлина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "такса",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "rate"
+                        }
+                    ]
+                },
+                {
+                    "text": "штраф",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "fine"
+                        }
+                    ]
+                },
+                {
+                    "text": "отчисление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "deduction"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "licence fees",
+                            "tr": [
+                                {
+                                    "text": "лицензионные отчисления"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "комиссионный сбор",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "commission fee"
+                        }
+                    ]
+                },
+                {
+                    "text": "оплата услуг",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "payment for services"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

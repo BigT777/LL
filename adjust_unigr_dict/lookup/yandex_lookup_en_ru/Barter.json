@@ -1,0 +1,180 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "barter",
+            "pos": "noun",
+            "ts": "ˈbɑːtə",
+            "tr": [
+                {
+                    "text": "бартер",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "товарообмен",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "обмен",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "мена",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "бартерный обмен",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "натуральный обмен",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "barter transactions"
+                        },
+                        {
+                            "text": "exchange"
+                        },
+                        {
+                            "text": "barter exchange"
+                        }
+                    ]
+                },
+                {
+                    "text": "меновая торговля",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "barter trade"
+                        }
+                    ]
+                },
+                {
+                    "text": "бартерная сделка",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "barter deal"
+                        }
+                    ]
+                },
+                {
+                    "text": "договор мены",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "barter",
+            "pos": "verb",
+            "ts": "ˈbɑːtə",
+            "tr": [
+                {
+                    "text": "обменивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "торговаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "swap"
+                        },
+                        {
+                            "text": "bargain"
+                        }
+                    ]
+                },
+                {
+                    "text": "менять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "change"
+                        }
+                    ]
+                },
+                {
+                    "text": "выменять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "обменять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выменивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "променять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "exchange"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "barter",
+            "pos": "adjective",
+            "ts": "ˈbɑːtə",
+            "tr": [
+                {
+                    "text": "бартерный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "товарообменный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bartering"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "barter deal",
+                            "tr": [
+                                {
+                                    "text": "бартерная сделка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "меновой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "exchange"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

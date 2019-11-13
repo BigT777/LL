@@ -1,0 +1,123 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "darn",
+            "pos": "verb",
+            "ts": "dɑːn",
+            "tr": [
+                {
+                    "text": "штопать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "чинить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "заштопать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mend"
+                        }
+                    ]
+                },
+                {
+                    "text": "подери",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "darn",
+            "pos": "adjective",
+            "ts": "dɑːn",
+            "tr": [
+                {
+                    "text": "проклятый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "чертов",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "damn"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "darn thing",
+                            "tr": [
+                                {
+                                    "text": "проклятая штука"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ужасный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "horrible"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "darn",
+            "pos": "noun",
+            "ts": "dɑːn",
+            "tr": [
+                {
+                    "text": "штопка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "darning"
+                        }
+                    ]
+                },
+                {
+                    "text": "черт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "damn"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "darn",
+            "pos": "adverb",
+            "ts": "dɑːn",
+            "tr": [
+                {
+                    "text": "чертовски",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "damn"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

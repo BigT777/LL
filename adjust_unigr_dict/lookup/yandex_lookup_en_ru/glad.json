@@ -1,0 +1,85 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "glad",
+            "pos": "adjective",
+            "ts": "glæd",
+            "tr": [
+                {
+                    "text": "радостный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "довольный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "счастливый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "joyful"
+                        },
+                        {
+                            "text": "happy"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "glad tidings",
+                            "tr": [
+                                {
+                                    "text": "радостная весть"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "рад",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "pleased"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "glad",
+            "pos": "verb",
+            "ts": "glæd",
+            "tr": [
+                {
+                    "text": "радовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "радоваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обрадоваться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "happy"
+                        },
+                        {
+                            "text": "rejoice"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

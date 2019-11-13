@@ -1,0 +1,85 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "abdomen",
+            "pos": "noun",
+            "ts": "ˈæbdəmən",
+            "tr": [
+                {
+                    "text": "живот",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "желудок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stomach"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "acute abdomen",
+                            "tr": [
+                                {
+                                    "text": "острый живот"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "брюшко",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "брюхо",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "belly"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "segments of the abdomen",
+                            "tr": [
+                                {
+                                    "text": "сегменты брюшка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "брюшная полость",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "брюшина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "abdominal cavity"
+                        },
+                        {
+                            "text": "peritoneum"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

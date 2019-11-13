@@ -1,0 +1,85 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "thatch",
+            "pos": "noun",
+            "ts": "θæʧ",
+            "tr": [
+                {
+                    "text": "солома",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "тростник",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "straw"
+                        },
+                        {
+                            "text": "cane"
+                        }
+                    ]
+                },
+                {
+                    "text": "соломенная крыша",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "тростниковая крыша",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "thatched roof"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "thatch",
+            "pos": "adjective",
+            "ts": "θæʧ",
+            "tr": [
+                {
+                    "text": "соломенный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "straw"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "thatched roof",
+                            "tr": [
+                                {
+                                    "text": "соломенная крыша"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "thatch",
+            "pos": "verb",
+            "ts": "θæʧ",
+            "tr": [
+                {
+                    "text": "крыть",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        }
+    ]
+}

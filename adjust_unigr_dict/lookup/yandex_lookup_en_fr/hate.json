@@ -1,0 +1,53 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "hate",
+            "pos": "verb",
+            "ts": "heɪt",
+            "tr": [
+                {
+                    "text": "détester",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "haïr",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "detest"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hate",
+            "pos": "noun",
+            "ts": "heɪt",
+            "tr": [
+                {
+                    "text": "haine",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "hatred"
+                        }
+                    ]
+                },
+                {
+                    "text": "haineux",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "hatred"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

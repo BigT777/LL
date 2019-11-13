@@ -1,0 +1,74 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "recommend",
+            "pos": "verb",
+            "ts": "rekəˈmend",
+            "tr": [
+                {
+                    "text": "рекомендовать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "советовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "порекомендовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "посоветовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "encourage"
+                        },
+                        {
+                            "text": "advise"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "strongly recommend",
+                            "tr": [
+                                {
+                                    "text": "настоятельно рекомендовать"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "recommend the book",
+                            "tr": [
+                                {
+                                    "text": "порекомендовать книгу"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "предлагать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "propose"
+                        }
+                    ]
+                },
+                {
+                    "text": "зарекомендовать",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        }
+    ]
+}

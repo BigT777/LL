@@ -1,0 +1,170 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "download",
+            "pos": "verb",
+            "ts": "ˈdaʊnləʊd",
+            "tr": [
+                {
+                    "text": "загружать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "скачать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "загрузить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "скачивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "закачать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "качать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "закачивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "load"
+                        },
+                        {
+                            "text": "downloadable"
+                        },
+                        {
+                            "text": "shake"
+                        },
+                        {
+                            "text": "pump"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "download files",
+                            "tr": [
+                                {
+                                    "text": "загружать файлы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "download album",
+                            "tr": [
+                                {
+                                    "text": "скачать альбом"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "download the game",
+                            "tr": [
+                                {
+                                    "text": "загрузить игру"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "download movies",
+                            "tr": [
+                                {
+                                    "text": "скачивать фильмы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "скачиваться",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "download",
+            "pos": "noun",
+            "ts": "ˈdaʊnləʊd",
+            "tr": [
+                {
+                    "text": "снижение антенны",
+                    "pos": "noun"
+                },
+                {
+                    "text": "скачивание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "закачка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "загрузка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "downloading"
+                        },
+                        {
+                            "text": "load"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "download manager",
+                            "tr": [
+                                {
+                                    "text": "менеджер закачек"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "automatic download",
+                            "tr": [
+                                {
+                                    "text": "автоматическая загрузка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "скачка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "ride"
+                        }
+                    ]
+                },
+                {
+                    "text": "скачиваемый файл",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

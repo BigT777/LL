@@ -1,0 +1,251 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "spill",
+            "pos": "verb",
+            "ts": "spɪl",
+            "fl": "spilled/spilt, spilled/spilt",
+            "tr": [
+                {
+                    "text": "проливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "разливаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пролить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пролиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разлить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разлиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "литься",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "высыпать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "вылить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выплеснуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shed"
+                        },
+                        {
+                            "text": "pour"
+                        },
+                        {
+                            "text": "spread"
+                        },
+                        {
+                            "text": "flood"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "spill blood",
+                            "tr": [
+                                {
+                                    "text": "проливать кровь"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "spilled fuel",
+                            "tr": [
+                                {
+                                    "text": "пролитое топливо"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "spill water",
+                            "tr": [
+                                {
+                                    "text": "разлить воду"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "рассыпаться",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "рассыпать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "просыпать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crumble"
+                        },
+                        {
+                            "text": "scatter"
+                        }
+                    ]
+                },
+                {
+                    "text": "проболтаться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "spill the beans"
+                        }
+                    ]
+                },
+                {
+                    "text": "расплескать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выплескивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "расплескивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "splash"
+                        },
+                        {
+                            "text": "slop"
+                        }
+                    ]
+                },
+                {
+                    "text": "пролить жидкость",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "spill",
+            "pos": "noun",
+            "ts": "spɪl",
+            "tr": [
+                {
+                    "text": "разлив",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "разлитие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flood"
+                        },
+                        {
+                            "text": "overflow"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "large spill",
+                            "tr": [
+                                {
+                                    "text": "большой разлив"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "утечка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "leak"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "chemical spill",
+                            "tr": [
+                                {
+                                    "text": "утечка химических веществ"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пятно",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "stain"
+                        }
+                    ]
+                },
+                {
+                    "text": "попадание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "hit"
+                        }
+                    ]
+                },
+                {
+                    "text": "разлитая жидкость",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

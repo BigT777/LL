@@ -1,0 +1,88 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "кормить",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "nourrir",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "allaiter",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "alimenter",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "repaître",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "entretenir",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "накормить"
+                        },
+                        {
+                            "text": "покормить"
+                        },
+                        {
+                            "text": "подкармливать"
+                        },
+                        {
+                            "text": "питать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "кормить собаку",
+                            "tr": [
+                                {
+                                    "text": "nourrir un chien"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "продолжать кормить",
+                            "tr": [
+                                {
+                                    "text": "continuer à allaiter"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "donner à manger",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "накормить"
+                        }
+                    ]
+                },
+                {
+                    "text": "paître",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "пасти"
+                        }
+                    ]
+                },
+                {
+                    "text": "appâter",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,502 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "travel",
+            "pos": "verb",
+            "ts": "trævl",
+            "tr": [
+                {
+                    "text": "путешествовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ездить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "ехать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отправиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поехать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "идти",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отправляться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "journey"
+                        },
+                        {
+                            "text": "go"
+                        },
+                        {
+                            "text": "ride"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "travel light",
+                            "tr": [
+                                {
+                                    "text": "путешествовать налегке"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "travel abroad",
+                            "tr": [
+                                {
+                                    "text": "ездить за границу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "travel to england",
+                            "tr": [
+                                {
+                                    "text": "поехать в англию"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "перемещаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "перемещать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выезжать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "переместить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выехать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "move"
+                        }
+                    ]
+                },
+                {
+                    "text": "странствовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "wander"
+                        }
+                    ]
+                },
+                {
+                    "text": "посетить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "побывать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "объездить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "съездить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "visit"
+                        },
+                        {
+                            "text": "tour"
+                        }
+                    ]
+                },
+                {
+                    "text": "пройти",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "проехать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pass"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "travel nearly",
+                            "tr": [
+                                {
+                                    "text": "проехать почти"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "приехать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "приезжать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "come"
+                        }
+                    ]
+                },
+                {
+                    "text": "попутешествовать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "travell"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "travel",
+            "pos": "noun",
+            "ts": "trævl",
+            "tr": [
+                {
+                    "text": "путешествие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "поездка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "командировка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "переезд",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "traveling"
+                        },
+                        {
+                            "text": "trip"
+                        },
+                        {
+                            "text": "business trip"
+                        },
+                        {
+                            "text": "moving"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "time travel",
+                            "tr": [
+                                {
+                                    "text": "путешествие во времени"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "purpose of his travels",
+                            "tr": [
+                                {
+                                    "text": "цель своего путешествия"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "travel authorization",
+                            "tr": [
+                                {
+                                    "text": "разрешение на поездку"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "international travel",
+                            "tr": [
+                                {
+                                    "text": "международная командировка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "перемещение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "передвижение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "move"
+                        },
+                        {
+                            "text": "movement"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "direction of travel",
+                            "tr": [
+                                {
+                                    "text": "направление перемещения"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "freedom of travel",
+                            "tr": [
+                                {
+                                    "text": "свобода передвижения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "проезд",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "journey"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "free travel",
+                            "tr": [
+                                {
+                                    "text": "бесплатный проезд"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "туризм",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "tourism"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "travel industry",
+                            "tr": [
+                                {
+                                    "text": "индустрия туризма"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выезд",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "departure"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "travel to europe",
+                            "tr": [
+                                {
+                                    "text": "выезд в европу"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "путешественник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "traveler"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "travel",
+            "pos": "adjective",
+            "ts": "trævl",
+            "tr": [
+                {
+                    "text": "туристический",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "дорожный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "туристский",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tourist"
+                        },
+                        {
+                            "text": "road"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "own travel agency",
+                            "tr": [
+                                {
+                                    "text": "собственное туристическое агентство"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "travel management company",
+                            "tr": [
+                                {
+                                    "text": "туристическая компания"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "travel agent",
+                            "tr": [
+                                {
+                                    "text": "туристический агент"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "travel alarm clock",
+                            "tr": [
+                                {
+                                    "text": "дорожный будильник"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "проездной",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "путевой",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "travelling"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "official travel document",
+                            "tr": [
+                                {
+                                    "text": "официальный проездной документ"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "travel order",
+                            "tr": [
+                                {
+                                    "text": "путевой лист"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "командировочные",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "travel allowance"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

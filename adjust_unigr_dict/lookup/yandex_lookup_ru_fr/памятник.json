@@ -1,0 +1,80 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "памятник",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "monument",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "mémorial",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "statue",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "témoin",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "монумент"
+                        },
+                        {
+                            "text": "мемориал"
+                        },
+                        {
+                            "text": "статуя"
+                        },
+                        {
+                            "text": "маяк"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "памятник погибшим",
+                            "tr": [
+                                {
+                                    "text": "monument aux morts"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "памятник гарибальди",
+                            "tr": [
+                                {
+                                    "text": "statue de garibaldi"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "monument commémoratif",
+                    "pos": "noun"
+                },
+                {
+                    "text": "monument funéraire",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "надгробие"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

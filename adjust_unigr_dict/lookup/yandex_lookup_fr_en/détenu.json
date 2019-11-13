@@ -1,0 +1,49 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "détenu",
+            "pos": "noun",
+            "gen": "m",
+            "ts": "detəny",
+            "tr": [
+                {
+                    "text": "inmate",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "convict",
+                            "pos": "noun"
+                        }
+                    ]
+                },
+                {
+                    "text": "detainee",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "prisoner",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "prisonnier"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "détenu",
+            "pos": "adjective",
+            "ts": "detəny",
+            "tr": [
+                {
+                    "text": "detained",
+                    "pos": "participle"
+                }
+            ]
+        }
+    ]
+}

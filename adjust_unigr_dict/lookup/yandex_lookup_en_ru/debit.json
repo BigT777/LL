@@ -1,0 +1,103 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "debit",
+            "pos": "noun",
+            "ts": "ˈdebɪt",
+            "tr": [
+                {
+                    "text": "дебет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "дебит",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "debet"
+                        },
+                        {
+                            "text": "flow rate"
+                        }
+                    ]
+                },
+                {
+                    "text": "дебетование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "debiting"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "debit",
+            "pos": "verb",
+            "ts": "ˈdebɪt",
+            "tr": [
+                {
+                    "text": "дебетовать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "charge"
+                        }
+                    ]
+                },
+                {
+                    "text": "списать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "write off"
+                        }
+                    ]
+                },
+                {
+                    "text": "дебетировать",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "debit",
+            "pos": "adjective",
+            "ts": "ˈdebɪt",
+            "tr": [
+                {
+                    "text": "дебетовый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "дебетный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "дебитовый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "debit balance",
+                            "tr": [
+                                {
+                                    "text": "дебетовый остаток"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

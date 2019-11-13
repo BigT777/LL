@@ -1,0 +1,67 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "envy",
+            "pos": "noun",
+            "ts": "ˈenvɪ",
+            "tr": [
+                {
+                    "text": "зависть",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "завистливость",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "jealousy"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "black envy",
+                            "tr": [
+                                {
+                                    "text": "черная зависть"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "предмет зависти",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "envy",
+            "pos": "verb",
+            "ts": "ˈenvɪ",
+            "tr": [
+                {
+                    "text": "завидовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "позавидовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "begrudge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

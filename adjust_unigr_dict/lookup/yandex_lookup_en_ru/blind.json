@@ -1,0 +1,286 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "blind",
+            "pos": "noun",
+            "ts": "blaɪnd",
+            "tr": [
+                {
+                    "text": "штора",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "шторка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "жалюзи",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "curtain"
+                        },
+                        {
+                            "text": "louver"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "vertical blinds",
+                            "tr": [
+                                {
+                                    "text": "вертикальные шторы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "заглушка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "stopper"
+                        }
+                    ]
+                },
+                {
+                    "text": "маркиза",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "awning"
+                        }
+                    ]
+                },
+                {
+                    "text": "блайнд",
+                    "pos": "noun",
+                    "gen": "м",
+                    "ex": [
+                        {
+                            "text": "big blind",
+                            "tr": [
+                                {
+                                    "text": "большой блайнд"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "слепец",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "blind man"
+                        }
+                    ]
+                },
+                {
+                    "text": "слепота",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "blindness"
+                        }
+                    ]
+                },
+                {
+                    "text": "Блинд",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "blind",
+            "pos": "adjective",
+            "ts": "blaɪnd",
+            "tr": [
+                {
+                    "text": "слепой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "незрячий",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "blind man"
+                        },
+                        {
+                            "text": "unseeing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "blind spot",
+                            "tr": [
+                                {
+                                    "text": "слепое пятно"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "double blind method",
+                            "tr": [
+                                {
+                                    "text": "двойной слепой метод"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "blind old man",
+                            "tr": [
+                                {
+                                    "text": "слепой старик"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "little blind girl",
+                            "tr": [
+                                {
+                                    "text": "слепая девочка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "blind from birth",
+                            "tr": [
+                                {
+                                    "text": "слепой от рождения"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "blind people",
+                            "tr": [
+                                {
+                                    "text": "незрячие люди"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "глухой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "несквозной",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "deaf"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "blind hole",
+                            "tr": [
+                                {
+                                    "text": "глухое отверстие"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тупиковый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "deadlock"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "blind",
+            "pos": "verb",
+            "ts": "blaɪnd",
+            "tr": [
+                {
+                    "text": "ослеплять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ослепить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "слепить",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dazzle"
+                        }
+                    ]
+                },
+                {
+                    "text": "ослепнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "слепнуть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "go blind"
+                        }
+                    ]
+                },
+                {
+                    "text": "закрывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "shut"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "blind",
+            "pos": "adverb",
+            "ts": "blaɪnd",
+            "tr": [
+                {
+                    "text": "вслепую",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "blindfolded"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

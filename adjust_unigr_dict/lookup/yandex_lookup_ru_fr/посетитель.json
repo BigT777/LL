@@ -1,0 +1,81 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "посетитель",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "visiteur",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "client",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "visite",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "consommateur",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "гость"
+                        },
+                        {
+                            "text": "клиент"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "привлекать посетителей",
+                            "tr": [
+                                {
+                                    "text": "attirer les visiteurs"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "отзывы посетителей",
+                            "tr": [
+                                {
+                                    "text": "critiques des clients"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "usager",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "пользователь"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "посетители храма",
+                            "tr": [
+                                {
+                                    "text": "usagers du temple"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "rave",
+            "pos": "verb",
+            "ts": "reɪv",
+            "tr": [
+                {
+                    "text": "бредить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "неистовствовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "бушевать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "бесноваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "безумствовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "delirious"
+                        },
+                        {
+                            "text": "rage"
+                        }
+                    ]
+                },
+                {
+                    "text": "восторгаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "admire"
+                        }
+                    ]
+                },
+                {
+                    "text": "отрываться",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "rave",
+            "pos": "noun",
+            "ts": "reɪv",
+            "tr": [
+                {
+                    "text": "рейв",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "вечеринка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "party"
+                        }
+                    ]
+                },
+                {
+                    "text": "неистовство",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "буйство",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fury"
+                        },
+                        {
+                            "text": "rampage"
+                        }
+                    ]
+                },
+                {
+                    "text": "бред",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "delirium"
+                        }
+                    ]
+                },
+                {
+                    "text": "восторженный отзыв",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "rave review"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "rave",
+            "pos": "adjective",
+            "ts": "reɪv",
+            "tr": [
+                {
+                    "text": "восторженный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "exultant"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rave review",
+                            "tr": [
+                                {
+                                    "text": "восторженный отзыв"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "total",
+            "pos": "adjective",
+            "ts": "təʊtl",
+            "tr": [
+                {
+                    "text": "полный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "целый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "full"
+                        },
+                        {
+                            "text": "entire"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "total solar eclipse",
+                            "tr": [
+                                {
+                                    "text": "полное солнечное затмение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "total internal reflection",
+                            "tr": [
+                                {
+                                    "text": "полное внутреннее отражение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "total angular momentum",
+                            "tr": [
+                                {
+                                    "text": "полный угловой момент"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "суммарный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "совокупный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "aggregate"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "total radiation",
+                            "tr": [
+                                {
+                                    "text": "суммарная радиация"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "total demand",
+                            "tr": [
+                                {
+                                    "text": "совокупный спрос"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тотальный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "complete"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "total destruction",
+                            "tr": [
+                                {
+                                    "text": "тотальное уничтожение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "итоговый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "final"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "total counter",
+                            "tr": [
+                                {
+                                    "text": "итоговый счетчик"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "абсолютный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "absolute"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "total perfection",
+                            "tr": [
+                                {
+                                    "text": "абсолютное совершенство"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "общая",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "general"
+                        }
+                    ]
+                },
+                {
+                    "text": "валовой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "валовый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "gross"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "total",
+            "pos": "noun",
+            "ts": "təʊtl",
+            "tr": [
+                {
+                    "text": "сумма",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "общая сумма",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "amount"
+                        },
+                        {
+                            "text": "total amount"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "running total",
+                            "tr": [
+                                {
+                                    "text": "промежуточная сумма"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "итог",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "outcome"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "progressive total",
+                            "tr": [
+                                {
+                                    "text": "нарастающий итог"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "общее количество",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "total number"
+                        }
+                    ]
+                },
+                {
+                    "text": "совокупность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "aggregate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "total",
+            "pos": "verb",
+            "ts": "təʊtl",
+            "tr": [
+                {
+                    "text": "составлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "насчитывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "составить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "amount"
+                        },
+                        {
+                            "text": "number"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "total",
+            "pos": "pronoun",
+            "ts": "təʊtl",
+            "tr": [
+                {
+                    "text": "весь",
+                    "pos": "pronoun",
+                    "mean": [
+                        {
+                            "text": "whole"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "total",
+            "pos": "adverb",
+            "ts": "təʊtl",
+            "tr": [
+                {
+                    "text": "Итого",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

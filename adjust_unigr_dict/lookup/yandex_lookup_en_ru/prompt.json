@@ -1,0 +1,323 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "prompt",
+            "pos": "adjective",
+            "ts": "prɒmpt",
+            "tr": [
+                {
+                    "text": "проворный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "быстрый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "стремительный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "quick"
+                        },
+                        {
+                            "text": "rapid"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "prompt reply",
+                            "tr": [
+                                {
+                                    "text": "быстрый ответ"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "незамедлительный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "срочный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "немедленный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "скорейший",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "безотлагательный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "immediate"
+                        },
+                        {
+                            "text": "urgent"
+                        },
+                        {
+                            "text": "speedy"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "prompt return",
+                            "tr": [
+                                {
+                                    "text": "незамедлительное возвращение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "prompt measures",
+                            "tr": [
+                                {
+                                    "text": "срочные меры"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "оперативный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "своевременный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "operational"
+                        },
+                        {
+                            "text": "timely"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "prompt medical treatment",
+                            "tr": [
+                                {
+                                    "text": "оперативное лечение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "prompt delivery",
+                            "tr": [
+                                {
+                                    "text": "своевременная доставка"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "prompt",
+            "pos": "verb",
+            "ts": "prɒmpt",
+            "tr": [
+                {
+                    "text": "побуждать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "побудить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подтолкнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подталкивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подвигнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "induce"
+                        },
+                        {
+                            "text": "encourage"
+                        }
+                    ]
+                },
+                {
+                    "text": "подсказывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подсказать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tell"
+                        }
+                    ]
+                },
+                {
+                    "text": "запрашивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "запросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "request"
+                        }
+                    ]
+                },
+                {
+                    "text": "вызвать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "спровоцировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "trigger"
+                        },
+                        {
+                            "text": "provoke"
+                        }
+                    ]
+                },
+                {
+                    "text": "заставить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "compel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "prompt",
+            "pos": "noun",
+            "ts": "prɒmpt",
+            "tr": [
+                {
+                    "text": "подсказка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "tip"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "system prompt",
+                            "tr": [
+                                {
+                                    "text": "системная подсказка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "запрос",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "приглашение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "request"
+                        },
+                        {
+                            "text": "invitation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "password prompt",
+                            "tr": [
+                                {
+                                    "text": "запрос пароля"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "командная строка",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "command line"
+                        }
+                    ]
+                },
+                {
+                    "text": "оперативность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "efficiency"
+                        }
+                    ]
+                },
+                {
+                    "text": "заставка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "screen saver"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

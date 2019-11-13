@@ -1,0 +1,137 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "phrase",
+            "pos": "noun",
+            "ts": "freɪz",
+            "tr": [
+                {
+                    "text": "фраза",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "выражение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "слово",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "словосочетание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "формулировка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sentence"
+                        },
+                        {
+                            "text": "expression"
+                        },
+                        {
+                            "text": "word"
+                        },
+                        {
+                            "text": "word combination"
+                        },
+                        {
+                            "text": "wording"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "key phrase",
+                            "tr": [
+                                {
+                                    "text": "ключевая фраза"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "idiomatic phrase",
+                            "tr": [
+                                {
+                                    "text": "идиоматическое выражение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "inclusion of the phrase",
+                            "tr": [
+                                {
+                                    "text": "включение слов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "following phrase",
+                            "tr": [
+                                {
+                                    "text": "следующая формулировка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "оборот",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "turnover"
+                        }
+                    ]
+                },
+                {
+                    "text": "крылатая фраза",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "catch phrase"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "phrase",
+            "pos": "adjective",
+            "ts": "freɪz",
+            "tr": [
+                {
+                    "text": "фразовый",
+                    "pos": "adjective"
+                }
+            ]
+        },
+        {
+            "text": "phrase",
+            "pos": "verb",
+            "ts": "freɪz",
+            "tr": [
+                {
+                    "text": "формулировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "formulate"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

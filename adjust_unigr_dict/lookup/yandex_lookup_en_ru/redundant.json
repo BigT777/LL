@@ -1,0 +1,145 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "redundant",
+            "pos": "adjective",
+            "ts": "rɪˈdʌndənt",
+            "tr": [
+                {
+                    "text": "избыточный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "излишний",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "чрезмерный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "лишний",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "ненужный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "excess"
+                        },
+                        {
+                            "text": "excessive"
+                        },
+                        {
+                            "text": "superfluous"
+                        },
+                        {
+                            "text": "unnecessary"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "redundant data",
+                            "tr": [
+                                {
+                                    "text": "избыточные данные"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "redundant copies",
+                            "tr": [
+                                {
+                                    "text": "лишние копии"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "резервный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "backup"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "redundant system",
+                            "tr": [
+                                {
+                                    "text": "резервная система"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "redundant",
+            "pos": "adverb",
+            "ts": "rɪˈdʌndənt",
+            "tr": [
+                {
+                    "text": "с резервированием",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "with redundancy"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "redundant",
+            "pos": "participle",
+            "ts": "rɪˈdʌndənt",
+            "tr": [
+                {
+                    "text": "дублирующий",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "резервирующий",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "backup"
+                        }
+                    ]
+                },
+                {
+                    "text": "резервированный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "reserved"
+                        }
+                    ]
+                },
+                {
+                    "text": "дублированный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "duplicate"
+                        }
+                    ]
+                },
+                {
+                    "text": "зарезервированный",
+                    "pos": "participle"
+                }
+            ]
+        }
+    ]
+}

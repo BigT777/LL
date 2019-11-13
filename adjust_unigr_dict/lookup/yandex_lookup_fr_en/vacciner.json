@@ -1,0 +1,35 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "vacciner",
+            "pos": "verb",
+            "ts": "vaksine",
+            "tr": [
+                {
+                    "text": "vaccinate",
+                    "pos": "verb"
+                },
+                {
+                    "text": "immunize",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "immunise",
+                            "pos": "verb"
+                        }
+                    ]
+                },
+                {
+                    "text": "inoculate",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "inoculer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

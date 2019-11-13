@@ -1,0 +1,226 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "litter",
+            "pos": "noun",
+            "ts": "ˈlɪtə",
+            "tr": [
+                {
+                    "text": "мусор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "сор",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "garbage"
+                        },
+                        {
+                            "text": "rubbish"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "marine litter",
+                            "tr": [
+                                {
+                                    "text": "морской мусор"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "паланкин",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "носилки",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "palanquin"
+                        },
+                        {
+                            "text": "stretcher"
+                        }
+                    ]
+                },
+                {
+                    "text": "помет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "выводок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dung"
+                        },
+                        {
+                            "text": "brood"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "poultry litter",
+                            "tr": [
+                                {
+                                    "text": "птичий помет"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "подстилка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "лесная подстилка",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bedding"
+                        },
+                        {
+                            "text": "forest floor"
+                        }
+                    ]
+                },
+                {
+                    "text": "приплод",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "потомство",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "offspring"
+                        }
+                    ]
+                },
+                {
+                    "text": "кошачий туалет",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "cat litter"
+                        }
+                    ]
+                },
+                {
+                    "text": "замусоривание",
+                    "pos": "noun",
+                    "gen": "ср"
+                }
+            ]
+        },
+        {
+            "text": "litter",
+            "pos": "verb",
+            "ts": "ˈlɪtə",
+            "tr": [
+                {
+                    "text": "мусорить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сорить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "squander"
+                        }
+                    ]
+                },
+                {
+                    "text": "засорять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "засорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "захламлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clog"
+                        },
+                        {
+                            "text": "clutter"
+                        }
+                    ]
+                },
+                {
+                    "text": "намусорить",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "litter",
+            "pos": "adjective",
+            "ts": "ˈlɪtə",
+            "tr": [
+                {
+                    "text": "мусорный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "garbage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "litter basket",
+                            "tr": [
+                                {
+                                    "text": "мусорная корзина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "подстилочный",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

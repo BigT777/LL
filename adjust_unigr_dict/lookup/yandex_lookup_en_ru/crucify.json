@@ -1,0 +1,72 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "crucify",
+            "pos": "verb",
+            "ts": "ˈkruːsɪfaɪ",
+            "tr": [
+                {
+                    "text": "распинать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "распять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "распять на кресте",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "nail"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "crucify christ",
+                            "tr": [
+                                {
+                                    "text": "распять христа"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "мучить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "замучить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "torment"
+                        },
+                        {
+                            "text": "torture"
+                        }
+                    ]
+                },
+                {
+                    "text": "казнить",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "put to death"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

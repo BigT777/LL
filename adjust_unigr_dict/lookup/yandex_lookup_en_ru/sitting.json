@@ -1,0 +1,162 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sitting",
+            "pos": "noun",
+            "ts": "ˈsɪtɪŋ",
+            "tr": [
+                {
+                    "text": "заседание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "совещание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "meeting"
+                        },
+                        {
+                            "text": "conference"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "joint sitting",
+                            "tr": [
+                                {
+                                    "text": "совместное заседание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сиденье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "сидение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "seat"
+                        }
+                    ]
+                },
+                {
+                    "text": "сеанс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "seance"
+                        }
+                    ]
+                },
+                {
+                    "text": "присест",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "посиделки",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "num": "мн",
+                    "mean": [
+                        {
+                            "text": "gathering"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sitting",
+            "pos": "adjective",
+            "ts": "ˈsɪtɪŋ",
+            "tr": [
+                {
+                    "text": "сидячий",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "sedentary"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sitting position",
+                            "tr": [
+                                {
+                                    "text": "сидячее положение"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sitting",
+            "pos": "participle",
+            "ts": "ˈsɪtɪŋ",
+            "tr": [
+                {
+                    "text": "сидящий",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "стоявший",
+                            "pos": "participle"
+                        },
+                        {
+                            "text": "восседающий",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "seated"
+                        },
+                        {
+                            "text": "standing up"
+                        }
+                    ]
+                },
+                {
+                    "text": "заседающий",
+                    "pos": "participle"
+                },
+                {
+                    "text": "находящийся",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "situated"
+                        }
+                    ]
+                },
+                {
+                    "text": "садящийся",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "sitting down"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

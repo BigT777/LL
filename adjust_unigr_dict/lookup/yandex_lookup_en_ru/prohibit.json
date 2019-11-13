@@ -1,0 +1,69 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "prohibit",
+            "pos": "verb",
+            "ts": "prəˈhɪbɪt",
+            "tr": [
+                {
+                    "text": "запрещать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "воспрещать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "запретить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "воспретить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "forbid"
+                        },
+                        {
+                            "text": "ban"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "prohibited weapon",
+                            "tr": [
+                                {
+                                    "text": "запрещенное оружие"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "мешать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "препятствовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "prevent"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

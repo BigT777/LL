@@ -1,0 +1,71 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "lacerate",
+            "pos": "verb",
+            "ts": "ˈlæsəreɪt",
+            "tr": [
+                {
+                    "text": "раздирать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "рвать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "растерзать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разодрать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rend"
+                        },
+                        {
+                            "text": "tear"
+                        }
+                    ]
+                },
+                {
+                    "text": "терзать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "torment"
+                        }
+                    ]
+                },
+                {
+                    "text": "калечить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ранить",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "maim"
+                        },
+                        {
+                            "text": "injure"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

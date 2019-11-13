@@ -1,0 +1,102 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "kidnap",
+            "pos": "verb",
+            "ts": "ˈkɪdnæp",
+            "tr": [
+                {
+                    "text": "похищать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "похитить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "украсть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выкрасть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "красть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "abduct"
+                        },
+                        {
+                            "text": "steal"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "kidnap children",
+                            "tr": [
+                                {
+                                    "text": "похищать детей"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "kidnap the girl",
+                            "tr": [
+                                {
+                                    "text": "похитить девушку"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "похищать людей",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "kidnap people"
+                        }
+                    ]
+                },
+                {
+                    "text": "увозить",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "take away"
+                        }
+                    ]
+                },
+                {
+                    "text": "украсть ребенка",
+                    "pos": "verb"
+                },
+                {
+                    "text": "похищать детей",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "kidnap",
+            "pos": "noun",
+            "ts": "ˈkɪdnæp",
+            "tr": [
+                {
+                    "text": "похищение людей",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

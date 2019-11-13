@@ -1,0 +1,86 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "snort",
+            "pos": "verb",
+            "ts": "snɔːt",
+            "tr": [
+                {
+                    "text": "фыркать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "нюхать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sniff"
+                        }
+                    ]
+                },
+                {
+                    "text": "пыхтеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "фыркнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "puff"
+                        },
+                        {
+                            "text": "sniff"
+                        }
+                    ]
+                },
+                {
+                    "text": "храпеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "snore"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "snort",
+            "pos": "noun",
+            "ts": "snɔːt",
+            "tr": [
+                {
+                    "text": "фырканье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "храп",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sniff"
+                        },
+                        {
+                            "text": "snoring"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

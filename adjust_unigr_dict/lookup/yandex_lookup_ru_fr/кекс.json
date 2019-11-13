@@ -1,0 +1,50 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "кекс",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "muffin",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "булочка"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "английские кексы",
+                            "tr": [
+                                {
+                                    "text": "muffins anglais"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "gâteau",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "cake",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "торт"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

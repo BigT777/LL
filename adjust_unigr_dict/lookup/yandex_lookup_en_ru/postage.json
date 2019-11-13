@@ -1,0 +1,100 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "postage",
+            "pos": "noun",
+            "ts": "ˈpəʊstɪʤ",
+            "tr": [
+                {
+                    "text": "почтовые расходы",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "пересылка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "стоимость пересылки",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "postage costs"
+                        },
+                        {
+                            "text": "shipping"
+                        },
+                        {
+                            "text": "shipping cost"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "return postage",
+                            "tr": [
+                                {
+                                    "text": "обратная пересылка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "почтовая оплата",
+                    "pos": "noun"
+                },
+                {
+                    "text": "почтовый сбор",
+                    "pos": "noun"
+                },
+                {
+                    "text": "пересылка по почте",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "mailing"
+                        }
+                    ]
+                },
+                {
+                    "text": "почтовый тариф",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "postal rate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "postage",
+            "pos": "adjective",
+            "ts": "ˈpəʊstɪʤ",
+            "tr": [
+                {
+                    "text": "почтовый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "postal"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "postage stamp",
+                            "tr": [
+                                {
+                                    "text": "почтовая марка"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

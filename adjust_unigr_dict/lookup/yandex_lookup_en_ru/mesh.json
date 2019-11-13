@@ -1,0 +1,224 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "mesh",
+            "pos": "noun",
+            "ts": "meʃ",
+            "tr": [
+                {
+                    "text": "ячейка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "cell"
+                        }
+                    ]
+                },
+                {
+                    "text": "петля",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "loop"
+                        }
+                    ]
+                },
+                {
+                    "text": "отверстие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "hole"
+                        }
+                    ]
+                },
+                {
+                    "text": "сетка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "решетка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "сеточка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "металлическая сетка",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grid"
+                        },
+                        {
+                            "text": "lattice"
+                        },
+                        {
+                            "text": "reticulum"
+                        },
+                        {
+                            "text": "metal mesh"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "metal mesh",
+                            "tr": [
+                                {
+                                    "text": "металлическая сетка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "stainless steel wire mesh",
+                            "tr": [
+                                {
+                                    "text": "стальная сетка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "меш",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "сеть",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "network"
+                        }
+                    ]
+                },
+                {
+                    "text": "сито",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "sieve"
+                        }
+                    ]
+                },
+                {
+                    "text": "ячея",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "зацепление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "gearing"
+                        }
+                    ]
+                },
+                {
+                    "text": "ячейка сети",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "mesh",
+            "pos": "adjective",
+            "ts": "meʃ",
+            "tr": [
+                {
+                    "text": "сетчатый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "сеточный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "решетчатый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grid"
+                        },
+                        {
+                            "text": "lattice"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "mesh filter",
+                            "tr": [
+                                {
+                                    "text": "сетчатый фильтр"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ячеистый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "cellular"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "mesh network",
+                            "tr": [
+                                {
+                                    "text": "ячеистая сеть"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mesh",
+            "pos": "verb",
+            "ts": "meʃ",
+            "tr": [
+                {
+                    "text": "зацепить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "hook"
+                        }
+                    ]
+                },
+                {
+                    "text": "сцепляться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "interlock"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,297 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "broadcast",
+            "pos": "verb",
+            "ts": "ˈbrɒdkɑːst",
+            "tr": [
+                {
+                    "text": "вещать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "транслировать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "передавать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "передать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "осуществлять вещание",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "speak"
+                        },
+                        {
+                            "text": "transmit"
+                        },
+                        {
+                            "text": "transfer"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "broadcast the contest",
+                            "tr": [
+                                {
+                                    "text": "транслировать конкурс"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "передавать в эфир",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "broadcast",
+            "pos": "noun",
+            "ts": "ˈbrɒdkɑːst",
+            "tr": [
+                {
+                    "text": "радиопередача",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "телепередача",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "radio"
+                        },
+                        {
+                            "text": "television"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "weekly radio broadcast",
+                            "tr": [
+                                {
+                                    "text": "еженедельная радиопередача"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "радиовещание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "трансляция",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "передача",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "вещание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "телевещание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "широковещательная передача",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "широковещательная рассылка",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "широковещание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "радиотрансляция",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "транслирование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "broadcasting"
+                        },
+                        {
+                            "text": "transfer"
+                        },
+                        {
+                            "text": "multicasting"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "match broadcast",
+                            "tr": [
+                                {
+                                    "text": "трансляция матча"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "satellite broadcast",
+                            "tr": [
+                                {
+                                    "text": "спутниковая передача"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "television broadcast",
+                            "tr": [
+                                {
+                                    "text": "телевизионное вещание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "эфир",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "ether"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "morning broadcast",
+                            "tr": [
+                                {
+                                    "text": "утренний эфир"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "рассылка",
+                    "pos": "noun",
+                    "gen": "м,ж",
+                    "mean": [
+                        {
+                            "text": "mailing"
+                        }
+                    ]
+                },
+                {
+                    "text": "репортаж",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "coverage"
+                        }
+                    ]
+                },
+                {
+                    "text": "эфирное вещание",
+                    "pos": "noun"
+                },
+                {
+                    "text": "выход в эфир",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "airing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "broadcast",
+            "pos": "adjective",
+            "ts": "ˈbrɒdkɑːst",
+            "tr": [
+                {
+                    "text": "радиовещательный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "широковещательный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "вещательный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "эфирный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "broadcasting"
+                        },
+                        {
+                            "text": "air"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "broadcast address",
+                            "tr": [
+                                {
+                                    "text": "широковещательный адрес"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "national broadcasting company",
+                            "tr": [
+                                {
+                                    "text": "национальная вещательная компания"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "broadcast signal",
+                            "tr": [
+                                {
+                                    "text": "эфирный сигнал"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

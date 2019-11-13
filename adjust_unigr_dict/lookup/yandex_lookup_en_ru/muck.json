@@ -1,0 +1,139 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "muck",
+            "pos": "noun",
+            "ts": "mʌk",
+            "tr": [
+                {
+                    "text": "навоз",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "перегной",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "manure"
+                        },
+                        {
+                            "text": "humus"
+                        }
+                    ]
+                },
+                {
+                    "text": "жижа",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "грязь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "slush"
+                        },
+                        {
+                            "text": "mud"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "black muck",
+                            "tr": [
+                                {
+                                    "text": "черная грязь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "мерзость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "гадость",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "дерьмо",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "дрянь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "filth"
+                        },
+                        {
+                            "text": "shit"
+                        },
+                        {
+                            "text": "rubbish"
+                        }
+                    ]
+                },
+                {
+                    "text": "порода",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "breed"
+                        }
+                    ]
+                },
+                {
+                    "text": "Ил",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "muck",
+            "pos": "verb",
+            "ts": "mʌk",
+            "tr": [
+                {
+                    "text": "испортить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "портить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "изгадить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spoil"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

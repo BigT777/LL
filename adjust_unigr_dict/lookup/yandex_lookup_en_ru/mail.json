@@ -1,0 +1,249 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "mail",
+            "pos": "noun",
+            "ts": "meɪl",
+            "tr": [
+                {
+                    "text": "почта",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "корреспонденция",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "письмо",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "почтовая корреспонденция",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "post"
+                        },
+                        {
+                            "text": "correspondence"
+                        },
+                        {
+                            "text": "email"
+                        },
+                        {
+                            "text": "postal correspondence"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "incoming mail",
+                            "tr": [
+                                {
+                                    "text": "входящая почта"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "voice mail server",
+                            "tr": [
+                                {
+                                    "text": "сервер голосовой почты"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "electronic mail system",
+                            "tr": [
+                                {
+                                    "text": "система электронной почты"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "private mail",
+                            "tr": [
+                                {
+                                    "text": "частная корреспонденция"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "certified mail",
+                            "tr": [
+                                {
+                                    "text": "заказное письмо"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "рассылка",
+                    "pos": "noun",
+                    "gen": "м,ж",
+                    "syn": [
+                        {
+                            "text": "почтовое отправление",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "отправление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mailing"
+                        },
+                        {
+                            "text": "sending"
+                        }
+                    ]
+                },
+                {
+                    "text": "кольчуга",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "hauberk"
+                        }
+                    ]
+                },
+                {
+                    "text": "почтовое сообщение",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "mail message"
+                        }
+                    ]
+                },
+                {
+                    "text": "мэйл",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "майл",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mail",
+            "pos": "adjective",
+            "ts": "meɪl",
+            "tr": [
+                {
+                    "text": "почтовый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "postal"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "mail user agent",
+                            "tr": [
+                                {
+                                    "text": "почтовый агент пользователя"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "direct mail advertising",
+                            "tr": [
+                                {
+                                    "text": "прямая почтовая реклама"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mail order catalogues",
+                            "tr": [
+                                {
+                                    "text": "почтовые каталоги"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mail",
+            "pos": "verb",
+            "ts": "meɪl",
+            "tr": [
+                {
+                    "text": "отправить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "отправлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пересылать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "send"
+                        }
+                    ]
+                },
+                {
+                    "text": "отправлять по почте",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "post"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mail",
+            "ts": "meɪl",
+            "tr": [
+                {
+                    "text": "mail"
+                }
+            ]
+        },
+        {
+            "text": "mail",
+            "pos": "adverb",
+            "ts": "meɪl",
+            "tr": [
+                {
+                    "text": "по почте",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "postal"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

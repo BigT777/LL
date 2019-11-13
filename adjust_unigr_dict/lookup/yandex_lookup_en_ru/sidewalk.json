@@ -1,0 +1,83 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sidewalk",
+            "pos": "noun",
+            "ts": "ˈsaɪdwɔːk",
+            "tr": [
+                {
+                    "text": "тротуар",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "бордюр",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pavement"
+                        },
+                        {
+                            "text": "curb"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "brick sidewalk",
+                            "tr": [
+                                {
+                                    "text": "кирпичный тротуар"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дорожка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "пешеходная дорожка",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "walkway"
+                        },
+                        {
+                            "text": "footpath"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sidewalk",
+            "pos": "adjective",
+            "ts": "ˈsaɪdwɔːk",
+            "tr": [
+                {
+                    "text": "тротуарный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "уличный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "street"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "сканировать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "numériser",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "отсканировать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "сканируемое изображение",
+                            "tr": [
+                                {
+                                    "text": "image numérisé"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "scanner",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "lire",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "считывать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "автоматически сканировать",
+                            "tr": [
+                                {
+                                    "text": "scanner automatiquement"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "balayer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "прочесывать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "сканировать сеть",
+                            "tr": [
+                                {
+                                    "text": "balayer le réseau"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,234 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "scream",
+            "pos": "verb",
+            "ts": "skriːm",
+            "tr": [
+                {
+                    "text": "кричать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вопить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "визжать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выкрикивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пронзительно кричать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "закричать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вскрикнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "орать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "завопить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "крикнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вскрикивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выкрикнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прокричать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "покричать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "верещать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shout"
+                        },
+                        {
+                            "text": "yell"
+                        },
+                        {
+                            "text": "squeal"
+                        },
+                        {
+                            "text": "shriek"
+                        },
+                        {
+                            "text": "cry"
+                        },
+                        {
+                            "text": "cry out"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "scream loud",
+                            "tr": [
+                                {
+                                    "text": "кричать громко"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "scream again",
+                            "tr": [
+                                {
+                                    "text": "закричать снова"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "завизжать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "взвизгнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "screech"
+                        },
+                        {
+                            "text": "squeal"
+                        }
+                    ]
+                },
+                {
+                    "text": "выть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "howl"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "scream",
+            "pos": "noun",
+            "ts": "skriːm",
+            "tr": [
+                {
+                    "text": "вопль",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "визг",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "крик",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "клекот",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "пронзительный крик",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cry"
+                        },
+                        {
+                            "text": "squeal"
+                        },
+                        {
+                            "text": "screech"
+                        },
+                        {
+                            "text": "shriek"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "piercing scream",
+                            "tr": [
+                                {
+                                    "text": "пронзительный вопль"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "shrill scream",
+                            "tr": [
+                                {
+                                    "text": "пронзительный визг"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "dying scream",
+                            "tr": [
+                                {
+                                    "text": "предсмертный крик"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "умора",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        }
+    ]
+}

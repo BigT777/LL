@@ -1,0 +1,40 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "отпирать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "déverrouiller",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "отпереть"
+                        }
+                    ]
+                },
+                {
+                    "text": "débarrer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "ouvrir",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "débloquer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "отпереть"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

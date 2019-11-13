@@ -1,0 +1,474 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "mine",
+            "pos": "verb",
+            "ts": "maɪn",
+            "tr": [
+                {
+                    "text": "подкопать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "подкапывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "делать подкоп",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сделать подкоп",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sap"
+                        }
+                    ]
+                },
+                {
+                    "text": "выкопать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выкапывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dig"
+                        }
+                    ]
+                },
+                {
+                    "text": "минировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заминировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "undermine"
+                        }
+                    ]
+                },
+                {
+                    "text": "взрывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "взорвать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "blow up"
+                        }
+                    ]
+                },
+                {
+                    "text": "подрывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подорвать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "undermine"
+                        },
+                        {
+                            "text": "impair"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "to undermine reputation",
+                            "tr": [
+                                {
+                                    "text": "подрывать репутацию"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "добывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "добыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разрабатывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "extract"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mine",
+            "pos": "pronoun",
+            "ts": "maɪn",
+            "tr": [
+                {
+                    "text": "мой",
+                    "pos": "pronoun",
+                    "ex": [
+                        {
+                            "text": "convictions different from mine",
+                            "tr": [
+                                {
+                                    "text": "убеждения, отличные от моих"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mine",
+            "pos": "noun",
+            "ts": "maɪn",
+            "tr": [
+                {
+                    "text": "залежь",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "копь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "месторождение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "прииск",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "рудник",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "шахта",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "deposit"
+                        },
+                        {
+                            "text": "pit"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "emerald mines",
+                            "tr": [
+                                {
+                                    "text": "изумрудные копи"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "King Solomon's Mines",
+                            "tr": [
+                                {
+                                    "text": "Копи царя Соломона"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "silver mine",
+                            "tr": [
+                                {
+                                    "text": "месторождение серебра"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "gold mine",
+                            "tr": [
+                                {
+                                    "text": "золотой прииск"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "copper mine",
+                            "tr": [
+                                {
+                                    "text": "медный рудник"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "diamond mine",
+                            "tr": [
+                                {
+                                    "text": "алмазный рудник"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "bauxite mine",
+                            "tr": [
+                                {
+                                    "text": "бокситовый рудник"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "limestone mine",
+                            "tr": [
+                                {
+                                    "text": "известняковый рудник"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mine development",
+                            "tr": [
+                                {
+                                    "text": "разработка рудника"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "rich mines",
+                            "tr": [
+                                {
+                                    "text": "богатые рудники"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "coal mines",
+                            "tr": [
+                                {
+                                    "text": "угольные шахты"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "iron ore mine",
+                            "tr": [
+                                {
+                                    "text": "железорудная шахта"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "abandoned mine",
+                            "tr": [
+                                {
+                                    "text": "заброшенная шахта"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "depth of the mine",
+                            "tr": [
+                                {
+                                    "text": "глубина шахты"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "кладезь",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "source"
+                        }
+                    ]
+                },
+                {
+                    "text": "подкоп",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "sap"
+                        }
+                    ]
+                },
+                {
+                    "text": "мина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "ex": [
+                        {
+                            "text": "land mine",
+                            "tr": [
+                                {
+                                    "text": "наземная мина"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "magnetic mine",
+                            "tr": [
+                                {
+                                    "text": "магнитная мина"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "naval mine",
+                            "tr": [
+                                {
+                                    "text": "морская мина"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "use of mines",
+                            "tr": [
+                                {
+                                    "text": "применение мин |"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mine",
+            "pos": "adjective",
+            "ts": "maɪn",
+            "tr": [
+                {
+                    "text": "минный",
+                    "pos": "adjective",
+                    "ex": [
+                        {
+                            "text": "mine field",
+                            "tr": [
+                                {
+                                    "text": "минное поле"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mine layer",
+                            "tr": [
+                                {
+                                    "text": "минный заградитель"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mine warfare",
+                            "tr": [
+                                {
+                                    "text": "минная война"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mine sweeper",
+                            "tr": [
+                                {
+                                    "text": "минный трал"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mine gallery",
+                            "tr": [
+                                {
+                                    "text": "минная галерея"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шахтный",
+                    "pos": "adjective",
+                    "ex": [
+                        {
+                            "text": "mine water",
+                            "tr": [
+                                {
+                                    "text": "шахтная вода"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mine shaft",
+                            "tr": [
+                                {
+                                    "text": "шахтный ствол"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mine construction",
+                            "tr": [
+                                {
+                                    "text": "шахтное строительство"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mine air",
+                            "tr": [
+                                {
+                                    "text": "шахтный воздух"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "bacon",
+            "pos": "noun",
+            "ts": "ˈbeɪkən",
+            "tr": [
+                {
+                    "text": "бекон",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "ветчина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "сало",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "грудинка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "шпик",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "копченая грудинка",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ham"
+                        },
+                        {
+                            "text": "fat"
+                        },
+                        {
+                            "text": "brisket"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "smoked bacon",
+                            "tr": [
+                                {
+                                    "text": "копченый бекон"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "piece of bacon",
+                            "tr": [
+                                {
+                                    "text": "кусок сала"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "копченая свиная грудинка",
+                    "pos": "noun"
+                },
+                {
+                    "text": "Бэкон",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "bacon",
+            "pos": "adjective",
+            "ts": "ˈbeɪkən",
+            "tr": [
+                {
+                    "text": "беконный",
+                    "pos": "adjective"
+                },
+                {
+                    "text": "ветчинный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "ham"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

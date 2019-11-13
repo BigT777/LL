@@ -1,0 +1,60 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sound",
+            "pos": "noun",
+            "ts": "saʊnd",
+            "tr": [
+                {
+                    "text": "son",
+                    "pos": "noun"
+                },
+                {
+                    "text": "sonore",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "sain",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "audio"
+                        },
+                        {
+                            "text": "healthy"
+                        }
+                    ]
+                },
+                {
+                    "text": "bruit",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "noise"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sound",
+            "pos": "verb",
+            "ts": "saʊnd",
+            "tr": [
+                {
+                    "text": "sonner",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "sounding"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

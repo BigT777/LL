@@ -1,0 +1,50 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "запинаться",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "bégayer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "balbutier",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "hésiter",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "заикаться"
+                        },
+                        {
+                            "text": "лепетать"
+                        },
+                        {
+                            "text": "запнуться"
+                        }
+                    ]
+                },
+                {
+                    "text": "bafouiller",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "бормотать"
+                        }
+                    ]
+                },
+                {
+                    "text": "chercher ses mots",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

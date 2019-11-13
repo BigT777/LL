@@ -1,0 +1,41 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "rent",
+            "pos": "noun",
+            "ts": "rent",
+            "tr": [
+                {
+                    "text": "louer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "hire"
+                        }
+                    ]
+                },
+                {
+                    "text": "location",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "loyer",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hire"
+                        },
+                        {
+                            "text": "rental"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

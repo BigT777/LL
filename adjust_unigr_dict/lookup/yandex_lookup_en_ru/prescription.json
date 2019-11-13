@@ -1,0 +1,180 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "prescription",
+            "pos": "noun",
+            "ts": "prɪsˈkrɪpʃn",
+            "tr": [
+                {
+                    "text": "рецепт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "рецептура",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "пропись",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "recipe"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "prescription drug",
+                            "tr": [
+                                {
+                                    "text": "рецепт лекарства"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "предписание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "назначение врача",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "order"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "medical prescription",
+                            "tr": [
+                                {
+                                    "text": "медицинское предписание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "рекомендация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "recommendation"
+                        }
+                    ]
+                },
+                {
+                    "text": "предписывание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "prescribing"
+                        }
+                    ]
+                },
+                {
+                    "text": "назначение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "appointment"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "prescription of antibiotics",
+                            "tr": [
+                                {
+                                    "text": "назначение антибиотиков"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "давность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "limitation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "period of prescription",
+                            "tr": [
+                                {
+                                    "text": "срок давности"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "prescription",
+            "pos": "participle",
+            "ts": "prɪsˈkrɪpʃn",
+            "tr": [
+                {
+                    "text": "отпускаемый",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "nonprescription"
+                        }
+                    ]
+                },
+                {
+                    "text": "отпускаемый по рецепту",
+                    "pos": "participle"
+                },
+                {
+                    "text": "прописываемый",
+                    "pos": "participle"
+                }
+            ]
+        },
+        {
+            "text": "prescription",
+            "pos": "adjective",
+            "ts": "prɪsˈkrɪpʃn",
+            "tr": [
+                {
+                    "text": "рецептурный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "recipe"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "prescription form",
+                            "tr": [
+                                {
+                                    "text": "рецептурный бланк"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

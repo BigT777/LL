@@ -1,0 +1,197 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "torch",
+            "pos": "noun",
+            "ts": "tɔːʧ",
+            "tr": [
+                {
+                    "text": "факел",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "фонарь",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "светильник",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flare"
+                        },
+                        {
+                            "text": "lantern"
+                        },
+                        {
+                            "text": "lamp"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "burning torch",
+                            "tr": [
+                                {
+                                    "text": "горящий факел"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "electric torch",
+                            "tr": [
+                                {
+                                    "text": "электрический фонарь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "горелка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "паяльная лампа",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "burner"
+                        },
+                        {
+                            "text": "blowtorch"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "welding torch",
+                            "tr": [
+                                {
+                                    "text": "сварочная горелка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "светоч",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "luminary"
+                        }
+                    ]
+                },
+                {
+                    "text": "фонарик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "карманный фонарь",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "карманный фонарик",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flashlight"
+                        },
+                        {
+                            "text": "pocket flashlight"
+                        }
+                    ]
+                },
+                {
+                    "text": "резак",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "газовый резак",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cutter"
+                        },
+                        {
+                            "text": "cutting torch"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "plasma torch",
+                            "tr": [
+                                {
+                                    "text": "плазменный резак"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "torch",
+            "pos": "verb",
+            "ts": "tɔːʧ",
+            "tr": [
+                {
+                    "text": "поджечь",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "поджигать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сжечь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fire"
+                        },
+                        {
+                            "text": "burn"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "torch",
+            "pos": "adjective",
+            "ts": "tɔːʧ",
+            "tr": [
+                {
+                    "text": "факельный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "flare"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

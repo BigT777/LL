@@ -1,0 +1,264 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "seize",
+            "pos": "verb",
+            "ts": "siːz",
+            "tr": [
+                {
+                    "text": "схватить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "ухватиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "хватать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вцепиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "ухватить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "схватывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "уцепиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grab"
+                        },
+                        {
+                            "text": "grasp"
+                        }
+                    ]
+                },
+                {
+                    "text": "захватывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "охватить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "захватить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "овладеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "завладеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "овладевать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "capture"
+                        },
+                        {
+                            "text": "possess"
+                        },
+                        {
+                            "text": "acquire"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "seize territory",
+                            "tr": [
+                                {
+                                    "text": "захватывать территории"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "seize power",
+                            "tr": [
+                                {
+                                    "text": "захватить власть"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "seize the city",
+                            "tr": [
+                                {
+                                    "text": "завладеть городом"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "конфисковать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "изъять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "изымать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "confiscate"
+                        },
+                        {
+                            "text": "withdraw"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "seized property",
+                            "tr": [
+                                {
+                                    "text": "конфискованное имущество"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "воспользоваться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "take advantage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "seize the moment",
+                            "tr": [
+                                {
+                                    "text": "воспользоваться моментом"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "заедать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заесть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "jam"
+                        }
+                    ]
+                },
+                {
+                    "text": "взять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "take"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "seize the initiative",
+                            "tr": [
+                                {
+                                    "text": "взять инициативу"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отобрать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "отнять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "take away"
+                        }
+                    ]
+                },
+                {
+                    "text": "ловить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "catch"
+                        }
+                    ]
+                },
+                {
+                    "text": "отсудить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "sue"
+                        }
+                    ]
+                },
+                {
+                    "text": "отторгнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "reject"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

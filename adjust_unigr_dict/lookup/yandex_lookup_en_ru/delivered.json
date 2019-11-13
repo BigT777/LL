@@ -1,0 +1,84 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "delivered",
+            "pos": "participle",
+            "ts": "dɪˈlɪvəd",
+            "tr": [
+                {
+                    "text": "доставленный",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "завезенный",
+                            "pos": "participle"
+                        },
+                        {
+                            "text": "доставляемый",
+                            "pos": "participle"
+                        },
+                        {
+                            "text": "привезенный",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "brought"
+                        },
+                        {
+                            "text": "imported"
+                        }
+                    ]
+                },
+                {
+                    "text": "поставленный",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "поставляемый",
+                            "pos": "participle"
+                        },
+                        {
+                            "text": "переданный",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "supplied"
+                        },
+                        {
+                            "text": "transferred"
+                        }
+                    ]
+                },
+                {
+                    "text": "прочитанный",
+                    "pos": "participle"
+                },
+                {
+                    "text": "произнесенный",
+                    "pos": "participle"
+                }
+            ]
+        },
+        {
+            "text": "delivered",
+            "pos": "adjective",
+            "ts": "dɪˈlɪvəd",
+            "tr": [
+                {
+                    "text": "привозной",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "imported"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

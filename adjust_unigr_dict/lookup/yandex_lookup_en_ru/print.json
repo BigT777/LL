@@ -1,0 +1,350 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "print",
+            "pos": "noun",
+            "ts": "prɪnt",
+            "tr": [
+                {
+                    "text": "печать",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "оттиск",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "распечатка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "printing"
+                        },
+                        {
+                            "text": "stamp"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "print quality",
+                            "tr": [
+                                {
+                                    "text": "качество печати"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "print server object",
+                            "tr": [
+                                {
+                                    "text": "объект сервера печати"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "large print",
+                            "tr": [
+                                {
+                                    "text": "оттиск большого формата"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "color print",
+                            "tr": [
+                                {
+                                    "text": "цветная распечатка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отпечаток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "imprint"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "palm print",
+                            "tr": [
+                                {
+                                    "text": "отпечаток ладони"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "гравюра",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "эстамп",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "engraving"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "old print",
+                            "tr": [
+                                {
+                                    "text": "старая гравюра"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шрифт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "font"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "read the fine print",
+                            "tr": [
+                                {
+                                    "text": "читать мелкий шрифт"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "печатное издание",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "publication"
+                        }
+                    ]
+                },
+                {
+                    "text": "принт",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "печатная продукция",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "печатный материал",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "print materials"
+                        },
+                        {
+                            "text": "printed material"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "print",
+            "pos": "adjective",
+            "ts": "prɪnt",
+            "tr": [
+                {
+                    "text": "печатный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "полиграфический",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "printed"
+                        },
+                        {
+                            "text": "printing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "printed circuit board",
+                            "tr": [
+                                {
+                                    "text": "печатная плата"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "print media outlets",
+                            "tr": [
+                                {
+                                    "text": "печатные средства массовой информации"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "print",
+            "pos": "verb",
+            "ts": "prɪnt",
+            "tr": [
+                {
+                    "text": "печатать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "напечатать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "распечатать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "распечатывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отпечатать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выводить на печать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "отпечататься",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "type"
+                        },
+                        {
+                            "text": "publish"
+                        },
+                        {
+                            "text": "print out"
+                        },
+                        {
+                            "text": "imprint"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "print paper money",
+                            "tr": [
+                                {
+                                    "text": "печатать бумажные деньги"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "print head",
+                            "tr": [
+                                {
+                                    "text": "печатающая головка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "print a retraction",
+                            "tr": [
+                                {
+                                    "text": "напечатать опровержение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "print pictures",
+                            "tr": [
+                                {
+                                    "text": "распечатать снимки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "print documents",
+                            "tr": [
+                                {
+                                    "text": "распечатывать документы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "printed copy",
+                            "tr": [
+                                {
+                                    "text": "отпечатанная копия"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выводить",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "вывести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "display"
+                        },
+                        {
+                            "text": "output"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "print",
+            "pos": "adverb",
+            "ts": "prɪnt",
+            "tr": [
+                {
+                    "text": "в печати",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

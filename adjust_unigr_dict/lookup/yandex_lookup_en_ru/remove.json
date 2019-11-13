@@ -1,0 +1,354 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "remove",
+            "pos": "verb",
+            "ts": "rɪˈmuːv",
+            "tr": [
+                {
+                    "text": "снимать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "снять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shoot"
+                        },
+                        {
+                            "text": "take off"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "remove cover",
+                            "tr": [
+                                {
+                                    "text": "снимать крышку"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "remove the bandage",
+                            "tr": [
+                                {
+                                    "text": "снять повязку"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "удалять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "удалить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "удаляться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "delete"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "remove dust",
+                            "tr": [
+                                {
+                                    "text": "удалять пыль"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "remove filter",
+                            "tr": [
+                                {
+                                    "text": "удалить фильтр"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "передвигать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "move around"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "remove mountains",
+                            "tr": [
+                                {
+                                    "text": "передвигать горы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "устранять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "устранить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "исключить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "ликвидировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "eliminate"
+                        },
+                        {
+                            "text": "exclude"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "remove obstacles",
+                            "tr": [
+                                {
+                                    "text": "устранять препятствия"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "remove barriers",
+                            "tr": [
+                                {
+                                    "text": "устранить барьеры"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "remove the words",
+                            "tr": [
+                                {
+                                    "text": "исключить слова"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "убирать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "убрать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clean"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "remove snow",
+                            "tr": [
+                                {
+                                    "text": "убирать снег"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "remove the body",
+                            "tr": [
+                                {
+                                    "text": "убрать тело"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "извлечь",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "извлекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "extract"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "remove the bullet",
+                            "tr": [
+                                {
+                                    "text": "извлечь пулю"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вынимать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вытащить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вывезти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "достать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "take out"
+                        },
+                        {
+                            "text": "pull"
+                        }
+                    ]
+                },
+                {
+                    "text": "вывести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "изъять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выводить",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "withdraw"
+                        },
+                        {
+                            "text": "seize"
+                        },
+                        {
+                            "text": "bring"
+                        }
+                    ]
+                },
+                {
+                    "text": "демонтировать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "dismantle"
+                        }
+                    ]
+                },
+                {
+                    "text": "отменить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "undo"
+                        }
+                    ]
+                },
+                {
+                    "text": "отстранить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "suspend"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "remove",
+            "pos": "noun",
+            "ts": "rɪˈmuːv",
+            "tr": [
+                {
+                    "text": "снятие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "устранение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "удаление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "removal"
+                        },
+                        {
+                            "text": "eliminate"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "remove moisture",
+                            "tr": [
+                                {
+                                    "text": "удаление влаги"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "землевладелец",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "propriétaire foncier",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "земельный собственник"
+                        }
+                    ]
+                },
+                {
+                    "text": "propriétaire terrien",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "земельный собственник"
+                        }
+                    ]
+                },
+                {
+                    "text": "terrien",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "foncier",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "собственник земельного участка"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "мелкие землевладельцы",
+                            "tr": [
+                                {
+                                    "text": "petits propriétaires fonciers"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

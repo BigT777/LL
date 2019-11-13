@@ -1,0 +1,221 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "mouth",
+            "pos": "noun",
+            "ts": "maʊθ",
+            "tr": [
+                {
+                    "text": "рот",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "уста",
+                            "pos": "noun",
+                            "gen": "ср",
+                            "num": "мн"
+                        },
+                        {
+                            "text": "зев",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "пасть",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "ротик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "jaw"
+                        },
+                        {
+                            "text": "lip"
+                        },
+                        {
+                            "text": "fauces"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "corner of her mouth",
+                            "tr": [
+                                {
+                                    "text": "уголок рта"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "word of mouth",
+                            "tr": [
+                                {
+                                    "text": "слово из уст"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "huge mouth",
+                            "tr": [
+                                {
+                                    "text": "огромная пасть"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "tiny mouth",
+                            "tr": [
+                                {
+                                    "text": "крошечный ротик"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "устье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "estuary"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "mouth of this river",
+                            "tr": [
+                                {
+                                    "text": "устье этой реки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отверстие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "hole"
+                        }
+                    ]
+                },
+                {
+                    "text": "горлышко",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "горловина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "neck"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "narrow mouth",
+                            "tr": [
+                                {
+                                    "text": "узкая горловина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "жерло",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "muzzle"
+                        }
+                    ]
+                },
+                {
+                    "text": "полость рта",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "ротовая полость",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "oral cavity"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mouth",
+            "pos": "verb",
+            "ts": "maʊθ",
+            "tr": [
+                {
+                    "text": "изрекать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "изречь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "utter"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mouth",
+            "pos": "adjective",
+            "ts": "maʊθ",
+            "tr": [
+                {
+                    "text": "ротовой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "oral"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "mouth cavity",
+                            "tr": [
+                                {
+                                    "text": "ротовая полость"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "устьевый",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

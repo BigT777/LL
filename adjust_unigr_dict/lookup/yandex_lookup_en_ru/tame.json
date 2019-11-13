@@ -1,0 +1,166 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "tame",
+            "pos": "verb",
+            "ts": "teɪm",
+            "tr": [
+                {
+                    "text": "укрощать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "приручать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "приручить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "укротить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обуздать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "усмирить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "усмирять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "subdue"
+                        },
+                        {
+                            "text": "domesticate"
+                        },
+                        {
+                            "text": "curb"
+                        },
+                        {
+                            "text": "pacify"
+                        }
+                    ]
+                },
+                {
+                    "text": "смирять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "смирить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "humble"
+                        }
+                    ]
+                },
+                {
+                    "text": "дрессировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выдрессировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "train"
+                        }
+                    ]
+                },
+                {
+                    "text": "смягчить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "soften"
+                        }
+                    ]
+                },
+                {
+                    "text": "обуздывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "restrain"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "tame",
+            "pos": "adjective",
+            "ts": "teɪm",
+            "tr": [
+                {
+                    "text": "ручной",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "manual"
+                        }
+                    ]
+                },
+                {
+                    "text": "скучный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "boring"
+                        }
+                    ]
+                },
+                {
+                    "text": "покорный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "послушный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "obedient"
+                        }
+                    ]
+                },
+                {
+                    "text": "неопасный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "harmless"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

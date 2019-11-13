@@ -1,0 +1,63 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "сжать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "compresser",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "comprimer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "serrer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "presser",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "сжимать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "сжатый файл",
+                            "tr": [
+                                {
+                                    "text": "fichier compressé"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "abréger",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "укоротить"
+                        }
+                    ]
+                },
+                {
+                    "text": "emprisonner",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "заточить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

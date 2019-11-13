@@ -1,0 +1,139 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "plank",
+            "pos": "noun",
+            "ts": "plæŋk",
+            "tr": [
+                {
+                    "text": "планка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "lath"
+                        }
+                    ]
+                },
+                {
+                    "text": "пункт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "paragraph"
+                        }
+                    ]
+                },
+                {
+                    "text": "доска",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "дощечка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "board"
+                        },
+                        {
+                            "text": "plate"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "wooden plank",
+                            "tr": [
+                                {
+                                    "text": "деревянная доска"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "настил",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "flooring"
+                        }
+                    ]
+                },
+                {
+                    "text": "половица",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "floorboard"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "plank",
+            "pos": "verb",
+            "ts": "plæŋk",
+            "tr": [
+                {
+                    "text": "настилать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "lay"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "plank",
+            "pos": "adjective",
+            "ts": "plæŋk",
+            "tr": [
+                {
+                    "text": "дощатый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "тесовый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wooden"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "plank floor",
+                            "tr": [
+                                {
+                                    "text": "дощатый пол"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обшивной",
+                    "pos": "adjective"
+                },
+                {
+                    "text": "лежневой",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

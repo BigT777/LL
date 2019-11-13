@@ -1,0 +1,232 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "dock",
+            "pos": "noun",
+            "ts": "dɒk",
+            "tr": [
+                {
+                    "text": "док",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "причал",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "пристань",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "пирс",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "doc"
+                        },
+                        {
+                            "text": "pier"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "graving dock",
+                            "tr": [
+                                {
+                                    "text": "сухой док"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "floating dry dock",
+                            "tr": [
+                                {
+                                    "text": "плавучий док"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ferry dock",
+                            "tr": [
+                                {
+                                    "text": "паромный причал"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "boat dock",
+                            "tr": [
+                                {
+                                    "text": "лодочная пристань"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "скамья подсудимых",
+                    "pos": "noun"
+                },
+                {
+                    "text": "щавель",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "sorrel"
+                        }
+                    ]
+                },
+                {
+                    "text": "стыковка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "docking"
+                        }
+                    ]
+                },
+                {
+                    "text": "верфь",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "shipyard"
+                        }
+                    ]
+                },
+                {
+                    "text": "эстакада",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "overpass"
+                        }
+                    ]
+                },
+                {
+                    "text": "погрузочная платформа",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "loading dock"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dock",
+            "pos": "verb",
+            "ts": "dɒk",
+            "tr": [
+                {
+                    "text": "состыковать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "пристыковать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "состыковывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "join"
+                        }
+                    ]
+                },
+                {
+                    "text": "причалить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "пришвартоваться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "причаливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "moor"
+                        }
+                    ]
+                },
+                {
+                    "text": "закрепить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "закреплять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fix"
+                        }
+                    ]
+                },
+                {
+                    "text": "стыковаться",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "купировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "stop"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dock",
+            "pos": "adjective",
+            "ts": "dɒk",
+            "tr": [
+                {
+                    "text": "портовый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "harbour"
+                        }
+                    ]
+                },
+                {
+                    "text": "доковый",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

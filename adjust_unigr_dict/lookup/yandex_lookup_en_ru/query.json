@@ -1,0 +1,150 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "query",
+            "pos": "verb",
+            "ts": "ˈkwɪərɪ",
+            "tr": [
+                {
+                    "text": "запрашивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "опрашивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "request"
+                        },
+                        {
+                            "text": "poll"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "query information",
+                            "tr": [
+                                {
+                                    "text": "запрашивать информацию"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сделать запрос",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "make a request"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "query",
+            "pos": "noun",
+            "ts": "ˈkwɪərɪ",
+            "tr": [
+                {
+                    "text": "вопрос",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "question"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "brief query",
+                            "tr": [
+                                {
+                                    "text": "короткий вопрос"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сомнение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "doubt"
+                        }
+                    ]
+                },
+                {
+                    "text": "запрос",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "request"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "query string",
+                            "tr": [
+                                {
+                                    "text": "строка запроса"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "structured query language",
+                            "tr": [
+                                {
+                                    "text": "язык структурированных запросов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "result of this query",
+                            "tr": [
+                                {
+                                    "text": "результат запроса"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "query designer",
+                            "tr": [
+                                {
+                                    "text": "конструктор запросов"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выполнение запроса",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "query execution"
+                        }
+                    ]
+                },
+                {
+                    "text": "обработка запроса",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "query processing"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

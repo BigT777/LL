@@ -1,0 +1,89 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "underline",
+            "pos": "verb",
+            "ts": "ˈʌndəlaɪn",
+            "tr": [
+                {
+                    "text": "подчеркивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подчеркнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "акцентировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "emphasize"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "underline the importance",
+                            "tr": [
+                                {
+                                    "text": "подчеркивать важность"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "underlined text",
+                            "tr": [
+                                {
+                                    "text": "подчеркнутый текст"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выделить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выделять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "highlight"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "underline",
+            "pos": "noun",
+            "ts": "ˈʌndəlaɪn",
+            "tr": [
+                {
+                    "text": "подчеркивание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "underscore"
+                        }
+                    ]
+                },
+                {
+                    "text": "подчеркивающая линия",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

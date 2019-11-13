@@ -1,0 +1,168 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ignition",
+            "pos": "noun",
+            "ts": "ɪgˈnɪʃn",
+            "tr": [
+                {
+                    "text": "зажигание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "ignition timing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ignition system",
+                            "tr": [
+                                {
+                                    "text": "система зажигания"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "воспламенение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "загорание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "возгорание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fire"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ignition source",
+                            "tr": [
+                                {
+                                    "text": "источник воспламенения"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ignition temperature",
+                            "tr": [
+                                {
+                                    "text": "температура возгорания"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "запал",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "fuse"
+                        }
+                    ]
+                },
+                {
+                    "text": "розжиг",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "поджиг",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lighting"
+                        }
+                    ]
+                },
+                {
+                    "text": "прокаливание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "burning"
+                        }
+                    ]
+                },
+                {
+                    "text": "воспламенитель",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "зажигатель",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "igniter"
+                        },
+                        {
+                            "text": "ignitor"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ignition",
+            "pos": "adjective",
+            "ts": "ɪgˈnɪʃn",
+            "tr": [
+                {
+                    "text": "запальный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "fuse"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ignition device",
+                            "tr": [
+                                {
+                                    "text": "запальное устройство"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "зажигательный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "incendiary"
+                        }
+                    ]
+                },
+                {
+                    "text": "воспламенительный",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

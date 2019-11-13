@@ -1,0 +1,85 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "брокер",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "courtier",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "broker",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "agent",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "commissionnaire",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "négociateur",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "трейдер"
+                        },
+                        {
+                            "text": "посредник"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "товарный брокер",
+                            "tr": [
+                                {
+                                    "text": "courtier en marchandises"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "таможенный брокер",
+                            "tr": [
+                                {
+                                    "text": "commissionnaire en douane"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "agent de change",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "биржевой маклер"
+                        }
+                    ]
+                },
+                {
+                    "text": "facteur",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "посредник"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "revert",
+            "pos": "verb",
+            "ts": "rɪˈvɜːt",
+            "tr": [
+                {
+                    "text": "возвращаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вернуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вернуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "восстановить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "возвращать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "возвратить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "возвратиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "return"
+                        },
+                        {
+                            "text": "restore"
+                        }
+                    ]
+                },
+                {
+                    "text": "обращаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "turn"
+                        }
+                    ]
+                },
+                {
+                    "text": "перейти",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "переходить",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "proceed"
+                        },
+                        {
+                            "text": "move"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

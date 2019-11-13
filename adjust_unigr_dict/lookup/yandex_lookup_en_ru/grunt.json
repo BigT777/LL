@@ -1,0 +1,148 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "grunt",
+            "pos": "verb",
+            "ts": "grʌnt",
+            "tr": [
+                {
+                    "text": "хрюкать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ворчать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "кряхтеть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "крякать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grumble"
+                        },
+                        {
+                            "text": "groan"
+                        },
+                        {
+                            "text": "quack"
+                        }
+                    ]
+                },
+                {
+                    "text": "хмыкнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "крякнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "хрюкнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "quack"
+                        }
+                    ]
+                },
+                {
+                    "text": "бормотать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "mutter"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "grunt",
+            "pos": "noun",
+            "ts": "grʌnt",
+            "tr": [
+                {
+                    "text": "хрюканье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "мычание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "moo"
+                        }
+                    ]
+                },
+                {
+                    "text": "ворчание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "ворчанье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "growl"
+                        }
+                    ]
+                },
+                {
+                    "text": "пехотинец",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "infantryman"
+                        }
+                    ]
+                },
+                {
+                    "text": "хряк",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "boar"
+                        }
+                    ]
+                },
+                {
+                    "text": "хрип",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "wheeze"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

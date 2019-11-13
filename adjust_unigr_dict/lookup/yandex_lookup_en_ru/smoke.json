@@ -1,0 +1,334 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "smoke",
+            "pos": "noun",
+            "ts": "sməʊk",
+            "tr": [
+                {
+                    "text": "дым",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "дымок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "курение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "табачный дым",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "копчение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fume"
+                        },
+                        {
+                            "text": "smoky"
+                        },
+                        {
+                            "text": "smoking"
+                        },
+                        {
+                            "text": "tobacco smoke"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "thick black smoke",
+                            "tr": [
+                                {
+                                    "text": "густой черный дым"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "blue smoke",
+                            "tr": [
+                                {
+                                    "text": "голубоватый дымок"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "задымление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "задымленность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "blanketing"
+                        },
+                        {
+                            "text": "smoke content"
+                        }
+                    ]
+                },
+                {
+                    "text": "клуб дыма",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "cloud of smoke"
+                        }
+                    ]
+                },
+                {
+                    "text": "курево",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "tobacco"
+                        }
+                    ]
+                },
+                {
+                    "text": "дымоудаление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "smoke removal"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "smoke",
+            "pos": "verb",
+            "ts": "sməʊk",
+            "tr": [
+                {
+                    "text": "курить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выкурить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "покурить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "закурить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выкуривать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "покуривать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "накуриться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "smoker"
+                        },
+                        {
+                            "text": "smoke out"
+                        },
+                        {
+                            "text": "have a smoke"
+                        },
+                        {
+                            "text": "light"
+                        },
+                        {
+                            "text": "puff"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "habit of smoking",
+                            "tr": [
+                                {
+                                    "text": "привычка курить"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "smoke a joint",
+                            "tr": [
+                                {
+                                    "text": "выкурить косяк"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "smoke marijuana",
+                            "tr": [
+                                {
+                                    "text": "покурить травки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "smoke again",
+                            "tr": [
+                                {
+                                    "text": "закурить снова"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дымить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "дымиться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "задымиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fume"
+                        },
+                        {
+                            "text": "steam"
+                        }
+                    ]
+                },
+                {
+                    "text": "коптить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "закоптить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bloat"
+                        }
+                    ]
+                },
+                {
+                    "text": "перекурить",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "smoke",
+            "pos": "adjective",
+            "ts": "sməʊk",
+            "tr": [
+                {
+                    "text": "дымовой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "flue"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "smoke screen",
+                            "tr": [
+                                {
+                                    "text": "дымовая завеса"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "копченый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "smoked"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "smoked salmon",
+                            "tr": [
+                                {
+                                    "text": "копченый лосось"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дымный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "smoky"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "smoke trail",
+                            "tr": [
+                                {
+                                    "text": "дымный след"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "коптильный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "smoking"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

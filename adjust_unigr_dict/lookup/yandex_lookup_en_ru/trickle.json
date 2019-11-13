@@ -1,0 +1,165 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "trickle",
+            "pos": "noun",
+            "ts": "trɪkl",
+            "tr": [
+                {
+                    "text": "струйка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "тонкая струйка",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "ручеек",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stream"
+                        },
+                        {
+                            "text": "thin stream"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "trickle of sweat",
+                            "tr": [
+                                {
+                                    "text": "струйка пота"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "thin trickle",
+                            "tr": [
+                                {
+                                    "text": "тоненький ручеек"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "просачивание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "seepage"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "trickle",
+            "pos": "verb",
+            "ts": "trɪkl",
+            "tr": [
+                {
+                    "text": "сочиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "просачиваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "просочиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ooze"
+                        },
+                        {
+                            "text": "seep"
+                        }
+                    ]
+                },
+                {
+                    "text": "капать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "потечь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "стекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "струиться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drip"
+                        },
+                        {
+                            "text": "flow"
+                        },
+                        {
+                            "text": "flow down"
+                        }
+                    ]
+                },
+                {
+                    "text": "капнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "drip"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "trickle",
+            "pos": "adjective",
+            "ts": "trɪkl",
+            "tr": [
+                {
+                    "text": "капельный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "drip"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "trickle irrigation",
+                            "tr": [
+                                {
+                                    "text": "капельное орошение"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

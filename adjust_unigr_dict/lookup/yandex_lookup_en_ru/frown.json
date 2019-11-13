@@ -1,0 +1,130 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "frown",
+            "pos": "noun",
+            "ts": "fraʊn",
+            "tr": [
+                {
+                    "text": "хмурый взгляд",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "недовольный взгляд",
+                            "pos": "noun"
+                        }
+                    ]
+                },
+                {
+                    "text": "гримаса",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "grimace"
+                        }
+                    ]
+                },
+                {
+                    "text": "морщинка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "wrinkle"
+                        }
+                    ]
+                },
+                {
+                    "text": "нахмуренность",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        },
+        {
+            "text": "frown",
+            "pos": "verb",
+            "ts": "fraʊn",
+            "tr": [
+                {
+                    "text": "хмурить брови",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "нахмуриться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "нахмурить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "хмуриться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поморщиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "хмурить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сдвинуть брови",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "морщиться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "scowl"
+                        },
+                        {
+                            "text": "grimace"
+                        },
+                        {
+                            "text": "wince"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "frown",
+            "pos": "adjective",
+            "ts": "fraʊn",
+            "tr": [
+                {
+                    "text": "хмурый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "недовольный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "gloomy"
+                        },
+                        {
+                            "text": "dissatisfied"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

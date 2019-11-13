@@ -1,0 +1,71 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "veggie",
+            "pos": "noun",
+            "ts": "ˈveʤɪ",
+            "tr": [
+                {
+                    "text": "вегетарианец",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "vegetarian"
+                        }
+                    ]
+                },
+                {
+                    "text": "овощ",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "vegetable"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "raw veggies",
+                            "tr": [
+                                {
+                                    "text": "сырые овощи"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "veggie",
+            "pos": "adjective",
+            "ts": "ˈveʤɪ",
+            "tr": [
+                {
+                    "text": "вегетарианский",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "вегетерианский",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "овощной",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "vegetarian"
+                        },
+                        {
+                            "text": "vegetable"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

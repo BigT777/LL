@@ -1,0 +1,350 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "truck",
+            "pos": "noun",
+            "ts": "trʌk",
+            "tr": [
+                {
+                    "text": "грузовик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "грузовой автомобиль",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "грузовая машина",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "фура",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "грузовичок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "автовоз",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lorry"
+                        },
+                        {
+                            "text": "wagon"
+                        },
+                        {
+                            "text": "transporter"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "truck driver",
+                            "tr": [
+                                {
+                                    "text": "водитель грузовика"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "heavy duty truck",
+                            "tr": [
+                                {
+                                    "text": "тяжелый грузовик"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "big red truck",
+                            "tr": [
+                                {
+                                    "text": "большой красный грузовик"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "huge truck",
+                            "tr": [
+                                {
+                                    "text": "огромная фура"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тележка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "вагонетка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "автомобиль",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "машина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "автомашина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "вагон",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cart"
+                        },
+                        {
+                            "text": "car"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hand truck",
+                            "tr": [
+                                {
+                                    "text": "ручная тележка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fire truck",
+                            "tr": [
+                                {
+                                    "text": "пожарный автомобиль"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "tow truck",
+                            "tr": [
+                                {
+                                    "text": "аварийная машина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "самосвал",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "тягач",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "автопоезд",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "автосамосвал",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "лесовоз",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dump truck"
+                        },
+                        {
+                            "text": "tractor"
+                        },
+                        {
+                            "text": "train"
+                        },
+                        {
+                            "text": "timber"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dump truck",
+                            "tr": [
+                                {
+                                    "text": "карьерный самосвал"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "new trucks",
+                            "tr": [
+                                {
+                                    "text": "новые тягачи"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "автотранспорт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "грузовой транспорт",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "грузовой автотранспорт",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "vehicle"
+                        },
+                        {
+                            "text": "freight transport"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "truck fleet",
+                            "tr": [
+                                {
+                                    "text": "парк автотранспорта"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "погрузчик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "автопогрузчик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "loader"
+                        },
+                        {
+                            "text": "forklift"
+                        }
+                    ]
+                },
+                {
+                    "text": "трак",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "track"
+                        }
+                    ]
+                },
+                {
+                    "text": "пикап",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "pickup"
+                        }
+                    ]
+                },
+                {
+                    "text": "грузовая автомашина",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "cargo motor vehicle"
+                        }
+                    ]
+                },
+                {
+                    "text": "автоцистерна",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "tanker"
+                        }
+                    ]
+                },
+                {
+                    "text": "автоперевозка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "transportation"
+                        }
+                    ]
+                },
+                {
+                    "text": "мена",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "barter"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "truck",
+            "pos": "adjective",
+            "ts": "trʌk",
+            "tr": [
+                {
+                    "text": "автомобильный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "automobile"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "truck crane",
+                            "tr": [
+                                {
+                                    "text": "автомобильный кран"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

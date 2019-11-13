@@ -1,0 +1,86 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "serf",
+            "pos": "adjective",
+            "ts": "sɜːf",
+            "tr": [
+                {
+                    "text": "крепостной",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "крепостнический",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "serf system",
+                            "tr": [
+                                {
+                                    "text": "крепостной строй"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "serf",
+            "pos": "noun",
+            "ts": "sɜːf",
+            "tr": [
+                {
+                    "text": "раб",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "слуга",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "slave"
+                        },
+                        {
+                            "text": "servant"
+                        }
+                    ]
+                },
+                {
+                    "text": "крепостной крестьянин",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "крестьянин",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "холоп",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "serf peasant"
+                        },
+                        {
+                            "text": "peasant"
+                        },
+                        {
+                            "text": "lackey"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

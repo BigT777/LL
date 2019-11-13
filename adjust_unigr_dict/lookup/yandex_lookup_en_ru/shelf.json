@@ -1,0 +1,165 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "shelf",
+            "pos": "noun",
+            "ts": "ʃelf",
+            "tr": [
+                {
+                    "text": "полка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "ex": [
+                        {
+                            "text": "top shelf",
+                            "tr": [
+                                {
+                                    "text": "верхняя полка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шельф",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "континентальный шельф",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "offshore"
+                        },
+                        {
+                            "text": "continental shelf"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "outer continental shelf",
+                            "tr": [
+                                {
+                                    "text": "внешний континентальный шельф"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выступ",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "уступ",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "полочка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "protrusion"
+                        },
+                        {
+                            "text": "ledge"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "glass shelf",
+                            "tr": [
+                                {
+                                    "text": "стеклянная полочка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "стеллаж",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "этажерка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rack"
+                        },
+                        {
+                            "text": "bookcase"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "metal shelf",
+                            "tr": [
+                                {
+                                    "text": "металлический стеллаж"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "shelf",
+            "pos": "adjective",
+            "ts": "ʃelf",
+            "tr": [
+                {
+                    "text": "полочный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "стеллажный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shelving"
+                        },
+                        {
+                            "text": "rack"
+                        }
+                    ]
+                },
+                {
+                    "text": "шельфовый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "offshore"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ice shelf",
+                            "tr": [
+                                {
+                                    "text": "шельфовый ледник"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

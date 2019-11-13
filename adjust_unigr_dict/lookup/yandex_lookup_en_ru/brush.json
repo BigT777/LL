@@ -1,0 +1,337 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "brush",
+            "pos": "noun",
+            "ts": "brʌʃ",
+            "tr": [
+                {
+                    "text": "кисть",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "кисточка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "paintbrush"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "round brush",
+                            "tr": [
+                                {
+                                    "text": "круглая кисть"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lip brush",
+                            "tr": [
+                                {
+                                    "text": "кисточка для губ"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "щетка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "расческа",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "щеточка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "ершик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "broom"
+                        },
+                        {
+                            "text": "comb"
+                        },
+                        {
+                            "text": "pipe cleaner"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "wire brush",
+                            "tr": [
+                                {
+                                    "text": "проволочная щетка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "brush with stiff bristles",
+                            "tr": [
+                                {
+                                    "text": "щетка с жесткой щетиной"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "soft brush",
+                            "tr": [
+                                {
+                                    "text": "мягкая щеточка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "toilet brush",
+                            "tr": [
+                                {
+                                    "text": "туалетный ершик"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "куст",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "кустарник",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bush"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "thick brush",
+                            "tr": [
+                                {
+                                    "text": "густой куст"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "dry brush",
+                            "tr": [
+                                {
+                                    "text": "сухой кустарник"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "brush",
+            "pos": "verb",
+            "ts": "brʌʃ",
+            "tr": [
+                {
+                    "text": "чистить щеткой",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "чистить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "почистить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clean"
+                        }
+                    ]
+                },
+                {
+                    "text": "задеть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "коснуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "touch"
+                        }
+                    ]
+                },
+                {
+                    "text": "смахнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "стряхнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "смахивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "стряхивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wipe"
+                        },
+                        {
+                            "text": "shake"
+                        }
+                    ]
+                },
+                {
+                    "text": "расчесывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "расчесать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "причесать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "comb"
+                        }
+                    ]
+                },
+                {
+                    "text": "смазать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "grease"
+                        }
+                    ]
+                },
+                {
+                    "text": "отмахиваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "wave"
+                        }
+                    ]
+                },
+                {
+                    "text": "отметать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "отмести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dismiss"
+                        }
+                    ]
+                },
+                {
+                    "text": "почистить щеткой",
+                    "pos": "verb"
+                },
+                {
+                    "text": "откинуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "throw"
+                        }
+                    ]
+                },
+                {
+                    "text": "скользнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "slide"
+                        }
+                    ]
+                },
+                {
+                    "text": "причесаться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "comb his hair"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "brush",
+            "pos": "adjective",
+            "ts": "brʌʃ",
+            "tr": [
+                {
+                    "text": "щеточный",
+                    "pos": "adjective",
+                    "ex": [
+                        {
+                            "text": "brush assembly",
+                            "tr": [
+                                {
+                                    "text": "щеточный узел"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

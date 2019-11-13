@@ -1,0 +1,62 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "запятнать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "ternir",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "очернить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "запятнать репутацию",
+                            "tr": [
+                                {
+                                    "text": "ternir la réputation"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "souiller",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "tacher",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "salir",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "пятнать"
+                        },
+                        {
+                            "text": "замарать"
+                        }
+                    ]
+                },
+                {
+                    "text": "entacher",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "опорочить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "as",
+            "pos": "adverb",
+            "ts": "æz",
+            "tr": [
+                {
+                    "text": "как",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "так",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "так как",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "насколько",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "so"
+                        },
+                        {
+                            "text": "because"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "as before",
+                            "tr": [
+                                {
+                                    "text": "как раньше"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "save as report",
+                            "tr": [
+                                {
+                                    "text": "сохранить как отчет"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "в качестве",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "в виде",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "for"
+                        },
+                        {
+                            "text": "in"
+                        }
+                    ]
+                },
+                {
+                    "text": "в должности",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "in office"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "as",
+            "pos": "conjunction",
+            "ts": "æz",
+            "tr": [
+                {
+                    "text": "когда",
+                    "pos": "conjunction",
+                    "syn": [
+                        {
+                            "text": "поскольку",
+                            "pos": "conjunction"
+                        },
+                        {
+                            "text": "а",
+                            "pos": "conjunction"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "when"
+                        },
+                        {
+                            "text": "because"
+                        },
+                        {
+                            "text": "and"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "as",
+            "pos": "pronoun",
+            "ts": "æz",
+            "tr": [
+                {
+                    "text": "что",
+                    "pos": "pronoun",
+                    "syn": [
+                        {
+                            "text": "какой",
+                            "pos": "pronoun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "what"
+                        }
+                    ]
+                },
+                {
+                    "text": "что и",
+                    "pos": "pronoun"
+                }
+            ]
+        },
+        {
+            "text": "as",
+            "pos": "particle",
+            "ts": "æz",
+            "tr": [
+                {
+                    "text": "пока",
+                    "pos": "particle",
+                    "mean": [
+                        {
+                            "text": "while"
+                        }
+                    ]
+                },
+                {
+                    "text": "словно",
+                    "pos": "particle",
+                    "mean": [
+                        {
+                            "text": "as if"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "as",
+            "pos": "preposition",
+            "ts": "æz",
+            "tr": [
+                {
+                    "text": "в",
+                    "pos": "preposition",
+                    "syn": [
+                        {
+                            "text": "на",
+                            "pos": "preposition"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "in"
+                        },
+                        {
+                            "text": "for"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "business as usual",
+                            "tr": [
+                                {
+                                    "text": "работа в обычном режиме"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

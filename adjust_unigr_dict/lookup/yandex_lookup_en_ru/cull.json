@@ -1,0 +1,120 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cull",
+            "pos": "verb",
+            "ts": "kʌl",
+            "tr": [
+                {
+                    "text": "отбирать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отобрать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "take away"
+                        }
+                    ]
+                },
+                {
+                    "text": "отбраковывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отбраковать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выбраковывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reject"
+                        }
+                    ]
+                },
+                {
+                    "text": "выбраковать",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "черпать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "draw"
+                        }
+                    ]
+                },
+                {
+                    "text": "собирать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "collect"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cull",
+            "pos": "noun",
+            "ts": "kʌl",
+            "tr": [
+                {
+                    "text": "выбраковка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "отбраковка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rejection"
+                        }
+                    ]
+                },
+                {
+                    "text": "отбор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "selection"
+                        }
+                    ]
+                },
+                {
+                    "text": "отстрел",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "killing"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

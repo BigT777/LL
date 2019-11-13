@@ -1,0 +1,283 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "weave",
+            "pos": "verb",
+            "ts": "wiːv",
+            "fl": "wove, woven",
+            "tr": [
+                {
+                    "text": "ткать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "плести",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сплетать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "соткать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сплести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выткать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "weaving"
+                        },
+                        {
+                            "text": "braid"
+                        },
+                        {
+                            "text": "twine"
+                        },
+                        {
+                            "text": "plait"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "weave baskets",
+                            "tr": [
+                                {
+                                    "text": "плести корзины"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "соединять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "combine"
+                        }
+                    ]
+                },
+                {
+                    "text": "вплетать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "переплетаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "переплетать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "переплести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "intertwine"
+                        },
+                        {
+                            "text": "twist"
+                        }
+                    ]
+                },
+                {
+                    "text": "свить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "свивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "twist"
+                        },
+                        {
+                            "text": "build"
+                        }
+                    ]
+                },
+                {
+                    "text": "сплестись",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "interlace"
+                        }
+                    ]
+                },
+                {
+                    "text": "петлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "meander"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "weave",
+            "pos": "noun",
+            "ts": "wiːv",
+            "tr": [
+                {
+                    "text": "переплетение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "плетение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "ткачество",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "interlacing"
+                        },
+                        {
+                            "text": "weaving"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "plain weave",
+                            "tr": [
+                                {
+                                    "text": "полотняное переплетение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "узор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "pattern"
+                        }
+                    ]
+                },
+                {
+                    "text": "ткань",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "fabric"
+                        }
+                    ]
+                },
+                {
+                    "text": "сотки",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "шиньон",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "chignon"
+                        }
+                    ]
+                },
+                {
+                    "text": "тканый материал",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "woven fabric"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "weave",
+            "pos": "adjective",
+            "ts": "wiːv",
+            "tr": [
+                {
+                    "text": "тканый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "ткацкий",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "woven"
+                        },
+                        {
+                            "text": "weaving"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "woven carpet",
+                            "tr": [
+                                {
+                                    "text": "тканый ковер"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "rapier weaving machine",
+                            "tr": [
+                                {
+                                    "text": "рапирный ткацкий станок"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

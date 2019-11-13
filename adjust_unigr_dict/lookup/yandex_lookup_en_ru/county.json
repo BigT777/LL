@@ -1,0 +1,102 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "county",
+            "pos": "noun",
+            "ts": "ˈkaʊntɪ",
+            "tr": [
+                {
+                    "text": "графство",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "округ",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "уезд",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "район",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "губерния",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shire"
+                        },
+                        {
+                            "text": "district"
+                        },
+                        {
+                            "text": "province"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "county council",
+                            "tr": [
+                                {
+                                    "text": "совет графства"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "city county",
+                            "tr": [
+                                {
+                                    "text": "городской округ"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "autonomous county",
+                            "tr": [
+                                {
+                                    "text": "автономный уезд"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "county",
+            "pos": "adjective",
+            "ts": "ˈkaʊntɪ",
+            "tr": [
+                {
+                    "text": "окружной",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "district"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "county court",
+                            "tr": [
+                                {
+                                    "text": "окружной суд"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

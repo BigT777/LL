@@ -1,0 +1,346 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "subject",
+            "pos": "noun",
+            "ts": "ˈsʌbʤɪkt",
+            "tr": [
+                {
+                    "text": "предмет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "субъект",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "объект",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "object"
+                        },
+                        {
+                            "text": "entity"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "subject of scientific research",
+                            "tr": [
+                                {
+                                    "text": "предмет научных исследований"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "subject of national pride",
+                            "tr": [
+                                {
+                                    "text": "предмет национальной гордости"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "subject of federation",
+                            "tr": [
+                                {
+                                    "text": "субъект федерации"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "subject of international relations",
+                            "tr": [
+                                {
+                                    "text": "субъект международных отношений"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "subject of inquiry",
+                            "tr": [
+                                {
+                                    "text": "объект исследования"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вопрос",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "тема",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "issue"
+                        },
+                        {
+                            "text": "topic"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "subject of human rights",
+                            "tr": [
+                                {
+                                    "text": "вопрос о правах человека"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "main subject matter",
+                            "tr": [
+                                {
+                                    "text": "главная тема"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "following subject areas",
+                            "tr": [
+                                {
+                                    "text": "следующие темы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дисциплина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "discipline"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "related subject",
+                            "tr": [
+                                {
+                                    "text": "смежная дисциплина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "подданный",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "citizen"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "loyal subject",
+                            "tr": [
+                                {
+                                    "text": "верный подданный"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сюжет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "plot"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "mythological subject",
+                            "tr": [
+                                {
+                                    "text": "мифологический сюжет"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "subject",
+            "pos": "verb",
+            "ts": "ˈsʌbʤɪkt",
+            "tr": [
+                {
+                    "text": "подвергать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подлежать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подвергнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "expose"
+                        },
+                        {
+                            "text": "be subject"
+                        }
+                    ]
+                },
+                {
+                    "text": "подчиняться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "submit"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "subject",
+            "pos": "participle",
+            "ts": "ˈsʌbʤɪkt",
+            "tr": [
+                {
+                    "text": "подверженный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "prone"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "subject to seasonal fluctuations",
+                            "tr": [
+                                {
+                                    "text": "подвержен сезонным колебаниям"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "subject to various diseases",
+                            "tr": [
+                                {
+                                    "text": "подвержен различным заболеваниям"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "подлежащий",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "due"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "subject",
+            "pos": "adjective",
+            "ts": "ˈsʌbʤɪkt",
+            "tr": [
+                {
+                    "text": "предметный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "тематический",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "substantive"
+                        },
+                        {
+                            "text": "thematic"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "subject domain",
+                            "tr": [
+                                {
+                                    "text": "предметная область"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "испытуемый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "examinee"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "group of subjects",
+                            "tr": [
+                                {
+                                    "text": "группа испытуемых"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "subject",
+            "pos": "adverb",
+            "ts": "ˈsʌbʤɪkt",
+            "tr": [
+                {
+                    "text": "при условии",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "при условии соблюдения",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "provided"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

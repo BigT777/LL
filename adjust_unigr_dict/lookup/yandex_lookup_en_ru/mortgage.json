@@ -1,0 +1,170 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "mortgage",
+            "pos": "noun",
+            "ts": "ˈmɔːgɪʤ",
+            "tr": [
+                {
+                    "text": "ипотека",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "закладная",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "заклад",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "ипотечный кредит",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "залог",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "залог недвижимости",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hypothec"
+                        },
+                        {
+                            "text": "encumbrance"
+                        },
+                        {
+                            "text": "bet"
+                        },
+                        {
+                            "text": "mortgage loan"
+                        },
+                        {
+                            "text": "collateral"
+                        },
+                        {
+                            "text": "real estate mortgage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "reverse mortgage",
+                            "tr": [
+                                {
+                                    "text": "обратная ипотека"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "real estate mortgage",
+                            "tr": [
+                                {
+                                    "text": "залог недвижимости"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ипотечный залог",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "mortgage",
+            "pos": "verb",
+            "ts": "ˈmɔːgɪʤ",
+            "tr": [
+                {
+                    "text": "закладывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заложить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "found"
+                        },
+                        {
+                            "text": "pawn"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mortgage",
+            "pos": "adjective",
+            "ts": "ˈmɔːgɪʤ",
+            "tr": [
+                {
+                    "text": "ипотечный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "залоговый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hypothecary"
+                        },
+                        {
+                            "text": "collateral"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "mortgage credit",
+                            "tr": [
+                                {
+                                    "text": "ипотечный кредит"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "secondary mortgage market",
+                            "tr": [
+                                {
+                                    "text": "вторичный ипотечный рынок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mortgage loan activity",
+                            "tr": [
+                                {
+                                    "text": "ипотечное кредитование"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mortgage value",
+                            "tr": [
+                                {
+                                    "text": "залоговая стоимость"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,306 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "crowd",
+            "pos": "noun",
+            "ts": "kraʊd",
+            "tr": [
+                {
+                    "text": "толпа",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "толпа людей",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "толпа народа",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "массовка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "тусовка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mob"
+                        },
+                        {
+                            "text": "crowd of people"
+                        },
+                        {
+                            "text": "extra"
+                        },
+                        {
+                            "text": "party"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "enthusiastic crowd",
+                            "tr": [
+                                {
+                                    "text": "восторженная толпа"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "crowd of local residents",
+                            "tr": [
+                                {
+                                    "text": "толпа местных жителей"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "множество",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "масса",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lot"
+                        },
+                        {
+                            "text": "mass"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "huge crowd",
+                            "tr": [
+                                {
+                                    "text": "огромная масса"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "публика",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "аудитория",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "public"
+                        },
+                        {
+                            "text": "audience"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "motley crowd",
+                            "tr": [
+                                {
+                                    "text": "разношерстная публика"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "скопление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "скопление людей",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "скопление народа",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cluster"
+                        },
+                        {
+                            "text": "gathering of people"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "large crowd of people",
+                            "tr": [
+                                {
+                                    "text": "большое скопление людей"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "народ",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "people"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "great crowd",
+                            "tr": [
+                                {
+                                    "text": "множество народа"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "толчея",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "давка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "throng"
+                        },
+                        {
+                            "text": "crush"
+                        }
+                    ]
+                },
+                {
+                    "text": "сборище",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "скопище",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "gathering"
+                        },
+                        {
+                            "text": "assemblage"
+                        }
+                    ]
+                },
+                {
+                    "text": "орава",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "gang"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "whole crowd",
+                            "tr": [
+                                {
+                                    "text": "целая орава"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "гурьба",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        },
+        {
+            "text": "crowd",
+            "pos": "verb",
+            "ts": "kraʊd",
+            "tr": [
+                {
+                    "text": "толпиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "столпиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сгрудиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "throng"
+                        },
+                        {
+                            "text": "huddle"
+                        }
+                    ]
+                },
+                {
+                    "text": "вытеснять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вытеснить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "displace"
+                        }
+                    ]
+                },
+                {
+                    "text": "теснить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "press"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

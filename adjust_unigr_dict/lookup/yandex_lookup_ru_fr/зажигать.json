@@ -1,0 +1,47 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "зажигать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "allumer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "enflammer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "illuminer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "embraser",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "зажечь"
+                        },
+                        {
+                            "text": "воспламенять"
+                        }
+                    ]
+                },
+                {
+                    "text": "brûler",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "жечь"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

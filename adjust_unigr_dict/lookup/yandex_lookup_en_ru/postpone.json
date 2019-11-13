@@ -1,0 +1,129 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "postpone",
+            "pos": "verb",
+            "ts": "pə(ʊ)ˈspəʊn",
+            "tr": [
+                {
+                    "text": "откладывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "оттягивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отсрочивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отложить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отсрочить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отодвигать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "delay"
+                        },
+                        {
+                            "text": "defer"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "postpone the operation",
+                            "tr": [
+                                {
+                                    "text": "откладывать операцию"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "postpone the trip",
+                            "tr": [
+                                {
+                                    "text": "отложить поездку"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "перенести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "переносить",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "suffer"
+                        },
+                        {
+                            "text": "endure"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "postpone the meeting",
+                            "tr": [
+                                {
+                                    "text": "перенести встречу"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отодвинуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "push back"
+                        }
+                    ]
+                },
+                {
+                    "text": "отложиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "secede"
+                        }
+                    ]
+                },
+                {
+                    "text": "отдалять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "alienate"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "huff",
+            "pos": "noun",
+            "ts": "hʌf",
+            "tr": [
+                {
+                    "text": "Хафф",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "раздражение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "гнев",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "irritate"
+                        },
+                        {
+                            "text": "wrath"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "huff",
+            "pos": "verb",
+            "ts": "hʌf",
+            "tr": [
+                {
+                    "text": "пыхтеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "puff"
+                        }
+                    ]
+                },
+                {
+                    "text": "обижаться",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        }
+    ]
+}

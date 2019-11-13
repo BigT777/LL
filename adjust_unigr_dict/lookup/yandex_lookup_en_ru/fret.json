@@ -1,0 +1,109 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fret",
+            "pos": "verb",
+            "ts": "fret",
+            "tr": [
+                {
+                    "text": "беспокоиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "беспокоить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "волноваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "волновать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "worry"
+                        },
+                        {
+                            "text": "bother"
+                        }
+                    ]
+                },
+                {
+                    "text": "разъедать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "corrode"
+                        }
+                    ]
+                },
+                {
+                    "text": "мучить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "torment"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fret",
+            "pos": "noun",
+            "ts": "fret",
+            "tr": [
+                {
+                    "text": "лад",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "lad"
+                        }
+                    ]
+                },
+                {
+                    "text": "раздражение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "irritate"
+                        }
+                    ]
+                },
+                {
+                    "text": "волнение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "excitement"
+                        }
+                    ]
+                },
+                {
+                    "text": "мучение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "torment"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

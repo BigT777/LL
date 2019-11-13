@@ -1,0 +1,298 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "win",
+            "pos": "verb",
+            "ts": "wɪn",
+            "fl": "won, won",
+            "tr": [
+                {
+                    "text": "выиграть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "победить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "завоевать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выигрывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "побеждать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "одержать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "завоевывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "одержать победу",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "покорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отвоевать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отвоевывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "gain"
+                        },
+                        {
+                            "text": "defeat"
+                        },
+                        {
+                            "text": "conquer"
+                        },
+                        {
+                            "text": "victory"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "win the battle",
+                            "tr": [
+                                {
+                                    "text": "выиграть сражение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "win the game",
+                            "tr": [
+                                {
+                                    "text": "победить в игре"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "win popularity",
+                            "tr": [
+                                {
+                                    "text": "завоевать популярность"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "win races",
+                            "tr": [
+                                {
+                                    "text": "выигрывать гонки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "win elections",
+                            "tr": [
+                                {
+                                    "text": "побеждать на выборах"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "win hearts",
+                            "tr": [
+                                {
+                                    "text": "покорить сердца"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "заслужить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "снискать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "получить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "получать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "удостоиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "earn"
+                        },
+                        {
+                            "text": "receive"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "win the award",
+                            "tr": [
+                                {
+                                    "text": "получить награду"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "добиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "achieve"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "win respect",
+                            "tr": [
+                                {
+                                    "text": "добиться уважения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "занять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "take"
+                        }
+                    ]
+                },
+                {
+                    "text": "покорять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "conquer"
+                        }
+                    ]
+                },
+                {
+                    "text": "одерживать победу",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "win",
+            "pos": "noun",
+            "ts": "wɪn",
+            "tr": [
+                {
+                    "text": "выигрыш",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "победа",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "winning"
+                        },
+                        {
+                            "text": "victory"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "instant win",
+                            "tr": [
+                                {
+                                    "text": "мгновенный выигрыш"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "will to win",
+                            "tr": [
+                                {
+                                    "text": "воля к победе"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "УИН",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "завоевание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "winning"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "win",
+            "pos": "adjective",
+            "ts": "wɪn",
+            "tr": [
+                {
+                    "text": "выигрышный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "winning"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

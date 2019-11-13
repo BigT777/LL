@@ -1,0 +1,59 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "push",
+            "pos": "verb",
+            "ts": "pʊʃ",
+            "tr": [
+                {
+                    "text": "pousser",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "repousser",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shove"
+                        },
+                        {
+                            "text": "repel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "push",
+            "pos": "noun",
+            "ts": "pʊʃ",
+            "tr": [
+                {
+                    "text": "push",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "poussée",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shove"
+                        }
+                    ]
+                },
+                {
+                    "text": "poussoir",
+                    "pos": "noun",
+                    "gen": "m"
+                }
+            ]
+        }
+    ]
+}

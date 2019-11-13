@@ -1,0 +1,263 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "pledge",
+            "pos": "noun",
+            "ts": "pleʤ",
+            "tr": [
+                {
+                    "text": "залог",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "поручительство",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "collateral"
+                        },
+                        {
+                            "text": "surety"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "subject of pledge",
+                            "tr": [
+                                {
+                                    "text": "предмет залога"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обещание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "обязательство",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "promise"
+                        },
+                        {
+                            "text": "obligation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "election pledge",
+                            "tr": [
+                                {
+                                    "text": "предвыборное обещание"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "new pledge",
+                            "tr": [
+                                {
+                                    "text": "новые обязательства"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "клятва",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "зарок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "vow"
+                        },
+                        {
+                            "text": "oath"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pledge of allegiance",
+                            "tr": [
+                                {
+                                    "text": "клятва верности"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "заклад",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "mortgage"
+                        }
+                    ]
+                },
+                {
+                    "text": "заверение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "assurance"
+                        }
+                    ]
+                },
+                {
+                    "text": "взнос",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "contribution"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "pledge",
+            "pos": "verb",
+            "ts": "pleʤ",
+            "tr": [
+                {
+                    "text": "обещать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "обязаться",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "пообещать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "promise"
+                        },
+                        {
+                            "text": "commit"
+                        }
+                    ]
+                },
+                {
+                    "text": "закладывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заложить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lay"
+                        },
+                        {
+                            "text": "pawn"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pledged property",
+                            "tr": [
+                                {
+                                    "text": "заложенное имущество"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "клясться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "поклясться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "vow"
+                        }
+                    ]
+                },
+                {
+                    "text": "заверять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заверить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "assure"
+                        }
+                    ]
+                },
+                {
+                    "text": "взять обязательство",
+                    "pos": "verb"
+                },
+                {
+                    "text": "отдавать в залог",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "pledge",
+            "pos": "adjective",
+            "ts": "pleʤ",
+            "tr": [
+                {
+                    "text": "залоговый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "collateral"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

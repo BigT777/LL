@@ -1,0 +1,200 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "whine",
+            "pos": "verb",
+            "ts": "waɪn",
+            "tr": [
+                {
+                    "text": "ныть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "скулить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подвывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "завывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "хныкать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "заскулить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "завыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "moan"
+                        },
+                        {
+                            "text": "whimper"
+                        },
+                        {
+                            "text": "howl"
+                        }
+                    ]
+                },
+                {
+                    "text": "плакаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "жаловаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "complain"
+                        }
+                    ]
+                },
+                {
+                    "text": "визжать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "scream"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "whine",
+            "pos": "noun",
+            "ts": "waɪn",
+            "tr": [
+                {
+                    "text": "хныканье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "скуление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "завывание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "вой",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "нытье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "жалобный вой",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "скулеж",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "whimper"
+                        },
+                        {
+                            "text": "whining"
+                        },
+                        {
+                            "text": "howling"
+                        },
+                        {
+                            "text": "wail"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shrill whine",
+                            "tr": [
+                                {
+                                    "text": "пронзительный вой"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "писк",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "свист",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "squeak"
+                        },
+                        {
+                            "text": "whistle"
+                        }
+                    ]
+                },
+                {
+                    "text": "подвывание",
+                    "pos": "noun",
+                    "gen": "ср"
+                }
+            ]
+        },
+        {
+            "text": "whine",
+            "pos": "adjective",
+            "ts": "waɪn",
+            "tr": [
+                {
+                    "text": "жалобный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "pitiful"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

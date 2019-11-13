@@ -1,0 +1,257 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "pin",
+            "pos": "noun",
+            "ts": "pɪn",
+            "tr": [
+                {
+                    "text": "штифт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "штырь",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "шпилька",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "штырек",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "шплинт",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stud"
+                        },
+                        {
+                            "text": "probe"
+                        },
+                        {
+                            "text": "prong"
+                        },
+                        {
+                            "text": "cotter"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "locking pin",
+                            "tr": [
+                                {
+                                    "text": "стопорный штифт"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "steel pin",
+                            "tr": [
+                                {
+                                    "text": "стальной штырь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "булавка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "заколка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "иголка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "safety pin"
+                        },
+                        {
+                            "text": "hairpin"
+                        },
+                        {
+                            "text": "needle"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "diamond pin",
+                            "tr": [
+                                {
+                                    "text": "бриллиантовая булавка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "контакт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "contact"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "input pin",
+                            "tr": [
+                                {
+                                    "text": "входной контакт"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вывод",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "output"
+                        }
+                    ]
+                },
+                {
+                    "text": "ПИН",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "PIN-код",
+                    "pos": "noun"
+                },
+                {
+                    "text": "ПИН-код",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "кегли",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "num": "мн",
+                    "mean": [
+                        {
+                            "text": "skittle"
+                        }
+                    ]
+                },
+                {
+                    "text": "штырьковый вывод",
+                    "pos": "noun"
+                },
+                {
+                    "text": "туше",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "touch"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "pin",
+            "pos": "verb",
+            "ts": "pɪn",
+            "tr": [
+                {
+                    "text": "прикалывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "приколоть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ]
+                },
+                {
+                    "text": "возлагать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "lay"
+                        }
+                    ]
+                },
+                {
+                    "text": "прикрепить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "attach"
+                        }
+                    ]
+                },
+                {
+                    "text": "тушировать",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "pin",
+            "pos": "adjective",
+            "ts": "pɪn",
+            "tr": [
+                {
+                    "text": "контактный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "штырьковый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "штыревой",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "catenary"
+                        },
+                        {
+                            "text": "male"
+                        },
+                        {
+                            "text": "whip"
+                        }
+                    ]
+                },
+                {
+                    "text": "булавочный",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

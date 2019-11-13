@@ -1,0 +1,74 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "drill",
+            "pos": "noun",
+            "ts": "drɪl",
+            "tr": [
+                {
+                    "text": "forage",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "perçage",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drilling"
+                        }
+                    ]
+                },
+                {
+                    "text": "perceuse",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "foret",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drilling"
+                        },
+                        {
+                            "text": "drill bit"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "drill",
+            "pos": "verb",
+            "ts": "drɪl",
+            "tr": [
+                {
+                    "text": "forer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "percer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drilling"
+                        },
+                        {
+                            "text": "bore"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

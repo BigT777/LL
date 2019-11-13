@@ -1,0 +1,123 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "all",
+            "pos": "pronoun",
+            "ts": "ɔːl",
+            "tr": [
+                {
+                    "text": "все",
+                    "pos": "pronoun"
+                },
+                {
+                    "text": "любой",
+                    "pos": "pronoun",
+                    "syn": [
+                        {
+                            "text": "всякий",
+                            "pos": "pronoun"
+                        },
+                        {
+                            "text": "каждый",
+                            "pos": "pronoun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "any"
+                        },
+                        {
+                            "text": "each"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "all types",
+                            "tr": [
+                                {
+                                    "text": "любой тип"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "всяческий",
+                    "pos": "pronoun",
+                    "mean": [
+                        {
+                            "text": "every"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "all",
+            "pos": "adjective",
+            "ts": "ɔːl",
+            "tr": [
+                {
+                    "text": "целый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "whole"
+                        }
+                    ]
+                },
+                {
+                    "text": "всевозможный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "various"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "all",
+            "pos": "adverb",
+            "ts": "ɔːl",
+            "tr": [
+                {
+                    "text": "полностью",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "совсем",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "entirely"
+                        },
+                        {
+                            "text": "absolutely"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "all",
+            "pos": "particle",
+            "ts": "ɔːl",
+            "tr": [
+                {
+                    "text": "всего",
+                    "pos": "particle",
+                    "mean": [
+                        {
+                            "text": "only"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "gape",
+            "pos": "verb",
+            "ts": "geɪp",
+            "tr": [
+                {
+                    "text": "зиять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разевать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "разинуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "open wide"
+                        }
+                    ]
+                },
+                {
+                    "text": "зевать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "yawn"
+                        }
+                    ]
+                },
+                {
+                    "text": "изумляться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "wonder"
+                        }
+                    ]
+                },
+                {
+                    "text": "глазеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "поглазеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stare"
+                        }
+                    ]
+                },
+                {
+                    "text": "зазеваться",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "gape",
+            "pos": "noun",
+            "ts": "geɪp",
+            "tr": [
+                {
+                    "text": "зевок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "yawn"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

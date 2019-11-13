@@ -1,0 +1,105 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "rhyme",
+            "pos": "noun",
+            "ts": "raɪm",
+            "tr": [
+                {
+                    "text": "рифма",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "рифмовка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rhythm"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "internal rhyme",
+                            "tr": [
+                                {
+                                    "text": "внутренняя рифма"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "стихи",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "стихотворение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "стишок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lyrics"
+                        },
+                        {
+                            "text": "poem"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "nursery rhyme",
+                            "tr": [
+                                {
+                                    "text": "детский стишок"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "считалка",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "частушка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "ditty"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "rhyme",
+            "pos": "verb",
+            "ts": "raɪm",
+            "tr": [
+                {
+                    "text": "рифмоваться",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "зарифмовать",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        }
+    ]
+}

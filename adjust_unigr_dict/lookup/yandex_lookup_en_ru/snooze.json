@@ -1,0 +1,82 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "snooze",
+            "pos": "verb",
+            "ts": "snuːz",
+            "tr": [
+                {
+                    "text": "вздремнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "дремать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подремать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прикорнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "nap"
+                        },
+                        {
+                            "text": "doze"
+                        },
+                        {
+                            "text": "curl up"
+                        }
+                    ]
+                },
+                {
+                    "text": "прилечь",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "lie"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "snooze",
+            "pos": "noun",
+            "ts": "snuːz",
+            "tr": [
+                {
+                    "text": "отсрочка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "delay"
+                        }
+                    ]
+                },
+                {
+                    "text": "повтор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "repetition"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

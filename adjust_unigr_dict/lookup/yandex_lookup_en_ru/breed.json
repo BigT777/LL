@@ -1,0 +1,348 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "breed",
+            "pos": "noun",
+            "ts": "briːd",
+            "tr": [
+                {
+                    "text": "порода",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "породность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rock"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "meat breed",
+                            "tr": [
+                                {
+                                    "text": "мясная порода"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "large white breed",
+                            "tr": [
+                                {
+                                    "text": "крупная белая порода"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "поколение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "generation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "new breed",
+                            "tr": [
+                                {
+                                    "text": "новое поколение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "племя",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "tribe"
+                        }
+                    ]
+                },
+                {
+                    "text": "потомство",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "offspring"
+                        }
+                    ]
+                },
+                {
+                    "text": "разведение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "размножение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "breeding"
+                        }
+                    ]
+                },
+                {
+                    "text": "сорт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "variety"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rare breed",
+                            "tr": [
+                                {
+                                    "text": "редкий сорт"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "покрой",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "cut"
+                        }
+                    ]
+                },
+                {
+                    "text": "полукровка",
+                    "pos": "noun",
+                    "gen": "м,ж",
+                    "mean": [
+                        {
+                            "text": "mongrel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "breed",
+            "pos": "verb",
+            "ts": "briːd",
+            "fl": "bred, bred",
+            "tr": [
+                {
+                    "text": "разводить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "развести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "плодить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "plant"
+                        },
+                        {
+                            "text": "divorce"
+                        },
+                        {
+                            "text": "spawn"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "breed animals",
+                            "tr": [
+                                {
+                                    "text": "разводить животных"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "порождать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "породить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "рождать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "engender"
+                        },
+                        {
+                            "text": "spawn"
+                        },
+                        {
+                            "text": "bear"
+                        }
+                    ]
+                },
+                {
+                    "text": "выводить",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "вывести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "deduce"
+                        },
+                        {
+                            "text": "lead"
+                        }
+                    ]
+                },
+                {
+                    "text": "размножать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выращивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вырастить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reproduce"
+                        },
+                        {
+                            "text": "cultivate"
+                        }
+                    ]
+                },
+                {
+                    "text": "гнездиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "расплодиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "nest"
+                        },
+                        {
+                            "text": "multiply"
+                        }
+                    ]
+                },
+                {
+                    "text": "вязать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "повязать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "knit"
+                        },
+                        {
+                            "text": "tie"
+                        }
+                    ]
+                },
+                {
+                    "text": "воспитать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "raise"
+                        }
+                    ]
+                },
+                {
+                    "text": "скрещивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "cross"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "breed",
+            "pos": "adjective",
+            "ts": "briːd",
+            "tr": [
+                {
+                    "text": "породный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "pedigree"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "breed type",
+                            "tr": [
+                                {
+                                    "text": "породный тип"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "mock",
+            "pos": "verb",
+            "ts": "mɒk",
+            "tr": [
+                {
+                    "text": "издеваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "глумиться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "насмехаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "дразнить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поиздеваться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "измываться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "иронизировать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поглумиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "scoff"
+                        },
+                        {
+                            "text": "sneer"
+                        },
+                        {
+                            "text": "tease"
+                        },
+                        {
+                            "text": "jeer"
+                        },
+                        {
+                            "text": "bully"
+                        }
+                    ]
+                },
+                {
+                    "text": "высмеивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "осмеивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "высмеять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "осмеять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вышучивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ridicule"
+                        }
+                    ]
+                },
+                {
+                    "text": "смеяться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "laugh"
+                        }
+                    ]
+                },
+                {
+                    "text": "насмешничать",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "mock",
+            "pos": "noun",
+            "ts": "mɒk",
+            "tr": [
+                {
+                    "text": "насмешка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "ridicule"
+                        }
+                    ]
+                },
+                {
+                    "text": "макет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "mockup"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "mock object",
+                            "tr": [
+                                {
+                                    "text": "макет объекта"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "имитация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "imitation"
+                        }
+                    ]
+                },
+                {
+                    "text": "инсценировка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "staging"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mock",
+            "pos": "adjective",
+            "ts": "mɒk",
+            "tr": [
+                {
+                    "text": "фиктивный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "bogus"
+                        }
+                    ]
+                },
+                {
+                    "text": "пародийный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "насмешливый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "parody"
+                        },
+                        {
+                            "text": "derisive"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "mocking laughter",
+                            "tr": [
+                                {
+                                    "text": "насмешливый хохот"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пробный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "trial"
+                        }
+                    ]
+                },
+                {
+                    "text": "шуточный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "joke"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

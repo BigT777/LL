@@ -1,0 +1,86 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "скот",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "bétail",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "cheptel",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "bestiau",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "bête",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "brute",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "скотина"
+                        },
+                        {
+                            "text": "домашний скот"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "крупный скот",
+                            "tr": [
+                                {
+                                    "text": "gros bétail"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "молочные скоты",
+                            "tr": [
+                                {
+                                    "text": "des cheptels laitiers"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "troupeau",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "стадо"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "собирать скот",
+                            "tr": [
+                                {
+                                    "text": "rassembler les troupeaux"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

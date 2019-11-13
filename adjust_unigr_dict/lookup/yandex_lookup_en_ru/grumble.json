@@ -1,0 +1,132 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "grumble",
+            "pos": "verb",
+            "ts": "grʌmbl",
+            "tr": [
+                {
+                    "text": "ворчать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "роптать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поворчать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "заворчать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "брюзжать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "growl"
+                        },
+                        {
+                            "text": "murmur"
+                        },
+                        {
+                            "text": "grouch"
+                        }
+                    ]
+                },
+                {
+                    "text": "жаловаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "complain"
+                        }
+                    ]
+                },
+                {
+                    "text": "проворчать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "бурчать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "урчать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mutter"
+                        },
+                        {
+                            "text": "rumble"
+                        }
+                    ]
+                },
+                {
+                    "text": "канючить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "moan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "grumble",
+            "pos": "noun",
+            "ts": "grʌmbl",
+            "tr": [
+                {
+                    "text": "ропот",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "murmur"
+                        }
+                    ]
+                },
+                {
+                    "text": "ворчание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "урчание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grumbling"
+                        },
+                        {
+                            "text": "rumbling"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

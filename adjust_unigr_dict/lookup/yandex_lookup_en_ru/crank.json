@@ -1,0 +1,215 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "crank",
+            "pos": "noun",
+            "ts": "kræŋk",
+            "tr": [
+                {
+                    "text": "рукоятка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "рычаг",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "ручка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lever"
+                        },
+                        {
+                            "text": "handle"
+                        }
+                    ]
+                },
+                {
+                    "text": "кривошип",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "шатун",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crankshaft"
+                        },
+                        {
+                            "text": "rod"
+                        }
+                    ]
+                },
+                {
+                    "text": "заводная ручка",
+                    "pos": "noun"
+                },
+                {
+                    "text": "коленчатый рычаг",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "toggle"
+                        }
+                    ]
+                },
+                {
+                    "text": "чудак",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "eccentric"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "old crank",
+                            "tr": [
+                                {
+                                    "text": "старый чудак"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "заводная рукоятка",
+                    "pos": "noun"
+                },
+                {
+                    "text": "психопат",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "psycho"
+                        }
+                    ]
+                },
+                {
+                    "text": "пусковая рукоятка",
+                    "pos": "noun"
+                },
+                {
+                    "text": "мотыль",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "motyl"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "crank",
+            "pos": "verb",
+            "ts": "kræŋk",
+            "tr": [
+                {
+                    "text": "завести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "заводить",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "start"
+                        }
+                    ]
+                },
+                {
+                    "text": "провернуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "проворачивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "turn"
+                        }
+                    ]
+                },
+                {
+                    "text": "согнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "bend"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "crank",
+            "pos": "adjective",
+            "ts": "kræŋk",
+            "tr": [
+                {
+                    "text": "кривошипный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "коленчатый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crankshaft"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "crank handle",
+                            "tr": [
+                                {
+                                    "text": "кривошипная рукоятка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "кулисный",
+                    "pos": "adjective"
+                }
+            ]
+        },
+        {
+            "text": "crank",
+            "pos": "participle",
+            "ts": "kræŋk",
+            "tr": [
+                {
+                    "text": "расшатанный",
+                    "pos": "participle"
+                }
+            ]
+        }
+    ]
+}

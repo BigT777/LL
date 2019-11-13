@@ -1,0 +1,149 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "weary",
+            "pos": "adjective",
+            "ts": "ˈwɪərɪ",
+            "tr": [
+                {
+                    "text": "усталый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "изможденный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tired"
+                        },
+                        {
+                            "text": "exhausted"
+                        }
+                    ]
+                },
+                {
+                    "text": "утомительный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "скучный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tiring"
+                        },
+                        {
+                            "text": "boring"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "weary day",
+                            "tr": [
+                                {
+                                    "text": "утомительный день"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "weary",
+            "pos": "verb",
+            "ts": "ˈwɪərɪ",
+            "tr": [
+                {
+                    "text": "утомлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "уставать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "утомиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "наскучить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tire"
+                        },
+                        {
+                            "text": "bore"
+                        }
+                    ]
+                },
+                {
+                    "text": "устал",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "томить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "torment"
+                        }
+                    ]
+                },
+                {
+                    "text": "тяготиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "burden"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "weary",
+            "pos": "participle",
+            "ts": "ˈwɪərɪ",
+            "tr": [
+                {
+                    "text": "утомленный",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "уставший",
+                            "pos": "participle"
+                        },
+                        {
+                            "text": "измученный",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tired"
+                        },
+                        {
+                            "text": "exhausted"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

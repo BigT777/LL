@@ -1,0 +1,137 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "snuff",
+            "pos": "verb",
+            "ts": "snʌf",
+            "tr": [
+                {
+                    "text": "нюхать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "нюхать табак",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "понюхать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sniff"
+                        },
+                        {
+                            "text": "take snuff"
+                        }
+                    ]
+                },
+                {
+                    "text": "задуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "потушить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "тушить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "blow out"
+                        },
+                        {
+                            "text": "extinguish"
+                        }
+                    ]
+                },
+                {
+                    "text": "подавить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "crush"
+                        }
+                    ]
+                },
+                {
+                    "text": "прикончить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "finish"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "snuff",
+            "pos": "noun",
+            "ts": "snʌf",
+            "tr": [
+                {
+                    "text": "понюшка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "табакерка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pinch"
+                        },
+                        {
+                            "text": "snuffbox"
+                        }
+                    ]
+                },
+                {
+                    "text": "нюхательный табак",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "табак",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "snuff tobacco"
+                        },
+                        {
+                            "text": "tobacco"
+                        }
+                    ]
+                },
+                {
+                    "text": "нагар",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "carbon"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

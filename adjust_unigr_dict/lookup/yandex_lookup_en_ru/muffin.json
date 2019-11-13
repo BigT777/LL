@@ -1,0 +1,83 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "muffin",
+            "pos": "noun",
+            "ts": "ˈmʌfɪn",
+            "tr": [
+                {
+                    "text": "кекс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "маффин",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "оладья",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cake"
+                        },
+                        {
+                            "text": "pancake"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "chocolate muffin",
+                            "tr": [
+                                {
+                                    "text": "шоколадный кекс"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "булочка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "сдоба",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "сдобная булочка",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "булка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bun"
+                        },
+                        {
+                            "text": "baking"
+                        },
+                        {
+                            "text": "loaf"
+                        }
+                    ]
+                },
+                {
+                    "text": "горячая сдоба",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

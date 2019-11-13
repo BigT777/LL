@@ -1,0 +1,221 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "spit",
+            "pos": "verb",
+            "ts": "spɪt",
+            "tr": [
+                {
+                    "text": "плеваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "брызгать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "шипеть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "фыркать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sputter"
+                        },
+                        {
+                            "text": "sprinkle"
+                        },
+                        {
+                            "text": "hiss"
+                        },
+                        {
+                            "text": "snort"
+                        }
+                    ]
+                },
+                {
+                    "text": "плевать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "плюнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выплюнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сплюнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выплевывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сплевывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поплевать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поплевывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "do not care"
+                        },
+                        {
+                            "text": "spit out"
+                        }
+                    ]
+                },
+                {
+                    "text": "наплевать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "care"
+                        }
+                    ]
+                },
+                {
+                    "text": "харкать",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "извергать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "spew"
+                        }
+                    ]
+                },
+                {
+                    "text": "заплевать",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "spit",
+            "pos": "noun",
+            "ts": "spɪt",
+            "tr": [
+                {
+                    "text": "вертел",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "шампур",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "skewer"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "spit hearth",
+                            "tr": [
+                                {
+                                    "text": "каминный вертел"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "плевок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "слюна",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spittle"
+                        },
+                        {
+                            "text": "saliva"
+                        }
+                    ]
+                },
+                {
+                    "text": "коса",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "отмель",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "scythe"
+                        },
+                        {
+                            "text": "sandbank"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sand spit",
+                            "tr": [
+                                {
+                                    "text": "песчаная коса"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "стрелка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "arrow"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

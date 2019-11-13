@@ -1,0 +1,87 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "integer",
+            "pos": "noun",
+            "ts": "ˈɪntɪʤə",
+            "tr": [
+                {
+                    "text": "целое",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "unit"
+                        }
+                    ]
+                },
+                {
+                    "text": "целое число",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "целочисленное значение",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "целое значение",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "whole number"
+                        },
+                        {
+                            "text": "integer value"
+                        }
+                    ]
+                },
+                {
+                    "text": "тип integer",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "type integer"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "integer",
+            "pos": "adjective",
+            "ts": "ˈɪntɪʤə",
+            "tr": [
+                {
+                    "text": "целочисленный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "integral"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "integer value",
+                            "tr": [
+                                {
+                                    "text": "целочисленное значение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "integer data type",
+                            "tr": [
+                                {
+                                    "text": "целочисленный тип данных"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

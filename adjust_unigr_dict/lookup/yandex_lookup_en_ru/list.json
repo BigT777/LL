@@ -1,0 +1,252 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "list",
+            "pos": "noun",
+            "ts": "lɪst",
+            "tr": [
+                {
+                    "text": "список",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "перечень",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "реестр",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "listing"
+                        },
+                        {
+                            "text": "roster"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "official list",
+                            "tr": [
+                                {
+                                    "text": "официальный список"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "global address list",
+                            "tr": [
+                                {
+                                    "text": "глобальный список адресов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "access control list",
+                            "tr": [
+                                {
+                                    "text": "список управления доступом"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "certificate revocation list",
+                            "tr": [
+                                {
+                                    "text": "список аннулированных сертификатов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "formal parameter list",
+                            "tr": [
+                                {
+                                    "text": "список формальных параметров"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mailing list manager",
+                            "tr": [
+                                {
+                                    "text": "менеджер списков рассылки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "password list file",
+                            "tr": [
+                                {
+                                    "text": "файл списка паролей"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hardware compatibility list",
+                            "tr": [
+                                {
+                                    "text": "список совместимого оборудования"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "dangerous goods list",
+                            "tr": [
+                                {
+                                    "text": "перечень опасных грузов"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ведомость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "sheet"
+                        }
+                    ]
+                },
+                {
+                    "text": "перечисление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "enumeration"
+                        }
+                    ]
+                },
+                {
+                    "text": "роспись",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "mural"
+                        }
+                    ]
+                },
+                {
+                    "text": "опись",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "inventory"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "list",
+            "pos": "verb",
+            "ts": "lɪst",
+            "tr": [
+                {
+                    "text": "перечислить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "перечислять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "enumerate"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "list events",
+                            "tr": [
+                                {
+                                    "text": "перечислить события"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "указать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "указывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "specify"
+                        }
+                    ]
+                },
+                {
+                    "text": "внести в список",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "list",
+            "pos": "participle",
+            "ts": "lɪst",
+            "tr": [
+                {
+                    "text": "перечисленный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "listed"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "list",
+            "pos": "adjective",
+            "ts": "lɪst",
+            "tr": [
+                {
+                    "text": "списочный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "payroll"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "list structure",
+                            "tr": [
+                                {
+                                    "text": "списочный состав"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "списковый",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "solar",
+            "pos": "adjective",
+            "ts": "ˈsəʊlə",
+            "tr": [
+                {
+                    "text": "солнечный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "солярный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sunny"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "solar symbol",
+                            "tr": [
+                                {
+                                    "text": "солярный символ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "solar",
+            "pos": "noun",
+            "ts": "ˈsəʊlə",
+            "tr": [
+                {
+                    "text": "солнечная энергия",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "солнечная батарея",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "энергия солнца",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "solar energy"
+                        },
+                        {
+                            "text": "solar panel"
+                        }
+                    ]
+                },
+                {
+                    "text": "солнце",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "sun"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "potion",
+            "pos": "noun",
+            "ts": "pəʊʃn",
+            "tr": [
+                {
+                    "text": "зелье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "снадобье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "эликсир",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "poison"
+                        },
+                        {
+                            "text": "drug"
+                        },
+                        {
+                            "text": "elixir"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "love potion",
+                            "tr": [
+                                {
+                                    "text": "приворотное зелье"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "healing potions",
+                            "tr": [
+                                {
+                                    "text": "целебные снадобья"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "микстура",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "medicine"
+                        }
+                    ]
+                },
+                {
+                    "text": "настой",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "настойка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "отвар",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tincture"
+                        },
+                        {
+                            "text": "decoction"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "herbal potions",
+                            "tr": [
+                                {
+                                    "text": "травяные настои"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "питье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "drinking"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

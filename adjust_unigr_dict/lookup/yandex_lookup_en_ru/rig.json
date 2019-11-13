@@ -1,0 +1,215 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "rig",
+            "pos": "noun",
+            "ts": "rɪg",
+            "tr": [
+                {
+                    "text": "снаряжение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "оборудование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "оснастка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "equipment"
+                        }
+                    ]
+                },
+                {
+                    "text": "буровая установка",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "буровой станок",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drilling rig"
+                        }
+                    ]
+                },
+                {
+                    "text": "вышка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "буровая вышка",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "derrick"
+                        }
+                    ]
+                },
+                {
+                    "text": "установка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "installation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "calibration rig",
+                            "tr": [
+                                {
+                                    "text": "поверочная установка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "стенд",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "booth"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "test rig",
+                            "tr": [
+                                {
+                                    "text": "испытательный стенд"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "станок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "machine"
+                        }
+                    ]
+                },
+                {
+                    "text": "фальсификация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "rigging"
+                        }
+                    ]
+                },
+                {
+                    "text": "автопоезд",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "truck"
+                        }
+                    ]
+                },
+                {
+                    "text": "ранец",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "pack"
+                        }
+                    ]
+                },
+                {
+                    "text": "парусное вооружение",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "rig",
+            "pos": "verb",
+            "ts": "rɪg",
+            "tr": [
+                {
+                    "text": "оснащать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "оснастить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "equip"
+                        }
+                    ]
+                },
+                {
+                    "text": "фальсифицировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "сфальсифицировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подтасовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подтасовывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "falsify"
+                        },
+                        {
+                            "text": "manipulate"
+                        },
+                        {
+                            "text": "juggle"
+                        }
+                    ]
+                },
+                {
+                    "text": "подстроить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "adjust"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

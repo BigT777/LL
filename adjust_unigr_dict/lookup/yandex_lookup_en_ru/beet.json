@@ -1,0 +1,95 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "beet",
+            "pos": "noun",
+            "ts": "biːt",
+            "tr": [
+                {
+                    "text": "свекла",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "сахарная свекла",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "Буряк",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "beetroot"
+                        },
+                        {
+                            "text": "sugar beet"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "red beet",
+                            "tr": [
+                                {
+                                    "text": "красная свекла"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Бурак",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "beet",
+            "pos": "adjective",
+            "ts": "biːt",
+            "tr": [
+                {
+                    "text": "свекольный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "свекловичный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "свеклоуборочный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "beetroot"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "beet molasses",
+                            "tr": [
+                                {
+                                    "text": "свекольная патока"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "beet pulp",
+                            "tr": [
+                                {
+                                    "text": "свекловичный жом"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

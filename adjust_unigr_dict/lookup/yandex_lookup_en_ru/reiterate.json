@@ -1,0 +1,81 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "reiterate",
+            "pos": "verb",
+            "ts": "riːˈɪtəreɪt",
+            "tr": [
+                {
+                    "text": "повторять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "повторить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вновь повторить",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "повториться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "твердить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "repeat"
+                        }
+                    ]
+                },
+                {
+                    "text": "подтвердить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "подтверждать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вновь подтвердить",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "вновь выразить",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "affirm"
+                        },
+                        {
+                            "text": "reaffirm"
+                        }
+                    ]
+                },
+                {
+                    "text": "напоминать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "remind"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

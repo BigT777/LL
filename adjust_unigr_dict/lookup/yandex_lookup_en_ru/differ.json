@@ -1,0 +1,152 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "differ",
+            "pos": "verb",
+            "ts": "ˈdɪfə",
+            "tr": [
+                {
+                    "text": "отличаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "различаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "разниться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "варьироваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "vary"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "differ only",
+                            "tr": [
+                                {
+                                    "text": "отличаться только"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "differ slightly",
+                            "tr": [
+                                {
+                                    "text": "различаться незначительно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "различать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отличать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отличиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "distinguish"
+                        }
+                    ]
+                },
+                {
+                    "text": "расходиться",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "разойтись",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "расходиться во мнениях",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "diverge"
+                        },
+                        {
+                            "text": "separate"
+                        },
+                        {
+                            "text": "disagree"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "differ",
+            "pos": "adjective",
+            "ts": "ˈdɪfə",
+            "tr": [
+                {
+                    "text": "различный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "разный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "неодинаковый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "vary"
+                        },
+                        {
+                            "text": "separate"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "differing interpretation",
+                            "tr": [
+                                {
+                                    "text": "различные толкования"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "differing opinions",
+                            "tr": [
+                                {
+                                    "text": "разные мнения"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

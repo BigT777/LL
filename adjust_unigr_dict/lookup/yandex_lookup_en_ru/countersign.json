@@ -1,0 +1,77 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "countersign",
+            "pos": "noun",
+            "ts": "ˈkaʊntəsaɪn",
+            "tr": [
+                {
+                    "text": "пароль",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "password"
+                        }
+                    ]
+                },
+                {
+                    "text": "контрассигнация",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        },
+        {
+            "text": "countersign",
+            "pos": "verb",
+            "ts": "ˈkaʊntəsaɪn",
+            "tr": [
+                {
+                    "text": "скрепить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "fasten"
+                        }
+                    ]
+                },
+                {
+                    "text": "подписать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "подписывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sign"
+                        }
+                    ]
+                },
+                {
+                    "text": "завизировать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "визировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "endorse"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

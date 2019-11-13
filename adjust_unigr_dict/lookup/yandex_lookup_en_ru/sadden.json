@@ -1,0 +1,69 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sadden",
+            "pos": "verb",
+            "ts": "sædn",
+            "tr": [
+                {
+                    "text": "опечалить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "печалить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "огорчать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "расстроить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grieve"
+                        },
+                        {
+                            "text": "frustrate"
+                        }
+                    ]
+                },
+                {
+                    "text": "омрачить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "омрачать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "darken"
+                        }
+                    ]
+                },
+                {
+                    "text": "удручить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "depress"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "dupe",
+            "pos": "verb",
+            "ts": "djuːp",
+            "tr": [
+                {
+                    "text": "обманывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "одурачивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "одурачить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "дурачить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "оболванивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cheat"
+                        },
+                        {
+                            "text": "fool"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dupe",
+            "pos": "noun",
+            "ts": "djuːp",
+            "tr": [
+                {
+                    "text": "простофиля",
+                    "pos": "noun",
+                    "gen": "м,ж",
+                    "syn": [
+                        {
+                            "text": "простак",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "simpleton"
+                        }
+                    ]
+                },
+                {
+                    "text": "жертва обмана",
+                    "pos": "noun"
+                },
+                {
+                    "text": "дубликат",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "duplicate"
+                        }
+                    ]
+                },
+                {
+                    "text": "лох",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "sucker"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

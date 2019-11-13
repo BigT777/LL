@@ -1,0 +1,110 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cede",
+            "pos": "verb",
+            "ts": "siːd",
+            "tr": [
+                {
+                    "text": "уступать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "уступить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "переуступить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "concede"
+                        },
+                        {
+                            "text": "assign"
+                        }
+                    ]
+                },
+                {
+                    "text": "передавать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "передать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "transmit"
+                        },
+                        {
+                            "text": "transfer"
+                        }
+                    ]
+                },
+                {
+                    "text": "сдавать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сдать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rent"
+                        },
+                        {
+                            "text": "surrender"
+                        }
+                    ]
+                },
+                {
+                    "text": "отдать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "отдавать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "give away"
+                        }
+                    ]
+                },
+                {
+                    "text": "поступиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "поступаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "renounce"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

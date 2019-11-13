@@ -1,0 +1,330 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "circuit",
+            "pos": "noun",
+            "ts": "ˈsɜːkɪt",
+            "tr": [
+                {
+                    "text": "цепь",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "замыкание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "chain"
+                        },
+                        {
+                            "text": "fault"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "electrical circuit",
+                            "tr": [
+                                {
+                                    "text": "электрическая цепь"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "intrinsically safe circuit",
+                            "tr": [
+                                {
+                                    "text": "искробезопасная электрическая цепь"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "power supply circuit",
+                            "tr": [
+                                {
+                                    "text": "цепь питания"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "nonlinear electric circuit",
+                            "tr": [
+                                {
+                                    "text": "нелинейная электрическая цепь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "схема",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "электрическая цепь",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "электрическая схема",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "электросхема",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "scheme"
+                        },
+                        {
+                            "text": "electric circuit"
+                        },
+                        {
+                            "text": "circuit diagram"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hybrid integrated circuit",
+                            "tr": [
+                                {
+                                    "text": "гибридная интегральная схема"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "контур",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "цикл",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "contour"
+                        },
+                        {
+                            "text": "cycle"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "primary circuit",
+                            "tr": [
+                                {
+                                    "text": "первичный контур"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "close circuit",
+                            "tr": [
+                                {
+                                    "text": "замкнутый цикл"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "округ",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "district"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "circuit city",
+                            "tr": [
+                                {
+                                    "text": "округ города"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "круг",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "circle"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "full circuit",
+                            "tr": [
+                                {
+                                    "text": "полный круг"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "автодром",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "autodrome"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "international circuit",
+                            "tr": [
+                                {
+                                    "text": "международный автодром"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "кругооборот",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "circulation"
+                        }
+                    ]
+                },
+                {
+                    "text": "обход",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "bypass"
+                        }
+                    ]
+                },
+                {
+                    "text": "трасса",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "линия",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "route"
+                        },
+                        {
+                            "text": "line"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "motor racing circuit",
+                            "tr": [
+                                {
+                                    "text": "гоночная трасса"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "канал",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "тракт",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "channel"
+                        },
+                        {
+                            "text": "path"
+                        }
+                    ]
+                },
+                {
+                    "text": "сеть",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "network"
+                        }
+                    ]
+                },
+                {
+                    "text": "циркуляционный контур",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "circulation loop"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "circuit",
+            "pos": "adjective",
+            "ts": "ˈsɜːkɪt",
+            "tr": [
+                {
+                    "text": "схемный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "схемотехнический",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "schematic"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "circuit element",
+                            "tr": [
+                                {
+                                    "text": "схемный элемент"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "окружный",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "beg",
+            "pos": "verb",
+            "ts": "beg",
+            "tr": [
+                {
+                    "text": "умолять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "упрашивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "молить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "взмолиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "умолить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "beseech"
+                        },
+                        {
+                            "text": "entreat"
+                        },
+                        {
+                            "text": "cry out"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "beg god",
+                            "tr": [
+                                {
+                                    "text": "молить бога"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "beg for mercy",
+                            "tr": [
+                                {
+                                    "text": "взмолиться о пощаде"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "просить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "упросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "попросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ask"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "beg pardon",
+                            "tr": [
+                                {
+                                    "text": "просить прощения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "просить подаяния",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "нищенствовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "просить милостыню",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "попрошайничать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "побираться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ask for alms"
+                        },
+                        {
+                            "text": "cadge"
+                        }
+                    ]
+                },
+                {
+                    "text": "выпрашивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вымолить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "клянчить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выпросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вымаливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "elicit"
+                        },
+                        {
+                            "text": "implore"
+                        },
+                        {
+                            "text": "cajole"
+                        },
+                        {
+                            "text": "plead"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "beg for money",
+                            "tr": [
+                                {
+                                    "text": "выпрашивать денег"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "beg for forgiveness",
+                            "tr": [
+                                {
+                                    "text": "вымаливать прощение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "стану умолять",
+                    "pos": "verb"
+                },
+                {
+                    "text": "станет просить",
+                    "pos": "verb"
+                },
+                {
+                    "text": "взмолить",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

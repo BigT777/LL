@@ -1,0 +1,253 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "pivot",
+            "pos": "noun",
+            "ts": "ˈpɪvət",
+            "tr": [
+                {
+                    "text": "стержень",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "шарнир",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "шкворень",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rod"
+                        },
+                        {
+                            "text": "hinge"
+                        },
+                        {
+                            "text": "pin"
+                        }
+                    ]
+                },
+                {
+                    "text": "точка опоры",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "опорная точка",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "точка поворота",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fulcrum"
+                        },
+                        {
+                            "text": "pivot point"
+                        },
+                        {
+                            "text": "turning point"
+                        }
+                    ]
+                },
+                {
+                    "text": "ось",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "ось вращения",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "axis"
+                        },
+                        {
+                            "text": "axis of rotation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "central pivot",
+                            "tr": [
+                                {
+                                    "text": "центральная ось"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "поворот",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "rotation"
+                        }
+                    ]
+                },
+                {
+                    "text": "центр",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "center"
+                        }
+                    ]
+                },
+                {
+                    "text": "цапфа",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "trunnion"
+                        }
+                    ]
+                },
+                {
+                    "text": "ведущий элемент",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "pivot element"
+                        }
+                    ]
+                },
+                {
+                    "text": "точка вращения",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "point of rotation"
+                        }
+                    ]
+                },
+                {
+                    "text": "центр вращения",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "center of rotation"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "pivot",
+            "pos": "verb",
+            "ts": "ˈpɪvət",
+            "tr": [
+                {
+                    "text": "вращаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "повернуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rotate"
+                        }
+                    ]
+                },
+                {
+                    "text": "поворачиваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "spin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "pivot",
+            "pos": "adjective",
+            "ts": "ˈpɪvət",
+            "tr": [
+                {
+                    "text": "поворотный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "шарнирный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "swivel"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pivot mount",
+                            "tr": [
+                                {
+                                    "text": "поворотный кронштейн"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "pivot bearing",
+                            "tr": [
+                                {
+                                    "text": "шарнирная опора"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "опорный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "supporting"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pivot foot",
+                            "tr": [
+                                {
+                                    "text": "опорная нога"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "стержневой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "rod"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

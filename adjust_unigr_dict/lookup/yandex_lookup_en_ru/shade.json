@@ -1,0 +1,273 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "shade",
+            "pos": "noun",
+            "ts": "ʃeɪd",
+            "tr": [
+                {
+                    "text": "оттенок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "тон",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "цвет",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "оттенок цвета",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tint"
+                        },
+                        {
+                            "text": "colour"
+                        },
+                        {
+                            "text": "color"
+                        },
+                        {
+                            "text": "hue"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dark shade",
+                            "tr": [
+                                {
+                                    "text": "темный оттенок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "shades of brown",
+                            "tr": [
+                                {
+                                    "text": "коричневые тона"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "абажур",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "плафон",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lampshade"
+                        },
+                        {
+                            "text": "plafond"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "orange shades",
+                            "tr": [
+                                {
+                                    "text": "оранжевые абажуры"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "glass shade",
+                            "tr": [
+                                {
+                                    "text": "стеклянный плафон"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "нюанс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "nuance"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "subtle shades",
+                            "tr": [
+                                {
+                                    "text": "тонкие нюансы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "полумрак",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "сень",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shadow"
+                        }
+                    ]
+                },
+                {
+                    "text": "тени",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "eye shadow"
+                        }
+                    ]
+                },
+                {
+                    "text": "штора",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "curtain"
+                        }
+                    ]
+                },
+                {
+                    "text": "очки",
+                    "pos": "noun",
+                    "gen": "м",
+                    "num": "мн"
+                },
+                {
+                    "text": "затенение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "shading"
+                        }
+                    ]
+                },
+                {
+                    "text": "светотень",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "chiaroscuro"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "shade",
+            "pos": "verb",
+            "ts": "ʃeɪd",
+            "tr": [
+                {
+                    "text": "затенять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "затенить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "obscure"
+                        },
+                        {
+                            "text": "shadow"
+                        }
+                    ]
+                },
+                {
+                    "text": "оттенять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "оттенить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "set off"
+                        }
+                    ]
+                },
+                {
+                    "text": "растушевывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "растушевать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ]
+                },
+                {
+                    "text": "заштриховать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "ex": [
+                        {
+                            "text": "shaded region",
+                            "tr": [
+                                {
+                                    "text": "заштрихованная область"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "заштриховывать",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "shade",
+            "pos": "adverb",
+            "ts": "ʃeɪd",
+            "tr": [
+                {
+                    "text": "в тени",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

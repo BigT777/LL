@@ -1,0 +1,262 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "bump",
+            "pos": "verb",
+            "ts": "bʌmp",
+            "tr": [
+                {
+                    "text": "врезаться",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "ударять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "удариться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "стукнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crash"
+                        },
+                        {
+                            "text": "hit"
+                        },
+                        {
+                            "text": "knock"
+                        }
+                    ]
+                },
+                {
+                    "text": "толкать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "толкнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "push"
+                        }
+                    ]
+                },
+                {
+                    "text": "столкнуться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "сталкиваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "face"
+                        }
+                    ]
+                },
+                {
+                    "text": "налететь",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "натолкнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fly"
+                        },
+                        {
+                            "text": "encounter"
+                        }
+                    ]
+                },
+                {
+                    "text": "наталкиваться",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "bump",
+            "pos": "noun",
+            "ts": "bʌmp",
+            "tr": [
+                {
+                    "text": "шишка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "cone"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "huge bump",
+                            "tr": [
+                                {
+                                    "text": "огромная шишка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ухаб",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "кочка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pothole"
+                        },
+                        {
+                            "text": "tussock"
+                        }
+                    ]
+                },
+                {
+                    "text": "столкновение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "collision"
+                        }
+                    ]
+                },
+                {
+                    "text": "выпуклость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "неровность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bulge"
+                        },
+                        {
+                            "text": "irregularity"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "small bumps",
+                            "tr": [
+                                {
+                                    "text": "небольшие неровности"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "удар",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "толчок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "blow"
+                        },
+                        {
+                            "text": "push"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "little bump",
+                            "tr": [
+                                {
+                                    "text": "маленький удар"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "бугор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "бугорок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "выступ",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mound"
+                        },
+                        {
+                            "text": "tubercle"
+                        },
+                        {
+                            "text": "protrusion"
+                        }
+                    ]
+                },
+                {
+                    "text": "рельеф",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "relief"
+                        }
+                    ]
+                },
+                {
+                    "text": "глухой удар",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

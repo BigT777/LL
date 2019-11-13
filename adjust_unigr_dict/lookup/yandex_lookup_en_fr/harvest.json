@@ -1,0 +1,54 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "harvest",
+            "pos": "noun",
+            "ts": "ˈhɑːvɪst",
+            "tr": [
+                {
+                    "text": "récolte",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "moisson",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crop"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "harvest",
+            "pos": "verb",
+            "ts": "ˈhɑːvɪst",
+            "tr": [
+                {
+                    "text": "récolter",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "moissonner",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "collect"
+                        },
+                        {
+                            "text": "harvesting"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

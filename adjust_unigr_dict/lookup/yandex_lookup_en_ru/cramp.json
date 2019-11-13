@@ -1,0 +1,135 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cramp",
+            "pos": "noun",
+            "ts": "kræmp",
+            "tr": [
+                {
+                    "text": "судорога",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "спазм",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "корчи",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "convulsion"
+                        },
+                        {
+                            "text": "spasm"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "painful cramps",
+                            "tr": [
+                                {
+                                    "text": "болезненные судороги"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "muscle cramp",
+                            "tr": [
+                                {
+                                    "text": "мышечный спазм"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "скоба",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "струбцина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "staple"
+                        },
+                        {
+                            "text": "clamp"
+                        }
+                    ]
+                },
+                {
+                    "text": "колики",
+                    "pos": "noun"
+                },
+                {
+                    "text": "спазмы",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "cramp",
+            "pos": "verb",
+            "ts": "kræmp",
+            "tr": [
+                {
+                    "text": "стеснять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сковывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hamper"
+                        },
+                        {
+                            "text": "shackle"
+                        }
+                    ]
+                },
+                {
+                    "text": "свести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "сводить",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reduce"
+                        }
+                    ]
+                },
+                {
+                    "text": "потеснить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "press"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

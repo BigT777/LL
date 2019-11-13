@@ -1,0 +1,64 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "strikeout",
+            "pos": "participle",
+            "ts": "ˈstraɪkaʊt",
+            "tr": [
+                {
+                    "text": "зачеркнутый",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "перечеркнутый",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crossed"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "strikeout",
+            "pos": "noun",
+            "ts": "ˈstraɪkaʊt",
+            "tr": [
+                {
+                    "text": "вычеркивание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "зачеркивание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "перечеркивание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "deletion"
+                        },
+                        {
+                            "text": "strikethrough"
+                        }
+                    ]
+                },
+                {
+                    "text": "аут",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        }
+    ]
+}

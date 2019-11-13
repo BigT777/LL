@@ -1,0 +1,133 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "shudder",
+            "pos": "verb",
+            "ts": "ˈʃʌdə",
+            "tr": [
+                {
+                    "text": "содрогаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вздрагивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "дрожать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вздрогнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "содрогнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "задрожать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поежиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "затрепетать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tremble"
+                        },
+                        {
+                            "text": "flinch"
+                        },
+                        {
+                            "text": "shiver"
+                        },
+                        {
+                            "text": "wince"
+                        },
+                        {
+                            "text": "squirm"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "shudder",
+            "pos": "noun",
+            "ts": "ˈʃʌdə",
+            "tr": [
+                {
+                    "text": "дрожь",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "содрогание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shiver"
+                        },
+                        {
+                            "text": "tremor"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "convulsive shudder",
+                            "tr": [
+                                {
+                                    "text": "конвульсивная дрожь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дрожание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "трепет",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "вздрагивание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "trembling"
+                        },
+                        {
+                            "text": "wince"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

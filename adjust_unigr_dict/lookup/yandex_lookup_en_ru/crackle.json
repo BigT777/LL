@@ -1,0 +1,86 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "crackle",
+            "pos": "noun",
+            "ts": "krækl",
+            "tr": [
+                {
+                    "text": "треск",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "потрескивание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "хруст",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crackling"
+                        },
+                        {
+                            "text": "crunch"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "crackle",
+            "pos": "verb",
+            "ts": "krækl",
+            "tr": [
+                {
+                    "text": "потрескивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "трещать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crinkle"
+                        },
+                        {
+                            "text": "creak"
+                        }
+                    ]
+                },
+                {
+                    "text": "хрустеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "похрустывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "хрустнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crunch"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

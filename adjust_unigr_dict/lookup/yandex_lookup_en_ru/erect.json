@@ -1,0 +1,224 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "erect",
+            "pos": "verb",
+            "ts": "ɪˈrekt",
+            "tr": [
+                {
+                    "text": "возводить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "строить",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "сооружать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "воздвигнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "возвести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "соорудить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "воздвигать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выстроить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "build"
+                        },
+                        {
+                            "text": "construct"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "erect walls",
+                            "tr": [
+                                {
+                                    "text": "возводить стены"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "устанавливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "установить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "install"
+                        }
+                    ]
+                },
+                {
+                    "text": "монтировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "смонтировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mount"
+                        }
+                    ]
+                },
+                {
+                    "text": "водрузить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "водружать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hoist"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "erect",
+            "pos": "adjective",
+            "ts": "ɪˈrekt",
+            "tr": [
+                {
+                    "text": "прямой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "вертикальный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "прямостоящий",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "direct"
+                        },
+                        {
+                            "text": "upright"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "erect posture",
+                            "tr": [
+                                {
+                                    "text": "прямая осанка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "прямостоячий",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "upright"
+                        }
+                    ]
+                },
+                {
+                    "text": "стоячий",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "standing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "erect ears",
+                            "tr": [
+                                {
+                                    "text": "стоячие уши"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "erect",
+            "pos": "adverb",
+            "ts": "ɪˈrekt",
+            "tr": [
+                {
+                    "text": "прямо",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "direct"
+                        }
+                    ]
+                },
+                {
+                    "text": "вертикально",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "vertically"
+                        }
+                    ]
+                },
+                {
+                    "text": "торчком",
+                    "pos": "adverb",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "upright"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

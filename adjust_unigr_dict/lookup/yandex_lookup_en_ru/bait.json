@@ -1,0 +1,149 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "bait",
+            "pos": "noun",
+            "ts": "beɪt",
+            "tr": [
+                {
+                    "text": "приманка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "наживка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "прикормка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "живец",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "привада",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "блесна",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lure"
+                        },
+                        {
+                            "text": "live bait"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "good bait",
+                            "tr": [
+                                {
+                                    "text": "хорошая приманка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "live bait",
+                            "tr": [
+                                {
+                                    "text": "живая наживка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "насадка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "nozzle"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bait",
+            "pos": "verb",
+            "ts": "beɪt",
+            "tr": [
+                {
+                    "text": "травить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "затравить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "poison"
+                        },
+                        {
+                            "text": "hunt"
+                        }
+                    ]
+                },
+                {
+                    "text": "завлекать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заманить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "заманивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "приманивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lure"
+                        }
+                    ]
+                },
+                {
+                    "text": "дразнить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "tease"
+                        }
+                    ]
+                },
+                {
+                    "text": "наживить",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        }
+    ]
+}

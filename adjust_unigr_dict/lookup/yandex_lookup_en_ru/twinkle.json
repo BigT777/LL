@@ -1,0 +1,142 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "twinkle",
+            "pos": "noun",
+            "ts": "twɪŋkl",
+            "tr": [
+                {
+                    "text": "мерцание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "мигание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "мелькание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flicker"
+                        },
+                        {
+                            "text": "blink"
+                        }
+                    ]
+                },
+                {
+                    "text": "огонек",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "веселый огонек",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "искорка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spark"
+                        }
+                    ]
+                },
+                {
+                    "text": "мгновение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "moment"
+                        }
+                    ]
+                },
+                {
+                    "text": "блеск",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "блеск в глазах",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shine"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "twinkle in her eyes",
+                            "tr": [
+                                {
+                                    "text": "блеск в глазах"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "twinkle",
+            "pos": "verb",
+            "ts": "twɪŋkl",
+            "tr": [
+                {
+                    "text": "сверкать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "мелькать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "мигать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "мерцать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поблескивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sparkle"
+                        },
+                        {
+                            "text": "flash"
+                        },
+                        {
+                            "text": "flicker"
+                        },
+                        {
+                            "text": "gleam"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

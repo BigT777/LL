@@ -1,0 +1,166 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "candy",
+            "pos": "noun",
+            "ts": "ˈkændɪ",
+            "tr": [
+                {
+                    "text": "леденец",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "конфета",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "конфетка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "карамель",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "карамелька",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lollipop"
+                        },
+                        {
+                            "text": "chocolate"
+                        },
+                        {
+                            "text": "sweetie"
+                        },
+                        {
+                            "text": "caramel"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "peppermint candy",
+                            "tr": [
+                                {
+                                    "text": "мятный леденец"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "box of chocolate candies",
+                            "tr": [
+                                {
+                                    "text": "коробка шоколадных конфет"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сладости",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "pastry"
+                        }
+                    ]
+                },
+                {
+                    "text": "сласти",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "sweets"
+                        }
+                    ]
+                },
+                {
+                    "text": "штрипс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "strip"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "candy",
+            "pos": "adjective",
+            "ts": "ˈkændɪ",
+            "tr": [
+                {
+                    "text": "карамельный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "сладкий",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "конфетный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "caramel"
+                        },
+                        {
+                            "text": "sweet"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "candy corn",
+                            "tr": [
+                                {
+                                    "text": "сладкая кукуруза"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "candy wrapper",
+                            "tr": [
+                                {
+                                    "text": "конфетная обертка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "кондитерский",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "confectionary"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "candy store",
+                            "tr": [
+                                {
+                                    "text": "кондитерский магазин"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

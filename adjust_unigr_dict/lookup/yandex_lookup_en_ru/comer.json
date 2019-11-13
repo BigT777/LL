@@ -1,0 +1,88 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "comer",
+            "pos": "noun",
+            "ts": "ˈkʌmə",
+            "tr": [
+                {
+                    "text": "посетитель",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "visitor"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "new comer",
+                            "tr": [
+                                {
+                                    "text": "новый посетитель"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пришелец",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "stranger"
+                        }
+                    ]
+                },
+                {
+                    "text": "выходец",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "comer",
+            "pos": "participle",
+            "ts": "ˈkʌmə",
+            "tr": [
+                {
+                    "text": "пришедший",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "прибывший",
+                            "pos": "participle"
+                        },
+                        {
+                            "text": "приходящий",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "come"
+                        },
+                        {
+                            "text": "arrival"
+                        },
+                        {
+                            "text": "coming"
+                        }
+                    ]
+                },
+                {
+                    "text": "желающий",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "wishing"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

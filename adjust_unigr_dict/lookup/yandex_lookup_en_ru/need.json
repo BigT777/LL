@@ -1,0 +1,270 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "need",
+            "pos": "noun",
+            "ts": "niːd",
+            "tr": [
+                {
+                    "text": "потребность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "нужда",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "необходимость",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "надобность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "requirement"
+                        },
+                        {
+                            "text": "want"
+                        },
+                        {
+                            "text": "necessity"
+                        },
+                        {
+                            "text": "necessary"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "basic need",
+                            "tr": [
+                                {
+                                    "text": "основная потребность"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "meet customer needs",
+                            "tr": [
+                                {
+                                    "text": "удовлетворение потребностей клиента"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "special educational needs",
+                            "tr": [
+                                {
+                                    "text": "особые потребности"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "need for working capital",
+                            "tr": [
+                                {
+                                    "text": "потребность в оборотном капитале"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "need for international cooperation",
+                            "tr": [
+                                {
+                                    "text": "потребность в международном сотрудничестве"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "individuals with specific needs",
+                            "tr": [
+                                {
+                                    "text": "лица с особыми потребностями"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "personal need",
+                            "tr": [
+                                {
+                                    "text": "личная нужда"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "need for scientific research",
+                            "tr": [
+                                {
+                                    "text": "необходимость проведения научных исследований"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "urgent need for action",
+                            "tr": [
+                                {
+                                    "text": "необходимость принятия срочных мер"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "natural needs",
+                            "tr": [
+                                {
+                                    "text": "естественные надобности"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "запрос",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "request"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "need",
+            "pos": "verb",
+            "ts": "niːd",
+            "tr": [
+                {
+                    "text": "требоваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "нуждаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "потребоваться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "понадобиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "требовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "потребовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "want"
+                        },
+                        {
+                            "text": "require"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "need help",
+                            "tr": [
+                                {
+                                    "text": "нуждаться в помощи"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "need a bit",
+                            "tr": [
+                                {
+                                    "text": "потребоваться немного"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "need tomorrow",
+                            "tr": [
+                                {
+                                    "text": "понадобиться завтра"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "need revision",
+                            "tr": [
+                                {
+                                    "text": "требовать пересмотра"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "следовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "follow"
+                        }
+                    ]
+                },
+                {
+                    "text": "быть необходимым",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "be necessary"
+                        }
+                    ]
+                },
+                {
+                    "text": "пригодиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "useful"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "need",
+            "pos": "predicative",
+            "ts": "niːd",
+            "tr": [
+                {
+                    "text": "нужно",
+                    "pos": "predicative"
+                },
+                {
+                    "text": "надо",
+                    "pos": "predicative",
+                    "mean": [
+                        {
+                            "text": "necessary"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

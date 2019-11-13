@@ -1,0 +1,48 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "завинтить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "revisser",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "закрутить"
+                        }
+                    ]
+                },
+                {
+                    "text": "visser",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "ввинтить"
+                        }
+                    ]
+                },
+                {
+                    "text": "serrer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "resserrer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "закрутить"
+                        },
+                        {
+                            "text": "затянуть"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

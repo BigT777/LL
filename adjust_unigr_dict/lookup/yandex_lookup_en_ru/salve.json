@@ -1,0 +1,99 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "salve",
+            "pos": "noun",
+            "ts": "sɑːv",
+            "tr": [
+                {
+                    "text": "мазь",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "бальзам",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ointment"
+                        },
+                        {
+                            "text": "balm"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "healing salve",
+                            "tr": [
+                                {
+                                    "text": "целебная мазь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "целебная мазь",
+                    "pos": "noun"
+                },
+                {
+                    "text": "целебный бальзам",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "healing balm"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "salve",
+            "pos": "verb",
+            "ts": "sɑːv",
+            "tr": [
+                {
+                    "text": "спасать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "спасти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "save"
+                        }
+                    ]
+                },
+                {
+                    "text": "успокоить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "soothe"
+                        }
+                    ]
+                },
+                {
+                    "text": "смазать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "lubricate"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

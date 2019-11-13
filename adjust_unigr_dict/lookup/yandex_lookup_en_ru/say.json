@@ -1,0 +1,230 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "say",
+            "pos": "verb",
+            "ts": "seɪ",
+            "fl": "said, said",
+            "tr": [
+                {
+                    "text": "сказать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "говорить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "произносить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "утверждать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "заявлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "произнести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "гласить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "проговорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "промолвить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сказывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "молвить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tell"
+                        },
+                        {
+                            "text": "speak"
+                        },
+                        {
+                            "text": "pronounce"
+                        },
+                        {
+                            "text": "claim"
+                        },
+                        {
+                            "text": "declare"
+                        },
+                        {
+                            "text": "state"
+                        },
+                        {
+                            "text": "utter"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "better to say",
+                            "tr": [
+                                {
+                                    "text": "лучше сказать"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "say such things",
+                            "tr": [
+                                {
+                                    "text": "говорить такие вещи"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "say the prayers",
+                            "tr": [
+                                {
+                                    "text": "произносить молитвы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сообщать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сообщить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "inform"
+                        }
+                    ]
+                },
+                {
+                    "text": "считать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "полагать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "believe"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "say otherwise",
+                            "tr": [
+                                {
+                                    "text": "считать иначе"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "указать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "indicate"
+                        }
+                    ]
+                },
+                {
+                    "text": "поговаривать",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "say",
+            "pos": "noun",
+            "ts": "seɪ",
+            "tr": [
+                {
+                    "text": "слово",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "word"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "last say",
+                            "tr": [
+                                {
+                                    "text": "последнее слово"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "мнение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "opinion"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "say",
+            "pos": "parenthetic",
+            "ts": "seɪ",
+            "tr": [
+                {
+                    "text": "дескать",
+                    "pos": "parenthetic",
+                    "mean": [
+                        {
+                            "text": "allegedly"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

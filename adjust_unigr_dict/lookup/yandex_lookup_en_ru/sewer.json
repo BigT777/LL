@@ -1,0 +1,155 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sewer",
+            "pos": "noun",
+            "ts": "ˈsəʊə",
+            "tr": [
+                {
+                    "text": "сточная труба",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "канализационная труба",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "канализация",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sink"
+                        },
+                        {
+                            "text": "sewer pipe"
+                        },
+                        {
+                            "text": "sewerage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "storm sewer system",
+                            "tr": [
+                                {
+                                    "text": "ливневая канализация"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "коллектор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "канализационный коллектор",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "collector"
+                        },
+                        {
+                            "text": "sewage collector"
+                        }
+                    ]
+                },
+                {
+                    "text": "швея",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "seamstress"
+                        }
+                    ]
+                },
+                {
+                    "text": "Швец",
+                    "pos": "noun"
+                },
+                {
+                    "text": "сточная канава",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "клоака",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "gutter"
+                        },
+                        {
+                            "text": "cloaca"
+                        }
+                    ]
+                },
+                {
+                    "text": "сток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "drain"
+                        }
+                    ]
+                },
+                {
+                    "text": "швейник",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "sewer",
+            "pos": "adjective",
+            "ts": "ˈsəʊə",
+            "tr": [
+                {
+                    "text": "канализационный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "сточный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sewage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sewer pipe",
+                            "tr": [
+                                {
+                                    "text": "канализационная труба"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sewer water",
+                            "tr": [
+                                {
+                                    "text": "сточные воды"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

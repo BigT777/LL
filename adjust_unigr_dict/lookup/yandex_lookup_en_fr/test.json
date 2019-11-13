@@ -1,0 +1,53 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "test",
+            "pos": "noun",
+            "ts": "test",
+            "tr": [
+                {
+                    "text": "test",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "essai",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "épreuve",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "testing"
+                        },
+                        {
+                            "text": "trial"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "test",
+            "pos": "verb",
+            "ts": "test",
+            "tr": [
+                {
+                    "text": "tester",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "tester"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

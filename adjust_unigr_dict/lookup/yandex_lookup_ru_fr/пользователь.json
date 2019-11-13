@@ -1,0 +1,71 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "пользователь",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "utilisateur",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "usager",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "потребитель"
+                        },
+                        {
+                            "text": "клиент"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "анонимные пользователи",
+                            "tr": [
+                                {
+                                    "text": "les utilisateurs anonymes"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "потребности пользователей",
+                            "tr": [
+                                {
+                                    "text": "besoins des usagers"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "internaute",
+                    "pos": "noun",
+                    "gen": "m,f",
+                    "mean": [
+                        {
+                            "text": "пользователь сети Интернет"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "большинство пользователей",
+                            "tr": [
+                                {
+                                    "text": "plupart des internautes"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

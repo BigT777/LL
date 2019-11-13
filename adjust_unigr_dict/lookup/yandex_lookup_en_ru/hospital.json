@@ -1,0 +1,248 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "hospital",
+            "pos": "noun",
+            "ts": "ˈhɒspɪtl",
+            "tr": [
+                {
+                    "text": "больница",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "госпиталь",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "лечебница",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "стационар",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "клиника",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "клиническая больница",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clinic"
+                        },
+                        {
+                            "text": "inpatient"
+                        },
+                        {
+                            "text": "clinical hospital"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "clinical hospital",
+                            "tr": [
+                                {
+                                    "text": "клиническая больница"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "infectious diseases hospital",
+                            "tr": [
+                                {
+                                    "text": "инфекционная больница"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "rural district hospital",
+                            "tr": [
+                                {
+                                    "text": "сельская участковая больница"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "state mental hospitals",
+                            "tr": [
+                                {
+                                    "text": "государственные психиатрические больницы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "acute care hospitals",
+                            "tr": [
+                                {
+                                    "text": "больницы неотложной помощи"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "city hospital",
+                            "tr": [
+                                {
+                                    "text": "городская больница"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "red cross hospital",
+                            "tr": [
+                                {
+                                    "text": "госпиталь красного креста"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "large military hospital",
+                            "tr": [
+                                {
+                                    "text": "крупный военный госпиталь"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "veterinary hospital",
+                            "tr": [
+                                {
+                                    "text": "ветеринарная лечебница"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "day hospital",
+                            "tr": [
+                                {
+                                    "text": "дневной стационар"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "rehabilitation hospital",
+                            "tr": [
+                                {
+                                    "text": "реабилитационная клиника"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "лазарет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "infirmary"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "prison hospital",
+                            "tr": [
+                                {
+                                    "text": "тюремный лазарет"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "лечебное учреждение",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "medical institution"
+                        }
+                    ]
+                },
+                {
+                    "text": "роддом",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "maternity"
+                        }
+                    ]
+                },
+                {
+                    "text": "больничная палата",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "hospital room"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hospital",
+            "pos": "adjective",
+            "ts": "ˈhɒspɪtl",
+            "tr": [
+                {
+                    "text": "больничный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "госпитальный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "медицинский",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sick"
+                        },
+                        {
+                            "text": "medical"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hospital information system",
+                            "tr": [
+                                {
+                                    "text": "больничная информационная система"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hospital ship",
+                            "tr": [
+                                {
+                                    "text": "госпитальное судно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "стационарный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "stationary"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

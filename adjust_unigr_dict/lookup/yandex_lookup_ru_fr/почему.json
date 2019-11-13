@@ -1,0 +1,55 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "почему",
+            "pos": "conjunction",
+            "tr": [
+                {
+                    "text": "pourquoi",
+                    "pos": "conjunction",
+                    "syn": [
+                        {
+                            "text": "que",
+                            "pos": "conjunction"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "что"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "почему так много",
+                            "tr": [
+                                {
+                                    "text": "pourquoi tant"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "почему",
+            "pos": "adverb",
+            "tr": [
+                {
+                    "text": "c'est pourquoi",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "поэтому"
+                        }
+                    ]
+                },
+                {
+                    "text": "pour quelle raison",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,253 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "death",
+            "pos": "noun",
+            "ts": "deθ",
+            "tr": [
+                {
+                    "text": "смерть",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "гибель",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "кончина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "погибель",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "die"
+                        },
+                        {
+                            "text": "destruction"
+                        },
+                        {
+                            "text": "demise"
+                        },
+                        {
+                            "text": "perdition"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "death certificate",
+                            "tr": [
+                                {
+                                    "text": "свидетельство о смерти"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sudden cardiac death",
+                            "tr": [
+                                {
+                                    "text": "внезапная сердечная смерть"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "martyr's death",
+                            "tr": [
+                                {
+                                    "text": "мученическая смерть"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "death from breast cancer",
+                            "tr": [
+                                {
+                                    "text": "смерть от рака молочной железы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "death from heart attack",
+                            "tr": [
+                                {
+                                    "text": "смерть от сердечного приступа"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cell death",
+                            "tr": [
+                                {
+                                    "text": "гибель клеток"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "untimely death",
+                            "tr": [
+                                {
+                                    "text": "безвременная кончина"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "eternal death",
+                            "tr": [
+                                {
+                                    "text": "вечная погибель"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "случай смерти",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "смертельный случай",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "смертный случай",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "death case"
+                        },
+                        {
+                            "text": "fatality"
+                        }
+                    ]
+                },
+                {
+                    "text": "смертность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "mortality"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "crude death rate",
+                            "tr": [
+                                {
+                                    "text": "коэффициент смертности"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "смертная казнь",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "death penalty"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "death",
+            "pos": "adjective",
+            "ts": "deθ",
+            "tr": [
+                {
+                    "text": "смертный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "смертельный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "предсмертный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mortal"
+                        },
+                        {
+                            "text": "deadly"
+                        },
+                        {
+                            "text": "dying"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "mandatory death penalty",
+                            "tr": [
+                                {
+                                    "text": "обязательная смертная казнь"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "death by firing squad",
+                            "tr": [
+                                {
+                                    "text": "смертная казнь через расстрел"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "own death warrant",
+                            "tr": [
+                                {
+                                    "text": "собственный смертный приговор"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "death blow",
+                            "tr": [
+                                {
+                                    "text": "смертельный удар"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "death",
+            "pos": "adverb",
+            "ts": "deθ",
+            "tr": [
+                {
+                    "text": "насмерть",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "смертельно",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "deadly"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

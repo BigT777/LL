@@ -1,0 +1,105 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "dentist",
+            "pos": "noun",
+            "ts": "ˈdentɪst",
+            "tr": [
+                {
+                    "text": "зубной врач",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "дантист",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "стоматолог",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "стоматологический кабинет",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dental surgeon"
+                        },
+                        {
+                            "text": "dental"
+                        },
+                        {
+                            "text": "dental office"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "good dentist",
+                            "tr": [
+                                {
+                                    "text": "хороший дантист"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "local dentist",
+                            "tr": [
+                                {
+                                    "text": "местный стоматолог"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "врач-стоматолог",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "dentist",
+            "pos": "adjective",
+            "ts": "ˈdentɪst",
+            "tr": [
+                {
+                    "text": "зубной",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "стоматологический",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dental"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "visit to the dentist",
+                            "tr": [
+                                {
+                                    "text": "посещение зубного врача"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "dentist office",
+                            "tr": [
+                                {
+                                    "text": "стоматологический кабинет"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

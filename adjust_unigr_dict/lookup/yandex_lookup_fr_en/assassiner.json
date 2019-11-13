@@ -1,0 +1,52 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "assassiner",
+            "pos": "verb",
+            "ts": "asasine",
+            "tr": [
+                {
+                    "text": "murder",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "assassination",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "killing",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "meurtre"
+                        },
+                        {
+                            "text": "assassinat"
+                        },
+                        {
+                            "text": "tuer"
+                        }
+                    ]
+                },
+                {
+                    "text": "assassinate",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "kill",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tuer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

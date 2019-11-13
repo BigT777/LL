@@ -1,0 +1,136 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "jolt",
+            "pos": "noun",
+            "ts": "ʤəʊlt",
+            "tr": [
+                {
+                    "text": "толчок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "tremor"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sudden jolt",
+                            "tr": [
+                                {
+                                    "text": "внезапный толчок"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тряска",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "встряска",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shaking"
+                        },
+                        {
+                            "text": "shake"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "good jolt",
+                            "tr": [
+                                {
+                                    "text": "хорошая встряска"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "удар",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "blow"
+                        }
+                    ]
+                },
+                {
+                    "text": "сотрясение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "shock"
+                        }
+                    ]
+                },
+                {
+                    "text": "ухаб",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "bump"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "jolt",
+            "pos": "verb",
+            "ts": "ʤəʊlt",
+            "tr": [
+                {
+                    "text": "встряхивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "трясти",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "потрясти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "встряхнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shake"
+                        }
+                    ]
+                },
+                {
+                    "text": "толкать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "push"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

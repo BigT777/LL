@@ -1,0 +1,126 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "hunch",
+            "pos": "noun",
+            "ts": "hʌnʧ",
+            "tr": [
+                {
+                    "text": "горб",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "hump"
+                        }
+                    ]
+                },
+                {
+                    "text": "ломоть",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "chunk"
+                        }
+                    ]
+                },
+                {
+                    "text": "догадка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "интуиция",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "conjecture"
+                        },
+                        {
+                            "text": "intuition"
+                        }
+                    ]
+                },
+                {
+                    "text": "предчувствие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "presentiment"
+                        }
+                    ]
+                },
+                {
+                    "text": "подозрение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "suspicion"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hunch",
+            "pos": "verb",
+            "ts": "hʌnʧ",
+            "tr": [
+                {
+                    "text": "сгибаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "согнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bend"
+                        },
+                        {
+                            "text": "crouch"
+                        }
+                    ]
+                },
+                {
+                    "text": "сутулиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сутулить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "ссутулиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stoop"
+                        }
+                    ]
+                },
+                {
+                    "text": "горбить",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        }
+    ]
+}

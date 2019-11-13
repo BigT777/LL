@@ -1,0 +1,78 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "engrave",
+            "pos": "verb",
+            "ts": "ɪnˈgreɪv",
+            "fl": "engraved, engraved/engraven",
+            "tr": [
+                {
+                    "text": "гравировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выгравировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "etch"
+                        }
+                    ]
+                },
+                {
+                    "text": "запечатлевать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "запечатлеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "imprint"
+                        }
+                    ]
+                },
+                {
+                    "text": "вырезать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "высечь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "высекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "carve"
+                        }
+                    ]
+                },
+                {
+                    "text": "чеканить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "mint"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

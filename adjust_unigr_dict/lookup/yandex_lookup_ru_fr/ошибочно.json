@@ -1,0 +1,49 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ошибочно",
+            "pos": "adverb",
+            "tr": [
+                {
+                    "text": "par erreur",
+                    "pos": "adverb"
+                },
+                {
+                    "text": "erronément",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "incorrectement",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "faussement",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ложно"
+                        },
+                        {
+                            "text": "неверно"
+                        },
+                        {
+                            "text": "неправильно"
+                        }
+                    ]
+                },
+                {
+                    "text": "par méprise",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "по ошибке"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

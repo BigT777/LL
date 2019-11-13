@@ -1,0 +1,111 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "hug",
+            "pos": "verb",
+            "ts": "hʌg",
+            "tr": [
+                {
+                    "text": "обнимать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обнять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обняться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прижаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "embrace"
+                        },
+                        {
+                            "text": "snuggle"
+                        }
+                    ]
+                },
+                {
+                    "text": "держаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "hold"
+                        }
+                    ]
+                },
+                {
+                    "text": "крепко обнимать",
+                    "pos": "verb"
+                },
+                {
+                    "text": "прижимать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "cuddle"
+                        }
+                    ]
+                },
+                {
+                    "text": "сжимать в объятиях",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "hug",
+            "pos": "noun",
+            "ts": "hʌg",
+            "tr": [
+                {
+                    "text": "крепкое объятие",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "объятие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "обнимание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "embrace"
+                        },
+                        {
+                            "text": "embracing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "friendly hug",
+                            "tr": [
+                                {
+                                    "text": "дружеское объятие"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

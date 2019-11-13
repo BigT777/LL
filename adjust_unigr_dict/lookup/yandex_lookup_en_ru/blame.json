@@ -1,0 +1,235 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "blame",
+            "pos": "verb",
+            "ts": "bleɪm",
+            "tr": [
+                {
+                    "text": "обвинять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "винить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обвинить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пенять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "попенять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "accuse"
+                        },
+                        {
+                            "text": "fault"
+                        },
+                        {
+                            "text": "complain"
+                        },
+                        {
+                            "text": "reproach"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "blame the victim",
+                            "tr": [
+                                {
+                                    "text": "винить жертву"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "blame god",
+                            "tr": [
+                                {
+                                    "text": "обвинить бога"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "осуждать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "порицать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "осудить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "condemn"
+                        }
+                    ]
+                },
+                {
+                    "text": "упрекать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "корить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reproach"
+                        }
+                    ]
+                },
+                {
+                    "text": "сваливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "валить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dump"
+                        },
+                        {
+                            "text": "bring down"
+                        }
+                    ]
+                },
+                {
+                    "text": "ругать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "scold"
+                        }
+                    ]
+                },
+                {
+                    "text": "ставить в вину",
+                    "pos": "verb"
+                },
+                {
+                    "text": "возлагать вину",
+                    "pos": "verb"
+                },
+                {
+                    "text": "возложить вину",
+                    "pos": "verb"
+                },
+                {
+                    "text": "считать виновным",
+                    "pos": "verb"
+                },
+                {
+                    "text": "поставить в вину",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "blame",
+            "pos": "noun",
+            "ts": "bleɪm",
+            "tr": [
+                {
+                    "text": "порицание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "осуждение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "упрек",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "censure"
+                        },
+                        {
+                            "text": "condemn"
+                        },
+                        {
+                            "text": "reproach"
+                        }
+                    ]
+                },
+                {
+                    "text": "вина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "fault"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "take the blame",
+                            "tr": [
+                                {
+                                    "text": "брать вину"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обвинение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "accusation"
+                        }
+                    ]
+                },
+                {
+                    "text": "ответственность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "responsibility"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

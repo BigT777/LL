@@ -1,0 +1,265 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "bid",
+            "pos": "noun",
+            "ts": "bɪd",
+            "tr": [
+                {
+                    "text": "заявка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "предложение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "request"
+                        },
+                        {
+                            "text": "proposal"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "competitive bid",
+                            "tr": [
+                                {
+                                    "text": "конкурентная заявка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "bid price",
+                            "tr": [
+                                {
+                                    "text": "цена предложения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "претензия",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "claim"
+                        }
+                    ]
+                },
+                {
+                    "text": "торг",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "тендер",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "аукцион",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bargaining"
+                        },
+                        {
+                            "text": "tender"
+                        },
+                        {
+                            "text": "auction"
+                        }
+                    ]
+                },
+                {
+                    "text": "ставка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "цена",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bet"
+                        },
+                        {
+                            "text": "price"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "current bid",
+                            "tr": [
+                                {
+                                    "text": "текущая ставка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "opening bid",
+                            "tr": [
+                                {
+                                    "text": "стартовая цена"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "попытка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "attempt"
+                        }
+                    ]
+                },
+                {
+                    "text": "конкурсная заявка",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "competitive application"
+                        }
+                    ]
+                },
+                {
+                    "text": "предложение цены",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "bidding"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bid",
+            "pos": "verb",
+            "ts": "bɪd",
+            "fl": "bade/bid, bid/bidden",
+            "tr": [
+                {
+                    "text": "просить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "пригласить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "request"
+                        },
+                        {
+                            "text": "invite"
+                        }
+                    ]
+                },
+                {
+                    "text": "приказывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "велеть",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "приказать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "order"
+                        }
+                    ]
+                },
+                {
+                    "text": "предложить цену",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "предлагать цену",
+                            "pos": "verb"
+                        }
+                    ]
+                },
+                {
+                    "text": "предлагать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "offer"
+                        }
+                    ]
+                },
+                {
+                    "text": "пожелать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "wish"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bid",
+            "pos": "adjective",
+            "ts": "bɪd",
+            "tr": [
+                {
+                    "text": "тендерный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "tender"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bid",
+            "pos": "participle",
+            "ts": "bɪd",
+            "tr": [
+                {
+                    "text": "предложенный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "proposed"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

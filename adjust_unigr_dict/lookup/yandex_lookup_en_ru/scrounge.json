@@ -1,0 +1,64 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "scrounge",
+            "pos": "verb",
+            "ts": "skraʊnʤ",
+            "tr": [
+                {
+                    "text": "выпросить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "попрошайничать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выпрашивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "beg"
+                        }
+                    ]
+                },
+                {
+                    "text": "украсть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "steal"
+                        }
+                    ]
+                },
+                {
+                    "text": "добыть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "добывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "get"
+                        },
+                        {
+                            "text": "obtain"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

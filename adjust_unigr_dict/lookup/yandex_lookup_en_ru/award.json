@@ -1,0 +1,340 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "award",
+            "pos": "verb",
+            "ts": "əˈwɔːd",
+            "tr": [
+                {
+                    "text": "присуждать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "присудить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вручать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "присваивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "confer"
+                        },
+                        {
+                            "text": "sentence"
+                        },
+                        {
+                            "text": "hand"
+                        },
+                        {
+                            "text": "assign"
+                        }
+                    ]
+                },
+                {
+                    "text": "наградить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "награждать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "премировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reward"
+                        }
+                    ]
+                },
+                {
+                    "text": "предоставлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "предоставить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grant"
+                        }
+                    ]
+                },
+                {
+                    "text": "удостаивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "honor"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "award",
+            "pos": "noun",
+            "ts": "əˈwɔːd",
+            "tr": [
+                {
+                    "text": "присуждение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "награждение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "пожалование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "грант",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "awarding"
+                        },
+                        {
+                            "text": "rewarding"
+                        },
+                        {
+                            "text": "grant"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "award of the degree",
+                            "tr": [
+                                {
+                                    "text": "присуждение степени"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "awarding ceremony",
+                            "tr": [
+                                {
+                                    "text": "награждение победителей"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "new award",
+                            "tr": [
+                                {
+                                    "text": "новое пожалование"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "награда",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "приз",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "премия",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "орден",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "вознаграждение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reward"
+                        },
+                        {
+                            "text": "prize"
+                        },
+                        {
+                            "text": "order"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "highest award",
+                            "tr": [
+                                {
+                                    "text": "высшая награда"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "most recent award",
+                            "tr": [
+                                {
+                                    "text": "последняя награда"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "special jury award",
+                            "tr": [
+                                {
+                                    "text": "специальный приз жюри"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "prestigious international award",
+                            "tr": [
+                                {
+                                    "text": "престижная международная премия"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "winner of numerous awards",
+                            "tr": [
+                                {
+                                    "text": "лауреат многочисленных премий"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "gold award",
+                            "tr": [
+                                {
+                                    "text": "золотой орден"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "various awards",
+                            "tr": [
+                                {
+                                    "text": "различные вознаграждения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "решение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "decision"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "arbitral award",
+                            "tr": [
+                                {
+                                    "text": "арбитражное решение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "диплом",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "diploma"
+                        }
+                    ]
+                },
+                {
+                    "text": "арбитражное решение",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "arbitral award"
+                        }
+                    ]
+                },
+                {
+                    "text": "присужденная награда",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "award",
+            "pos": "adjective",
+            "ts": "əˈwɔːd",
+            "tr": [
+                {
+                    "text": "премиальный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "наградной",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "призовой",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "premium"
+                        },
+                        {
+                            "text": "prize"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "award weapon",
+                            "tr": [
+                                {
+                                    "text": "наградное оружие"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

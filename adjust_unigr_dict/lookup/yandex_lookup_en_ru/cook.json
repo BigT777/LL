@@ -1,0 +1,264 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cook",
+            "pos": "verb",
+            "ts": "kʊk",
+            "tr": [
+                {
+                    "text": "готовить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "приготовить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "готовиться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сготовить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "prepare"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cook a meal",
+                            "tr": [
+                                {
+                                    "text": "готовить еду"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cooked food",
+                            "tr": [
+                                {
+                                    "text": "приготовленная пища"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "стряпать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "состряпать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "concoct"
+                        }
+                    ]
+                },
+                {
+                    "text": "варить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сварить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "жарить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отварить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "свариться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "boil"
+                        },
+                        {
+                            "text": "fry"
+                        },
+                        {
+                            "text": "stew"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cook rice",
+                            "tr": [
+                                {
+                                    "text": "варить рис"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "готовить еду",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "приготовить пищу",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cook food"
+                        },
+                        {
+                            "text": "prepare food"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cook",
+            "pos": "noun",
+            "ts": "kʊk",
+            "tr": [
+                {
+                    "text": "кухарка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "повариха",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "Стряпуха",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "good cook",
+                            "tr": [
+                                {
+                                    "text": "хорошая кухарка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "new cook",
+                            "tr": [
+                                {
+                                    "text": "новая повариха"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "повар",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "кулинар",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "кашевар",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "chef"
+                        },
+                        {
+                            "text": "culinary"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "professional cook",
+                            "tr": [
+                                {
+                                    "text": "профессиональный повар"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "skilled cook",
+                            "tr": [
+                                {
+                                    "text": "искусный кулинар"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Кук",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "Кок",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ]
+                },
+                {
+                    "text": "приготовление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "приготовление пищи",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cooking"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cook",
+            "pos": "adjective",
+            "ts": "kʊk",
+            "tr": [
+                {
+                    "text": "поварской",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

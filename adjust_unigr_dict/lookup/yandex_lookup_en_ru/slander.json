@@ -1,0 +1,183 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "slander",
+            "pos": "noun",
+            "ts": "ˈslɑːndə",
+            "tr": [
+                {
+                    "text": "клевета",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "злословие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "навет",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "наговор",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "оговор",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "поклеп",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "напраслина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "libel"
+                        },
+                        {
+                            "text": "gossip"
+                        },
+                        {
+                            "text": "hex"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "malicious slander",
+                            "tr": [
+                                {
+                                    "text": "злостная клевета"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "очернение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "опорочивание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "denigration"
+                        }
+                    ]
+                },
+                {
+                    "text": "кляуза",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "клеветнические измышления",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "slander",
+            "pos": "verb",
+            "ts": "ˈslɑːndə",
+            "tr": [
+                {
+                    "text": "клеветать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "оклеветать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "злословить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "порочить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "оболгать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "хулить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "defame"
+                        },
+                        {
+                            "text": "revile"
+                        },
+                        {
+                            "text": "blaspheme"
+                        }
+                    ]
+                },
+                {
+                    "text": "оговорить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "оговаривать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stipulate"
+                        }
+                    ]
+                },
+                {
+                    "text": "очернить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "denigrate"
+                        }
+                    ]
+                },
+                {
+                    "text": "наговаривать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "tell"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

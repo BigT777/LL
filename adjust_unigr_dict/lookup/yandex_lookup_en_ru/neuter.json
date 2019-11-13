@@ -1,0 +1,110 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "neuter",
+            "pos": "adjective",
+            "ts": "ˈnjuːtə",
+            "tr": [
+                {
+                    "text": "средний",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "medium"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "neuter gender",
+                            "tr": [
+                                {
+                                    "text": "средний род"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "нейтральный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "neutral"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "neuter",
+            "pos": "noun",
+            "ts": "ˈnjuːtə",
+            "tr": [
+                {
+                    "text": "средний род",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "neutral gender"
+                        }
+                    ]
+                },
+                {
+                    "text": "стерилизация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "кастрация",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sterilize"
+                        },
+                        {
+                            "text": "castration"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "neuter",
+            "pos": "verb",
+            "ts": "ˈnjuːtə",
+            "tr": [
+                {
+                    "text": "кастрировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "стерилизовать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "castrate"
+                        },
+                        {
+                            "text": "sterilize"
+                        }
+                    ]
+                },
+                {
+                    "text": "нейтрализовать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "neutralize"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

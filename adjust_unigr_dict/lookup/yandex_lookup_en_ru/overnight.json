@@ -1,0 +1,235 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "overnight",
+            "pos": "adjective",
+            "ts": "əʊvəˈnaɪt",
+            "tr": [
+                {
+                    "text": "ночной",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "night"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "overnight stay",
+                            "tr": [
+                                {
+                                    "text": "ночная стоянка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "мгновенный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "внезапный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "instant"
+                        },
+                        {
+                            "text": "sudden"
+                        }
+                    ]
+                },
+                {
+                    "text": "суточный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "daily"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "overnight",
+            "pos": "verb",
+            "ts": "əʊvəˈnaɪt",
+            "tr": [
+                {
+                    "text": "ночевать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "переночевать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "заночевать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sleep"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "overnight",
+            "pos": "adverb",
+            "ts": "əʊvəˈnaɪt",
+            "tr": [
+                {
+                    "text": "вдруг",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "неожиданно",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "внезапно",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "suddenly"
+                        }
+                    ]
+                },
+                {
+                    "text": "быстро",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "мгновенно",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fast"
+                        },
+                        {
+                            "text": "instantly"
+                        }
+                    ]
+                },
+                {
+                    "text": "на ночь",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "за одну ночь",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "за ночь",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "за один день",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "в течение ночи",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "за сутки",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "at night"
+                        },
+                        {
+                            "text": "for one night"
+                        },
+                        {
+                            "text": "during the night"
+                        },
+                        {
+                            "text": "in one day"
+                        },
+                        {
+                            "text": "per day"
+                        }
+                    ]
+                },
+                {
+                    "text": "накануне",
+                    "pos": "adverb"
+                },
+                {
+                    "text": "с вечера",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "in the evening"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "overnight",
+            "pos": "noun",
+            "ts": "əʊvəˈnaɪt",
+            "tr": [
+                {
+                    "text": "ночь",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "одночасье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "night"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "overnight stop",
+                            "tr": [
+                                {
+                                    "text": "остановка на ночь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "овернайт",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "всю ночь",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "nightlong"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

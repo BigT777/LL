@@ -1,0 +1,260 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "meal",
+            "pos": "noun",
+            "ts": "miːl",
+            "tr": [
+                {
+                    "text": "еда",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "питание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "блюдо",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "пища",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "угощение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "кушанье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "яство",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "food"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "large meal",
+                            "tr": [
+                                {
+                                    "text": "обильная еда"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "meals of local cuisine",
+                            "tr": [
+                                {
+                                    "text": "блюда местной кухни"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hot meal",
+                            "tr": [
+                                {
+                                    "text": "горячее блюдо"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "прием пищи",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "ужин",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "обед",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "принятие пищи",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "eating"
+                        },
+                        {
+                            "text": "dinner"
+                        },
+                        {
+                            "text": "lunch"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "romantic meal",
+                            "tr": [
+                                {
+                                    "text": "романтический ужин"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "set meal",
+                            "tr": [
+                                {
+                                    "text": "комплексный обед"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "трапеза",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "застолье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "feast"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "evening meal",
+                            "tr": [
+                                {
+                                    "text": "вечерняя трапеза"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "festive meal",
+                            "tr": [
+                                {
+                                    "text": "праздничное застолье"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "мука",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "flour"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fish meal",
+                            "tr": [
+                                {
+                                    "text": "рыбная мука"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "стол",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "table"
+                        }
+                    ]
+                },
+                {
+                    "text": "порция",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "serving"
+                        }
+                    ]
+                },
+                {
+                    "text": "мука крупного помола",
+                    "pos": "noun"
+                },
+                {
+                    "text": "продукт питания",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "food item"
+                        }
+                    ]
+                },
+                {
+                    "text": "Мучка",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "кормовая мука",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "meal",
+            "pos": "verb",
+            "ts": "miːl",
+            "tr": [
+                {
+                    "text": "кормить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "feed"
+                        }
+                    ]
+                },
+                {
+                    "text": "поесть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "покушать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "eat"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

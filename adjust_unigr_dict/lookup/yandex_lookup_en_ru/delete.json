@@ -1,0 +1,144 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "delete",
+            "pos": "verb",
+            "ts": "dɪˈliːt",
+            "tr": [
+                {
+                    "text": "исключать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "исключить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "text": "вычеркивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "удалить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "удаляться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "удалять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вычеркнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cancel"
+                        },
+                        {
+                            "text": "remove"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "deleted item",
+                            "tr": [
+                                {
+                                    "text": "удаленный элемент"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "permanently delete",
+                            "tr": [
+                                {
+                                    "text": "безвозвратно удалять"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "уничтожать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "уничтожить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "destroy"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "delete data",
+                            "tr": [
+                                {
+                                    "text": "уничтожать данные"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "delete the message",
+                            "tr": [
+                                {
+                                    "text": "уничтожить сообщение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "стирать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "стереть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "erase"
+                        }
+                    ]
+                },
+                {
+                    "text": "опустить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "omit"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

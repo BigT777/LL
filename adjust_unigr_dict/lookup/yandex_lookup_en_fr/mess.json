@@ -1,0 +1,59 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "mess",
+            "pos": "noun",
+            "ts": "mes",
+            "tr": [
+                {
+                    "text": "désordre",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "chaos"
+                        }
+                    ]
+                },
+                {
+                    "text": "gâchis",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "pagaille",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "chaos"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mess",
+            "pos": "verb",
+            "ts": "mes",
+            "tr": [
+                {
+                    "text": "salir",
+                    "pos": "verb"
+                },
+                {
+                    "text": "gâcher",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "ruin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

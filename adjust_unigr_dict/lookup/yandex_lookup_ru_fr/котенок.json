@@ -1,0 +1,84 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "котенок",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "chaton",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "minet",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "котик"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "милый котенок",
+                            "tr": [
+                                {
+                                    "text": "chaton mignon"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "minou",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "котик"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "мой маленький котенок",
+                            "tr": [
+                                {
+                                    "text": "mon petit minou"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "chat",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "кот"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "черный котенок",
+                            "tr": [
+                                {
+                                    "text": "chat noir"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "jeune chat",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

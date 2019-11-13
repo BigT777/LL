@@ -1,0 +1,53 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "book",
+            "pos": "noun",
+            "ts": "bʊk",
+            "tr": [
+                {
+                    "text": "livre",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "textbook"
+                        }
+                    ]
+                },
+                {
+                    "text": "carnet",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "address book"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "book",
+            "pos": "verb",
+            "ts": "bʊk",
+            "tr": [
+                {
+                    "text": "réserver",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "reserve"
+                        }
+                    ]
+                },
+                {
+                    "text": "réservation",
+                    "pos": "noun",
+                    "gen": "f"
+                }
+            ]
+        }
+    ]
+}

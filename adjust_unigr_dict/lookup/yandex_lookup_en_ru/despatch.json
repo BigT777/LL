@@ -1,0 +1,89 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "despatch",
+            "pos": "noun",
+            "ts": "dɪsˈpæʧ",
+            "tr": [
+                {
+                    "text": "отправка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "депеша",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "отправление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dispatch"
+                        },
+                        {
+                            "text": "shipment"
+                        }
+                    ]
+                },
+                {
+                    "text": "донесение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "dispatch"
+                        }
+                    ]
+                },
+                {
+                    "text": "быстрота",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "speed"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "despatch",
+            "pos": "verb",
+            "ts": "dɪsˈpæʧ",
+            "tr": [
+                {
+                    "text": "отправить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "послать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отправлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "send"
+                        },
+                        {
+                            "text": "dispatch"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

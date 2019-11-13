@@ -1,0 +1,263 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "wreck",
+            "pos": "noun",
+            "ts": "rek",
+            "tr": [
+                {
+                    "text": "авария",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "катастрофа",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "accident"
+                        },
+                        {
+                            "text": "disaster"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "car wreck",
+                            "tr": [
+                                {
+                                    "text": "автомобильная авария"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "развалина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "гибель",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ruin"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "old wreck",
+                            "tr": [
+                                {
+                                    "text": "старая развалина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обломки",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "развалины",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "debris"
+                        },
+                        {
+                            "text": "ruins"
+                        }
+                    ]
+                },
+                {
+                    "text": "крушение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "crash"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "train wreck",
+                            "tr": [
+                                {
+                                    "text": "крушение поезда"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "остатки кораблекрушения",
+                    "pos": "noun"
+                },
+                {
+                    "text": "затонувший корабль",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "кораблекрушение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "затонувшее судно",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shipwreck"
+                        },
+                        {
+                            "text": "sunken vessel"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "wreck site",
+                            "tr": [
+                                {
+                                    "text": "место кораблекрушения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "затонувший объект",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "sunk object"
+                        }
+                    ]
+                },
+                {
+                    "text": "остов корабля",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "wreck",
+            "pos": "verb",
+            "ts": "rek",
+            "tr": [
+                {
+                    "text": "разрушить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "разрушать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "destroy"
+                        }
+                    ]
+                },
+                {
+                    "text": "сорвать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "ломать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поломать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "break"
+                        }
+                    ]
+                },
+                {
+                    "text": "портить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "spoil"
+                        }
+                    ]
+                },
+                {
+                    "text": "угробить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "разваливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ruin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "wreck",
+            "pos": "participle",
+            "ts": "rek",
+            "tr": [
+                {
+                    "text": "затонувший",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "sunken"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "wreck",
+            "pos": "adjective",
+            "ts": "rek",
+            "tr": [
+                {
+                    "text": "аварийный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "accident"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

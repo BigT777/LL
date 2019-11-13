@@ -1,0 +1,129 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "mangle",
+            "pos": "verb",
+            "ts": "mæŋgl",
+            "tr": [
+                {
+                    "text": "калечить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "покалечить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "искалечить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "гробить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "maim"
+                        },
+                        {
+                            "text": "cripple"
+                        },
+                        {
+                            "text": "ruin"
+                        }
+                    ]
+                },
+                {
+                    "text": "искажать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "исказить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "deform"
+                        }
+                    ]
+                },
+                {
+                    "text": "изуродовать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "исковеркать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mutilate"
+                        },
+                        {
+                            "text": "distort"
+                        }
+                    ]
+                },
+                {
+                    "text": "рубить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "кромсать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hack"
+                        },
+                        {
+                            "text": "shred"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mangle",
+            "pos": "noun",
+            "ts": "mæŋgl",
+            "tr": [
+                {
+                    "text": "каток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "roller"
+                        }
+                    ]
+                },
+                {
+                    "text": "каландр",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "calender"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

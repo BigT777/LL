@@ -1,0 +1,111 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sinus",
+            "pos": "noun",
+            "ts": "ˈsaɪnəs",
+            "tr": [
+                {
+                    "text": "пазуха",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "синус",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "свищ",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "синусит",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bosom"
+                        },
+                        {
+                            "text": "sine"
+                        },
+                        {
+                            "text": "fistula"
+                        },
+                        {
+                            "text": "sinusitis"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "maxillary sinus",
+                            "tr": [
+                                {
+                                    "text": "гайморова пазуха"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cavernous sinus",
+                            "tr": [
+                                {
+                                    "text": "кавернозный синус"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "полость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "cavity"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sinus",
+            "pos": "adjective",
+            "ts": "ˈsaɪnəs",
+            "tr": [
+                {
+                    "text": "синусовый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "синусный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sinoatrial"
+                        },
+                        {
+                            "text": "sine"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sinus tachycardia",
+                            "tr": [
+                                {
+                                    "text": "синусовая тахикардия"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

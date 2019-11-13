@@ -1,0 +1,50 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "молить",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "supplier",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "prier",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "implorer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "умолять"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "молить отца",
+                            "tr": [
+                                {
+                                    "text": "prier le père"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "plaider",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "умолять"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

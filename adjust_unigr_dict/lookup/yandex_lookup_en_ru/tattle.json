@@ -1,0 +1,64 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "tattle",
+            "pos": "verb",
+            "ts": "tætl",
+            "tr": [
+                {
+                    "text": "сплетничать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "болтать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "судачить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "gossip"
+                        },
+                        {
+                            "text": "chatter"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "tattle",
+            "pos": "noun",
+            "ts": "tætl",
+            "tr": [
+                {
+                    "text": "болтовня",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "сплетня",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "chatter"
+                        },
+                        {
+                            "text": "gossip"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

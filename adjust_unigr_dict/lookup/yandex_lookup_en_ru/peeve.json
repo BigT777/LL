@@ -1,0 +1,58 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "peeve",
+            "pos": "verb",
+            "ts": "piːv",
+            "tr": [
+                {
+                    "text": "раздражать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "irritate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "peeve",
+            "pos": "noun",
+            "ts": "piːv",
+            "tr": [
+                {
+                    "text": "больное место",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "мозоль",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sore spot"
+                        },
+                        {
+                            "text": "callous"
+                        }
+                    ]
+                },
+                {
+                    "text": "обида",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "resentment"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

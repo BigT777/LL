@@ -1,0 +1,60 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "нагревать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "chauffer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "réchauffer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "échauffer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "нагреваться"
+                        },
+                        {
+                            "text": "нагреть"
+                        },
+                        {
+                            "text": "прогреть"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "быстро нагревать",
+                            "tr": [
+                                {
+                                    "text": "chauffer rapidement"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "préchauffer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "подогреть"
+                        }
+                    ]
+                },
+                {
+                    "text": "faire chauffer",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

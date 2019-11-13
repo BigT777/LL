@@ -1,0 +1,100 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "dishonour",
+            "pos": "noun",
+            "ts": "dɪsˈɒnə",
+            "tr": [
+                {
+                    "text": "бесчестие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "позор",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "бесчестье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "бесславие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dishonor"
+                        },
+                        {
+                            "text": "disgrace"
+                        },
+                        {
+                            "text": "ignominy"
+                        }
+                    ]
+                },
+                {
+                    "text": "оскорбление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "insult"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dishonour",
+            "pos": "verb",
+            "ts": "dɪsˈɒnə",
+            "tr": [
+                {
+                    "text": "бесчестить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "позорить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "опозорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обесчестить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "осквернять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dishonor"
+                        },
+                        {
+                            "text": "disgrace"
+                        },
+                        {
+                            "text": "defile"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

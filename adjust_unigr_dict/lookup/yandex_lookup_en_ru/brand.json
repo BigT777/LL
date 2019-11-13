@@ -1,0 +1,195 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "brand",
+            "pos": "noun",
+            "ts": "brænd",
+            "tr": [
+                {
+                    "text": "марка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "торговая марка",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "клеймо",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "фирменный знак",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "тавро",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "товарный знак",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "знак",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "торговый знак",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mark"
+                        },
+                        {
+                            "text": "trademark"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "new brand name",
+                            "tr": [
+                                {
+                                    "text": "новая торговая марка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сорт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "grade"
+                        }
+                    ]
+                },
+                {
+                    "text": "головня",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "smut"
+                        }
+                    ]
+                },
+                {
+                    "text": "бренд",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "брэнд",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "фабричная марка",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "brand name"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "international brand",
+                            "tr": [
+                                {
+                                    "text": "международный бренд"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "brand",
+            "pos": "verb",
+            "ts": "brænd",
+            "tr": [
+                {
+                    "text": "клеймить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заклеймить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stigmatize"
+                        },
+                        {
+                            "text": "label"
+                        }
+                    ]
+                },
+                {
+                    "text": "затаврить",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "brand",
+            "pos": "adjective",
+            "ts": "brænd",
+            "tr": [
+                {
+                    "text": "фирменный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "товарный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "firm"
+                        },
+                        {
+                            "text": "trademark"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "branded product",
+                            "tr": [
+                                {
+                                    "text": "фирменное изделие"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "новенький",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "new"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

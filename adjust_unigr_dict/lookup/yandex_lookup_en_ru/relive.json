@@ -1,0 +1,90 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "relive",
+            "pos": "verb",
+            "ts": "riːˈlɪv",
+            "tr": [
+                {
+                    "text": "вновь пережить",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "снова пережить",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "заново пережить",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "оживить в памяти",
+                            "pos": "verb"
+                        }
+                    ]
+                },
+                {
+                    "text": "вновь переживать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "снова переживать",
+                            "pos": "verb"
+                        }
+                    ]
+                },
+                {
+                    "text": "переживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "пережить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "suffer"
+                        },
+                        {
+                            "text": "survive"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "relive the experience",
+                            "tr": [
+                                {
+                                    "text": "пережить опыт"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "оживлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "enliven"
+                        }
+                    ]
+                },
+                {
+                    "text": "возродиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "revive"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

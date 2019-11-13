@@ -1,0 +1,50 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "спрашивать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "demander",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "questionner",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "interroger",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "спросить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "стесняться спрашивать",
+                            "tr": [
+                                {
+                                    "text": "hésiter à demander"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "poser",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "спросить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

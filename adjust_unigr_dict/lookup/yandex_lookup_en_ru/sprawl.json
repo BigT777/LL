@@ -1,0 +1,127 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sprawl",
+            "pos": "verb",
+            "ts": "sprɔːl",
+            "tr": [
+                {
+                    "text": "растянуться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "развалиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "распластаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разлечься",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разваливаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stretch out"
+                        },
+                        {
+                            "text": "fall apart"
+                        }
+                    ]
+                },
+                {
+                    "text": "расползаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "spread"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sprawl",
+            "pos": "noun",
+            "ts": "sprɔːl",
+            "tr": [
+                {
+                    "text": "разрастание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "расползание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "proliferation"
+                        },
+                        {
+                            "text": "spread"
+                        }
+                    ]
+                },
+                {
+                    "text": "застройка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "building"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "urban sprawl",
+                            "tr": [
+                                {
+                                    "text": "городская застройка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "муравейник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "anthill"
+                        }
+                    ]
+                },
+                {
+                    "text": "беспорядочный рост",
+                    "pos": "noun"
+                },
+                {
+                    "text": "расползание городов",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "urban sprawl"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

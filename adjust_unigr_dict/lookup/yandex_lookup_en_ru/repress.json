@@ -1,0 +1,102 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "repress",
+            "pos": "verb",
+            "ts": "rɪˈpres",
+            "tr": [
+                {
+                    "text": "подавлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "пресекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подавить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "усмирять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "suppress"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "repress a shudder",
+                            "tr": [
+                                {
+                                    "text": "подавить дрожи"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "репрессировать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "punish"
+                        }
+                    ]
+                },
+                {
+                    "text": "сдерживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сдержать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "restrain"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "repress a smile",
+                            "tr": [
+                                {
+                                    "text": "сдержать улыбку"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "угнетать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "притеснять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "oppress"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

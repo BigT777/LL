@@ -1,0 +1,117 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "clench",
+            "pos": "verb",
+            "ts": "klenʧ",
+            "tr": [
+                {
+                    "text": "сжимать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "зажимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сжать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "стиснуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "стискивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обхватить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "squeeze"
+                        },
+                        {
+                            "text": "clamp"
+                        },
+                        {
+                            "text": "clasp"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "clenched fist",
+                            "tr": [
+                                {
+                                    "text": "сжатый кулак"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сжаться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "сжиматься",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tighten"
+                        },
+                        {
+                            "text": "compress"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "clench",
+            "pos": "noun",
+            "ts": "klenʧ",
+            "tr": [
+                {
+                    "text": "сжимание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "squeeze"
+                        }
+                    ]
+                },
+                {
+                    "text": "стискивание",
+                    "pos": "noun",
+                    "gen": "ср"
+                },
+                {
+                    "text": "клинч",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "clinch"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

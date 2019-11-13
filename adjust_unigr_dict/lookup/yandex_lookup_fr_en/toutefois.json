@@ -1,0 +1,50 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "toutefois",
+            "pos": "adverb",
+            "ts": "tutfwa",
+            "tr": [
+                {
+                    "text": "however",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "nevertheless",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "yet",
+                            "pos": "adverb"
+                        },
+                        {
+                            "text": "nonetheless",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cependant"
+                        },
+                        {
+                            "text": "néanmoins"
+                        },
+                        {
+                            "text": "pourtant"
+                        }
+                    ]
+                },
+                {
+                    "text": "though",
+                    "pos": "conjunction",
+                    "mean": [
+                        {
+                            "text": "pourtant"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

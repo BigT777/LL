@@ -1,0 +1,167 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "rubble",
+            "pos": "noun",
+            "ts": "rʌbl",
+            "tr": [
+                {
+                    "text": "булыжник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "валун",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cobble"
+                        },
+                        {
+                            "text": "boulder"
+                        }
+                    ]
+                },
+                {
+                    "text": "бут",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "bout"
+                        }
+                    ]
+                },
+                {
+                    "text": "строительный мусор",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "щебень",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "debris"
+                        },
+                        {
+                            "text": "crushed stone"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "granite rubble",
+                            "tr": [
+                                {
+                                    "text": "гранитный щебень"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обломок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "fragment"
+                        }
+                    ]
+                },
+                {
+                    "text": "развалины",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "ruins"
+                        }
+                    ]
+                },
+                {
+                    "text": "каменная кладка",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "бутовая кладка",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "masonry"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "rubble",
+            "pos": "verb",
+            "ts": "rʌbl",
+            "tr": [
+                {
+                    "text": "завалить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "cover"
+                        }
+                    ]
+                },
+                {
+                    "text": "завалиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "fall"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "rubble",
+            "pos": "adjective",
+            "ts": "rʌbl",
+            "tr": [
+                {
+                    "text": "бутовый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "щебеночный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "quarrystone"
+                        },
+                        {
+                            "text": "macadam"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rubble stone",
+                            "tr": [
+                                {
+                                    "text": "бутовый камень"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

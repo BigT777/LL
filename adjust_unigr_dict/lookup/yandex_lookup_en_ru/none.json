@@ -1,0 +1,69 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "none",
+            "pos": "pronoun",
+            "ts": "nʌn",
+            "tr": [
+                {
+                    "text": "никто",
+                    "pos": "pronoun",
+                    "syn": [
+                        {
+                            "text": "ни один",
+                            "pos": "pronoun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "no"
+                        }
+                    ]
+                },
+                {
+                    "text": "ничто",
+                    "pos": "pronoun"
+                }
+            ]
+        },
+        {
+            "text": "none",
+            "pos": "predicative",
+            "ts": "nʌn",
+            "tr": [
+                {
+                    "text": "нет",
+                    "pos": "predicative",
+                    "mean": [
+                        {
+                            "text": "no"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "none",
+            "pos": "adverb",
+            "ts": "nʌn",
+            "tr": [
+                {
+                    "text": "ничуть",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "нисколько",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "not"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

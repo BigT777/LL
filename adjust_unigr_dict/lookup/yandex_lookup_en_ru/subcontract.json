@@ -1,0 +1,79 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "subcontract",
+            "pos": "noun",
+            "ts": "sʌbˈkɒntrækt",
+            "tr": [
+                {
+                    "text": "субдоговор",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "субконтракт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "субподряд",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "subcontracting"
+                        }
+                    ]
+                },
+                {
+                    "text": "договор субподряда",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "субподрядный договор",
+                            "pos": "noun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "subcontract",
+            "pos": "adjective",
+            "ts": "sʌbˈkɒntrækt",
+            "tr": [
+                {
+                    "text": "субподрядный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "subcontracting"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "subcontract",
+            "pos": "verb",
+            "ts": "sʌbˈkɒntrækt",
+            "tr": [
+                {
+                    "text": "передоверить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "передоверять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,349 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "share",
+            "pos": "noun",
+            "ts": "ʃeə",
+            "tr": [
+                {
+                    "text": "доля",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "пай",
+                            "pos": "noun",
+                            "gen": "м,ж"
+                        },
+                        {
+                            "text": "удельный вес",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stake"
+                        },
+                        {
+                            "text": "weight"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lion's share",
+                            "tr": [
+                                {
+                                    "text": "львиная доля"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "increase market share",
+                            "tr": [
+                                {
+                                    "text": "увеличение доли рынка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "share of natural gas",
+                            "tr": [
+                                {
+                                    "text": "доля природного газа"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "investment share",
+                            "tr": [
+                                {
+                                    "text": "инвестиционный пай"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "акция",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "equity"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "preferred share",
+                            "tr": [
+                                {
+                                    "text": "привилегированная акция"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "additional share issue",
+                            "tr": [
+                                {
+                                    "text": "дополнительный выпуск акций"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cumulative preference shares",
+                            "tr": [
+                                {
+                                    "text": "кумулятивные привилегированные акции"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "number of ordinary shares",
+                            "tr": [
+                                {
+                                    "text": "число обыкновенных акций"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "совместное использование",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "sharing"
+                        }
+                    ]
+                },
+                {
+                    "text": "долевое участие",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "sharing"
+                        }
+                    ]
+                },
+                {
+                    "text": "доля участия",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "ownership interest"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "share",
+            "pos": "verb",
+            "ts": "ʃeə",
+            "tr": [
+                {
+                    "text": "разделять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "делиться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поделиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разделить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поделить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "divide"
+                        },
+                        {
+                            "text": "tell"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shared memory",
+                            "tr": [
+                                {
+                                    "text": "разделяемая память"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "share information",
+                            "tr": [
+                                {
+                                    "text": "делиться информацией"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "share the joy",
+                            "tr": [
+                                {
+                                    "text": "поделиться радостью"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "shared responsibility",
+                            "tr": [
+                                {
+                                    "text": "разделенная ответственность"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "share the money",
+                            "tr": [
+                                {
+                                    "text": "поделить деньги"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "делить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "divide"
+                        }
+                    ]
+                },
+                {
+                    "text": "обмениваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обменяться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "совместно использовать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "exchange"
+                        },
+                        {
+                            "text": "jointly use"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "share opinions",
+                            "tr": [
+                                {
+                                    "text": "обменяться мнениями"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "share",
+            "pos": "adjective",
+            "ts": "ʃeə",
+            "tr": [
+                {
+                    "text": "общий",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "совместный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "common"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shared cultural heritage",
+                            "tr": [
+                                {
+                                    "text": "общее культурное наследие"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "акционерный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "долевой",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "паевой",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stock"
+                        },
+                        {
+                            "text": "fractional"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "share holding",
+                            "tr": [
+                                {
+                                    "text": "долевое участие"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "share",
+            "pos": "adverb",
+            "ts": "ʃeə",
+            "tr": [
+                {
+                    "text": "совместно",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "together"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

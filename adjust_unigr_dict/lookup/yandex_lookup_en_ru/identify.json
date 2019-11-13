@@ -1,0 +1,314 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "identify",
+            "pos": "verb",
+            "ts": "aɪˈdentɪfaɪ",
+            "tr": [
+                {
+                    "text": "идентифицировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "выявлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выявляться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "identification"
+                        },
+                        {
+                            "text": "reveal"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "identifying information",
+                            "tr": [
+                                {
+                                    "text": "идентифицирующая информация"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "identify problems",
+                            "tr": [
+                                {
+                                    "text": "выявлять проблемы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "определять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "определить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "определиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "determine"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "uniquely identify",
+                            "tr": [
+                                {
+                                    "text": "однозначно определять"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "identify the author",
+                            "tr": [
+                                {
+                                    "text": "определить автора"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "распознавать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "опознавать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "опознать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "распознать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "recognize"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "identify the body",
+                            "tr": [
+                                {
+                                    "text": "опознавать тело"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "identify the remains",
+                            "tr": [
+                                {
+                                    "text": "опознать останки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отождествлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отождествить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отождествиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "equate"
+                        },
+                        {
+                            "text": "identify ourselves"
+                        }
+                    ]
+                },
+                {
+                    "text": "устанавливать тождество",
+                    "pos": "verb"
+                },
+                {
+                    "text": "указывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обозначить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "наметить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обозначать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "indicate"
+                        },
+                        {
+                            "text": "designate"
+                        },
+                        {
+                            "text": "outline"
+                        }
+                    ]
+                },
+                {
+                    "text": "выделить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выделять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "highlight"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "identify groups",
+                            "tr": [
+                                {
+                                    "text": "выделить группы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "найти",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "обнаружить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "locate"
+                        },
+                        {
+                            "text": "detect"
+                        }
+                    ]
+                },
+                {
+                    "text": "назвать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "называть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "describe"
+                        },
+                        {
+                            "text": "refer"
+                        }
+                    ]
+                },
+                {
+                    "text": "указать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "specify"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "identify the location",
+                            "tr": [
+                                {
+                                    "text": "указать расположение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "установить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "establish"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "identify",
+            "pos": "adjective",
+            "ts": "aɪˈdentɪfaɪ",
+            "tr": [
+                {
+                    "text": "определенный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "specific"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

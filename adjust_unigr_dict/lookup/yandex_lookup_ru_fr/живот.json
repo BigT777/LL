@@ -1,0 +1,103 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "живот",
+            "pos": "noun",
+            "gen": "м",
+            "tr": [
+                {
+                    "text": "ventre",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "abdomen",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "estomac",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "tripe",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "животик"
+                        },
+                        {
+                            "text": "брюшко"
+                        },
+                        {
+                            "text": "внутренности"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "плоский живот",
+                            "tr": [
+                                {
+                                    "text": "un ventre plat"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "острый живот",
+                            "tr": [
+                                {
+                                    "text": "abdomen aigu"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ballon",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "зад"
+                        }
+                    ]
+                },
+                {
+                    "text": "gésier",
+                    "pos": "noun",
+                    "gen": "m"
+                },
+                {
+                    "text": "caisse",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "coffre",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "tiroir",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "легкие"
+                        },
+                        {
+                            "text": "грудная клетка"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "вешать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "pendre",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "accrocher",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "suspendre",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "peser",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "повесить"
+                        },
+                        {
+                            "text": "вывесить"
+                        }
+                    ]
+                },
+                {
+                    "text": "appendre",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "подвешивать"
+                        }
+                    ]
+                },
+                {
+                    "text": "mettre",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "étendre",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "класть"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

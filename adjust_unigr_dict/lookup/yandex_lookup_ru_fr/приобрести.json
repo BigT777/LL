@@ -1,0 +1,65 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "приобрести",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "acquérir",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "acheter",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "gagner",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "obtenir",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "купить"
+                        },
+                        {
+                            "text": "приобретать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "приобретенные активы",
+                            "tr": [
+                                {
+                                    "text": "acquis les actifs"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "приобрести программное обеспечение",
+                            "tr": [
+                                {
+                                    "text": "acheter le logiciel"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "se procurer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "приобретать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

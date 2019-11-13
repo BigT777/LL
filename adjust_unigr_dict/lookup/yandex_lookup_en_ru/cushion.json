@@ -1,0 +1,156 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cushion",
+            "pos": "noun",
+            "ts": "kʊʃn",
+            "tr": [
+                {
+                    "text": "подушка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "диванная подушка",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "подушечка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pillow"
+                        },
+                        {
+                            "text": "pad"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "air cushion",
+                            "tr": [
+                                {
+                                    "text": "воздушная подушка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "подкладка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "прокладка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lining"
+                        }
+                    ]
+                },
+                {
+                    "text": "борт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "side"
+                        }
+                    ]
+                },
+                {
+                    "text": "валик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "roller"
+                        }
+                    ]
+                },
+                {
+                    "text": "амортизатор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "absorber"
+                        }
+                    ]
+                },
+                {
+                    "text": "буфер",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "buffer"
+                        }
+                    ]
+                },
+                {
+                    "text": "подстилка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "mat"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cushion",
+            "pos": "verb",
+            "ts": "kʊʃn",
+            "tr": [
+                {
+                    "text": "смягчать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "смягчить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "soften"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cushion the blow",
+                            "tr": [
+                                {
+                                    "text": "смягчить удар"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "амортизировать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "absorb"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

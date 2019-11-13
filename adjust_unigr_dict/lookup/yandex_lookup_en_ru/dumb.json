@@ -1,0 +1,106 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "dumb",
+            "pos": "adjective",
+            "ts": "dʌm",
+            "tr": [
+                {
+                    "text": "немой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "бессловесный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "молчаливый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "безгласный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "безмолвный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mute"
+                        },
+                        {
+                            "text": "speechless"
+                        },
+                        {
+                            "text": "silent"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dumb animal",
+                            "tr": [
+                                {
+                                    "text": "бессловесное животное"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "глухой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "глухонемой",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "deaf"
+                        }
+                    ]
+                },
+                {
+                    "text": "дурацкий",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "глупый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "тупой",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stupid"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dumb",
+            "pos": "verb",
+            "ts": "dʌm",
+            "tr": [
+                {
+                    "text": "онеметь",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "speechless"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

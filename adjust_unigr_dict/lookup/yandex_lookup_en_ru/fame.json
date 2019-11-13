@@ -1,0 +1,139 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fame",
+            "pos": "noun",
+            "ts": "feɪm",
+            "tr": [
+                {
+                    "text": "известность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "популярность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "popularity"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "international fame",
+                            "tr": [
+                                {
+                                    "text": "международная известность"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "слава",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "glory"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hall of fame",
+                            "tr": [
+                                {
+                                    "text": "зал славы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "репутация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "reputation"
+                        }
+                    ]
+                },
+                {
+                    "text": "молва",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "слух",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rumor"
+                        }
+                    ]
+                },
+                {
+                    "text": "знаменитость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "celebrity"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fame",
+            "pos": "verb",
+            "ts": "feɪm",
+            "tr": [
+                {
+                    "text": "прославиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "прославить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "famous"
+                        },
+                        {
+                            "text": "glorify"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fame",
+            "pos": "participle",
+            "ts": "feɪm",
+            "tr": [
+                {
+                    "text": "прославившийся",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "famous"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

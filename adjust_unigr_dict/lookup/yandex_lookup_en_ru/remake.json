@@ -1,0 +1,131 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "remake",
+            "pos": "verb",
+            "ts": "ˈriːmeɪk",
+            "fl": "remade, remade",
+            "tr": [
+                {
+                    "text": "переделывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "переделать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "redo"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "remake the world",
+                            "tr": [
+                                {
+                                    "text": "переделать мир"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "переработать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "перерабатывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rework"
+                        },
+                        {
+                            "text": "recycle"
+                        }
+                    ]
+                },
+                {
+                    "text": "перекроить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "перекраивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "redraw"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "remake",
+            "pos": "noun",
+            "ts": "ˈriːmeɪk",
+            "tr": [
+                {
+                    "text": "переделка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "rework"
+                        }
+                    ]
+                },
+                {
+                    "text": "переделывание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "alteration"
+                        }
+                    ]
+                },
+                {
+                    "text": "римейк",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "ремейк",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "ремэйк",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "modern remake",
+                            "tr": [
+                                {
+                                    "text": "современный ремейк"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

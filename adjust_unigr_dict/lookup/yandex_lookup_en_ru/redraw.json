@@ -1,0 +1,77 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "redraw",
+            "pos": "verb",
+            "ts": "riːˈdrɔː",
+            "fl": "redrew, redrawn",
+            "tr": [
+                {
+                    "text": "перерисовывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "перерисовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перечертить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перечерчивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "repaint"
+                        }
+                    ]
+                },
+                {
+                    "text": "перекроить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "перекраивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reshape"
+                        }
+                    ]
+                },
+                {
+                    "text": "изменять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "modify"
+                        }
+                    ]
+                },
+                {
+                    "text": "переоформить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "renew"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

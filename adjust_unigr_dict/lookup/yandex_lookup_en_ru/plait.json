@@ -1,0 +1,115 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "plait",
+            "pos": "noun",
+            "ts": "plæt",
+            "tr": [
+                {
+                    "text": "коса",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "косичка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "косицы",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "braid"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "long plaits",
+                            "tr": [
+                                {
+                                    "text": "длинные косы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "жгут",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "tourniquet"
+                        }
+                    ]
+                },
+                {
+                    "text": "плетенка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "wicker"
+                        }
+                    ]
+                },
+                {
+                    "text": "плетение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "weave"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "plait",
+            "pos": "verb",
+            "ts": "plæt",
+            "tr": [
+                {
+                    "text": "плести",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сплести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "weave"
+                        }
+                    ]
+                },
+                {
+                    "text": "заплетать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заплести",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "braid"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

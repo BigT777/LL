@@ -1,0 +1,88 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "куртка",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "veste",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "blouson",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "veston",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "jaquette",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "canadienne",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "пиджак"
+                        },
+                        {
+                            "text": "жакет"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "черная куртка",
+                            "tr": [
+                                {
+                                    "text": "veste noire"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "manteau",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "пиджак"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "спортивная куртка",
+                            "tr": [
+                                {
+                                    "text": "sport manteau"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "gilet",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "кофта"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

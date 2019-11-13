@@ -1,0 +1,55 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "arme",
+            "pos": "noun",
+            "gen": "f",
+            "ts": "aʁm",
+            "tr": [
+                {
+                    "text": "weapon",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "armes"
+                        }
+                    ]
+                },
+                {
+                    "text": "firearm",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "arms",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "handgun",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "armes"
+                        },
+                        {
+                            "text": "pistolet"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "armé",
+            "pos": "adjective",
+            "ts": "aʁme",
+            "tr": [
+                {
+                    "text": "armed",
+                    "pos": "participle"
+                }
+            ]
+        }
+    ]
+}

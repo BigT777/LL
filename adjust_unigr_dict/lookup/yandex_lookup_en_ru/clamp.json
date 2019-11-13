@@ -1,0 +1,268 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "clamp",
+            "pos": "noun",
+            "ts": "klæmp",
+            "tr": [
+                {
+                    "text": "зажим",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "скоба",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "хомут",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "струбцина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "фиксатор",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "крепление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "прижим",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "защелка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clip"
+                        },
+                        {
+                            "text": "bracket"
+                        },
+                        {
+                            "text": "yoke"
+                        },
+                        {
+                            "text": "cramp"
+                        },
+                        {
+                            "text": "latch"
+                        },
+                        {
+                            "text": "fastening"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "screw clamp",
+                            "tr": [
+                                {
+                                    "text": "винтовой зажим"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "steel clamp",
+                            "tr": [
+                                {
+                                    "text": "стальная скоба"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "cable clamp",
+                            "tr": [
+                                {
+                                    "text": "кабельный хомут"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "magnetic clamp",
+                            "tr": [
+                                {
+                                    "text": "магнитный фиксатор"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "клемма",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "terminal"
+                        }
+                    ]
+                },
+                {
+                    "text": "захват",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "тиски",
+                            "pos": "noun",
+                            "gen": "м",
+                            "num": "мн"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grip"
+                        }
+                    ]
+                },
+                {
+                    "text": "зажимная скоба",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "clamp clip"
+                        }
+                    ]
+                },
+                {
+                    "text": "клипс",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "зажимное приспособление",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "fixture"
+                        }
+                    ]
+                },
+                {
+                    "text": "прихват",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "stuck"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "clamp",
+            "pos": "verb",
+            "ts": "klæmp",
+            "tr": [
+                {
+                    "text": "зажимать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "зажать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пережимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pinch"
+                        },
+                        {
+                            "text": "tighten"
+                        }
+                    ]
+                },
+                {
+                    "text": "сжать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "прижать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прижимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grip"
+                        },
+                        {
+                            "text": "pin"
+                        }
+                    ]
+                },
+                {
+                    "text": "закрепить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "fasten"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "clamp",
+            "pos": "adjective",
+            "ts": "klæmp",
+            "tr": [
+                {
+                    "text": "зажимной",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "прижимной",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clamping"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "clamp ring",
+                            "tr": [
+                                {
+                                    "text": "зажимное кольцо"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

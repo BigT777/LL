@@ -1,0 +1,192 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "gaze",
+            "pos": "verb",
+            "ts": "geɪz",
+            "tr": [
+                {
+                    "text": "вглядываться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "пристально глядеть",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "пристально смотреть",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stare"
+                        }
+                    ]
+                },
+                {
+                    "text": "уставиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "глядеть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "разглядывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "взирать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "созерцать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вглядеться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "всмотреться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "озираться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stare"
+                        },
+                        {
+                            "text": "examine"
+                        },
+                        {
+                            "text": "look"
+                        },
+                        {
+                            "text": "contemplate"
+                        },
+                        {
+                            "text": "peer"
+                        }
+                    ]
+                },
+                {
+                    "text": "смотреть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "посмотреть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поглядеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "look"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "gaze",
+            "pos": "noun",
+            "ts": "geɪz",
+            "tr": [
+                {
+                    "text": "пристальный взгляд",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "внимательный взгляд",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stare"
+                        },
+                        {
+                            "text": "close look"
+                        }
+                    ]
+                },
+                {
+                    "text": "взгляд",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "взор",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "glance"
+                        },
+                        {
+                            "text": "eye"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "steady gaze",
+                            "tr": [
+                                {
+                                    "text": "твердый взгляд"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "direction of his gaze",
+                            "tr": [
+                                {
+                                    "text": "направление его взгляда"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "admiring gaze",
+                            "tr": [
+                                {
+                                    "text": "восхищенный взгляд"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "inner gaze",
+                            "tr": [
+                                {
+                                    "text": "внутренний взор"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

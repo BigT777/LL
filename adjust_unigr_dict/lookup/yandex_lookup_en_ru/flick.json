@@ -1,0 +1,207 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "flick",
+            "pos": "verb",
+            "ts": "flɪk",
+            "tr": [
+                {
+                    "text": "стряхнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "смахнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "встряхнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "стряхивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shake"
+                        },
+                        {
+                            "text": "brush"
+                        }
+                    ]
+                },
+                {
+                    "text": "выхватить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "snatch"
+                        }
+                    ]
+                },
+                {
+                    "text": "щелкнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "щелкать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "click"
+                        }
+                    ]
+                },
+                {
+                    "text": "пролистать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "пролистывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "scroll"
+                        }
+                    ]
+                },
+                {
+                    "text": "глянуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "glance"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "flick",
+            "pos": "noun",
+            "ts": "flɪk",
+            "tr": [
+                {
+                    "text": "щелчок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "легкий удар",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clicking"
+                        },
+                        {
+                            "text": "tap"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "quick flick",
+                            "tr": [
+                                {
+                                    "text": "быстрый щелчок"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "толчок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "push"
+                        }
+                    ]
+                },
+                {
+                    "text": "резкое движение",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "быстрое движение",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "jerk"
+                        }
+                    ]
+                },
+                {
+                    "text": "фильм",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "кино",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "film"
+                        },
+                        {
+                            "text": "movie"
+                        }
+                    ]
+                },
+                {
+                    "text": "Флик",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "движение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "movement"
+                        }
+                    ]
+                },
+                {
+                    "text": "жест",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "gesture"
+                        }
+                    ]
+                },
+                {
+                    "text": "киношка",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        }
+    ]
+}

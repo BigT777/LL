@@ -1,0 +1,101 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "indemnify",
+            "pos": "verb",
+            "ts": "ɪnˈdemnɪfaɪ",
+            "tr": [
+                {
+                    "text": "возмещать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "компенсировать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "возместить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "возмещать ущерб",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "возмещать убытки",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reimburse"
+                        },
+                        {
+                            "text": "compensate"
+                        },
+                        {
+                            "text": "redress"
+                        },
+                        {
+                            "text": "make amends"
+                        }
+                    ]
+                },
+                {
+                    "text": "освободить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "liberate"
+                        }
+                    ]
+                },
+                {
+                    "text": "обезопасить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "защитить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "secure"
+                        },
+                        {
+                            "text": "defend"
+                        }
+                    ]
+                },
+                {
+                    "text": "застраховать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "страховать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "insure"
+                        }
+                    ]
+                },
+                {
+                    "text": "возмещать вред",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "pat",
+            "pos": "noun",
+            "ts": "pæt",
+            "tr": [
+                {
+                    "text": "похлопывание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "шлепок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "slap"
+                        }
+                    ]
+                },
+                {
+                    "text": "Пат",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "хлопок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "clap"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "pat",
+            "pos": "verb",
+            "ts": "pæt",
+            "tr": [
+                {
+                    "text": "похлопывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "похлопать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "хлопать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "хлопнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "шлепнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "slap"
+                        },
+                        {
+                            "text": "clap"
+                        }
+                    ]
+                },
+                {
+                    "text": "поглаживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "погладить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "потрепать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "гладить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "ласкать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stroke"
+                        },
+                        {
+                            "text": "caress"
+                        },
+                        {
+                            "text": "tousle"
+                        }
+                    ]
+                },
+                {
+                    "text": "промокнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "wet"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

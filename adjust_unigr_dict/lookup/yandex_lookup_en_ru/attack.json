@@ -1,0 +1,354 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "attack",
+            "pos": "noun",
+            "ts": "əˈtæk",
+            "tr": [
+                {
+                    "text": "атака",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "нападение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "нападки",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "удар",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "посягательство",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "штурм",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "assault"
+                        },
+                        {
+                            "text": "blow"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "brute force attack",
+                            "tr": [
+                                {
+                                    "text": "атака грубой силы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "symptoms of panic attacks",
+                            "tr": [
+                                {
+                                    "text": "симптомы панических атак"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "buffer overflow attacks",
+                            "tr": [
+                                {
+                                    "text": "атаки на переполнение буфера"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "armed attack",
+                            "tr": [
+                                {
+                                    "text": "вооруженное нападение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "attacks against civilian populations",
+                            "tr": [
+                                {
+                                    "text": "нападения на гражданское население"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "malicious attacks",
+                            "tr": [
+                                {
+                                    "text": "злобные нападки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "missile attack",
+                            "tr": [
+                                {
+                                    "text": "ракетный удар"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "приступ",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "припадок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "seizure"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sudden heart attack",
+                            "tr": [
+                                {
+                                    "text": "внезапный сердечный приступ"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "attack of bronchial asthma",
+                            "tr": [
+                                {
+                                    "text": "приступ бронхиальной астмы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hysterical attack",
+                            "tr": [
+                                {
+                                    "text": "истерический припадок"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "наступление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "offensive"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "frontal attack",
+                            "tr": [
+                                {
+                                    "text": "фронтальное наступление"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "налет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "набег",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "вылазка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "raid"
+                        },
+                        {
+                            "text": "sortie"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pirate attack",
+                            "tr": [
+                                {
+                                    "text": "пиратский налет"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "devastating attacks",
+                            "tr": [
+                                {
+                                    "text": "опустошительные набеги"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "night attack",
+                            "tr": [
+                                {
+                                    "text": "ночная вылазка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выпад",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "lunge"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "personal attack",
+                            "tr": [
+                                {
+                                    "text": "личный выпад"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "attack",
+            "pos": "verb",
+            "ts": "əˈtæk",
+            "tr": [
+                {
+                    "text": "нападать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "атаковать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "напасть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "assault"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "attacking player",
+                            "tr": [
+                                {
+                                    "text": "атакующий игрок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "attack again",
+                            "tr": [
+                                {
+                                    "text": "напасть снова"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "наброситься",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "накинуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pounce"
+                        },
+                        {
+                            "text": "fall"
+                        }
+                    ]
+                },
+                {
+                    "text": "наступать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "come"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "attack",
+            "pos": "adjective",
+            "ts": "əˈtæk",
+            "tr": [
+                {
+                    "text": "ударный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "штурмовой",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shock"
+                        },
+                        {
+                            "text": "assault"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ground attack aircraft",
+                            "tr": [
+                                {
+                                    "text": "штурмовая авиация"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

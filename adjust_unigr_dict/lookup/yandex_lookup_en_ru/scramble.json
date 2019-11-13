@@ -1,0 +1,219 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "scramble",
+            "pos": "verb",
+            "ts": "skræmbl",
+            "tr": [
+                {
+                    "text": "карабкаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "взбираться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вскарабкаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "взобраться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вскарабкиваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "climb"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "scramble upward",
+                            "tr": [
+                                {
+                                    "text": "вскарабкаться наверх"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "бороться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "struggle"
+                        }
+                    ]
+                },
+                {
+                    "text": "пробираться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "пробраться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "продираться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "протиснуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sneak"
+                        },
+                        {
+                            "text": "creep"
+                        },
+                        {
+                            "text": "squeeze"
+                        }
+                    ]
+                },
+                {
+                    "text": "выкарабкаться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "вылезть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "get out"
+                        }
+                    ]
+                },
+                {
+                    "text": "зашифровать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "шифровать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "encrypt"
+                        }
+                    ]
+                },
+                {
+                    "text": "кинуться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "rush"
+                        }
+                    ]
+                },
+                {
+                    "text": "скремблировать",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "взболтать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "shake"
+                        }
+                    ]
+                },
+                {
+                    "text": "судорожно искать",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "scramble",
+            "pos": "noun",
+            "ts": "skræmbl",
+            "tr": [
+                {
+                    "text": "борьба",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "схватка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "struggle"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "desperate scramble",
+                            "tr": [
+                                {
+                                    "text": "отчаянная борьба"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "свалка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "dump"
+                        }
+                    ]
+                },
+                {
+                    "text": "карабканье",
+                    "pos": "noun",
+                    "gen": "ср"
+                },
+                {
+                    "text": "скремблирование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "scrambling"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

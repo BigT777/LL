@@ -1,0 +1,215 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "mention",
+            "pos": "verb",
+            "ts": "menʃn",
+            "tr": [
+                {
+                    "text": "упоминать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ссылаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "упомянуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "указывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "refer"
+                        },
+                        {
+                            "text": "point out"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "never mention",
+                            "tr": [
+                                {
+                                    "text": "никогда не упоминать"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mention only",
+                            "tr": [
+                                {
+                                    "text": "упомянуть только"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отметить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "отмечать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отмечаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выделить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "note"
+                        },
+                        {
+                            "text": "highlight"
+                        }
+                    ]
+                },
+                {
+                    "text": "назвать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "называть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "call"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "mention the names",
+                            "tr": [
+                                {
+                                    "text": "назвать имена"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "затронуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "затрагивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "affect"
+                        }
+                    ]
+                },
+                {
+                    "text": "вспомнить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "вспоминать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поминать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "remember"
+                        }
+                    ]
+                },
+                {
+                    "text": "перечислить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "перечислять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "list"
+                        }
+                    ]
+                },
+                {
+                    "text": "обмолвиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "say"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mention",
+            "pos": "noun",
+            "ts": "menʃn",
+            "tr": [
+                {
+                    "text": "упоминание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "reference"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "special mention",
+                            "tr": [
+                                {
+                                    "text": "специальное упоминание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "помин",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        }
+    ]
+}

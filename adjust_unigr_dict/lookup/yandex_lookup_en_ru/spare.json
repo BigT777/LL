@@ -1,0 +1,257 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "spare",
+            "pos": "adjective",
+            "ts": "speə",
+            "tr": [
+                {
+                    "text": "запасной",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "запасный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "резервный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "replacement"
+                        },
+                        {
+                            "text": "reserve"
+                        },
+                        {
+                            "text": "backup"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "spare fuse",
+                            "tr": [
+                                {
+                                    "text": "запасной предохранитель"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "spare part",
+                            "tr": [
+                                {
+                                    "text": "запасная часть"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "spare parts kit",
+                            "tr": [
+                                {
+                                    "text": "комплект запасных частей"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "spare capacity",
+                            "tr": [
+                                {
+                                    "text": "резервная мощность"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "свободный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "free"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "little spare time",
+                            "tr": [
+                                {
+                                    "text": "свободное время"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "лишний",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "extra"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "spare cash",
+                            "tr": [
+                                {
+                                    "text": "лишние деньги"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "spare",
+            "pos": "verb",
+            "ts": "speə",
+            "tr": [
+                {
+                    "text": "экономить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "беречь",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "избавить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сэкономить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "уберечь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сберечь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "save"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "spare water",
+                            "tr": [
+                                {
+                                    "text": "экономить воду"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "жалеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "regret"
+                        }
+                    ]
+                },
+                {
+                    "text": "щадить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "пощадить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "миловать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mercy"
+                        }
+                    ]
+                },
+                {
+                    "text": "уделять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "уделить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "devote"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "spare",
+            "pos": "noun",
+            "ts": "speə",
+            "tr": [
+                {
+                    "text": "запасная часть",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "запчасти",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spare part"
+                        },
+                        {
+                            "text": "spare parts"
+                        }
+                    ]
+                },
+                {
+                    "text": "резерв",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "запас",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "standby"
+                        },
+                        {
+                            "text": "stock"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

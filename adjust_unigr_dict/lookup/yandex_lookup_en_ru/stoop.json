@@ -1,0 +1,199 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "stoop",
+            "pos": "verb",
+            "ts": "stuːp",
+            "tr": [
+                {
+                    "text": "сутулиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ссутулиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "горбиться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сутулить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "slouch"
+                        },
+                        {
+                            "text": "hunch"
+                        },
+                        {
+                            "text": "hump"
+                        }
+                    ]
+                },
+                {
+                    "text": "нагибаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "наклонять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "нагибать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "наклониться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "склониться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "нагнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пригнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bend"
+                        },
+                        {
+                            "text": "lean"
+                        },
+                        {
+                            "text": "bend down"
+                        }
+                    ]
+                },
+                {
+                    "text": "снизойти",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "снисходить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "condescend"
+                        }
+                    ]
+                },
+                {
+                    "text": "унизиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "унижаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grovel"
+                        }
+                    ]
+                },
+                {
+                    "text": "опускаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "descend"
+                        }
+                    ]
+                },
+                {
+                    "text": "наклонить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "incline"
+                        }
+                    ]
+                },
+                {
+                    "text": "склоняться",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "stoop",
+            "pos": "noun",
+            "ts": "stuːp",
+            "tr": [
+                {
+                    "text": "сутулость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "slouch"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "slight stoop",
+                            "tr": [
+                                {
+                                    "text": "легкая сутулость"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "крыльцо",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "веранда",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "porch"
+                        },
+                        {
+                            "text": "veranda"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

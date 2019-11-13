@@ -1,0 +1,330 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fat",
+            "pos": "noun",
+            "ts": "fæt",
+            "tr": [
+                {
+                    "text": "жир",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "сало",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "клетчатка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "жирок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "body fat"
+                        },
+                        {
+                            "text": "lard"
+                        },
+                        {
+                            "text": "fiber"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "saturated fat",
+                            "tr": [
+                                {
+                                    "text": "насыщенный жир"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "excess body fat",
+                            "tr": [
+                                {
+                                    "text": "лишний жир"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "animal fat",
+                            "tr": [
+                                {
+                                    "text": "животный жир"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mutton fat",
+                            "tr": [
+                                {
+                                    "text": "баранье сало"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ожирение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "obese"
+                        }
+                    ]
+                },
+                {
+                    "text": "содержание жира",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "fat content"
+                        }
+                    ]
+                },
+                {
+                    "text": "толстяк",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "fat man"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fat jack",
+                            "tr": [
+                                {
+                                    "text": "толстяк джек"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "лишний жир",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "excess fat"
+                        }
+                    ]
+                },
+                {
+                    "text": "шпик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "bacon"
+                        }
+                    ]
+                },
+                {
+                    "text": "толстуха",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "fat woman"
+                        }
+                    ]
+                },
+                {
+                    "text": "жировая клетчатка",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "fatty tissue"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fat",
+            "pos": "adjective",
+            "ts": "fæt",
+            "tr": [
+                {
+                    "text": "жирный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "толстый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "тучный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "жировой",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fatty"
+                        },
+                        {
+                            "text": "thick"
+                        },
+                        {
+                            "text": "obese"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "too fat",
+                            "tr": [
+                                {
+                                    "text": "слишком жирный"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fat young man",
+                            "tr": [
+                                {
+                                    "text": "толстый молодой человек"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fat little boy",
+                            "tr": [
+                                {
+                                    "text": "толстый мальчишка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fat people",
+                            "tr": [
+                                {
+                                    "text": "тучные люди"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "subcutaneous fat layer",
+                            "tr": [
+                                {
+                                    "text": "подкожный жировой слой"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "white fat cells",
+                            "tr": [
+                                {
+                                    "text": "белые жировые клетки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "полный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "full"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fat woman",
+                            "tr": [
+                                {
+                                    "text": "полная женщина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "упитанный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "пухлый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "толстенький",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "plump"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fat cows",
+                            "tr": [
+                                {
+                                    "text": "упитанные коровы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fat lip",
+                            "tr": [
+                                {
+                                    "text": "пухлые губы"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fat",
+            "pos": "verb",
+            "ts": "fæt",
+            "tr": [
+                {
+                    "text": "толстеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "растолстеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "жиреть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "weight"
+                        },
+                        {
+                            "text": "fatten"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

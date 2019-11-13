@@ -1,0 +1,129 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "proven",
+            "pos": "participle",
+            "ts": "ˈpruːvən",
+            "tr": [
+                {
+                    "text": "проверенный",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "испытанный",
+                            "pos": "participle"
+                        },
+                        {
+                            "text": "подтвержденный",
+                            "pos": "participle"
+                        },
+                        {
+                            "text": "зарекомендовавший",
+                            "pos": "participle"
+                        },
+                        {
+                            "text": "опробованный",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tested"
+                        },
+                        {
+                            "text": "confirmed"
+                        },
+                        {
+                            "text": "reputable"
+                        }
+                    ]
+                },
+                {
+                    "text": "доказанный",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "доказавший",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "proved"
+                        }
+                    ]
+                },
+                {
+                    "text": "апробированный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "approved"
+                        }
+                    ]
+                },
+                {
+                    "text": "признанный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "recognized"
+                        }
+                    ]
+                },
+                {
+                    "text": "оказавшийся",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "appearing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "proven",
+            "pos": "verb",
+            "ts": "ˈpruːvən",
+            "tr": [
+                {
+                    "text": "доказать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "доказывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подтвердить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "demonstrate"
+                        },
+                        {
+                            "text": "confirm"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "proven fact",
+                            "tr": [
+                                {
+                                    "text": "доказанный факт"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "girder",
+            "pos": "noun",
+            "ts": "ˈgɜːdə",
+            "tr": [
+                {
+                    "text": "балка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "прогон",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "ригель",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "брус",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "beam"
+                        },
+                        {
+                            "text": "purlin"
+                        },
+                        {
+                            "text": "crossbar"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "steel girder",
+                            "tr": [
+                                {
+                                    "text": "стальная балка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ферма",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "truss"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lattice girders",
+                            "tr": [
+                                {
+                                    "text": "решетчатые фермы"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "girder",
+            "pos": "adjective",
+            "ts": "ˈgɜːdə",
+            "tr": [
+                {
+                    "text": "балочный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "beam"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "girder bridge",
+                            "tr": [
+                                {
+                                    "text": "балочный мост"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

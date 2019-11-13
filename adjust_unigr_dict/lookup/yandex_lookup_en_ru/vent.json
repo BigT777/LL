@@ -1,0 +1,255 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "vent",
+            "pos": "noun",
+            "ts": "vent",
+            "tr": [
+                {
+                    "text": "отверстие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "отдушина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "вентиляционное отверстие",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "выпускное отверстие",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hole"
+                        },
+                        {
+                            "text": "outlet"
+                        },
+                        {
+                            "text": "air vent"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "exhaust vents",
+                            "tr": [
+                                {
+                                    "text": "вытяжные отверстия"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "клапан",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "вентиль",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "воздушный клапан",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "вентиляционный клапан",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "valve"
+                        },
+                        {
+                            "text": "air valve"
+                        }
+                    ]
+                },
+                {
+                    "text": "выход",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "exit"
+                        }
+                    ]
+                },
+                {
+                    "text": "вентиляция",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "ventilation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "venting system",
+                            "tr": [
+                                {
+                                    "text": "система вентиляции"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "жерло",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "muzzle"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "volcanic vents",
+                            "tr": [
+                                {
+                                    "text": "вулканические жерла"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дефлектор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "deflector"
+                        }
+                    ]
+                },
+                {
+                    "text": "форточка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "window"
+                        }
+                    ]
+                },
+                {
+                    "text": "вентиляционный канал",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "вентиляционная труба",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "duct"
+                        },
+                        {
+                            "text": "ventilation pipe"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "vent",
+            "pos": "verb",
+            "ts": "vent",
+            "tr": [
+                {
+                    "text": "изливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "излить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pour"
+                        }
+                    ]
+                },
+                {
+                    "text": "вымещать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выместить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "avenge"
+                        }
+                    ]
+                },
+                {
+                    "text": "провентилировать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "ventilate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "vent",
+            "pos": "adjective",
+            "ts": "vent",
+            "tr": [
+                {
+                    "text": "вентиляционный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "вытяжной",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ventilation"
+                        },
+                        {
+                            "text": "exhaust"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "vent pipe",
+                            "tr": [
+                                {
+                                    "text": "вентиляционная труба"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

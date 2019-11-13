@@ -1,0 +1,106 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "темп",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "rythme",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "tempo",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "cadence",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "temps",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ритм"
+                        },
+                        {
+                            "text": "ход"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "более медленный темп",
+                            "tr": [
+                                {
+                                    "text": "rythme plus lent"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "быстрый темп",
+                            "tr": [
+                                {
+                                    "text": "tempo rapide"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "taux",
+                    "pos": "noun",
+                    "gen": "m",
+                    "num": "pl",
+                    "syn": [
+                        {
+                            "text": "allure",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "скорость"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "темп роста",
+                            "tr": [
+                                {
+                                    "text": "taux de croissance"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "mouvement",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "train",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ход"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

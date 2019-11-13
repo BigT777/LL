@@ -1,0 +1,205 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "steam",
+            "pos": "adjective",
+            "ts": "stiːm",
+            "tr": [
+                {
+                    "text": "паровой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "парной",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "vapor"
+                        },
+                        {
+                            "text": "double"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "steam boiler",
+                            "tr": [
+                                {
+                                    "text": "паровой котел"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "condensing steam turbine",
+                            "tr": [
+                                {
+                                    "text": "конденсационная паровая турбина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "конденсационный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "condensing"
+                        }
+                    ]
+                },
+                {
+                    "text": "пароструйный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "jet"
+                        }
+                    ]
+                },
+                {
+                    "text": "парогенерирующий",
+                    "pos": "adjective"
+                }
+            ]
+        },
+        {
+            "text": "steam",
+            "pos": "noun",
+            "ts": "stiːm",
+            "tr": [
+                {
+                    "text": "пар",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "паропровод",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "vapor"
+                        },
+                        {
+                            "text": "steam line"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "low pressure steam",
+                            "tr": [
+                                {
+                                    "text": "пар низкого давления"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "dry saturated steam",
+                            "tr": [
+                                {
+                                    "text": "сухой насыщенный пар"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Паровая баня",
+                    "pos": "noun"
+                },
+                {
+                    "text": "водяной пар",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "water vapor"
+                        }
+                    ]
+                },
+                {
+                    "text": "парогенератор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "steam generator"
+                        }
+                    ]
+                },
+                {
+                    "text": "парообразование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "vaporization"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "steam",
+            "pos": "verb",
+            "ts": "stiːm",
+            "tr": [
+                {
+                    "text": "испаряться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "evaporate"
+                        }
+                    ]
+                },
+                {
+                    "text": "попариться",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "дымиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "smoke"
+                        }
+                    ]
+                },
+                {
+                    "text": "пропаривать",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "запотевать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "mist"
+                        }
+                    ]
+                },
+                {
+                    "text": "отпаривать",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "запаривать",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        }
+    ]
+}

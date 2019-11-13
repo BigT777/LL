@@ -1,0 +1,132 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "election",
+            "pos": "noun",
+            "ts": "ɪˈlekʃn",
+            "tr": [
+                {
+                    "text": "выборы",
+                    "pos": "noun",
+                    "gen": "м",
+                    "num": "мн",
+                    "syn": [
+                        {
+                            "text": "избрание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "голосование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "перевыборы",
+                            "pos": "noun",
+                            "gen": "м",
+                            "num": "мн"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "poll"
+                        },
+                        {
+                            "text": "selection"
+                        },
+                        {
+                            "text": "voting"
+                        },
+                        {
+                            "text": "reelection"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "election of deputies",
+                            "tr": [
+                                {
+                                    "text": "избрание депутатов"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "избирательная кампания",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "election campaign"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "election",
+            "pos": "adjective",
+            "ts": "ɪˈlekʃn",
+            "tr": [
+                {
+                    "text": "избирательный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "предвыборный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "выборный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "electoral"
+                        },
+                        {
+                            "text": "electioneering"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "presidential election campaign",
+                            "tr": [
+                                {
+                                    "text": "президентская избирательная кампания"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "central election commission member",
+                            "tr": [
+                                {
+                                    "text": "член центральной избирательной комиссии"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "proportional election system",
+                            "tr": [
+                                {
+                                    "text": "пропорциональная избирательная система"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "head of election staff",
+                            "tr": [
+                                {
+                                    "text": "руководитель избирательного штаба"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

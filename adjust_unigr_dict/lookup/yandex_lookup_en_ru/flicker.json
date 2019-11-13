@@ -1,0 +1,186 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "flicker",
+            "pos": "noun",
+            "ts": "ˈflɪkə",
+            "tr": [
+                {
+                    "text": "мерцание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "мигание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "дрожание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "мелькание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "blink"
+                        },
+                        {
+                            "text": "flashing"
+                        },
+                        {
+                            "text": "jitter"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "screen flicker",
+                            "tr": [
+                                {
+                                    "text": "мерцание экрана"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вспышка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "flash"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "flicker of lightning",
+                            "tr": [
+                                {
+                                    "text": "вспышка молнии"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "проблеск",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "огонек",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "glimmer"
+                        },
+                        {
+                            "text": "flame"
+                        }
+                    ]
+                },
+                {
+                    "text": "мерцание изображения",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "flicker",
+            "pos": "verb",
+            "ts": "ˈflɪkə",
+            "tr": [
+                {
+                    "text": "мелькнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "мигать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "мелькать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "мерцать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вспыхивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "моргать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "мельтешить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сверкать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flash"
+                        },
+                        {
+                            "text": "blink"
+                        }
+                    ]
+                },
+                {
+                    "text": "дрожать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "tremble"
+                        }
+                    ]
+                },
+                {
+                    "text": "теплиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "glimmer"
+                        }
+                    ]
+                },
+                {
+                    "text": "рябить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "ripple"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

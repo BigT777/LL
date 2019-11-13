@@ -1,0 +1,69 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "unpack",
+            "pos": "verb",
+            "ts": "ʌnˈpæk",
+            "tr": [
+                {
+                    "text": "распаковывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "распаковать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "распаковываться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "распаковаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "decompress"
+                        },
+                        {
+                            "text": "unzip"
+                        }
+                    ]
+                },
+                {
+                    "text": "распечатать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "распечатывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "print out"
+                        }
+                    ]
+                },
+                {
+                    "text": "раскладываться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "unfold"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

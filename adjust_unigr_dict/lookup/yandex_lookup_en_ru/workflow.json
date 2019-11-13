@@ -1,0 +1,121 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "workflow",
+            "pos": "adjective",
+            "ts": "ˈwɜːkfləʊ",
+            "tr": [
+                {
+                    "text": "рабочий",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "working"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "workflow",
+            "pos": "noun",
+            "ts": "ˈwɜːkfləʊ",
+            "tr": [
+                {
+                    "text": "рабочий процесс",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "технологический процесс",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "working process"
+                        },
+                        {
+                            "text": "process"
+                        }
+                    ]
+                },
+                {
+                    "text": "документооборот",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "делопроизводство",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "document"
+                        },
+                        {
+                            "text": "records management"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "workflow system",
+                            "tr": [
+                                {
+                                    "text": "система документооборота"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "рабочий поток",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "поток операций",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "worker thread"
+                        }
+                    ]
+                },
+                {
+                    "text": "поток работ",
+                    "pos": "noun"
+                },
+                {
+                    "text": "последовательность операций",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "последовательность действий",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sequence of operations"
+                        },
+                        {
+                            "text": "sequence of actions"
+                        }
+                    ]
+                },
+                {
+                    "text": "автоматизация документооборота",
+                    "pos": "noun"
+                },
+                {
+                    "text": "последовательность выполняемых действий",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,347 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "plant",
+            "pos": "noun",
+            "ts": "plɑːnt",
+            "tr": [
+                {
+                    "text": "завод",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "предприятие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "фабрика",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "цех",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "factory"
+                        },
+                        {
+                            "text": "enterprise"
+                        },
+                        {
+                            "text": "shop"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cement plant",
+                            "tr": [
+                                {
+                                    "text": "цементный завод"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "machine building plant",
+                            "tr": [
+                                {
+                                    "text": "машиностроительный завод"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "oil extraction plant",
+                            "tr": [
+                                {
+                                    "text": "маслоэкстракционный завод"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "car assembly plant",
+                            "tr": [
+                                {
+                                    "text": "автосборочный завод"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "headquarters plant",
+                            "tr": [
+                                {
+                                    "text": "головное предприятие"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "furniture plant",
+                            "tr": [
+                                {
+                                    "text": "мебельная фабрика"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "растение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "растительность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "herb"
+                        },
+                        {
+                            "text": "vegetation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "plant growth regulator",
+                            "tr": [
+                                {
+                                    "text": "регулятор роста растений"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lush plants",
+                            "tr": [
+                                {
+                                    "text": "пышная растительность"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "установка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "ex": [
+                        {
+                            "text": "air separation plant",
+                            "tr": [
+                                {
+                                    "text": "воздухоразделительная установка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "concrete mixing plant",
+                            "tr": [
+                                {
+                                    "text": "бетоносмесительная установка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "электростанция",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "станция",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "power plant"
+                        },
+                        {
+                            "text": "station"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "water treatment plant",
+                            "tr": [
+                                {
+                                    "text": "водоочистная станция"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "производство",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "production"
+                        }
+                    ]
+                },
+                {
+                    "text": "растениеводство",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "crop"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "plant",
+            "pos": "verb",
+            "ts": "plɑːnt",
+            "tr": [
+                {
+                    "text": "сажать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "насаждать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "посадить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "насадить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "садить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "put"
+                        },
+                        {
+                            "text": "spread"
+                        },
+                        {
+                            "text": "impose"
+                        },
+                        {
+                            "text": "sit"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "plant potatoes",
+                            "tr": [
+                                {
+                                    "text": "сажать картошку"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "plant vineyards",
+                            "tr": [
+                                {
+                                    "text": "насаждать виноградники"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "plant a tree",
+                            "tr": [
+                                {
+                                    "text": "посадить дерево"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "засаживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "высадить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "высаживать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "land"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "plant",
+            "pos": "adjective",
+            "ts": "plɑːnt",
+            "tr": [
+                {
+                    "text": "растительный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "vegetable"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "plant raw material",
+                            "tr": [
+                                {
+                                    "text": "растительное сырье"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "заводской",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "factory"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "plant engineer",
+                            "tr": [
+                                {
+                                    "text": "заводской инженер"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

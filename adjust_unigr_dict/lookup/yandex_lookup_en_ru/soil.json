@@ -1,0 +1,289 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "soil",
+            "pos": "noun",
+            "ts": "sɔɪl",
+            "tr": [
+                {
+                    "text": "почва",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "земля",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "грунт",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ground"
+                        },
+                        {
+                            "text": "land"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "soil type",
+                            "tr": [
+                                {
+                                    "text": "тип почвы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fertile soil layer",
+                            "tr": [
+                                {
+                                    "text": "плодородный слой почвы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "soil moisture content",
+                            "tr": [
+                                {
+                                    "text": "влажность почвы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "light sandy soils",
+                            "tr": [
+                                {
+                                    "text": "легкие песчаные почвы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "loss of soil fertility",
+                            "tr": [
+                                {
+                                    "text": "снижение плодородия почв"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "level of soil contamination",
+                            "tr": [
+                                {
+                                    "text": "уровень загрязнения почв"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "improve soil structure",
+                            "tr": [
+                                {
+                                    "text": "улучшать структуру почвы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "native soil",
+                            "tr": [
+                                {
+                                    "text": "родная земля"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "samples of lunar soil",
+                            "tr": [
+                                {
+                                    "text": "образцы лунного грунта"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "слой почвы",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "почвенный слой",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "soil layer"
+                        },
+                        {
+                            "text": "topsoil"
+                        }
+                    ]
+                },
+                {
+                    "text": "территория",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "territory"
+                        }
+                    ]
+                },
+                {
+                    "text": "почвогрунт",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "порода",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "rock"
+                        }
+                    ]
+                },
+                {
+                    "text": "плодородие почв",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "land fertility"
+                        }
+                    ]
+                },
+                {
+                    "text": "тип почвы",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "soil type"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "soil",
+            "pos": "verb",
+            "ts": "sɔɪl",
+            "tr": [
+                {
+                    "text": "пачкать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "испачкать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "запачкать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "запятнать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "марать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "испачкаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перепачкать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dirty"
+                        },
+                        {
+                            "text": "stain"
+                        }
+                    ]
+                },
+                {
+                    "text": "загрязнять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "загрязнить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pollute"
+                        },
+                        {
+                            "text": "contaminate"
+                        }
+                    ]
+                },
+                {
+                    "text": "пакостить",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "soil",
+            "pos": "adjective",
+            "ts": "sɔɪl",
+            "tr": [
+                {
+                    "text": "почвенный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "грунтовой",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ground"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "soil cover",
+                            "tr": [
+                                {
+                                    "text": "почвенный покров"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "soil road",
+                            "tr": [
+                                {
+                                    "text": "грунтовая дорога"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

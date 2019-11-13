@@ -1,0 +1,80 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "aunt",
+            "pos": "noun",
+            "ts": "ɑːnt",
+            "tr": [
+                {
+                    "text": "тетя",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "тетка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "тетушка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "тетенька",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "auntie"
+                        },
+                        {
+                            "text": "lady"
+                        },
+                        {
+                            "text": "aunty"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "old aunt",
+                            "tr": [
+                                {
+                                    "text": "старая тетя"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "maiden aunt",
+                            "tr": [
+                                {
+                                    "text": "незамужняя тетка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "dear aunt",
+                            "tr": [
+                                {
+                                    "text": "дорогая тетушка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "двоюродная бабка",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "great aunt"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

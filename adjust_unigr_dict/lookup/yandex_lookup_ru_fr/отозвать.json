@@ -1,0 +1,57 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "отозвать",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "révoquer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "retirer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "rappeler",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "appeler",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "отзывать"
+                        },
+                        {
+                            "text": "призвать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "отозванный сертификат",
+                            "tr": [
+                                {
+                                    "text": "certificat révoqué"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "rétracter",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "аннулировать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

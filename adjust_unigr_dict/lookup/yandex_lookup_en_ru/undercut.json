@@ -1,0 +1,133 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "undercut",
+            "pos": "verb",
+            "ts": "ˈʌndəkʌt",
+            "fl": "undercut, undercut",
+            "tr": [
+                {
+                    "text": "подрезать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "prune"
+                        }
+                    ]
+                },
+                {
+                    "text": "подрывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ослаблять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "undermine"
+                        },
+                        {
+                            "text": "weaken"
+                        }
+                    ]
+                },
+                {
+                    "text": "подорвать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "подмывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "undermine"
+                        }
+                    ]
+                },
+                {
+                    "text": "занижать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "занизить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "underestimate"
+                        }
+                    ]
+                },
+                {
+                    "text": "сбивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "bring down"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "undercut",
+            "pos": "noun",
+            "ts": "ˈʌndəkʌt",
+            "tr": [
+                {
+                    "text": "вырезка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "clipping"
+                        }
+                    ]
+                },
+                {
+                    "text": "подрез",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "поднутрение",
+                    "pos": "noun",
+                    "gen": "ср"
+                },
+                {
+                    "text": "подсечка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "cutting"
+                        }
+                    ]
+                },
+                {
+                    "text": "недоруб",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "подрубка",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        }
+    ]
+}

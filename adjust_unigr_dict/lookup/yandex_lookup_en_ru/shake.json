@@ -1,0 +1,315 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "shake",
+            "pos": "verb",
+            "ts": "ʃeɪk",
+            "fl": "shook, shaken",
+            "tr": [
+                {
+                    "text": "трясти",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "дрожать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сотрясать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "потрясать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "содрогаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tremble"
+                        },
+                        {
+                            "text": "shock"
+                        },
+                        {
+                            "text": "shudder"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shake the tree",
+                            "tr": [
+                                {
+                                    "text": "трясти дерево"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "shake the earth",
+                            "tr": [
+                                {
+                                    "text": "сотрясать землю"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "поколебать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "расшатать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sway"
+                        },
+                        {
+                            "text": "undermine"
+                        }
+                    ]
+                },
+                {
+                    "text": "качать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "покачать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "потрясти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "тряхнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "мотнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "качнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "покачивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "swing"
+                        },
+                        {
+                            "text": "rock"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shake the world",
+                            "tr": [
+                                {
+                                    "text": "потрясти мир"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "встряхивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "stir"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shake the bottle",
+                            "tr": [
+                                {
+                                    "text": "встряхивать бутылку"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пожать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "пожимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "жать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "крепко пожать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shrug"
+                        },
+                        {
+                            "text": "press"
+                        }
+                    ]
+                },
+                {
+                    "text": "встряхнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "взболтать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "взбивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shake up"
+                        },
+                        {
+                            "text": "whip"
+                        }
+                    ]
+                },
+                {
+                    "text": "стряхнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "отряхнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отряхивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shake off"
+                        }
+                    ]
+                },
+                {
+                    "text": "трястись",
+                    "pos": "verb"
+                },
+                {
+                    "text": "вытряхнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "вытрясти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shake out"
+                        }
+                    ]
+                },
+                {
+                    "text": "затрястись",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "всколыхнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "stir"
+                        }
+                    ]
+                },
+                {
+                    "text": "перетряхнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "shake up"
+                        }
+                    ]
+                },
+                {
+                    "text": "растолкать",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "shake",
+            "pos": "noun",
+            "ts": "ʃeɪk",
+            "tr": [
+                {
+                    "text": "дрожание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "встряхивание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shaking"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "grandparents",
+            "pos": "noun",
+            "ts": "ˈgrænpe(ə)rənts",
+            "tr": [
+                {
+                    "text": "бабушка с дедушкой",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "дедушка с бабушкой",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "my grandparents"
+                        }
+                    ]
+                },
+                {
+                    "text": "дед",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "прадед",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grandfather"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

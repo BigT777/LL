@@ -1,0 +1,249 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "leap",
+            "pos": "verb",
+            "ts": "liːp",
+            "fl": "leaped/leapt, leaped/leapt",
+            "tr": [
+                {
+                    "text": "прыгать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "скакать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "перескакивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подпрыгнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подскочить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перескочить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отскочить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вскакивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выпрыгивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выскакивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "скакнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "jump"
+                        },
+                        {
+                            "text": "bounce"
+                        },
+                        {
+                            "text": "jump out"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "leap for joy",
+                            "tr": [
+                                {
+                                    "text": "прыгать от радости"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "leap high",
+                            "tr": [
+                                {
+                                    "text": "подпрыгнуть высоко"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "перепрыгивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "прыгнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перепрыгнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "запрыгнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подпрыгивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "наброситься",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "jump"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "leap ahead",
+                            "tr": [
+                                {
+                                    "text": "прыгнуть вперед"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ухватиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "grasp"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "leap",
+            "pos": "noun",
+            "ts": "liːp",
+            "tr": [
+                {
+                    "text": "прыжок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "рывок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "скачок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "jump"
+                        },
+                        {
+                            "text": "breakthrough"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "quantum leap",
+                            "tr": [
+                                {
+                                    "text": "квантовый прыжок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "technological leap",
+                            "tr": [
+                                {
+                                    "text": "технологический рывок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "great leap forward",
+                            "tr": [
+                                {
+                                    "text": "большой скачок"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "МПДООС",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "семимильный шаг",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "leap",
+            "pos": "adjective",
+            "ts": "liːp",
+            "tr": [
+                {
+                    "text": "високосный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "bissextile"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "leap year",
+                            "tr": [
+                                {
+                                    "text": "високосный год"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

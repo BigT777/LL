@@ -1,0 +1,211 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "disgrace",
+            "pos": "verb",
+            "ts": "dɪsˈgreɪs",
+            "tr": [
+                {
+                    "text": "позорить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "бесчестить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обесчестить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "опозорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "унижать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "посрамить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "осрамить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "порочить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shame"
+                        },
+                        {
+                            "text": "dishonor"
+                        },
+                        {
+                            "text": "humiliate"
+                        },
+                        {
+                            "text": "defame"
+                        }
+                    ]
+                },
+                {
+                    "text": "опозориться",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "дискредитировать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "discredit"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "disgrace",
+            "pos": "noun",
+            "ts": "dɪsˈgreɪs",
+            "tr": [
+                {
+                    "text": "немилость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "опала",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "disfavor"
+                        },
+                        {
+                            "text": "disfavour"
+                        }
+                    ]
+                },
+                {
+                    "text": "позор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "позорище",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "срам",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shame"
+                        },
+                        {
+                            "text": "embarrassment"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "indelible disgrace",
+                            "tr": [
+                                {
+                                    "text": "несмываемый позор"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "бесчестье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "бесчестие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dishonor"
+                        }
+                    ]
+                },
+                {
+                    "text": "унижение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "humiliation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "public disgrace",
+                            "tr": [
+                                {
+                                    "text": "публичное унижение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "безобразие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "ugliness"
+                        }
+                    ]
+                },
+                {
+                    "text": "посрамление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "поношение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "opprobrium"
+                        },
+                        {
+                            "text": "reproach"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "tweak",
+            "pos": "verb",
+            "ts": "twiːk",
+            "tr": [
+                {
+                    "text": "щипать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ущипнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "щипнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pinch"
+                        }
+                    ]
+                },
+                {
+                    "text": "настроить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "настраивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подстроить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подстраивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "модифицировать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "корректировать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "configure"
+                        },
+                        {
+                            "text": "adjust"
+                        },
+                        {
+                            "text": "modify"
+                        }
+                    ]
+                },
+                {
+                    "text": "подправить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "fix"
+                        }
+                    ]
+                },
+                {
+                    "text": "отладить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "отлаживать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "debug"
+                        }
+                    ]
+                },
+                {
+                    "text": "дергать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "tug"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "tweak",
+            "pos": "noun",
+            "ts": "twiːk",
+            "tr": [
+                {
+                    "text": "щипок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "pinch"
+                        }
+                    ]
+                },
+                {
+                    "text": "настройка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "тонкая настройка",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "подстройка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "корректировка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "configure"
+                        },
+                        {
+                            "text": "fine tuning"
+                        },
+                        {
+                            "text": "adjust"
+                        }
+                    ]
+                },
+                {
+                    "text": "фишка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "chip"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

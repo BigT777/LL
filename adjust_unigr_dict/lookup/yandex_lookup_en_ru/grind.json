@@ -1,0 +1,233 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "grind",
+            "pos": "verb",
+            "ts": "graɪnd",
+            "fl": "ground, ground",
+            "tr": [
+                {
+                    "text": "молоть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "перемалывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mill"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "grind coffee",
+                            "tr": [
+                                {
+                                    "text": "молоть кофе"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шлифовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "точить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отшлифовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вытачивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обточить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sand"
+                        },
+                        {
+                            "text": "sharpen"
+                        },
+                        {
+                            "text": "polish"
+                        },
+                        {
+                            "text": "turn"
+                        }
+                    ]
+                },
+                {
+                    "text": "растирать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "растереть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перетереть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rub"
+                        }
+                    ]
+                },
+                {
+                    "text": "стачивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обтачивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grind down"
+                        },
+                        {
+                            "text": "turn"
+                        }
+                    ]
+                },
+                {
+                    "text": "измельчить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "смолоть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "измельчать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "размолоть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "размалывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "перемолоть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crush"
+                        },
+                        {
+                            "text": "mill"
+                        },
+                        {
+                            "text": "process"
+                        }
+                    ]
+                },
+                {
+                    "text": "скрежетать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "gnash"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "grind",
+            "pos": "noun",
+            "ts": "graɪnd",
+            "tr": [
+                {
+                    "text": "помол",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "grinding"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "degree of grinding",
+                            "tr": [
+                                {
+                                    "text": "степень помола"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "молотилка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "thresher"
+                        }
+                    ]
+                },
+                {
+                    "text": "жернова",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "grind",
+            "pos": "adjective",
+            "ts": "graɪnd",
+            "tr": [
+                {
+                    "text": "точильный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "grinding"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "reproach",
+            "pos": "verb",
+            "ts": "rɪˈprəʊʧ",
+            "tr": [
+                {
+                    "text": "упрекать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "укорять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "попрекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "упрекнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "укорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "попрекнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rebuke"
+                        },
+                        {
+                            "text": "chide"
+                        },
+                        {
+                            "text": "upbraid"
+                        }
+                    ]
+                },
+                {
+                    "text": "порицать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "корить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "попенять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пенять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "blame"
+                        }
+                    ]
+                },
+                {
+                    "text": "ставить в упрек",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "reproach",
+            "pos": "noun",
+            "ts": "rɪˈprəʊʧ",
+            "tr": [
+                {
+                    "text": "позор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "срам",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shame"
+                        }
+                    ]
+                },
+                {
+                    "text": "упрек",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "укор",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "укоризна",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rebuke"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bitter reproach",
+                            "tr": [
+                                {
+                                    "text": "горький упрек"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mute reproach",
+                            "tr": [
+                                {
+                                    "text": "немой укор"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "поношение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "поругание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "vilification"
+                        },
+                        {
+                            "text": "desecration"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "reproach of christ",
+                            "tr": [
+                                {
+                                    "text": "поношение христово"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "осуждение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "порицание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "condemnation"
+                        },
+                        {
+                            "text": "censure"
+                        }
+                    ]
+                },
+                {
+                    "text": "попрек",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        }
+    ]
+}

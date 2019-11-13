@@ -1,0 +1,65 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "multicast",
+            "pos": "adjective",
+            "ts": "ˈmʌltɪkst",
+            "tr": [
+                {
+                    "text": "групповой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "group"
+                        }
+                    ]
+                },
+                {
+                    "text": "многоадресный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "широковещательный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "multicasting"
+                        },
+                        {
+                            "text": "broadcast"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "multicast",
+            "pos": "noun",
+            "ts": "ˈmʌltɪkst",
+            "tr": [
+                {
+                    "text": "многоадресная рассылка",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "многоадресная передача",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "групповая передача",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "multicasting"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "blaze",
+            "pos": "verb",
+            "ts": "bleɪz",
+            "tr": [
+                {
+                    "text": "сверкать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сиять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сверкнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "засверкать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shine"
+                        },
+                        {
+                            "text": "flash"
+                        }
+                    ]
+                },
+                {
+                    "text": "пылать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "гореть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "полыхать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "запылать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "burn"
+                        },
+                        {
+                            "text": "fire"
+                        },
+                        {
+                            "text": "rage"
+                        }
+                    ]
+                },
+                {
+                    "text": "вспыхнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "вспыхивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "разгораться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "break out"
+                        },
+                        {
+                            "text": "flare"
+                        }
+                    ]
+                },
+                {
+                    "text": "прокладывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "проторить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pave"
+                        }
+                    ]
+                },
+                {
+                    "text": "палить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "burn"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "blaze",
+            "pos": "noun",
+            "ts": "bleɪz",
+            "tr": [
+                {
+                    "text": "пламя",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "зарево",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "яркое пламя",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flame"
+                        },
+                        {
+                            "text": "glow"
+                        },
+                        {
+                            "text": "bright flame"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bright blaze",
+                            "tr": [
+                                {
+                                    "text": "яркое пламя"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "блеск",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "shine"
+                        }
+                    ]
+                },
+                {
+                    "text": "вспышка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "flash"
+                        }
+                    ]
+                },
+                {
+                    "text": "пожар",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "fire"
+                        }
+                    ]
+                },
+                {
+                    "text": "проточина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "отметина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mark"
+                        }
+                    ]
+                },
+                {
+                    "text": "зарубка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "nick"
+                        }
+                    ]
+                },
+                {
+                    "text": "яркий свет",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "bright light"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

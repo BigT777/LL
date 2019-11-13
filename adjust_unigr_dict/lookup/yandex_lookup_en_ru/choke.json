@@ -1,0 +1,227 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "choke",
+            "pos": "verb",
+            "ts": "ʧəʊk",
+            "tr": [
+                {
+                    "text": "задыхаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подавиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "давиться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "задохнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поперхнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "захлебываться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "suffocate"
+                        },
+                        {
+                            "text": "gag"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "choke to death",
+                            "tr": [
+                                {
+                                    "text": "задохнуться насмерть"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "душить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "задушить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "придушить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "удушить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "strangle"
+                        }
+                    ]
+                },
+                {
+                    "text": "заглушать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заглушить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "захлебнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подавить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drown"
+                        },
+                        {
+                            "text": "suppress"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "choke",
+            "pos": "noun",
+            "ts": "ʧəʊk",
+            "tr": [
+                {
+                    "text": "дроссель",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "заслонка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "воздушная заслонка",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "throttle"
+                        },
+                        {
+                            "text": "damper"
+                        },
+                        {
+                            "text": "air damper"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "output choke",
+                            "tr": [
+                                {
+                                    "text": "выходной дроссель"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "штуцер",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "fitting"
+                        }
+                    ]
+                },
+                {
+                    "text": "удушение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "strangulation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "choking hazard",
+                            "tr": [
+                                {
+                                    "text": "опасность удушения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дроссельная катушка",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "choke coil"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "choke",
+            "pos": "adjective",
+            "ts": "ʧəʊk",
+            "tr": [
+                {
+                    "text": "дроссельный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "throttle"
+                        }
+                    ]
+                },
+                {
+                    "text": "штуцерный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "nipple"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

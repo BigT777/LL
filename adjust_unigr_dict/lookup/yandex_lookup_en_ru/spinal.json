@@ -1,0 +1,101 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "spinal",
+            "pos": "adjective",
+            "ts": "spaɪnl",
+            "tr": [
+                {
+                    "text": "спинной",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "позвоночный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "остистый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dorsal"
+                        },
+                        {
+                            "text": "vertebral"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "spinal marrow",
+                            "tr": [
+                                {
+                                    "text": "спинной мозг"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "spinal column",
+                            "tr": [
+                                {
+                                    "text": "позвоночный столб"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "спинальный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "спинномозговой",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "хребтовый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cerebrospinal"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cerebral spinal fluid",
+                            "tr": [
+                                {
+                                    "text": "спинномозговая жидкость"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "spinal",
+            "pos": "noun",
+            "ts": "spaɪnl",
+            "tr": [
+                {
+                    "text": "позвоночный столб",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "spine"
+                        }
+                    ]
+                },
+                {
+                    "text": "спинномозговая пункция",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

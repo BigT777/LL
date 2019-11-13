@@ -1,0 +1,77 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "smoker",
+            "pos": "noun",
+            "ts": "ˈsməʊkə",
+            "tr": [
+                {
+                    "text": "курильщик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "заядлый курильщик",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "курильщица",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cigarette smoker"
+                        },
+                        {
+                            "text": "heavy smoker"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "heavy smoker",
+                            "tr": [
+                                {
+                                    "text": "заядлый курильщик"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "коптильня",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "smokehouse"
+                        }
+                    ]
+                },
+                {
+                    "text": "дымарь",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "smoker",
+            "pos": "participle",
+            "ts": "ˈsməʊkə",
+            "tr": [
+                {
+                    "text": "курящий",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "smoking"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

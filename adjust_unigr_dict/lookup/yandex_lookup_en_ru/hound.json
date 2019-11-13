@@ -1,0 +1,147 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "hound",
+            "pos": "noun",
+            "ts": "haʊnd",
+            "tr": [
+                {
+                    "text": "собака",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "охотничья собака",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "пес",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dog"
+                        },
+                        {
+                            "text": "hunting dog"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "black hounds",
+                            "tr": [
+                                {
+                                    "text": "черные собаки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hunting hound",
+                            "tr": [
+                                {
+                                    "text": "охотничий пес"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "гончая",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "гончая собака",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "борзая",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "ищейка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "beagle"
+                        },
+                        {
+                            "text": "whippet"
+                        },
+                        {
+                            "text": "greyhound"
+                        },
+                        {
+                            "text": "bloodhound"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hell hounds",
+                            "tr": [
+                                {
+                                    "text": "адские гончие"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "гончий пес",
+                    "pos": "noun"
+                },
+                {
+                    "text": "подлец",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "scoundrel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hound",
+            "pos": "verb",
+            "ts": "haʊnd",
+            "tr": [
+                {
+                    "text": "преследовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "persecute"
+                        }
+                    ]
+                },
+                {
+                    "text": "травить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "затравить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hunt"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

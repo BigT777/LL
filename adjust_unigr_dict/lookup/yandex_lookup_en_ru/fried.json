@@ -1,0 +1,54 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fried",
+            "pos": "adjective",
+            "ts": "fraɪd",
+            "tr": [
+                {
+                    "text": "жареный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "grilled"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fried",
+            "pos": "participle",
+            "ts": "fraɪd",
+            "tr": [
+                {
+                    "text": "обжаренный",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "зажаренный",
+                            "pos": "participle"
+                        },
+                        {
+                            "text": "жаренный",
+                            "pos": "participle"
+                        },
+                        {
+                            "text": "пожаренный",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "roasted"
+                        },
+                        {
+                            "text": "roast"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

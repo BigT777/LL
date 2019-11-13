@@ -1,0 +1,54 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "grandparent",
+            "pos": "noun",
+            "ts": "ˈgrænpeərənt",
+            "tr": [
+                {
+                    "text": "дед",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "дедушка",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "бабушка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grandfather"
+                        },
+                        {
+                            "text": "grandmother"
+                        }
+                    ]
+                },
+                {
+                    "text": "прародитель",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "предок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ancestor"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

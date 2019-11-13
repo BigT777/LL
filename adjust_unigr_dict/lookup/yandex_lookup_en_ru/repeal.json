@@ -1,0 +1,93 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "repeal",
+            "pos": "verb",
+            "ts": "rɪˈpiːl",
+            "tr": [
+                {
+                    "text": "аннулировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "отменять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отменить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "упразднить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "annul"
+                        },
+                        {
+                            "text": "abolish"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "repeal the law",
+                            "tr": [
+                                {
+                                    "text": "отменить закон"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отменяться",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "repeal",
+            "pos": "noun",
+            "ts": "rɪˈpiːl",
+            "tr": [
+                {
+                    "text": "отмена",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "аннулирование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "abolition"
+                        },
+                        {
+                            "text": "cancellation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tax repeal",
+                            "tr": [
+                                {
+                                    "text": "отмена налога"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

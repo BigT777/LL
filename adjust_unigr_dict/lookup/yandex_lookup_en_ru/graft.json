@@ -1,0 +1,222 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "graft",
+            "pos": "noun",
+            "ts": "grɑːft",
+            "tr": [
+                {
+                    "text": "взяточничество",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "подкуп",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "мздоимство",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "казнокрадство",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "продажность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bribery"
+                        },
+                        {
+                            "text": "embezzlement"
+                        },
+                        {
+                            "text": "corruption"
+                        }
+                    ]
+                },
+                {
+                    "text": "трансплантат",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "лоскут",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "пересадка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "transplant"
+                        },
+                        {
+                            "text": "flap"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "bone graft",
+                            "tr": [
+                                {
+                                    "text": "костный трансплантат"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "skin graft",
+                            "tr": [
+                                {
+                                    "text": "кожный лоскут"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "взятка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "bribe"
+                        }
+                    ]
+                },
+                {
+                    "text": "привой",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "черенок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "scion"
+                        },
+                        {
+                            "text": "stalk"
+                        }
+                    ]
+                },
+                {
+                    "text": "имплантат",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "протез",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "implant"
+                        },
+                        {
+                            "text": "prosthesis"
+                        }
+                    ]
+                },
+                {
+                    "text": "прививка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "vaccination"
+                        }
+                    ]
+                },
+                {
+                    "text": "графт",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "пересадка ткани",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "graft",
+            "pos": "verb",
+            "ts": "grɑːft",
+            "tr": [
+                {
+                    "text": "прививать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "привить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "vaccinate"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "grafted plant",
+                            "tr": [
+                                {
+                                    "text": "привитое растение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пересаживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "transplant"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "graft",
+            "pos": "adjective",
+            "ts": "grɑːft",
+            "tr": [
+                {
+                    "text": "прививочный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "vaccination"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

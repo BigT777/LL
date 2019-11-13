@@ -1,0 +1,113 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "submarine",
+            "pos": "noun",
+            "ts": "sʌbməˈriːn",
+            "tr": [
+                {
+                    "text": "подводная лодка",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "подлодка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "субмарина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "лодка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sub"
+                        },
+                        {
+                            "text": "boat"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "enemy submarine",
+                            "tr": [
+                                {
+                                    "text": "вражеская подлодка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "yellow submarine",
+                            "tr": [
+                                {
+                                    "text": "желтая субмарина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "субмаринный",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "подводное судно",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "underwater vessel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "submarine",
+            "pos": "adjective",
+            "ts": "sʌbməˈriːn",
+            "tr": [
+                {
+                    "text": "подводный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "подводной",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "underwater"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "nuclear submarine fleet",
+                            "tr": [
+                                {
+                                    "text": "атомный подводный флот"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "atomic submarine",
+                            "tr": [
+                                {
+                                    "text": "атомная подводная лодка"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

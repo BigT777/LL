@@ -1,0 +1,81 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "smirk",
+            "pos": "verb",
+            "ts": "smɜːk",
+            "tr": [
+                {
+                    "text": "ухмыляться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ухмыльнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "усмехнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "усмехаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "smirk",
+            "pos": "noun",
+            "ts": "smɜːk",
+            "tr": [
+                {
+                    "text": "ухмылка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "усмешка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "самодовольная ухмылка",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "самодовольная улыбка",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "самодовольная усмешка",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grin"
+                        },
+                        {
+                            "text": "smile"
+                        },
+                        {
+                            "text": "smug smile"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

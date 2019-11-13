@@ -1,0 +1,96 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "reap",
+            "pos": "verb",
+            "ts": "riːp",
+            "tr": [
+                {
+                    "text": "пожинать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "жать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пожать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пожинать плоды",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "собирать урожай",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "harvest"
+                        },
+                        {
+                            "text": "press"
+                        },
+                        {
+                            "text": "shrug"
+                        },
+                        {
+                            "text": "reap the benefits"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "reap the fruits",
+                            "tr": [
+                                {
+                                    "text": "пожинать плоды"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "получить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "получать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "собрать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "obtain"
+                        },
+                        {
+                            "text": "collect"
+                        }
+                    ]
+                },
+                {
+                    "text": "косить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "mow"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

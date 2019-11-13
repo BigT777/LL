@@ -1,0 +1,136 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "stump",
+            "pos": "noun",
+            "ts": "stʌmp",
+            "tr": [
+                {
+                    "text": "пень",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "пенек",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "обрубок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "огрызок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "обломок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "окурок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stub"
+                        },
+                        {
+                            "text": "stubby"
+                        },
+                        {
+                            "text": "rubble"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rotten stump",
+                            "tr": [
+                                {
+                                    "text": "гнилой пень"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "bloody stump",
+                            "tr": [
+                                {
+                                    "text": "кровавый обрубок"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "культя",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "деревяшка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "piece of wood"
+                        }
+                    ]
+                },
+                {
+                    "text": "кочерыжка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "stalk"
+                        }
+                    ]
+                },
+                {
+                    "text": "кочерыга",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        },
+        {
+            "text": "stump",
+            "pos": "verb",
+            "ts": "stʌmp",
+            "tr": [
+                {
+                    "text": "ковылять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "hobble"
+                        }
+                    ]
+                },
+                {
+                    "text": "озадачить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "поставить в тупик",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "baffle"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

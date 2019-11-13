@@ -1,0 +1,147 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "amaze",
+            "pos": "verb",
+            "ts": "əˈmeɪz",
+            "tr": [
+                {
+                    "text": "поражать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "удивлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "изумлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "удивить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "изумить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "потрясать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "восхищать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "впечатлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "приятно удивить",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "impress"
+                        },
+                        {
+                            "text": "surprise"
+                        },
+                        {
+                            "text": "astonish"
+                        },
+                        {
+                            "text": "fascinate"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "amaze the world",
+                            "tr": [
+                                {
+                                    "text": "удивить мир"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "удивляться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "поражаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "восхищаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wonder"
+                        },
+                        {
+                            "text": "affect"
+                        },
+                        {
+                            "text": "admire"
+                        }
+                    ]
+                },
+                {
+                    "text": "восхитить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "delight"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "amaze",
+            "pos": "noun",
+            "ts": "əˈmeɪz",
+            "tr": [
+                {
+                    "text": "изумление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "удивление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "amazement"
+                        },
+                        {
+                            "text": "surprise"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "stress",
+            "pos": "noun",
+            "ts": "stres",
+            "tr": [
+                {
+                    "text": "stress",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "contrainte",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stressor"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "stress",
+            "pos": "verb",
+            "ts": "stres",
+            "tr": [
+                {
+                    "text": "souligner",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "insister",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "stresser",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "underline"
+                        },
+                        {
+                            "text": "emphasize"
+                        },
+                        {
+                            "text": "stress out"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

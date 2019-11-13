@@ -1,0 +1,216 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "chat",
+            "pos": "verb",
+            "ts": "ʧæt",
+            "tr": [
+                {
+                    "text": "болтать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "беседовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "разговаривать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "общаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поболтать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поговорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "побеседовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "проболтать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "talk"
+                        },
+                        {
+                            "text": "gossip"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "chat with friends",
+                            "tr": [
+                                {
+                                    "text": "болтать с друзьями"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "chat with people",
+                            "tr": [
+                                {
+                                    "text": "общаться с людьми"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "чатиться",
+                    "pos": "verb"
+                },
+                {
+                    "text": "вести чат",
+                    "pos": "verb"
+                },
+                {
+                    "text": "непринужденно болтать",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "chat",
+            "pos": "noun",
+            "ts": "ʧæt",
+            "tr": [
+                {
+                    "text": "беседа",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "разговор",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "общение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "conversation"
+                        },
+                        {
+                            "text": "dialogue"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "friendly chat",
+                            "tr": [
+                                {
+                                    "text": "дружеская беседа"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "private chat",
+                            "tr": [
+                                {
+                                    "text": "частный разговор"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "live chat",
+                            "tr": [
+                                {
+                                    "text": "живое общение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "болтовня",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "болтай",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "chatter"
+                        }
+                    ]
+                },
+                {
+                    "text": "чат",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "chat room"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "voice chat",
+                            "tr": [
+                                {
+                                    "text": "голосовой чат"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дружеский разговор",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "дружеская беседа",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "friendly conversation"
+                        }
+                    ]
+                },
+                {
+                    "text": "посиделки",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "num": "мн",
+                    "mean": [
+                        {
+                            "text": "gathering"
+                        }
+                    ]
+                },
+                {
+                    "text": "интерактивная переписка",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

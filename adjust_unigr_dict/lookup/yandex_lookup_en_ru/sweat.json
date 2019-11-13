@@ -1,0 +1,171 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sweat",
+            "pos": "noun",
+            "ts": "swet",
+            "tr": [
+                {
+                    "text": "пот",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "испарина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "обильный пот",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pot"
+                        },
+                        {
+                            "text": "perspiration"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cold sweat",
+                            "tr": [
+                                {
+                                    "text": "холодный пот"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "потение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "потоотделение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sweating"
+                        }
+                    ]
+                },
+                {
+                    "text": "запотевание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "condensation"
+                        }
+                    ]
+                },
+                {
+                    "text": "тяжелый труд",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "hard work"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sweat",
+            "pos": "verb",
+            "ts": "swet",
+            "tr": [
+                {
+                    "text": "потеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вспотеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обливаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "попотеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обливаться потом",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "пропотеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "perspire"
+                        },
+                        {
+                            "text": "sweaty"
+                        },
+                        {
+                            "text": "pour"
+                        }
+                    ]
+                },
+                {
+                    "text": "запотевать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "mist"
+                        }
+                    ]
+                },
+                {
+                    "text": "корпеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "pore"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sweat",
+            "pos": "adjective",
+            "ts": "swet",
+            "tr": [
+                {
+                    "text": "потовой",
+                    "pos": "adjective"
+                },
+                {
+                    "text": "потный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "sweaty"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

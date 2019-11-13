@@ -1,0 +1,324 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "lean",
+            "pos": "verb",
+            "ts": "liːn",
+            "fl": "leaned/leant, leaned/leant",
+            "tr": [
+                {
+                    "text": "опираться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "полагаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "опереться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "положиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rely"
+                        },
+                        {
+                            "text": "rest"
+                        }
+                    ]
+                },
+                {
+                    "text": "прислониться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "прижаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прислонить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "привалиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прильнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cling"
+                        },
+                        {
+                            "text": "prop"
+                        }
+                    ]
+                },
+                {
+                    "text": "наклониться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "нагнуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "потянуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bend"
+                        },
+                        {
+                            "text": "bend down"
+                        },
+                        {
+                            "text": "stretch"
+                        }
+                    ]
+                },
+                {
+                    "text": "податься",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "move"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lean forward",
+                            "tr": [
+                                {
+                                    "text": "податься вперед"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "облокотиться",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "прислоняться",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "отклониться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "deviate"
+                        }
+                    ]
+                },
+                {
+                    "text": "склонить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "bow"
+                        }
+                    ]
+                },
+                {
+                    "text": "упереться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "rest"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "lean",
+            "pos": "adjective",
+            "ts": "liːn",
+            "tr": [
+                {
+                    "text": "постный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "нежирный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lenten"
+                        },
+                        {
+                            "text": "nonfat"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lean meat",
+                            "tr": [
+                                {
+                                    "text": "нежирное мясо"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "худой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "тощий",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "сухопарый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "худощавый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "стройный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "поджарый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "skinny"
+                        },
+                        {
+                            "text": "gaunt"
+                        },
+                        {
+                            "text": "thin"
+                        },
+                        {
+                            "text": "slender"
+                        },
+                        {
+                            "text": "wiry"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lean body",
+                            "tr": [
+                                {
+                                    "text": "худое тело"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lean cow",
+                            "tr": [
+                                {
+                                    "text": "тощая корова"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "lean man",
+                            "tr": [
+                                {
+                                    "text": "худощавый мужчина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "бережливый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "thrifty"
+                        }
+                    ]
+                },
+                {
+                    "text": "неурожайный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "harvest"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "lean",
+            "pos": "noun",
+            "ts": "liːn",
+            "tr": [
+                {
+                    "text": "наклон",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "tilt"
+                        }
+                    ]
+                },
+                {
+                    "text": "склонение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "decline"
+                        }
+                    ]
+                },
+                {
+                    "text": "бережливое производство",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "lean manufacturing"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "underestimate",
+            "pos": "verb",
+            "ts": "ˈʌndərestɪmɪt",
+            "tr": [
+                {
+                    "text": "недооценивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "преуменьшать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "недооценить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "умалять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "преуменьшить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "undervalue"
+                        },
+                        {
+                            "text": "downplay"
+                        },
+                        {
+                            "text": "diminish"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "underestimate the enemy",
+                            "tr": [
+                                {
+                                    "text": "недооценивать противника"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "занижать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "занизить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "understate"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "underestimated price",
+                            "tr": [
+                                {
+                                    "text": "заниженная цена"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "underestimate",
+            "pos": "noun",
+            "ts": "ˈʌndərestɪmɪt",
+            "tr": [
+                {
+                    "text": "недооценка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "заниженная оценка",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "занижение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "underestimation"
+                        },
+                        {
+                            "text": "understatement"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

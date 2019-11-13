@@ -1,0 +1,83 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "автобус",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "bus",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "autobus",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "autocar",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "маршрутка"
+                        },
+                        {
+                            "text": "шина"
+                        },
+                        {
+                            "text": "туристический автобус"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "остановки автобуса",
+                            "tr": [
+                                {
+                                    "text": "arrêts de bus"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "школьный автобус",
+                            "tr": [
+                                {
+                                    "text": "autobus scolaire"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "navette",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "челнок"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "челночный автобус",
+                            "tr": [
+                                {
+                                    "text": "bus navette"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "car",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

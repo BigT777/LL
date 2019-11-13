@@ -1,0 +1,72 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "testify",
+            "pos": "verb",
+            "ts": "ˈtestɪfaɪ",
+            "tr": [
+                {
+                    "text": "свидетельствовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "засвидетельствовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "говорить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "witness"
+                        },
+                        {
+                            "text": "speak"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "testify in court",
+                            "tr": [
+                                {
+                                    "text": "засвидетельствовать в суде"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "давать показания",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "дать показания",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "give evidence"
+                        }
+                    ]
+                },
+                {
+                    "text": "показывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "indicate"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

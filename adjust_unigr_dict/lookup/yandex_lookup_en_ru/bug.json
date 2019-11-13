@@ -1,0 +1,276 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "bug",
+            "pos": "noun",
+            "ts": "buːg",
+            "tr": [
+                {
+                    "text": "жук",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "клоп",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "жучок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "черепашка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "жучки",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "beetle"
+                        },
+                        {
+                            "text": "bedbug"
+                        },
+                        {
+                            "text": "turtle"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "gold bug",
+                            "tr": [
+                                {
+                                    "text": "золотой жук"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "bed bug",
+                            "tr": [
+                                {
+                                    "text": "постельный клоп"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ошибка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "глюк",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "баг",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "сбой",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "неполадки",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "error"
+                        },
+                        {
+                            "text": "glitch"
+                        },
+                        {
+                            "text": "bag"
+                        },
+                        {
+                            "text": "crash"
+                        },
+                        {
+                            "text": "malfunction"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "known bug",
+                            "tr": [
+                                {
+                                    "text": "известная ошибка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "minor bug fixes",
+                            "tr": [
+                                {
+                                    "text": "мелкие ошибки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "strange bug",
+                            "tr": [
+                                {
+                                    "text": "странный глюк"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Буг",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "дефект",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "недочет",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "defect"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "small bugs",
+                            "tr": [
+                                {
+                                    "text": "мелкие недочеты"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "насекомое",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "букашка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "козявка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "insect"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tiny bugs",
+                            "tr": [
+                                {
+                                    "text": "крошечные насекомые"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "little bug",
+                            "tr": [
+                                {
+                                    "text": "маленькая букашка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "микроб",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "microbe"
+                        }
+                    ]
+                },
+                {
+                    "text": "программная ошибка",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "ошибка в программе",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "program error"
+                        }
+                    ]
+                },
+                {
+                    "text": "подслушивающее устройство",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "listening device"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bug",
+            "pos": "verb",
+            "ts": "buːg",
+            "tr": [
+                {
+                    "text": "прослушивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подслушивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "listen"
+                        }
+                    ]
+                },
+                {
+                    "text": "доставать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "get"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

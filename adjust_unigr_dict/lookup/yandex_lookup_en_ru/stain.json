@@ -1,0 +1,206 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "stain",
+            "pos": "noun",
+            "ts": "steɪn",
+            "tr": [
+                {
+                    "text": "морилка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "протрава",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mordant"
+                        }
+                    ]
+                },
+                {
+                    "text": "пятно",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "потеки",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "пятнышко",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spot"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dark stain",
+                            "tr": [
+                                {
+                                    "text": "темное пятно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "краска",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "краситель",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "окраска",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "окрашивание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "paint"
+                        },
+                        {
+                            "text": "dye"
+                        },
+                        {
+                            "text": "staining"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "red stain",
+                            "tr": [
+                                {
+                                    "text": "красная краска"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "staining techniques",
+                            "tr": [
+                                {
+                                    "text": "методы окраски"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "staining procedure",
+                            "tr": [
+                                {
+                                    "text": "процедура окрашивания"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "клеймо",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "stigma"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "stain",
+            "pos": "verb",
+            "ts": "steɪn",
+            "tr": [
+                {
+                    "text": "окрашивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "красить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "paint"
+                        }
+                    ]
+                },
+                {
+                    "text": "пятнать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "запятнать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "испачкать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "запачкать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "марать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spot"
+                        },
+                        {
+                            "text": "dirty"
+                        },
+                        {
+                            "text": "blur"
+                        }
+                    ]
+                },
+                {
+                    "text": "пачкаться",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "оставлять пятна",
+                    "pos": "verb"
+                },
+                {
+                    "text": "протравливать",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        }
+    ]
+}

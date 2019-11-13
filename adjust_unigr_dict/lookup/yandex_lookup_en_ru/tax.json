@@ -1,0 +1,250 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "tax",
+            "pos": "noun",
+            "ts": "tæks",
+            "tr": [
+                {
+                    "text": "налог",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "налогообложение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "пошлина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "taxation"
+                        },
+                        {
+                            "text": "duty"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "unified social tax",
+                            "tr": [
+                                {
+                                    "text": "единый социальный налог"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "alternative minimum tax",
+                            "tr": [
+                                {
+                                    "text": "альтернативный минимальный налог"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "tax base",
+                            "tr": [
+                                {
+                                    "text": "база налогообложения"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "export tax",
+                            "tr": [
+                                {
+                                    "text": "экспортная пошлина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сбор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "такса",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fee"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "excise tax",
+                            "tr": [
+                                {
+                                    "text": "акцизный сбор"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тягло",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "ex": [
+                        {
+                            "text": "total tax",
+                            "tr": [
+                                {
+                                    "text": "полное тягло"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "налогоплательщик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "taxpayer"
+                        }
+                    ]
+                },
+                {
+                    "text": "налоговый сбор",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "tax revenue"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "tax",
+            "pos": "verb",
+            "ts": "tæks",
+            "tr": [
+                {
+                    "text": "облагать налогом",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "облагать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обложить налогом",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "assess"
+                        },
+                        {
+                            "text": "levy"
+                        }
+                    ]
+                },
+                {
+                    "text": "таксировать",
+                    "pos": "verb"
+                },
+                {
+                    "text": "подать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "submit"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "tax",
+            "pos": "adjective",
+            "ts": "tæks",
+            "tr": [
+                {
+                    "text": "налоговый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "taxation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tax policy",
+                            "tr": [
+                                {
+                                    "text": "налоговая политика"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "state tax service",
+                            "tr": [
+                                {
+                                    "text": "государственная налоговая служба"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "investment tax credit",
+                            "tr": [
+                                {
+                                    "text": "инвестиционный налоговый кредит"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "effective tax rate",
+                            "tr": [
+                                {
+                                    "text": "эффективная налоговая ставка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "field tax audit",
+                            "tr": [
+                                {
+                                    "text": "выездная налоговая проверка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "preferential tax treatment",
+                            "tr": [
+                                {
+                                    "text": "льготный налоговый режим"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "new tax code",
+                            "tr": [
+                                {
+                                    "text": "новый налоговый кодекс"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

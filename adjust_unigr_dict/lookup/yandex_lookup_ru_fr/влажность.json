@@ -1,0 +1,75 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "влажность",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "humidité",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "moiteur",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "mouillé",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "влага"
+                        },
+                        {
+                            "text": "сырость"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "относительная влажность",
+                            "tr": [
+                                {
+                                    "text": "humidité relative"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "teneur en humidité",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "содержание влаги"
+                        }
+                    ]
+                },
+                {
+                    "text": "teneur en eau",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "влагосодержание"
+                        }
+                    ]
+                },
+                {
+                    "text": "état hygrométrique",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "относительная влажность"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

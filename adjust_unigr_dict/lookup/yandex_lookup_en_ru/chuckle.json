@@ -1,0 +1,143 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "chuckle",
+            "pos": "noun",
+            "ts": "ʧʌkl",
+            "tr": [
+                {
+                    "text": "хихиканье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "смешок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "смех",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "тихий смех",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "giggle"
+                        },
+                        {
+                            "text": "laughter"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "soft chuckle",
+                            "tr": [
+                                {
+                                    "text": "тихий смешок"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "chuckle",
+            "pos": "verb",
+            "ts": "ʧʌkl",
+            "tr": [
+                {
+                    "text": "посмеиваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "смеяться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "хихикать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "посмеяться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "кудахтать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "laugh"
+                        },
+                        {
+                            "text": "giggle"
+                        },
+                        {
+                            "text": "cluck"
+                        }
+                    ]
+                },
+                {
+                    "text": "усмехнуться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "рассмеяться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "засмеяться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "усмехаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grin"
+                        },
+                        {
+                            "text": "laugh"
+                        }
+                    ]
+                },
+                {
+                    "text": "хихикнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "захихикать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "giggle"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

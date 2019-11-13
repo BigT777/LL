@@ -1,0 +1,81 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "snoop",
+            "pos": "verb",
+            "ts": "snuːp",
+            "tr": [
+                {
+                    "text": "шпионить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подглядывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подсматривать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spy"
+                        }
+                    ]
+                },
+                {
+                    "text": "совать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "poke"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "snoop",
+            "pos": "noun",
+            "ts": "snuːp",
+            "tr": [
+                {
+                    "text": "ищейка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "сыщик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bloodhound"
+                        },
+                        {
+                            "text": "detective"
+                        }
+                    ]
+                },
+                {
+                    "text": "подглядывание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "peeping"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

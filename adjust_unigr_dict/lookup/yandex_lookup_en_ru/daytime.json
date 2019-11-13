@@ -1,0 +1,66 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "daytime",
+            "pos": "adjective",
+            "ts": "ˈdeɪtaɪm",
+            "tr": [
+                {
+                    "text": "дневной",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "day"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "daytime sleepiness",
+                            "tr": [
+                                {
+                                    "text": "дневная сонливость"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "daytime",
+            "pos": "noun",
+            "ts": "ˈdeɪtaɪm",
+            "tr": [
+                {
+                    "text": "день",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "day"
+                        }
+                    ]
+                },
+                {
+                    "text": "дневное время",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "светлое время суток",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "day time"
+                        },
+                        {
+                            "text": "daylight"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

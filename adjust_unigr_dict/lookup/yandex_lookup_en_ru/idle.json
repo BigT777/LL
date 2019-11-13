@@ -1,0 +1,186 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "idle",
+            "pos": "adjective",
+            "ts": "aɪdl",
+            "tr": [
+                {
+                    "text": "праздный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "пустой",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "незанятый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "досужий",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "empty"
+                        },
+                        {
+                            "text": "unoccupied"
+                        },
+                        {
+                            "text": "leisure"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "idle threat",
+                            "tr": [
+                                {
+                                    "text": "пустая угроза"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "холостой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "single"
+                        }
+                    ]
+                },
+                {
+                    "text": "неработающий",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "нерабочий",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "unemployed"
+                        },
+                        {
+                            "text": "off"
+                        }
+                    ]
+                },
+                {
+                    "text": "простой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "simple"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "idle",
+            "pos": "participle",
+            "ts": "aɪdl",
+            "tr": [
+                {
+                    "text": "бездействующий",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "простаивающий",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "inactive"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "idle",
+            "pos": "verb",
+            "ts": "aɪdl",
+            "tr": [
+                {
+                    "text": "простаивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "бездействовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "бездельничать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stand"
+                        },
+                        {
+                            "text": "inactive"
+                        },
+                        {
+                            "text": "sit"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "idle",
+            "pos": "noun",
+            "ts": "aɪdl",
+            "tr": [
+                {
+                    "text": "холостой ход",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "режим холостого хода",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "idling"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "idle",
+            "pos": "adverb",
+            "ts": "aɪdl",
+            "tr": [
+                {
+                    "text": "без дела",
+                    "pos": "adverb"
+                },
+                {
+                    "text": "вхолостую",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "empty"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

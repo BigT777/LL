@@ -1,0 +1,372 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "trigger",
+            "pos": "noun",
+            "ts": "ˈtrɪgə",
+            "tr": [
+                {
+                    "text": "триггер",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "пусковой сигнал",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "сигнал запуска",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flop"
+                        },
+                        {
+                            "text": "start signal"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "trigger condition",
+                            "tr": [
+                                {
+                                    "text": "условие триггера"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "спусковой крючок",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "спусковой механизм",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "пусковой механизм",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "trigger hook"
+                        },
+                        {
+                            "text": "trigger mechanism"
+                        },
+                        {
+                            "text": "releaser"
+                        }
+                    ]
+                },
+                {
+                    "text": "собачка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "dog"
+                        }
+                    ]
+                },
+                {
+                    "text": "запуск",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "пуск",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "launch"
+                        },
+                        {
+                            "text": "start"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "trigger level",
+                            "tr": [
+                                {
+                                    "text": "уровень запуска"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "trigger button",
+                            "tr": [
+                                {
+                                    "text": "кнопка пуска"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "толчок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "push"
+                        }
+                    ]
+                },
+                {
+                    "text": "спуск",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "descent"
+                        }
+                    ]
+                },
+                {
+                    "text": "инициирование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "initiate"
+                        }
+                    ]
+                },
+                {
+                    "text": "гашетка",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        },
+        {
+            "text": "trigger",
+            "pos": "verb",
+            "ts": "ˈtrɪgə",
+            "tr": [
+                {
+                    "text": "инициировать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "initiate"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "triggering event",
+                            "tr": [
+                                {
+                                    "text": "инициирующее событие"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вызвать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "вызывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "приводить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cause"
+                        },
+                        {
+                            "text": "lead"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "trigger an alarm",
+                            "tr": [
+                                {
+                                    "text": "вызвать тревогу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "trigger a response",
+                            "tr": [
+                                {
+                                    "text": "вызывать реакцию"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "запускать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "запустить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "активировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "run"
+                        },
+                        {
+                            "text": "activate"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "trigger pulse",
+                            "tr": [
+                                {
+                                    "text": "запускающий импульс"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "спровоцировать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "провоцировать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "provoke"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "trigger an attack",
+                            "tr": [
+                                {
+                                    "text": "спровоцировать нападение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "срабатывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сработать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "work"
+                        }
+                    ]
+                },
+                {
+                    "text": "вызываться",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "приводить в действие",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "operate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "trigger",
+            "pos": "adjective",
+            "ts": "ˈtrɪgə",
+            "tr": [
+                {
+                    "text": "спусковой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "триггерный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "пусковой",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "launching"
+                        },
+                        {
+                            "text": "triggering"
+                        },
+                        {
+                            "text": "launch"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "trigger mechanism",
+                            "tr": [
+                                {
+                                    "text": "спусковой механизм"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "trigger action",
+                            "tr": [
+                                {
+                                    "text": "триггерное действие"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "trigger signal",
+                            "tr": [
+                                {
+                                    "text": "пусковой сигнал"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

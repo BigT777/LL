@@ -1,0 +1,327 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "stay",
+            "pos": "verb",
+            "ts": "steɪ",
+            "tr": [
+                {
+                    "text": "оставаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "остаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "побыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "remain"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "stay below",
+                            "tr": [
+                                {
+                                    "text": "оставаться внизу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "stay forever",
+                            "tr": [
+                                {
+                                    "text": "остаться навсегда"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "stay alone",
+                            "tr": [
+                                {
+                                    "text": "побыть наедине"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "жить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "находиться",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "держаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "стоять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пребывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сидеть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "проживать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пожить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "live"
+                        },
+                        {
+                            "text": "be"
+                        },
+                        {
+                            "text": "keep"
+                        },
+                        {
+                            "text": "stand"
+                        },
+                        {
+                            "text": "sit"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "stay abroad",
+                            "tr": [
+                                {
+                                    "text": "жить за границей"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "stay away",
+                            "tr": [
+                                {
+                                    "text": "держаться в стороне"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "останавливаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "остановиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stop"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "stay again",
+                            "tr": [
+                                {
+                                    "text": "остановиться снова"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "останавливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "stop"
+                        }
+                    ]
+                },
+                {
+                    "text": "задерживаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "пробыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "задержаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "linger"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "stay late",
+                            "tr": [
+                                {
+                                    "text": "задерживаться допоздна"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "stay in london",
+                            "tr": [
+                                {
+                                    "text": "задержаться в лондоне"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "гостить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "visit"
+                        }
+                    ]
+                },
+                {
+                    "text": "сохранять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сохранить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "keep"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "stay in control",
+                            "tr": [
+                                {
+                                    "text": "сохранять контроль"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "удержаться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "hold"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "stay on top",
+                            "tr": [
+                                {
+                                    "text": "удержаться на вершине"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отсидеть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "serve"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "stay",
+            "pos": "noun",
+            "ts": "steɪ",
+            "tr": [
+                {
+                    "text": "пребывание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "нахождение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "staying"
+                        },
+                        {
+                            "text": "location"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "long hospital stay",
+                            "tr": [
+                                {
+                                    "text": "длительное пребывание в больнице"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "приостановление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "suspension"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

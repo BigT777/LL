@@ -1,0 +1,68 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "honk",
+            "pos": "verb",
+            "ts": "hɒŋk",
+            "tr": [
+                {
+                    "text": "кричать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "scream"
+                        }
+                    ]
+                },
+                {
+                    "text": "сигналить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "гудеть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "signal"
+                        },
+                        {
+                            "text": "hum"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "honk",
+            "pos": "noun",
+            "ts": "hɒŋk",
+            "tr": [
+                {
+                    "text": "гудок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "автомобильный гудок",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "beep"
+                        },
+                        {
+                            "text": "car horn"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "censure",
+            "pos": "noun",
+            "ts": "ˈsenʃə",
+            "tr": [
+                {
+                    "text": "порицание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "выговор",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reprimand"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "public censure",
+                            "tr": [
+                                {
+                                    "text": "общественное порицание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "осуждение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "нарекание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "неодобрение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "condemnation"
+                        },
+                        {
+                            "text": "complaint"
+                        },
+                        {
+                            "text": "disapproval"
+                        }
+                    ]
+                },
+                {
+                    "text": "цензура",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "censorship"
+                        }
+                    ]
+                },
+                {
+                    "text": "вотум недоверия",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "vote of confidence"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "censure",
+            "pos": "verb",
+            "ts": "ˈsenʃə",
+            "tr": [
+                {
+                    "text": "порицать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "осуждать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "осудить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "хулить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "condemn"
+                        },
+                        {
+                            "text": "blaspheme"
+                        }
+                    ]
+                },
+                {
+                    "text": "подвергнуться осуждению",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "decree",
+            "pos": "noun",
+            "ts": "dɪˈkriː",
+            "tr": [
+                {
+                    "text": "указ",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "постановление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "распоряжение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "приказ",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "решение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "постановление правительства",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "edict"
+                        },
+                        {
+                            "text": "resolution"
+                        },
+                        {
+                            "text": "order"
+                        },
+                        {
+                            "text": "decision"
+                        },
+                        {
+                            "text": "government decree"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "royal decree",
+                            "tr": [
+                                {
+                                    "text": "королевский указ"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "government decree",
+                            "tr": [
+                                {
+                                    "text": "постановление правительства"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "secret decree",
+                            "tr": [
+                                {
+                                    "text": "секретный приказ"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "декрет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "ordinance"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "legislative decree",
+                            "tr": [
+                                {
+                                    "text": "законодательный декрет"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "повеление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "веление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "command"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "decree",
+            "pos": "verb",
+            "ts": "dɪˈkriː",
+            "tr": [
+                {
+                    "text": "декретировать",
+                    "pos": "verb"
+                },
+                {
+                    "text": "постановить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "постановлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "decide"
+                        }
+                    ]
+                },
+                {
+                    "text": "распорядиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "order"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

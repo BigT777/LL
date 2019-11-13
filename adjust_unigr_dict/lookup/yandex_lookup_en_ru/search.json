@@ -1,0 +1,363 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "search",
+            "pos": "noun",
+            "ts": "sɜːʧ",
+            "tr": [
+                {
+                    "text": "поиск",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "запрос",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "searching"
+                        },
+                        {
+                            "text": "request"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "advanced search",
+                            "tr": [
+                                {
+                                    "text": "расширенный поиск"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "binary search algorithm",
+                            "tr": [
+                                {
+                                    "text": "алгоритм двоичного поиска"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "search engine result",
+                            "tr": [
+                                {
+                                    "text": "результат поиска"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "search for real estate",
+                            "tr": [
+                                {
+                                    "text": "поиск недвижимости"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "search for dark matter",
+                            "tr": [
+                                {
+                                    "text": "поиск темной материи"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "search of potential clients",
+                            "tr": [
+                                {
+                                    "text": "поиск потенциальных клиентов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "search for new solutions",
+                            "tr": [
+                                {
+                                    "text": "поиск новых решений"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "job search assistance",
+                            "tr": [
+                                {
+                                    "text": "помощь в поиске работы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "search for missing people",
+                            "tr": [
+                                {
+                                    "text": "поиск пропавших людей"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "search criterion",
+                            "tr": [
+                                {
+                                    "text": "критерий поиска"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обыск",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "досмотр",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "frisk"
+                        },
+                        {
+                            "text": "inspection"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "illegal search",
+                            "tr": [
+                                {
+                                    "text": "незаконный обыск"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "розыск",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "investigation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "international search",
+                            "tr": [
+                                {
+                                    "text": "международный розыск"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "искание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "quest"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "search for truth",
+                            "tr": [
+                                {
+                                    "text": "искание истины"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "перебор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "enumeration"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "exhaustive search",
+                            "tr": [
+                                {
+                                    "text": "полный перебор"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "search",
+            "pos": "verb",
+            "ts": "sɜːʧ",
+            "tr": [
+                {
+                    "text": "искать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "найти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поискать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отыскивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "look"
+                        },
+                        {
+                            "text": "find"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "search for information",
+                            "tr": [
+                                {
+                                    "text": "искать информацию"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "search online",
+                            "tr": [
+                                {
+                                    "text": "поискать в интернете"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обыскивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обыскать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обшарить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ransack"
+                        },
+                        {
+                            "text": "rummage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "search the building",
+                            "tr": [
+                                {
+                                    "text": "обыскивать здание"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "search the house",
+                            "tr": [
+                                {
+                                    "text": "обыскать дом"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "исследовать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "explore"
+                        }
+                    ]
+                },
+                {
+                    "text": "разыскивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "look"
+                        }
+                    ]
+                },
+                {
+                    "text": "производить поиск",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "осуществлять поиск",
+                            "pos": "verb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "search",
+            "pos": "adjective",
+            "ts": "sɜːʧ",
+            "tr": [
+                {
+                    "text": "поисковый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "розыскной",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "searching"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "search engine",
+                            "tr": [
+                                {
+                                    "text": "поисковый механизм"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

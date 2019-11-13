@@ -1,0 +1,304 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "drink",
+            "pos": "verb",
+            "ts": "drɪŋk",
+            "fl": "drank, drunk",
+            "tr": [
+                {
+                    "text": "пить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "испить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выпивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выпить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "попить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "употреблять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отпить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "попивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sip"
+                        },
+                        {
+                            "text": "have a drink"
+                        },
+                        {
+                            "text": "have drinks"
+                        },
+                        {
+                            "text": "use"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "drink red wine",
+                            "tr": [
+                                {
+                                    "text": "пить красное вино"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "drink hot chocolate",
+                            "tr": [
+                                {
+                                    "text": "пить горячий шоколад"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "drink daily",
+                            "tr": [
+                                {
+                                    "text": "выпивать ежедневно"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "drink last night",
+                            "tr": [
+                                {
+                                    "text": "выпить вчера"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пьянствовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "booze"
+                        }
+                    ]
+                },
+                {
+                    "text": "напиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "напоить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "напиваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "get drunk"
+                        },
+                        {
+                            "text": "give to drink"
+                        }
+                    ]
+                },
+                {
+                    "text": "запивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "запить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wash"
+                        },
+                        {
+                            "text": "wash down"
+                        }
+                    ]
+                },
+                {
+                    "text": "распивать",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "допить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "finish"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "drink",
+            "pos": "noun",
+            "ts": "drɪŋk",
+            "tr": [
+                {
+                    "text": "питье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "выпивка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "спиртное",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drinking"
+                        },
+                        {
+                            "text": "alcohol"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "warm drink",
+                            "tr": [
+                                {
+                                    "text": "теплое питье"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "free drink",
+                            "tr": [
+                                {
+                                    "text": "бесплатная выпивка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "напиток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "питие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "beverage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "take alcoholic drinks",
+                            "tr": [
+                                {
+                                    "text": "употреблять спиртные напитки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "vending machine for drinks",
+                            "tr": [
+                                {
+                                    "text": "автомат по продаже напитков"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "taste of this drink",
+                            "tr": [
+                                {
+                                    "text": "вкус этого напитка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "глоток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "sip"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "long drink",
+                            "tr": [
+                                {
+                                    "text": "большой глоток"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "алкогольный напиток",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "спиртной напиток",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "alcoholic beverage"
+                        },
+                        {
+                            "text": "spirits"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

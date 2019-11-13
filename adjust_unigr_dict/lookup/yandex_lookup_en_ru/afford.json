@@ -1,0 +1,113 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "afford",
+            "pos": "verb",
+            "ts": "əˈfɔːd",
+            "tr": [
+                {
+                    "text": "давать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "предоставлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "предоставить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обеспечивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "дать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обеспечить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "provide"
+                        },
+                        {
+                            "text": "give"
+                        }
+                    ]
+                },
+                {
+                    "text": "доставлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "доставить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "deliver"
+                        }
+                    ]
+                },
+                {
+                    "text": "позволить себе",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "позволить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "позволять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "позволять себе",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "allow yourself"
+                        },
+                        {
+                            "text": "allow"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "afford",
+            "pos": "particle",
+            "ts": "əˈfɔːd",
+            "tr": [
+                {
+                    "text": "себе",
+                    "pos": "particle",
+                    "mean": [
+                        {
+                            "text": "imagine"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

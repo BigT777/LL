@@ -1,0 +1,203 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "hitch",
+            "pos": "noun",
+            "ts": "hɪʧ",
+            "tr": [
+                {
+                    "text": "заминка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "загвоздка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "зацеп",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "зацепка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "закавыка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hesitation"
+                        },
+                        {
+                            "text": "snag"
+                        },
+                        {
+                            "text": "hook"
+                        },
+                        {
+                            "text": "obstacle"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "small hitch",
+                            "tr": [
+                                {
+                                    "text": "небольшая заминка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "помеха",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "hindrance"
+                        }
+                    ]
+                },
+                {
+                    "text": "сцепка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "сцепное устройство",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "навесное устройство",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "прицепное устройство",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "coupling"
+                        },
+                        {
+                            "text": "coupling device"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hydraulic hitch",
+                            "tr": [
+                                {
+                                    "text": "гидравлическая сцепка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "лунка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "hole"
+                        }
+                    ]
+                },
+                {
+                    "text": "прорыв",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "breakthrough"
+                        }
+                    ]
+                },
+                {
+                    "text": "прицепное приспособление",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "hitch",
+            "pos": "verb",
+            "ts": "hɪʧ",
+            "tr": [
+                {
+                    "text": "подтягивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подтянуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tighten"
+                        },
+                        {
+                            "text": "pull"
+                        }
+                    ]
+                },
+                {
+                    "text": "запрягать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "harness"
+                        }
+                    ]
+                },
+                {
+                    "text": "прицепить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "цеплять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "прицеплять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hook"
+                        }
+                    ]
+                },
+                {
+                    "text": "прицепиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "cling"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

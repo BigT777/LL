@@ -1,0 +1,114 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "squeak",
+            "pos": "noun",
+            "ts": "skwiːk",
+            "tr": [
+                {
+                    "text": "скрип",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "писк",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "визг",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "creak"
+                        },
+                        {
+                            "text": "squeaking"
+                        },
+                        {
+                            "text": "squeal"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shrill squeak",
+                            "tr": [
+                                {
+                                    "text": "пронзительный писк"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "squeak",
+            "pos": "verb",
+            "ts": "skwiːk",
+            "tr": [
+                {
+                    "text": "пропищать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "пищать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пискнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "визжать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "beep"
+                        },
+                        {
+                            "text": "squeal"
+                        }
+                    ]
+                },
+                {
+                    "text": "скрипеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заскрипеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "скрипнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "поскрипывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "creak"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

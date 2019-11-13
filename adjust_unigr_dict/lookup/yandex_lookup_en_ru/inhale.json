@@ -1,0 +1,111 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "inhale",
+            "pos": "verb",
+            "ts": "ɪnˈheɪl",
+            "tr": [
+                {
+                    "text": "вдыхать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вдохнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "надышаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "breathe"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "inhaled air",
+                            "tr": [
+                                {
+                                    "text": "вдыхаемый воздух"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "inhale deeply",
+                            "tr": [
+                                {
+                                    "text": "вдохнуть глубоко"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "затягиваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "затянуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tighten"
+                        },
+                        {
+                            "text": "drag out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "inhale",
+            "pos": "noun",
+            "ts": "ɪnˈheɪl",
+            "tr": [
+                {
+                    "text": "вдох",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "вдыхание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "breathe"
+                        }
+                    ]
+                },
+                {
+                    "text": "ингаляции",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "затяжка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "puff"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "continue",
+            "pos": "verb",
+            "ts": "kənˈtɪnjuː",
+            "tr": [
+                {
+                    "text": "продолжать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "продолжаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "продолжить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "продолжиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "go on"
+                        },
+                        {
+                            "text": "proceed"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "continue work",
+                            "tr": [
+                                {
+                                    "text": "продолжать работу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "continuing decline",
+                            "tr": [
+                                {
+                                    "text": "продолжающееся снижение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "continue the tradition",
+                            "tr": [
+                                {
+                                    "text": "продолжить традицию"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "оставаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сохраниться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "остаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сохранять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "сохранить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "remain"
+                        },
+                        {
+                            "text": "keep"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "continuing importance",
+                            "tr": [
+                                {
+                                    "text": "сохраняющееся важное значение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "длиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "last"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "continue",
+            "pos": "adverb",
+            "ts": "kənˈtɪnjuː",
+            "tr": [
+                {
+                    "text": "дальше",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "далее",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "further"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

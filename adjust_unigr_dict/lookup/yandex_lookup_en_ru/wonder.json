@@ -1,0 +1,263 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "wonder",
+            "pos": "noun",
+            "ts": "ˈwʌndə",
+            "tr": [
+                {
+                    "text": "чудо",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "диво",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "знамение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "miracle"
+                        },
+                        {
+                            "text": "sign"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "work wonders",
+                            "tr": [
+                                {
+                                    "text": "творить чудеса"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "удивление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "изумление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "недоумение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "surprise"
+                        },
+                        {
+                            "text": "amazement"
+                        }
+                    ]
+                },
+                {
+                    "text": "интерес",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "interest"
+                        }
+                    ]
+                },
+                {
+                    "text": "диковинка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "curiosity"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "wonder",
+            "pos": "verb",
+            "ts": "ˈwʌndə",
+            "tr": [
+                {
+                    "text": "удивляться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "недоумевать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "дивиться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "поражаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "изумляться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "marvel"
+                        },
+                        {
+                            "text": "amaze"
+                        }
+                    ]
+                },
+                {
+                    "text": "интересоваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "задавать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "задавать вопрос",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "задаться вопросом",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "поинтересоваться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "спрашивать себя",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ask"
+                        },
+                        {
+                            "text": "ask a question"
+                        },
+                        {
+                            "text": "ask ourselves"
+                        }
+                    ]
+                },
+                {
+                    "text": "сомневаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "doubt"
+                        }
+                    ]
+                },
+                {
+                    "text": "удивиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "удивлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "удивить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "surprise"
+                        }
+                    ]
+                },
+                {
+                    "text": "задумываться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "размышлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "think"
+                        }
+                    ]
+                },
+                {
+                    "text": "интересовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "interest"
+                        }
+                    ]
+                },
+                {
+                    "text": "гадать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "guess"
+                        }
+                    ]
+                },
+                {
+                    "text": "хотите знать",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "wonder",
+            "pos": "predicative",
+            "ts": "ˈwʌndə",
+            "tr": [
+                {
+                    "text": "неудивительно",
+                    "pos": "predicative",
+                    "mean": [
+                        {
+                            "text": "no wonder"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

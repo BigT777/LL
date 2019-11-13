@@ -1,0 +1,186 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "poison",
+            "pos": "noun",
+            "ts": "ˈpɔɪzn",
+            "tr": [
+                {
+                    "text": "яд",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "отрава",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "ядовитые вещества",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "токсин",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "venom"
+                        },
+                        {
+                            "text": "bane"
+                        },
+                        {
+                            "text": "toxins"
+                        },
+                        {
+                            "text": "toxin"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rat poison",
+                            "tr": [
+                                {
+                                    "text": "крысиный яд"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sweet poison",
+                            "tr": [
+                                {
+                                    "text": "сладкая отрава"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отравление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "poisoning"
+                        }
+                    ]
+                },
+                {
+                    "text": "отравляющее вещество",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "poisonous substance"
+                        }
+                    ]
+                },
+                {
+                    "text": "зелье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "potion"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "poison",
+            "pos": "verb",
+            "ts": "ˈpɔɪzn",
+            "tr": [
+                {
+                    "text": "отравлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отравиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отравить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "травить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "потравить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "contaminate"
+                        },
+                        {
+                            "text": "poison herself"
+                        },
+                        {
+                            "text": "hunt"
+                        },
+                        {
+                            "text": "ease"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "poison the atmosphere",
+                            "tr": [
+                                {
+                                    "text": "отравлять атмосферу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "poison the water",
+                            "tr": [
+                                {
+                                    "text": "отравить воду"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "poison",
+            "pos": "adjective",
+            "ts": "ˈpɔɪzn",
+            "tr": [
+                {
+                    "text": "ядовитый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "poisonous"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cloud of poison gas",
+                            "tr": [
+                                {
+                                    "text": "облако ядовитого газа"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

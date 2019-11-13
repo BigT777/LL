@@ -1,0 +1,227 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sneak",
+            "pos": "noun",
+            "ts": "sniːk",
+            "tr": [
+                {
+                    "text": "подлец",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "scoundrel"
+                        }
+                    ]
+                },
+                {
+                    "text": "ябеда",
+                    "pos": "noun",
+                    "gen": "м,ж",
+                    "mean": [
+                        {
+                            "text": "informer"
+                        }
+                    ]
+                },
+                {
+                    "text": "воришка",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "thief"
+                        }
+                    ]
+                },
+                {
+                    "text": "подлиза",
+                    "pos": "noun",
+                    "gen": "м,ж",
+                    "mean": [
+                        {
+                            "text": "creep"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sneak",
+            "pos": "verb",
+            "ts": "sniːk",
+            "tr": [
+                {
+                    "text": "прокрасться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "подкрасться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пробираться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подкрадываться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "красться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "прокрадываться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "creep"
+                        },
+                        {
+                            "text": "wade"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sneak around",
+                            "tr": [
+                                {
+                                    "text": "прокрасться вокруг"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "проникнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "проникать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "penetrate"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sneak inside",
+                            "tr": [
+                                {
+                                    "text": "проникнуть внутрь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "улизнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выскользнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "ускользать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "slip away"
+                        },
+                        {
+                            "text": "slip"
+                        }
+                    ]
+                },
+                {
+                    "text": "стащить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "украсть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "steal"
+                        }
+                    ]
+                },
+                {
+                    "text": "шнырять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "dart"
+                        }
+                    ]
+                },
+                {
+                    "text": "тайком пробираться",
+                    "pos": "verb"
+                },
+                {
+                    "text": "увиливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "elude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sneak",
+            "pos": "adverb",
+            "ts": "sniːk",
+            "tr": [
+                {
+                    "text": "украдкой",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "незаметно",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "steal"
+                        },
+                        {
+                            "text": "slip"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

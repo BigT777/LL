@@ -1,0 +1,87 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "cyclist",
+            "pos": "noun",
+            "ts": "ˈsaɪklɪst",
+            "tr": [
+                {
+                    "text": "велосипедист",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "мотоциклист",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "велосипедистка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bicyclist"
+                        },
+                        {
+                            "text": "motorcyclist"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "avid cyclist",
+                            "tr": [
+                                {
+                                    "text": "заядлый велосипедист"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "велосипед",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "bike"
+                        }
+                    ]
+                },
+                {
+                    "text": "велогонщик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "гонщик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bicycle racer"
+                        },
+                        {
+                            "text": "racer"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "professional cyclist",
+                            "tr": [
+                                {
+                                    "text": "профессиональный велогонщик"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

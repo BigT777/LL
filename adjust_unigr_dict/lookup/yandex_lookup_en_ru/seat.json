@@ -1,0 +1,282 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "seat",
+            "pos": "noun",
+            "ts": "siːt",
+            "tr": [
+                {
+                    "text": "кресло",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "стул",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "chair"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "child safety seat",
+                            "tr": [
+                                {
+                                    "text": "детское кресло"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "infant car seat",
+                            "tr": [
+                                {
+                                    "text": "детское автомобильное кресло"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "empty seat",
+                            "tr": [
+                                {
+                                    "text": "пустой стул"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сиденье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "седло",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "посадочное место",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "сидение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "seating"
+                        },
+                        {
+                            "text": "saddle"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "back seat",
+                            "tr": [
+                                {
+                                    "text": "заднее сиденье"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "valve seat",
+                            "tr": [
+                                {
+                                    "text": "седло клапана"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "front passenger seat",
+                            "tr": [
+                                {
+                                    "text": "переднее пассажирское сидение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "местонахождение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "место",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "location"
+                        },
+                        {
+                            "text": "place"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "permanent seat",
+                            "tr": [
+                                {
+                                    "text": "постоянное местонахождение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "driver's seat",
+                            "tr": [
+                                {
+                                    "text": "место водителя"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "седалище",
+                    "pos": "noun",
+                    "gen": "ср"
+                },
+                {
+                    "text": "мандат",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "mandate"
+                        }
+                    ]
+                },
+                {
+                    "text": "место для сидения",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "seating position"
+                        }
+                    ]
+                },
+                {
+                    "text": "скамья",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "bench"
+                        }
+                    ]
+                },
+                {
+                    "text": "местопребывание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "residence"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "seat of government",
+                            "tr": [
+                                {
+                                    "text": "местопребывание правительства"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "место в парламенте",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "seat in parliament"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "seat",
+            "pos": "verb",
+            "ts": "siːt",
+            "tr": [
+                {
+                    "text": "вмещать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разместиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "accommodate"
+                        },
+                        {
+                            "text": "locate"
+                        }
+                    ]
+                },
+                {
+                    "text": "усаживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сесть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "усесться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "усадить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "восседать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sit"
+                        }
+                    ]
+                },
+                {
+                    "text": "рассаживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "рассадить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

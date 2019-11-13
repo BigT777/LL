@@ -1,0 +1,41 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "кузнечный цех",
+            "pos": "noun",
+            "tr": [
+                {
+                    "text": "martellerie",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "кузница"
+                        }
+                    ]
+                },
+                {
+                    "text": "forgerie",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "forge",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "кузница"
+                        },
+                        {
+                            "text": "кузня"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

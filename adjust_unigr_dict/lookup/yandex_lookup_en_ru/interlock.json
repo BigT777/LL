@@ -1,0 +1,94 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "interlock",
+            "pos": "verb",
+            "ts": "ɪntəˈlɒk",
+            "tr": [
+                {
+                    "text": "блокировать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "lock"
+                        }
+                    ]
+                },
+                {
+                    "text": "переплести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "bind"
+                        }
+                    ]
+                },
+                {
+                    "text": "соединяться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "connect"
+                        }
+                    ]
+                },
+                {
+                    "text": "сцепляться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "mesh"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "interlock",
+            "pos": "noun",
+            "ts": "ɪntəˈlɒk",
+            "tr": [
+                {
+                    "text": "взаимная блокировка",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "deadlock"
+                        }
+                    ]
+                },
+                {
+                    "text": "блокировочное устройство",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "блокирующее устройство",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "locking device"
+                        },
+                        {
+                            "text": "locking"
+                        }
+                    ]
+                },
+                {
+                    "text": "замковое соединение",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "lock connection"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

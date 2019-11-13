@@ -1,0 +1,46 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "бегать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "courir",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "fuir",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "бежать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "много бегать",
+                            "tr": [
+                                {
+                                    "text": "courir beaucoup"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "éviter",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "обходить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

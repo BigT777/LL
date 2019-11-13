@@ -1,0 +1,50 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "увлажнить",
+            "pos": "verb",
+            "asp": "сов",
+            "tr": [
+                {
+                    "text": "hydrater",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "увлажнять"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "оставаться увлажненной",
+                            "tr": [
+                                {
+                                    "text": "rester hydraté"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "humidifier",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "humecter",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "mouiller",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "смочить"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

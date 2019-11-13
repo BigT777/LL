@@ -1,0 +1,86 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "drool",
+            "pos": "noun",
+            "ts": "druːl",
+            "tr": [
+                {
+                    "text": "чепуха",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "чушь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "nonsense"
+                        }
+                    ]
+                },
+                {
+                    "text": "слюна",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "слюни",
+                            "pos": "noun",
+                            "gen": "м",
+                            "num": "мн"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "saliva"
+                        },
+                        {
+                            "text": "slobber"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "drool",
+            "pos": "verb",
+            "ts": "druːl",
+            "tr": [
+                {
+                    "text": "течь",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "flow"
+                        }
+                    ]
+                },
+                {
+                    "text": "пускать слюни",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "пускать слюну",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "slobber"
+                        }
+                    ]
+                },
+                {
+                    "text": "нести чепуху",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

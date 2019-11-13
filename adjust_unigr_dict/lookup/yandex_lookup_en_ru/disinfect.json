@@ -1,0 +1,71 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "disinfect",
+            "pos": "verb",
+            "ts": "dɪsɪnˈfekt",
+            "tr": [
+                {
+                    "text": "дезинфицировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "обеззараживать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "продезинфицировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обеззаразить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sanitize"
+                        },
+                        {
+                            "text": "decontaminate"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "disinfect water",
+                            "tr": [
+                                {
+                                    "text": "обеззараживать воду"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вылечить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "лечить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cure"
+                        },
+                        {
+                            "text": "treat"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

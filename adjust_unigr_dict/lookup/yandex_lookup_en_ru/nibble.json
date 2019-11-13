@@ -1,0 +1,165 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "nibble",
+            "pos": "verb",
+            "ts": "nɪbl",
+            "tr": [
+                {
+                    "text": "грызть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обгрызать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "погрызть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обгрызть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "gnaw"
+                        }
+                    ]
+                },
+                {
+                    "text": "щипать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "пощипывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пощипать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pinch"
+                        }
+                    ]
+                },
+                {
+                    "text": "откусывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "откусить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "куснуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "надкусить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bite"
+                        },
+                        {
+                            "text": "take a bite"
+                        }
+                    ]
+                },
+                {
+                    "text": "клевать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "peck"
+                        }
+                    ]
+                },
+                {
+                    "text": "покусывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "кусать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вгрызаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bite"
+                        }
+                    ]
+                },
+                {
+                    "text": "лузгать",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "nibble",
+            "pos": "noun",
+            "ts": "nɪbl",
+            "tr": [
+                {
+                    "text": "клев",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "bite"
+                        }
+                    ]
+                },
+                {
+                    "text": "полубайт",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "откусывание",
+                    "pos": "noun",
+                    "gen": "ср"
+                },
+                {
+                    "text": "кусочек",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "bit"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

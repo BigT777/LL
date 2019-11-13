@@ -1,0 +1,190 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "plough",
+            "pos": "verb",
+            "ts": "plaʊ",
+            "tr": [
+                {
+                    "text": "пахать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "бороздить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вспахивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вспахать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "распахать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пропахать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "plow"
+                        },
+                        {
+                            "text": "furrow"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "plough the ground",
+                            "tr": [
+                                {
+                                    "text": "пахать землю"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "распахивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "open"
+                        }
+                    ]
+                },
+                {
+                    "text": "вкладывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "invest"
+                        }
+                    ]
+                },
+                {
+                    "text": "пропахивать",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "plough",
+            "pos": "noun",
+            "ts": "plaʊ",
+            "tr": [
+                {
+                    "text": "плуг",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "снегоочиститель",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "отвал",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "соха",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "plow"
+                        },
+                        {
+                            "text": "blade"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "reversible plough",
+                            "tr": [
+                                {
+                                    "text": "оборотный плуг"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пашня",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "arable"
+                        }
+                    ]
+                },
+                {
+                    "text": "вспашка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "пахота",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ploughing"
+                        }
+                    ]
+                },
+                {
+                    "text": "Струг",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        },
+        {
+            "text": "plough",
+            "pos": "adjective",
+            "ts": "plaʊ",
+            "tr": [
+                {
+                    "text": "пахотный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "arable"
+                        }
+                    ]
+                },
+                {
+                    "text": "струговой",
+                    "pos": "adjective"
+                },
+                {
+                    "text": "плужный",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

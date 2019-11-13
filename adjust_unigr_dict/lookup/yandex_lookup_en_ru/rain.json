@@ -1,0 +1,184 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "rain",
+            "pos": "noun",
+            "ts": "reɪn",
+            "tr": [
+                {
+                    "text": "дождь",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "ливень",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "дождик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rainfall"
+                        },
+                        {
+                            "text": "drizzle"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "acid rain",
+                            "tr": [
+                                {
+                                    "text": "кислотный дождь"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "heavy rain shower",
+                            "tr": [
+                                {
+                                    "text": "сильный дождь"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "warm summer rain",
+                            "tr": [
+                                {
+                                    "text": "теплый летний дождь"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "autumn rain",
+                            "tr": [
+                                {
+                                    "text": "осенний дождик"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "град",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "hail"
+                        }
+                    ]
+                },
+                {
+                    "text": "дождевая вода",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "rainwater"
+                        }
+                    ]
+                },
+                {
+                    "text": "дождевик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "raincoat"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "rain",
+            "pos": "verb",
+            "ts": "reɪn",
+            "tr": [
+                {
+                    "text": "лить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сыпать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "литься",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pour"
+                        },
+                        {
+                            "text": "spill"
+                        }
+                    ]
+                },
+                {
+                    "text": "лить дождь",
+                    "pos": "verb"
+                },
+                {
+                    "text": "осыпать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "shower"
+                        }
+                    ]
+                },
+                {
+                    "text": "литься дождем",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "rain",
+            "pos": "adjective",
+            "ts": "reɪn",
+            "tr": [
+                {
+                    "text": "дождевой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "ливневый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rainfall"
+                        },
+                        {
+                            "text": "storm"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tropical rain forest",
+                            "tr": [
+                                {
+                                    "text": "тропический дождевой лес"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

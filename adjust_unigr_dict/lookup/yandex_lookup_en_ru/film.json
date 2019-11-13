@@ -1,0 +1,316 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "film",
+            "pos": "noun",
+            "ts": "fɪlm",
+            "tr": [
+                {
+                    "text": "фильм",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "кинофильм",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "художественный фильм",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "кинолента",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "кинокартина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "movie"
+                        },
+                        {
+                            "text": "feature film"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "children's film",
+                            "tr": [
+                                {
+                                    "text": "детский фильм"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "full length documentary film",
+                            "tr": [
+                                {
+                                    "text": "полнометражный документальный фильм"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "showing of this film",
+                            "tr": [
+                                {
+                                    "text": "показ этого фильма"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "new films",
+                            "tr": [
+                                {
+                                    "text": "новые киноленты"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пленка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "фотопленка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "кинопленка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "лента",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tape"
+                        },
+                        {
+                            "text": "photographic"
+                        },
+                        {
+                            "text": "celluloid"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "protective film",
+                            "tr": [
+                                {
+                                    "text": "защитная пленка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "dry film thickness",
+                            "tr": [
+                                {
+                                    "text": "толщина сухой пленки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "thin polymer film",
+                            "tr": [
+                                {
+                                    "text": "тонкая полимерная пленка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "colour film",
+                            "tr": [
+                                {
+                                    "text": "цветная фотопленка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "кино",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "кинематография",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "киноискусство",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cinema"
+                        },
+                        {
+                            "text": "cinematography"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "silent film actor",
+                            "tr": [
+                                {
+                                    "text": "актер немого кино"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "картина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "picture"
+                        }
+                    ]
+                },
+                {
+                    "text": "кинорежиссер",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "film director"
+                        }
+                    ]
+                },
+                {
+                    "text": "съемки",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "киноиндустрия",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "film industry"
+                        }
+                    ]
+                },
+                {
+                    "text": "кинокомпания",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "film company"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "film",
+            "pos": "verb",
+            "ts": "fɪlm",
+            "tr": [
+                {
+                    "text": "снимать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сниматься",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "снять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "заснять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shoot"
+                        },
+                        {
+                            "text": "photograph"
+                        }
+                    ]
+                },
+                {
+                    "text": "снимать фильм",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "make a film"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "film",
+            "pos": "adjective",
+            "ts": "fɪlm",
+            "tr": [
+                {
+                    "text": "пленочный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "кинематографический",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "foil"
+                        },
+                        {
+                            "text": "cinema"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "film material",
+                            "tr": [
+                                {
+                                    "text": "пленочный материал"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "film prize",
+                            "tr": [
+                                {
+                                    "text": "кинематографическая премия"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

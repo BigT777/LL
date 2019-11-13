@@ -1,0 +1,81 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "peur",
+            "pos": "noun",
+            "gen": "f",
+            "ts": "pœʁ",
+            "tr": [
+                {
+                    "text": "fear",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "fright",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "dread",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "craindre"
+                        },
+                        {
+                            "text": "effroi"
+                        },
+                        {
+                            "text": "redouter"
+                        }
+                    ]
+                },
+                {
+                    "text": "afraid",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "craindre"
+                        }
+                    ]
+                },
+                {
+                    "text": "scare",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "frighten",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "effrayer"
+                        }
+                    ]
+                },
+                {
+                    "text": "scared",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "frightened",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "fearful",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "effrayer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

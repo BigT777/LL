@@ -1,0 +1,252 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "number",
+            "pos": "noun",
+            "ts": "ˈnʌmbə",
+            "tr": [
+                {
+                    "text": "число",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "количество",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "ряд",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "цифра",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "quantity"
+                        },
+                        {
+                            "text": "amount"
+                        },
+                        {
+                            "text": "series"
+                        },
+                        {
+                            "text": "figure"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "average number",
+                            "tr": [
+                                {
+                                    "text": "среднее число"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "main quantum number",
+                            "tr": [
+                                {
+                                    "text": "главное квантовое число"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "total acid number",
+                            "tr": [
+                                {
+                                    "text": "общее кислотное число"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "algebraic number theory",
+                            "tr": [
+                                {
+                                    "text": "алгебраическая теория чисел"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fairly large number",
+                            "tr": [
+                                {
+                                    "text": "достаточно большое количество"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "number of cases",
+                            "tr": [
+                                {
+                                    "text": "ряд случаев"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "decimal number",
+                            "tr": [
+                                {
+                                    "text": "десятичная цифра"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "номер",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "порядковый номер",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "room"
+                        },
+                        {
+                            "text": "serial number"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "personal identification number",
+                            "tr": [
+                                {
+                                    "text": "персональный идентификационный номер"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "social security number",
+                            "tr": [
+                                {
+                                    "text": "номер социального страхования"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "transaction sequence number",
+                            "tr": [
+                                {
+                                    "text": "порядковый номер транзакции"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "численность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "population"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "number",
+            "pos": "verb",
+            "ts": "ˈnʌmbə",
+            "tr": [
+                {
+                    "text": "насчитывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "total"
+                        }
+                    ]
+                },
+                {
+                    "text": "нумеровать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "пронумеровать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "enumerate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "number",
+            "pos": "adjective",
+            "ts": "ˈnʌmbə",
+            "tr": [
+                {
+                    "text": "цифровой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "числовой",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "numeric"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "number format",
+                            "tr": [
+                                {
+                                    "text": "числовой формат"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "номерной",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "numbered"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "number",
+            "pos": "numeral",
+            "ts": "ˈnʌmbə",
+            "tr": [
+                {
+                    "text": "несколько",
+                    "pos": "numeral",
+                    "mean": [
+                        {
+                            "text": "few"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

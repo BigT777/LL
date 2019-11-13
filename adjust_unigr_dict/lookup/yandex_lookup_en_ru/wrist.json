@@ -1,0 +1,97 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "wrist",
+            "pos": "noun",
+            "ts": "rɪst",
+            "tr": [
+                {
+                    "text": "запястье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "браслет",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "кисть",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bracelet"
+                        },
+                        {
+                            "text": "brush"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "left wrist",
+                            "tr": [
+                                {
+                                    "text": "левое запястье"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "запястье руки",
+                    "pos": "noun"
+                },
+                {
+                    "text": "манжета",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "cuff"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "wrist",
+            "pos": "adjective",
+            "ts": "rɪst",
+            "tr": [
+                {
+                    "text": "наручный",
+                    "pos": "adjective",
+                    "ex": [
+                        {
+                            "text": "wrist watch",
+                            "tr": [
+                                {
+                                    "text": "наручные часы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "лучезапястный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "запястный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "carpal"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

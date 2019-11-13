@@ -1,0 +1,296 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fault",
+            "pos": "noun",
+            "ts": "fɔːlt",
+            "tr": [
+                {
+                    "text": "ошибка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "дефект",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "сбой",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "порок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "недоработка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "error"
+                        },
+                        {
+                            "text": "defect"
+                        },
+                        {
+                            "text": "failure"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "general protection fault",
+                            "tr": [
+                                {
+                                    "text": "общая ошибка защиты"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "serious fault",
+                            "tr": [
+                                {
+                                    "text": "серьезный дефект"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "hardware fault",
+                            "tr": [
+                                {
+                                    "text": "аппаратный сбой"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "проступок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "провинность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "misconduct"
+                        },
+                        {
+                            "text": "offence"
+                        }
+                    ]
+                },
+                {
+                    "text": "вина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "guilt"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "proof of fault",
+                            "tr": [
+                                {
+                                    "text": "доказательство вины"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "неисправность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "неполадка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "malfunction"
+                        }
+                    ]
+                },
+                {
+                    "text": "недостаток",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "огрех",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lack"
+                        },
+                        {
+                            "text": "flaw"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "common fault",
+                            "tr": [
+                                {
+                                    "text": "общий недостаток"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "повреждение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "damage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fault current",
+                            "tr": [
+                                {
+                                    "text": "ток повреждения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "замыкание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "короткое замыкание",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "circuit"
+                        },
+                        {
+                            "text": "short circuit"
+                        }
+                    ]
+                },
+                {
+                    "text": "разлом",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "rift"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "deep fault",
+                            "tr": [
+                                {
+                                    "text": "глубинный разлом"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отказ",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "failure"
+                        }
+                    ]
+                },
+                {
+                    "text": "перебой",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "interruption"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fault",
+            "pos": "verb",
+            "ts": "fɔːlt",
+            "tr": [
+                {
+                    "text": "придираться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "придраться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "carp"
+                        }
+                    ]
+                },
+                {
+                    "text": "винить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "blame"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fault",
+            "pos": "adjective",
+            "ts": "fɔːlt",
+            "tr": [
+                {
+                    "text": "виноватый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "guilty"
+                        }
+                    ]
+                },
+                {
+                    "text": "разломный",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

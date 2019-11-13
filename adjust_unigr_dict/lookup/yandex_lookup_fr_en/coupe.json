@@ -1,0 +1,85 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "coupe",
+            "pos": "noun",
+            "gen": "f",
+            "ts": "kup",
+            "tr": [
+                {
+                    "text": "cut",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "cutting",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "cutter",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "couper"
+                        },
+                        {
+                            "text": "découpage"
+                        },
+                        {
+                            "text": "coupeur"
+                        }
+                    ]
+                },
+                {
+                    "text": "cup",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "tasse"
+                        }
+                    ]
+                },
+                {
+                    "text": "trim",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "égaliser"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "coupé",
+            "pos": "noun",
+            "ts": "kupe",
+            "tr": [
+                {
+                    "text": "coupe",
+                    "pos": "noun"
+                },
+                {
+                    "text": "cut",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "cutting",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "couper"
+                        },
+                        {
+                            "text": "coupe"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "mimic",
+            "pos": "verb",
+            "ts": "ˈmɪmɪk",
+            "tr": [
+                {
+                    "text": "передразнивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "имитировать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подражать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "передразнить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сымитировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "симулировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "imitate"
+                        },
+                        {
+                            "text": "simulate"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "mimic nature",
+                            "tr": [
+                                {
+                                    "text": "подражать природе"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пародировать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "parody"
+                        }
+                    ]
+                },
+                {
+                    "text": "изобразить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "изображать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "depict"
+                        },
+                        {
+                            "text": "portray"
+                        }
+                    ]
+                },
+                {
+                    "text": "копировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "воспроизводить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "replicate"
+                        },
+                        {
+                            "text": "reproduce"
+                        }
+                    ]
+                },
+                {
+                    "text": "мимикрировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "mimicry"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mimic",
+            "pos": "noun",
+            "ts": "ˈmɪmɪk",
+            "tr": [
+                {
+                    "text": "имитатор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "подражатель",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "simulator"
+                        },
+                        {
+                            "text": "imitator"
+                        }
+                    ]
+                },
+                {
+                    "text": "мимика",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "facial expression"
+                        }
+                    ]
+                },
+                {
+                    "text": "мнемосхема",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "mnemonic"
+                        }
+                    ]
+                },
+                {
+                    "text": "подражание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "imitate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mimic",
+            "pos": "adjective",
+            "ts": "ˈmɪmɪk",
+            "tr": [
+                {
+                    "text": "подражательный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "мимический",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "imitative"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

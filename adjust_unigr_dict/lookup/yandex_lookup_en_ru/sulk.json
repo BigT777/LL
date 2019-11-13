@@ -1,0 +1,69 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sulk",
+            "pos": "noun",
+            "ts": "sʌlk",
+            "tr": [
+                {
+                    "text": "дурное настроение",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "плохое настроение",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bad mood"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sulk",
+            "pos": "verb",
+            "ts": "sʌlk",
+            "tr": [
+                {
+                    "text": "надуться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "pout"
+                        }
+                    ]
+                },
+                {
+                    "text": "дуться",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "сердиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "angry"
+                        }
+                    ]
+                },
+                {
+                    "text": "хандрить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "mope"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

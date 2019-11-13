@@ -1,0 +1,46 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "pay in",
+            "pos": "verb",
+            "ts": "peɪ ɪn",
+            "tr": [
+                {
+                    "text": "платить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заплатить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pay"
+                        }
+                    ]
+                },
+                {
+                    "text": "внести",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "вносить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "contribute"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

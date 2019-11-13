@@ -1,0 +1,333 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "extract",
+            "pos": "verb",
+            "ts": "ˈekstrækt",
+            "tr": [
+                {
+                    "text": "извлечь",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "извлекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "экстрагировать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "удалять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "remove"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "extract the contents",
+                            "tr": [
+                                {
+                                    "text": "извлечь содержимое"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "extract teeth",
+                            "tr": [
+                                {
+                                    "text": "удалять зубы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "добывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "добыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "produce"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "extract salt",
+                            "tr": [
+                                {
+                                    "text": "добывать соль"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "extract gold",
+                            "tr": [
+                                {
+                                    "text": "добыть золото"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выделить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выделять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "allocate"
+                        }
+                    ]
+                },
+                {
+                    "text": "распаковать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "распаковывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "разархивировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "unpack"
+                        },
+                        {
+                            "text": "unzip"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "extract files",
+                            "tr": [
+                                {
+                                    "text": "распаковывать файлы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вытащить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "вынуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выудить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pull"
+                        },
+                        {
+                            "text": "fish"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "extract",
+            "pos": "noun",
+            "ts": "ˈekstrækt",
+            "tr": [
+                {
+                    "text": "экстракт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "настой",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "essence"
+                        },
+                        {
+                            "text": "infusion"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "plant extract",
+                            "tr": [
+                                {
+                                    "text": "растительный экстракт"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "green tea extract",
+                            "tr": [
+                                {
+                                    "text": "экстракт зеленого чая"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "horse chestnut extract",
+                            "tr": [
+                                {
+                                    "text": "экстракт конского каштана"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выдержка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "выписка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "excerpt"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "certified extract",
+                            "tr": [
+                                {
+                                    "text": "заверенная выписка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "извлечение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "extraction"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "water extract",
+                            "tr": [
+                                {
+                                    "text": "водные извлечения"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вытяжка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "hood"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "aqueous extract",
+                            "tr": [
+                                {
+                                    "text": "водная вытяжка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "фрагмент",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "отрывок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fragment"
+                        },
+                        {
+                            "text": "excerpt"
+                        }
+                    ]
+                },
+                {
+                    "text": "добыча",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "extraction"
+                        }
+                    ]
+                },
+                {
+                    "text": "распаковка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "unpack"
+                        }
+                    ]
+                },
+                {
+                    "text": "экстрат",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        }
+    ]
+}

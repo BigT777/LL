@@ -1,0 +1,145 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ebb",
+            "pos": "noun",
+            "ts": "eb",
+            "tr": [
+                {
+                    "text": "спад",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "упадок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "recession"
+                        },
+                        {
+                            "text": "decay"
+                        }
+                    ]
+                },
+                {
+                    "text": "отлив",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "tide"
+                        }
+                    ]
+                },
+                {
+                    "text": "приливы",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "ebb",
+            "pos": "verb",
+            "ts": "eb",
+            "tr": [
+                {
+                    "text": "угасать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "затухать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fade away"
+                        },
+                        {
+                            "text": "fade"
+                        }
+                    ]
+                },
+                {
+                    "text": "убывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "subside"
+                        }
+                    ]
+                },
+                {
+                    "text": "ослабевать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ослабеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "weaken"
+                        }
+                    ]
+                },
+                {
+                    "text": "схлынуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "спадать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "subside"
+                        }
+                    ]
+                },
+                {
+                    "text": "отступать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "retreat"
+                        }
+                    ]
+                },
+                {
+                    "text": "отливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отлить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cast"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

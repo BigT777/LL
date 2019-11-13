@@ -1,0 +1,140 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sputter",
+            "pos": "verb",
+            "ts": "ˈspʌtə",
+            "tr": [
+                {
+                    "text": "брызгать слюной",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "плеваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "брызгать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spit"
+                        },
+                        {
+                            "text": "splash"
+                        }
+                    ]
+                },
+                {
+                    "text": "шипеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "трещать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hiss"
+                        },
+                        {
+                            "text": "crackle"
+                        }
+                    ]
+                },
+                {
+                    "text": "напылять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "распылять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spray"
+                        }
+                    ]
+                },
+                {
+                    "text": "бормотать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "лепетать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mutter"
+                        },
+                        {
+                            "text": "babble"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sputter",
+            "pos": "noun",
+            "ts": "ˈspʌtə",
+            "tr": [
+                {
+                    "text": "шипение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "hiss"
+                        }
+                    ]
+                },
+                {
+                    "text": "напыление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "sputtering"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sputtering process",
+                            "tr": [
+                                {
+                                    "text": "процесс напыления"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "бормотание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "mutter"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

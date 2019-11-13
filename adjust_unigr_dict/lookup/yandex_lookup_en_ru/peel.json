@@ -1,0 +1,281 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "peel",
+            "pos": "noun",
+            "ts": "piːl",
+            "tr": [
+                {
+                    "text": "кожура",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "кожица",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "шелуха",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rind"
+                        },
+                        {
+                            "text": "skin"
+                        },
+                        {
+                            "text": "husk"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "banana peel",
+                            "tr": [
+                                {
+                                    "text": "банановая кожура"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "корка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "корочка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crust"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "orange peel",
+                            "tr": [
+                                {
+                                    "text": "апельсиновая корка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пилинг",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "отшелушивание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "отслаивание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "шелушение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "peeling"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "chemical peel",
+                            "tr": [
+                                {
+                                    "text": "химический пилинг"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "цедра",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "zest"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lemon peel",
+                            "tr": [
+                                {
+                                    "text": "лимонная цедра"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "peel",
+            "pos": "verb",
+            "ts": "piːl",
+            "tr": [
+                {
+                    "text": "очищать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "очистить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "чистить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "почистить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "счищать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cleanse"
+                        },
+                        {
+                            "text": "clean"
+                        },
+                        {
+                            "text": "brush"
+                        }
+                    ]
+                },
+                {
+                    "text": "отслаиваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "облупиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "облезать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "осыпаться",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "облезть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отслоиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "exfoliate"
+                        },
+                        {
+                            "text": "peel off"
+                        },
+                        {
+                            "text": "crumble"
+                        }
+                    ]
+                },
+                {
+                    "text": "слезть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "слезать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "get off"
+                        },
+                        {
+                            "text": "dismount"
+                        }
+                    ]
+                },
+                {
+                    "text": "шелушиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "flake"
+                        }
+                    ]
+                },
+                {
+                    "text": "лупить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "beat"
+                        }
+                    ]
+                },
+                {
+                    "text": "ободрать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "skin"
+                        }
+                    ]
+                },
+                {
+                    "text": "начистить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "polish"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

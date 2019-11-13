@@ -1,0 +1,82 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "поселок",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "village",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "bourg",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "hameau",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "colonie",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "cité",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "село"
+                        },
+                        {
+                            "text": "селение"
+                        },
+                        {
+                            "text": "населенный пункт"
+                        },
+                        {
+                            "text": "городок"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "жилой поселок",
+                            "tr": [
+                                {
+                                    "text": "village résidentiel"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "маленькие поселки",
+                            "tr": [
+                                {
+                                    "text": "petits bourgs"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "canton",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "городок"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

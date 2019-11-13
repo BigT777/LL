@@ -1,0 +1,253 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "backup",
+            "pos": "adjective",
+            "ts": "ˈbækʌp",
+            "tr": [
+                {
+                    "text": "резервный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "запасный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "запасной",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "standby"
+                        },
+                        {
+                            "text": "spare"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "backup copy",
+                            "tr": [
+                                {
+                                    "text": "резервная копия"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "backup domain controller",
+                            "tr": [
+                                {
+                                    "text": "резервный контроллер домена"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "backup power supply",
+                            "tr": [
+                                {
+                                    "text": "резервное электропитание"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "have a backup plan",
+                            "tr": [
+                                {
+                                    "text": "иметь запасной план"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "архивный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "archival"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "backup data",
+                            "tr": [
+                                {
+                                    "text": "архивные данные"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "backup",
+            "pos": "noun",
+            "ts": "ˈbækʌp",
+            "tr": [
+                {
+                    "text": "резервная копия",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "резервное копирование",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "резервирование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "backup copy"
+                        },
+                        {
+                            "text": "backing up"
+                        },
+                        {
+                            "text": "reservation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "automatic backup",
+                            "tr": [
+                                {
+                                    "text": "автоматическое резервирование"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "копирование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "копия",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "copy"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "new backup",
+                            "tr": [
+                                {
+                                    "text": "новая копия"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "архивация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "архивирование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "archiving"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "backup program",
+                            "tr": [
+                                {
+                                    "text": "программа архивации"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "подпорка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "support"
+                        }
+                    ]
+                },
+                {
+                    "text": "создание резервной копии",
+                    "pos": "noun"
+                },
+                {
+                    "text": "резерв",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "standby"
+                        }
+                    ]
+                },
+                {
+                    "text": "дублирование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "duplicate"
+                        }
+                    ]
+                },
+                {
+                    "text": "дублер",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "understudy"
+                        }
+                    ]
+                },
+                {
+                    "text": "резервное хранилище",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "backup storage"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "backup",
+            "pos": "participle",
+            "ts": "ˈbækʌp",
+            "tr": [
+                {
+                    "text": "дублирующий",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "duplicate"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

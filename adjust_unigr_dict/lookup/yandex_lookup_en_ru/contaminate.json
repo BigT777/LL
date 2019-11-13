@@ -1,0 +1,122 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "contaminate",
+            "pos": "verb",
+            "ts": "kənˈtæmɪneɪt",
+            "tr": [
+                {
+                    "text": "загрязнять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "загрязнить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отравлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отравить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "засорять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "засорить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pollute"
+                        },
+                        {
+                            "text": "poison"
+                        },
+                        {
+                            "text": "clog"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "contaminated land",
+                            "tr": [
+                                {
+                                    "text": "загрязненная земля"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "заражать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "инфицировать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "infect"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "contaminated wound",
+                            "tr": [
+                                {
+                                    "text": "инфицированная рана"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "осквернять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "осквернить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "defile"
+                        }
+                    ]
+                },
+                {
+                    "text": "загрязниться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "dirty"
+                        }
+                    ]
+                },
+                {
+                    "text": "контаминировать",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

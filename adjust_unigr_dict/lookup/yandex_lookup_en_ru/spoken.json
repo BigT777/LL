@@ -1,0 +1,102 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "spoken",
+            "pos": "verb",
+            "ts": "ˈspəʊkən",
+            "tr": [
+                {
+                    "text": "произносить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "speak"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "spoken",
+            "pos": "adjective",
+            "ts": "ˈspəʊkən",
+            "tr": [
+                {
+                    "text": "разговорный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "устный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "речевой",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "colloquial"
+                        },
+                        {
+                            "text": "oral"
+                        },
+                        {
+                            "text": "speech"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "spoken",
+            "pos": "participle",
+            "ts": "ˈspəʊkən",
+            "tr": [
+                {
+                    "text": "сказанный",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "произносимый",
+                            "pos": "participle"
+                        },
+                        {
+                            "text": "говоривший",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "said"
+                        },
+                        {
+                            "text": "uttered"
+                        }
+                    ]
+                },
+                {
+                    "text": "высказанный",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "высказывавшийся",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "expressed"
+                        }
+                    ]
+                },
+                {
+                    "text": "разговариваемый",
+                    "pos": "participle"
+                }
+            ]
+        }
+    ]
+}

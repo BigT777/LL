@@ -1,0 +1,305 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "quit",
+            "pos": "verb",
+            "ts": "kwɪt",
+            "fl": "quit/quitted, quit/quitted",
+            "tr": [
+                {
+                    "text": "покидать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "покинуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "abandon"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "quit the band",
+                            "tr": [
+                                {
+                                    "text": "покинуть группу"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "бросать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "бросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "quit school",
+                            "tr": [
+                                {
+                                    "text": "бросать школу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "quit the habit",
+                            "tr": [
+                                {
+                                    "text": "бросить привычку"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "quit college",
+                            "tr": [
+                                {
+                                    "text": "бросить колледж"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "уходить",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "оставлять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "выйти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оставить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "уйти",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "уволиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выходить",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "leave"
+                        },
+                        {
+                            "text": "resign"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "quit the party",
+                            "tr": [
+                                {
+                                    "text": "выйти из партии"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "quit work",
+                            "tr": [
+                                {
+                                    "text": "оставить работу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "quit before",
+                            "tr": [
+                                {
+                                    "text": "уйти прежде"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "quit the company",
+                            "tr": [
+                                {
+                                    "text": "уволиться из компании"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "прекратить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "перестать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прекращать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stop"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "quit a job",
+                            "tr": [
+                                {
+                                    "text": "прекратить работу"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "завершить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "закончить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "заканчивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "finish"
+                        }
+                    ]
+                },
+                {
+                    "text": "закрыть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "shut"
+                        }
+                    ]
+                },
+                {
+                    "text": "бросить курить",
+                    "pos": "verb"
+                },
+                {
+                    "text": "сдаваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сдаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "give up"
+                        }
+                    ]
+                },
+                {
+                    "text": "завязать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "tie"
+                        }
+                    ]
+                },
+                {
+                    "text": "кончать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "end"
+                        }
+                    ]
+                },
+                {
+                    "text": "выбывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "retire"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "quit",
+            "pos": "noun",
+            "ts": "kwɪt",
+            "tr": [
+                {
+                    "text": "уход",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "leaving"
+                        }
+                    ]
+                },
+                {
+                    "text": "увольнение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "dismissal"
+                        }
+                    ]
+                },
+                {
+                    "text": "выход",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "exit"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

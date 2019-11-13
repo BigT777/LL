@@ -1,0 +1,274 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "press",
+            "pos": "verb",
+            "ts": "pres",
+            "tr": [
+                {
+                    "text": "нажимать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "давить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "жать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "прижимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "нажать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прижать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "надавить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вдавить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "надавливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вдавливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "click"
+                        },
+                        {
+                            "text": "push"
+                        },
+                        {
+                            "text": "pin"
+                        },
+                        {
+                            "text": "dent"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "press downward",
+                            "tr": [
+                                {
+                                    "text": "давить вниз"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "press the button",
+                            "tr": [
+                                {
+                                    "text": "нажать кнопку"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отжать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "отжимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wring"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "press the lever",
+                            "tr": [
+                                {
+                                    "text": "отжать рычаг"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "настаивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "insist"
+                        }
+                    ]
+                },
+                {
+                    "text": "потеснить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "squeeze"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "press",
+            "pos": "noun",
+            "ts": "pres",
+            "tr": [
+                {
+                    "text": "печать",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "print"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "national press club",
+                            "tr": [
+                                {
+                                    "text": "национальный клуб печати"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "new press law",
+                            "tr": [
+                                {
+                                    "text": "новый закон о печати"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "нажатие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "pressing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "short press",
+                            "tr": [
+                                {
+                                    "text": "короткое нажатие"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пресс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "baler"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hydraulic press",
+                            "tr": [
+                                {
+                                    "text": "гидравлический пресс"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "давление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "pressure"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "leg press",
+                            "tr": [
+                                {
+                                    "text": "давление ноги"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "журналисты",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "press people"
+                        }
+                    ]
+                },
+                {
+                    "text": "жим",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "bench press"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "press",
+            "pos": "adjective",
+            "ts": "pres",
+            "tr": [
+                {
+                    "text": "прессовый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "pressing"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

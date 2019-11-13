@@ -1,0 +1,49 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "dress",
+            "pos": "noun",
+            "ts": "dres",
+            "tr": [
+                {
+                    "text": "robe",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "gown"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dress",
+            "pos": "verb",
+            "ts": "dres",
+            "tr": [
+                {
+                    "text": "habiller",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "vêtir",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clothing"
+                        }
+                    ]
+                },
+                {
+                    "text": "Dress",
+                    "pos": "noun",
+                    "gen": "m"
+                }
+            ]
+        }
+    ]
+}

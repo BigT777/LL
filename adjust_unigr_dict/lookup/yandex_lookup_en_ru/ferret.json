@@ -1,0 +1,103 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ferret",
+            "pos": "noun",
+            "ts": "ˈferɪt",
+            "tr": [
+                {
+                    "text": "хорек",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "хорь",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "polecat"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "big ferret",
+                            "tr": [
+                                {
+                                    "text": "большой хорек"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ищейка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "bloodhound"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ferret",
+            "pos": "verb",
+            "ts": "ˈferɪt",
+            "tr": [
+                {
+                    "text": "выискивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разыскивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "seek out"
+                        },
+                        {
+                            "text": "search"
+                        }
+                    ]
+                },
+                {
+                    "text": "разнюхивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "разнюхать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "nose"
+                        }
+                    ]
+                },
+                {
+                    "text": "рыться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "search"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

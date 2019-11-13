@@ -1,0 +1,150 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "take off",
+            "pos": "verb",
+            "ts": "teɪk ɒf",
+            "tr": [
+                {
+                    "text": "снять",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "снимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "remove"
+                        }
+                    ]
+                },
+                {
+                    "text": "взлететь",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "взлетать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вылететь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вылетать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "улететь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оторваться от земли",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fly"
+                        },
+                        {
+                            "text": "leave the ground"
+                        }
+                    ]
+                },
+                {
+                    "text": "уходить",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "отправляться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "depart"
+                        }
+                    ]
+                },
+                {
+                    "text": "стартовать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "start"
+                        }
+                    ]
+                },
+                {
+                    "text": "оторваться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "come off"
+                        }
+                    ]
+                },
+                {
+                    "text": "сняться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "withdraw"
+                        }
+                    ]
+                },
+                {
+                    "text": "скинуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "throw"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "take off",
+            "pos": "noun",
+            "ts": "teɪk ɒf",
+            "tr": [
+                {
+                    "text": "взлет",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "вылет",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rise"
+                        },
+                        {
+                            "text": "flight"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

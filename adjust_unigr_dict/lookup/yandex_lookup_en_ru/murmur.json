@@ -1,0 +1,231 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "murmur",
+            "pos": "noun",
+            "ts": "ˈmɜːmə",
+            "tr": [
+                {
+                    "text": "ропот",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "шепот",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "шелест",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "шорох",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "говор",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grumble"
+                        },
+                        {
+                            "text": "whisper"
+                        },
+                        {
+                            "text": "rustle"
+                        },
+                        {
+                            "text": "dialect"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "angry murmur",
+                            "tr": [
+                                {
+                                    "text": "гневный ропот"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "faint murmur",
+                            "tr": [
+                                {
+                                    "text": "слабый шепот"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шум",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "рокот",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hum"
+                        },
+                        {
+                            "text": "roar"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "heart murmur",
+                            "tr": [
+                                {
+                                    "text": "шум в сердце"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "журчание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "бормотание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "журчанье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "gurgling"
+                        },
+                        {
+                            "text": "mutter"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "murmur of water",
+                            "tr": [
+                                {
+                                    "text": "журчание воды"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "murmur of voices",
+                            "tr": [
+                                {
+                                    "text": "бормотание голосов"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "жужжание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "buzz"
+                        }
+                    ]
+                },
+                {
+                    "text": "шептание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "whispering"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "murmur",
+            "pos": "verb",
+            "ts": "ˈmɜːmə",
+            "tr": [
+                {
+                    "text": "роптать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ворчать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grumble"
+                        }
+                    ]
+                },
+                {
+                    "text": "шептать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "журчать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пробормотать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "бормотать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "прошептать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "лепетать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "whisper"
+                        },
+                        {
+                            "text": "babble"
+                        },
+                        {
+                            "text": "mutter"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

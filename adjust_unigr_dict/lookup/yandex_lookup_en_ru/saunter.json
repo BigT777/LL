@@ -1,0 +1,81 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "saunter",
+            "pos": "noun",
+            "ts": "ˈsɔːntə",
+            "tr": [
+                {
+                    "text": "прогулка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "stroll"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "saunter",
+            "pos": "verb",
+            "ts": "ˈsɔːntə",
+            "tr": [
+                {
+                    "text": "фланировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "бродить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wander"
+                        }
+                    ]
+                },
+                {
+                    "text": "прогуляться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "гулять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пройтись",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stroll"
+                        },
+                        {
+                            "text": "walk"
+                        }
+                    ]
+                },
+                {
+                    "text": "прогуливаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "stroll"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

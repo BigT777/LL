@@ -1,0 +1,246 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "tread",
+            "pos": "verb",
+            "ts": "tred",
+            "fl": "trod, trodden",
+            "tr": [
+                {
+                    "text": "топтать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "давить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "попирать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "потоптать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "затоптать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вытаптывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вытоптать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "trample"
+                        },
+                        {
+                            "text": "crush"
+                        }
+                    ]
+                },
+                {
+                    "text": "идти",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "шагать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "ходить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "walk"
+                        }
+                    ]
+                },
+                {
+                    "text": "ступать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ступить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "go"
+                        },
+                        {
+                            "text": "step"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tread carefully",
+                            "tr": [
+                                {
+                                    "text": "ступать осторожно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "наступать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "наступить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "step"
+                        },
+                        {
+                            "text": "come"
+                        }
+                    ]
+                },
+                {
+                    "text": "протаптывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "beat"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "tread",
+            "pos": "noun",
+            "ts": "tred",
+            "tr": [
+                {
+                    "text": "протектор",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "гусеницы",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tire tread"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "directional tread pattern",
+                            "tr": [
+                                {
+                                    "text": "направленный рисунок протектора"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "поступь",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "gait"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "heavy tread",
+                            "tr": [
+                                {
+                                    "text": "тяжелая поступь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "проступь",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "ступень",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "step"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "stair tread",
+                            "tr": [
+                                {
+                                    "text": "лестничная ступень"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "шаги",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "поверхность катания",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "tread",
+            "pos": "adjective",
+            "ts": "tred",
+            "tr": [
+                {
+                    "text": "протекторный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "protector"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

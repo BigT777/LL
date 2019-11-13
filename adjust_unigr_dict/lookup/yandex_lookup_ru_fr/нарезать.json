@@ -1,0 +1,79 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "нарезать",
+            "pos": "verb",
+            "tr": [
+                {
+                    "text": "trancher",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "couper",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "découper",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "tailler",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "порезать"
+                        },
+                        {
+                            "text": "разрезать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "нарезать кубиками",
+                            "tr": [
+                                {
+                                    "text": "couper en dés"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "нарезать мясо",
+                            "tr": [
+                                {
+                                    "text": "découper la viande"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "tarauder",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "fileter",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "терзать"
+                        }
+                    ]
+                },
+                {
+                    "text": "rayer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "царапать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

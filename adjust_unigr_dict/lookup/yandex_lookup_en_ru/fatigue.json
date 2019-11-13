@@ -1,0 +1,195 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fatigue",
+            "pos": "noun",
+            "ts": "fəˈtiːg",
+            "tr": [
+                {
+                    "text": "усталость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "утомление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "утомляемость",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "переутомление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "апатия",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "быстрая утомляемость",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "чувство усталости",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tiredness"
+                        },
+                        {
+                            "text": "exhaustion"
+                        },
+                        {
+                            "text": "apathy"
+                        },
+                        {
+                            "text": "rapid fatigability"
+                        },
+                        {
+                            "text": "feeling of fatigue"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "chronic fatigue syndrome",
+                            "tr": [
+                                {
+                                    "text": "синдром хронической усталости"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "low cycle fatigue",
+                            "tr": [
+                                {
+                                    "text": "малоцикловая усталость"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "visual fatigue",
+                            "tr": [
+                                {
+                                    "text": "зрительное утомление"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "mental fatigue",
+                            "tr": [
+                                {
+                                    "text": "умственное переутомление"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "выносливость",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "endurance"
+                        }
+                    ]
+                },
+                {
+                    "text": "Роба",
+                    "pos": "noun",
+                    "gen": "ж"
+                }
+            ]
+        },
+        {
+            "text": "fatigue",
+            "pos": "verb",
+            "ts": "fəˈtiːg",
+            "tr": [
+                {
+                    "text": "утомлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "tire"
+                        }
+                    ]
+                },
+                {
+                    "text": "устать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "уставать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "утомить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "exhaust"
+                        },
+                        {
+                            "text": "tire"
+                        }
+                    ]
+                },
+                {
+                    "text": "изнурять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "exhaust"
+                        }
+                    ]
+                },
+                {
+                    "text": "испытывать усталость",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "fatigue",
+            "pos": "adjective",
+            "ts": "fəˈtiːg",
+            "tr": [
+                {
+                    "text": "усталостный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "endurance"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fatigue strength",
+                            "tr": [
+                                {
+                                    "text": "усталостная прочность"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

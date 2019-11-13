@@ -1,0 +1,287 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "advocate",
+            "pos": "noun",
+            "ts": "ˈædvək(ə)t",
+            "tr": [
+                {
+                    "text": "адвокат",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "защитник",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "правозащитник",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "защитница",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lawyer"
+                        },
+                        {
+                            "text": "defender"
+                        },
+                        {
+                            "text": "human rights activist"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "devil's advocate",
+                            "tr": [
+                                {
+                                    "text": "адвокат дьявола"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "animal rights advocates",
+                            "tr": [
+                                {
+                                    "text": "защитники прав животных"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сторонник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "пропагандист",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "поборник",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "приверженец",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "апологет",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "сторонница",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "supporter"
+                        },
+                        {
+                            "text": "propagandist"
+                        },
+                        {
+                            "text": "apologist"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "advocates of free trade",
+                            "tr": [
+                                {
+                                    "text": "сторонники свободной торговли"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "active advocate",
+                            "tr": [
+                                {
+                                    "text": "активный пропагандист"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "democracy advocates",
+                            "tr": [
+                                {
+                                    "text": "поборники демократии"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пропаганда",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "propaganda"
+                        }
+                    ]
+                },
+                {
+                    "text": "ходатай",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "intercessor"
+                        }
+                    ]
+                },
+                {
+                    "text": "адвокация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "advocacy"
+                        }
+                    ]
+                },
+                {
+                    "text": "отстаивание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "defend"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "advocate",
+            "pos": "verb",
+            "ts": "ˈædvək(ə)t",
+            "tr": [
+                {
+                    "text": "защищать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отстаивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "защитить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "defend"
+                        }
+                    ]
+                },
+                {
+                    "text": "пропагандировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "проповедовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "promote"
+                        },
+                        {
+                            "text": "preach"
+                        }
+                    ]
+                },
+                {
+                    "text": "поддерживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "поддержать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "support"
+                        }
+                    ]
+                },
+                {
+                    "text": "выступать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "act"
+                        }
+                    ]
+                },
+                {
+                    "text": "рекомендовать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "recommend"
+                        }
+                    ]
+                },
+                {
+                    "text": "настаивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "insist"
+                        }
+                    ]
+                },
+                {
+                    "text": "выступать в защиту",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "advocate",
+            "pos": "adjective",
+            "ts": "ˈædvək(ə)t",
+            "tr": [
+                {
+                    "text": "адвокатский",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "lawyer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

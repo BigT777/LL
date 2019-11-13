@@ -1,0 +1,89 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "denim",
+            "pos": "adjective",
+            "ts": "ˈdenɪm",
+            "tr": [
+                {
+                    "text": "джинсовый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "хлопчатобумажный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "jeans"
+                        },
+                        {
+                            "text": "cotton"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "denim jacket",
+                            "tr": [
+                                {
+                                    "text": "джинсовая куртка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "denim shirt",
+                            "tr": [
+                                {
+                                    "text": "хлопчатобумажная рубашка"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "denim",
+            "pos": "noun",
+            "ts": "ˈdenɪm",
+            "tr": [
+                {
+                    "text": "джинсовая ткань",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "хлопчатобумажная ткань",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "denim fabric"
+                        },
+                        {
+                            "text": "cotton fabric"
+                        }
+                    ]
+                },
+                {
+                    "text": "деним",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "джинсы",
+                    "pos": "noun",
+                    "gen": "м",
+                    "num": "мн",
+                    "mean": [
+                        {
+                            "text": "jeans"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

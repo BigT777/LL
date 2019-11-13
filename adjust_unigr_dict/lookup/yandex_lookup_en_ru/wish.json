@@ -1,0 +1,167 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "wish",
+            "pos": "noun",
+            "ts": "wɪʃ",
+            "tr": [
+                {
+                    "text": "желание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "пожелание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "стремление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "воля",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "desire"
+                        },
+                        {
+                            "text": "freedom"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "secret wish",
+                            "tr": [
+                                {
+                                    "text": "тайное желание"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "warm wish",
+                            "tr": [
+                                {
+                                    "text": "теплое пожелание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "поздравления",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "congrats"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "wish",
+            "pos": "verb",
+            "ts": "wɪʃ",
+            "tr": [
+                {
+                    "text": "хотеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "желать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "пожелать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "захотеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "стремиться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "мечтать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "жаждать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "want"
+                        },
+                        {
+                            "text": "seek"
+                        },
+                        {
+                            "text": "dream"
+                        },
+                        {
+                            "text": "crave"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "wish good",
+                            "tr": [
+                                {
+                                    "text": "желать добра"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "хотелось бы",
+                    "pos": "verb"
+                },
+                {
+                    "text": "загадать желание",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "make a wish"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "wish",
+            "pos": "predicative",
+            "ts": "wɪʃ",
+            "tr": [
+                {
+                    "text": "жаль",
+                    "pos": "predicative",
+                    "mean": [
+                        {
+                            "text": "sorry"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

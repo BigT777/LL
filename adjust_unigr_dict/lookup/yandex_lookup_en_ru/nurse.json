@@ -1,0 +1,264 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "nurse",
+            "pos": "noun",
+            "ts": "nɜːs",
+            "tr": [
+                {
+                    "text": "медсестра",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "медицинская сестра",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "сиделка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "нянька",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "санитарка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "сестра",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "сестра милосердия",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "санитар",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "медбрат",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "нянечка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "nursing"
+                        },
+                        {
+                            "text": "health nurse"
+                        },
+                        {
+                            "text": "caregiver"
+                        },
+                        {
+                            "text": "nanny"
+                        },
+                        {
+                            "text": "attendant"
+                        },
+                        {
+                            "text": "sister"
+                        },
+                        {
+                            "text": "sister of mercy"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "school nurse",
+                            "tr": [
+                                {
+                                    "text": "школьная медсестра"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "night nurse",
+                            "tr": [
+                                {
+                                    "text": "ночная сиделка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "public health nurse",
+                            "tr": [
+                                {
+                                    "text": "медицинская сестра"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "operating room nurse",
+                            "tr": [
+                                {
+                                    "text": "операционная сестра"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Няня",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "кормилица",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wet nurse"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "good nurse",
+                            "tr": [
+                                {
+                                    "text": "добрая кормилица"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "мамка",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "медсестеры",
+                    "pos": "noun",
+                    "gen": "м"
+                }
+            ]
+        },
+        {
+            "text": "nurse",
+            "pos": "verb",
+            "ts": "nɜːs",
+            "tr": [
+                {
+                    "text": "кормить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "нянчить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "кормить грудью",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "выхаживать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вынянчить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вскормить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "feed"
+                        },
+                        {
+                            "text": "babysit"
+                        },
+                        {
+                            "text": "breastfeed"
+                        },
+                        {
+                            "text": "foster"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "nurse the child",
+                            "tr": [
+                                {
+                                    "text": "кормить ребенка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ухаживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "care"
+                        }
+                    ]
+                },
+                {
+                    "text": "сосать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "suck"
+                        }
+                    ]
+                },
+                {
+                    "text": "пробежаться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "run"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "nurse",
+            "pos": "adjective",
+            "ts": "nɜːs",
+            "tr": [
+                {
+                    "text": "сестринский",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "nursing"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

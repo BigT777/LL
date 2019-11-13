@@ -1,0 +1,212 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "shout",
+            "pos": "noun",
+            "ts": "ʃaʊt",
+            "tr": [
+                {
+                    "text": "крик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "возглас",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "окрик",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "восклицание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "выкрик",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "вопль",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cry"
+                        },
+                        {
+                            "text": "exclamation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "loud shout",
+                            "tr": [
+                                {
+                                    "text": "громкий крик"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "angry shouts",
+                            "tr": [
+                                {
+                                    "text": "гневные выкрики"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "shout",
+            "pos": "verb",
+            "ts": "ʃaʊt",
+            "tr": [
+                {
+                    "text": "кричать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "выкрикивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "прокричать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "покричать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "покрикивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "scream"
+                        },
+                        {
+                            "text": "cry"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shout loudly",
+                            "tr": [
+                                {
+                                    "text": "кричать громко"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "крикнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "восклицать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "закричать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выкрикнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "воскликнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cry"
+                        },
+                        {
+                            "text": "exclaim"
+                        }
+                    ]
+                },
+                {
+                    "text": "орать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заорать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "накричать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прикрикнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "наорать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "yell"
+                        },
+                        {
+                            "text": "bawl"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "shout so",
+                            "tr": [
+                                {
+                                    "text": "орать так"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "перекричать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "shout down"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

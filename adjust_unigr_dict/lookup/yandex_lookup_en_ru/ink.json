@@ -1,0 +1,169 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ink",
+            "pos": "noun",
+            "ts": "ɪŋk",
+            "tr": [
+                {
+                    "text": "чернила",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "тушь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "краска",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "чернильница",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "toner"
+                        },
+                        {
+                            "text": "mascara"
+                        },
+                        {
+                            "text": "paint"
+                        },
+                        {
+                            "text": "inkwell"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "red ink",
+                            "tr": [
+                                {
+                                    "text": "красные чернила"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "waterproof ink",
+                            "tr": [
+                                {
+                                    "text": "водостойкая тушь"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "printing ink",
+                            "tr": [
+                                {
+                                    "text": "печатная краска"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "типографская краска",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "печатная краска",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "printing ink"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ink",
+            "pos": "adjective",
+            "ts": "ɪŋk",
+            "tr": [
+                {
+                    "text": "чернильный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "струйный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "inky"
+                        },
+                        {
+                            "text": "inkjet"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "ink cartridge",
+                            "tr": [
+                                {
+                                    "text": "чернильный картридж"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "рукописный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "handwriting"
+                        }
+                    ]
+                },
+                {
+                    "text": "красочный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "colorful"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "inking unit",
+                            "tr": [
+                                {
+                                    "text": "красочный аппарат"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ink",
+            "pos": "verb",
+            "ts": "ɪŋk",
+            "tr": [
+                {
+                    "text": "подписать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "sign"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

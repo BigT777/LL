@@ -1,0 +1,397 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fake",
+            "pos": "adjective",
+            "ts": "feɪk",
+            "tr": [
+                {
+                    "text": "поддельный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "фальшивый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "ложный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "фиктивный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "ненастоящий",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "подложный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "притворный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "counterfeit"
+                        },
+                        {
+                            "text": "false"
+                        },
+                        {
+                            "text": "bogus"
+                        },
+                        {
+                            "text": "unreal"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fake passport",
+                            "tr": [
+                                {
+                                    "text": "поддельный паспорт"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fake beard",
+                            "tr": [
+                                {
+                                    "text": "фальшивая борода"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fake message",
+                            "tr": [
+                                {
+                                    "text": "ложное сообщение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "fake marriage",
+                            "tr": [
+                                {
+                                    "text": "фиктивный брак"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "искусственный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "artificial"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fake fur",
+                            "tr": [
+                                {
+                                    "text": "искусственный мех"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "липовый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "phony"
+                        }
+                    ]
+                },
+                {
+                    "text": "бутафорский",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "sham"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fake blood",
+                            "tr": [
+                                {
+                                    "text": "бутафорская кровь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "мнимый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "imaginary"
+                        }
+                    ]
+                },
+                {
+                    "text": "подставной",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "dummy"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fake company",
+                            "tr": [
+                                {
+                                    "text": "подставная компания"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fake",
+            "pos": "noun",
+            "ts": "feɪk",
+            "tr": [
+                {
+                    "text": "подделка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "фальшивка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "фальсификат",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "counterfeit"
+                        },
+                        {
+                            "text": "forgery"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cheap fake",
+                            "tr": [
+                                {
+                                    "text": "дешевая подделка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обман",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "фальсификация",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fraud"
+                        }
+                    ]
+                },
+                {
+                    "text": "имитация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "imitation"
+                        }
+                    ]
+                },
+                {
+                    "text": "муляж",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "model"
+                        }
+                    ]
+                },
+                {
+                    "text": "финт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "feint"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fake",
+            "pos": "verb",
+            "ts": "feɪk",
+            "tr": [
+                {
+                    "text": "притворяться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "прикидываться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "притвориться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pretend"
+                        }
+                    ]
+                },
+                {
+                    "text": "подделывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подделать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "counterfeit"
+                        },
+                        {
+                            "text": "forge"
+                        }
+                    ]
+                },
+                {
+                    "text": "фальсифицировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "сфальсифицировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "falsify"
+                        }
+                    ]
+                },
+                {
+                    "text": "симулировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "имитировать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "инсценировать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "сымитировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "feign"
+                        },
+                        {
+                            "text": "imitate"
+                        },
+                        {
+                            "text": "stage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "fake orgasm",
+                            "tr": [
+                                {
+                                    "text": "имитировать оргазм"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "свертывать в бухту",
+                    "pos": "verb"
+                },
+                {
+                    "text": "сфабриковать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "фабриковать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fabricate"
+                        }
+                    ]
+                },
+                {
+                    "text": "схалтурить",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "fake",
+            "pos": "adverb",
+            "ts": "feɪk",
+            "tr": [
+                {
+                    "text": "в бухту",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

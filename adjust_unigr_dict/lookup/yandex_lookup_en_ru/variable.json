@@ -1,0 +1,208 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "variable",
+            "pos": "noun",
+            "ts": "ˈve(ə)rɪəb(ə)l",
+            "tr": [
+                {
+                    "text": "переменная",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "переменная величина",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "величина",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "var"
+                        },
+                        {
+                            "text": "variable quantity"
+                        },
+                        {
+                            "text": "value"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "local variable",
+                            "tr": [
+                                {
+                                    "text": "локальная переменная"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "параметр",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "parameter"
+                        }
+                    ]
+                },
+                {
+                    "text": "переменный показатель",
+                    "pos": "noun"
+                },
+                {
+                    "text": "переменный фактор",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "variable factor"
+                        }
+                    ]
+                },
+                {
+                    "text": "переменные окружения",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "variable",
+            "pos": "adjective",
+            "ts": "ˈve(ə)rɪəb(ə)l",
+            "tr": [
+                {
+                    "text": "изменчивый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "непостоянный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "переменчивый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "volatile"
+                        },
+                        {
+                            "text": "unstable"
+                        },
+                        {
+                            "text": "changeable"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "variable weather",
+                            "tr": [
+                                {
+                                    "text": "изменчивая погода"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "различный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "different"
+                        }
+                    ]
+                },
+                {
+                    "text": "вариабельный",
+                    "pos": "adjective",
+                    "ex": [
+                        {
+                            "text": "variable region",
+                            "tr": [
+                                {
+                                    "text": "вариабельная область"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вариативный",
+                    "pos": "adjective",
+                    "ex": [
+                        {
+                            "text": "variable part",
+                            "tr": [
+                                {
+                                    "text": "вариативная часть"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "variable",
+            "pos": "participle",
+            "ts": "ˈve(ə)rɪəb(ə)l",
+            "tr": [
+                {
+                    "text": "регулируемый",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "изменяемый",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "adjustable"
+                        },
+                        {
+                            "text": "changeable"
+                        }
+                    ]
+                },
+                {
+                    "text": "изменяющийся",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "меняющийся",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "varying"
+                        }
+                    ]
+                },
+                {
+                    "text": "плавающий",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "floating"
+                        }
+                    ]
+                },
+                {
+                    "text": "варьируемый",
+                    "pos": "participle"
+                }
+            ]
+        }
+    ]
+}

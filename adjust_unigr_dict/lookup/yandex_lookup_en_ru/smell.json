@@ -1,0 +1,313 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "smell",
+            "pos": "noun",
+            "ts": "smel",
+            "tr": [
+                {
+                    "text": "запах",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "аромат",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "вонь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "зловоние",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "odor"
+                        },
+                        {
+                            "text": "aroma"
+                        },
+                        {
+                            "text": "stench"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "unpleasant smell",
+                            "tr": [
+                                {
+                                    "text": "неприятный запах"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sweet smell of success",
+                            "tr": [
+                                {
+                                    "text": "сладкий запах успеха"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "smell of hydrogen sulphide",
+                            "tr": [
+                                {
+                                    "text": "запах сероводорода"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "smell of bitter almonds",
+                            "tr": [
+                                {
+                                    "text": "запах горького миндаля"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "smell of rotten eggs",
+                            "tr": [
+                                {
+                                    "text": "запах тухлых яиц"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "strong smell of sulphur",
+                            "tr": [
+                                {
+                                    "text": "сильный запах серы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "smell of fresh blood",
+                            "tr": [
+                                {
+                                    "text": "запах свежей крови"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "smell of pine needles",
+                            "tr": [
+                                {
+                                    "text": "запах хвои"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "exotic smells",
+                            "tr": [
+                                {
+                                    "text": "экзотические ароматы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "обоняние",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "нюх",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sense of smell"
+                        },
+                        {
+                            "text": "scent"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "acute sense of smell",
+                            "tr": [
+                                {
+                                    "text": "острое обоняние"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "smell",
+            "pos": "verb",
+            "ts": "smel",
+            "fl": "smelt, smelt",
+            "tr": [
+                {
+                    "text": "пахнуть",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "чуять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обонять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "чувствовать запах",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "чувствовать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "учуять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "почуять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "почувствовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "почувствовать запах",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "унюхать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "scent"
+                        },
+                        {
+                            "text": "feel"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "smell better",
+                            "tr": [
+                                {
+                                    "text": "пахнуть лучше"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "нюхать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "понюхать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "принюхиваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sniff"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "smell flowers",
+                            "tr": [
+                                {
+                                    "text": "нюхать цветы"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "smell the roses",
+                            "tr": [
+                                {
+                                    "text": "понюхать розы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вонять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "попахивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "благоухать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stink"
+                        },
+                        {
+                            "text": "smell slightly"
+                        },
+                        {
+                            "text": "fragrant"
+                        }
+                    ]
+                },
+                {
+                    "text": "пропахнуть",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "smell",
+            "pos": "adjective",
+            "ts": "smel",
+            "tr": [
+                {
+                    "text": "обонятельный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "olfactory"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "revoke",
+            "pos": "verb",
+            "ts": "rɪˈvəʊk",
+            "tr": [
+                {
+                    "text": "аннулировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "отменять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "отменить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cancel"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "revoke the license",
+                            "tr": [
+                                {
+                                    "text": "аннулировать лицензию"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отзывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отозвать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "withdraw"
+                        }
+                    ]
+                },
+                {
+                    "text": "лишать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "deprive"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "revoke",
+            "pos": "noun",
+            "ts": "rɪˈvəʊk",
+            "tr": [
+                {
+                    "text": "отзыв",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "review"
+                        }
+                    ]
+                },
+                {
+                    "text": "отмена",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "cancel"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

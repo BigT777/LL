@@ -1,0 +1,100 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "spent",
+            "pos": "participle",
+            "ts": "spent",
+            "tr": [
+                {
+                    "text": "расходуемый",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "потраченный",
+                            "pos": "participle"
+                        },
+                        {
+                            "text": "израсходованный",
+                            "pos": "participle"
+                        },
+                        {
+                            "text": "отработавший",
+                            "pos": "participle"
+                        },
+                        {
+                            "text": "затраченный",
+                            "pos": "participle"
+                        },
+                        {
+                            "text": "затрачиваемый",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "consumable"
+                        },
+                        {
+                            "text": "used"
+                        },
+                        {
+                            "text": "consumed"
+                        },
+                        {
+                            "text": "required"
+                        }
+                    ]
+                },
+                {
+                    "text": "отработанный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "waste"
+                        }
+                    ]
+                },
+                {
+                    "text": "проведенный",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "проводимый",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "conducted"
+                        }
+                    ]
+                },
+                {
+                    "text": "использованный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "consumed"
+                        }
+                    ]
+                },
+                {
+                    "text": "истраченный",
+                    "pos": "participle"
+                }
+            ]
+        },
+        {
+            "text": "spent",
+            "pos": "adverb",
+            "ts": "spent",
+            "tr": [
+                {
+                    "text": "на излете",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

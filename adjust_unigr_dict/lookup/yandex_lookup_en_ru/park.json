@@ -1,0 +1,133 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "park",
+            "pos": "noun",
+            "ts": "pɑːk",
+            "tr": [
+                {
+                    "text": "парк",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "национальный парк",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "garden"
+                        },
+                        {
+                            "text": "national park"
+                        }
+                    ]
+                },
+                {
+                    "text": "заповедник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "reserve"
+                        }
+                    ]
+                },
+                {
+                    "text": "парковка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "стоянка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "parking"
+                        }
+                    ]
+                },
+                {
+                    "text": "сквер",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "square"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "green park",
+                            "tr": [
+                                {
+                                    "text": "зеленый сквер"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "park",
+            "pos": "verb",
+            "ts": "pɑːk",
+            "tr": [
+                {
+                    "text": "припарковать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "парковать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "запарковать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "park it"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "park",
+            "pos": "adjective",
+            "ts": "pɑːk",
+            "tr": [
+                {
+                    "text": "парковый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "parkland"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "sculpture park",
+                            "tr": [
+                                {
+                                    "text": "парковая скульптура"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

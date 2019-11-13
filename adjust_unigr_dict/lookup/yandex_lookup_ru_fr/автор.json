@@ -1,0 +1,87 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "автор",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "auteur",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "écrivain",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "créateur",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "rédacteur",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "inventeur",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "писатель"
+                        },
+                        {
+                            "text": "создатель"
+                        },
+                        {
+                            "text": "разработчик"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "неизвестный автор",
+                            "tr": [
+                                {
+                                    "text": "auteur inconnu"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "внештатный автор",
+                            "tr": [
+                                {
+                                    "text": "un écrivain indépendant"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "авторы отчета",
+                            "tr": [
+                                {
+                                    "text": "créateurs de rapports"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "artiste",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "художник"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

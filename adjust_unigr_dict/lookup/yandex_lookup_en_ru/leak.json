@@ -1,0 +1,212 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "leak",
+            "pos": "noun",
+            "ts": "liːk",
+            "tr": [
+                {
+                    "text": "утечка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "течь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "протечка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "утечка информации",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "протекание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "негерметичность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "просачивание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "вытекание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "неплотность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "подтекание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "leakage"
+                        },
+                        {
+                            "text": "information leakage"
+                        },
+                        {
+                            "text": "seepage"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "memory leak",
+                            "tr": [
+                                {
+                                    "text": "утечка памяти"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "leak detection system",
+                            "tr": [
+                                {
+                                    "text": "система обнаружения утечек"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "leak of confidential information",
+                            "tr": [
+                                {
+                                    "text": "утечка конфиденциальной информации"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "small leak",
+                            "tr": [
+                                {
+                                    "text": "небольшая течь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "натекатель",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "пробоина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "hole"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "leak",
+            "pos": "verb",
+            "ts": "liːk",
+            "tr": [
+                {
+                    "text": "протекать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подтекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вытечь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вытекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "протечь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "утекать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "утечь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flow"
+                        },
+                        {
+                            "text": "emerge"
+                        },
+                        {
+                            "text": "elapse"
+                        }
+                    ]
+                },
+                {
+                    "text": "просачиваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "просочиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "пропускать воду",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "seep"
+                        },
+                        {
+                            "text": "pass water"
+                        }
+                    ]
+                },
+                {
+                    "text": "пропускать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "pass"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

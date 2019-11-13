@@ -1,0 +1,68 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "запирать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "fermer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "verrouiller",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "enfermer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "bloquer",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "boucler",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "clore",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "запереть"
+                        },
+                        {
+                            "text": "закрывать"
+                        }
+                    ]
+                },
+                {
+                    "text": "serrer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "зажимать"
+                        }
+                    ]
+                },
+                {
+                    "text": "emprisonner",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "держать взаперти"
+                        }
+                    ]
+                },
+                {
+                    "text": "griller",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

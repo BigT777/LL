@@ -1,0 +1,63 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "птичка",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "oiselet",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "coche",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "птенец"
+                        },
+                        {
+                            "text": "галочка"
+                        }
+                    ]
+                },
+                {
+                    "text": "oiseau",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "птица"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "маленькая птичка",
+                            "tr": [
+                                {
+                                    "text": "petit oiseau"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "oisillon",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "птенчик"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

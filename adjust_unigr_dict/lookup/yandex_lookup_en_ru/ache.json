@@ -1,0 +1,130 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ache",
+            "pos": "noun",
+            "ts": "eɪk",
+            "tr": [
+                {
+                    "text": "боль",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "ноющая боль",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "ломота",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "тупая боль",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pain"
+                        },
+                        {
+                            "text": "aching"
+                        },
+                        {
+                            "text": "rheumatic pain"
+                        },
+                        {
+                            "text": "dull ache"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dull ache",
+                            "tr": [
+                                {
+                                    "text": "тупая боль"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ache in her chest",
+                            "tr": [
+                                {
+                                    "text": "боль в груди"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ache",
+            "pos": "verb",
+            "ts": "eɪk",
+            "tr": [
+                {
+                    "text": "болеть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "ныть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "заболеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "ломить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "разболеться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "щемить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hurt"
+                        },
+                        {
+                            "text": "whine"
+                        },
+                        {
+                            "text": "ill"
+                        },
+                        {
+                            "text": "break"
+                        },
+                        {
+                            "text": "press"
+                        }
+                    ]
+                },
+                {
+                    "text": "жаждать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "thirst"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

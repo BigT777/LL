@@ -1,0 +1,68 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "reconfigure",
+            "pos": "verb",
+            "ts": "rɪkənˈfɪgər",
+            "tr": [
+                {
+                    "text": "реконфигурировать",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "переконфигурировать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "перенастроить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перенастраивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "заново настроить",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "readjust"
+                        }
+                    ]
+                },
+                {
+                    "text": "изменить конфигурацию",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "изменять конфигурацию",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "change the configuration"
+                        }
+                    ]
+                },
+                {
+                    "text": "перестраивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "rearrange"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

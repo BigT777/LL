@@ -1,0 +1,283 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "flush",
+            "pos": "verb",
+            "ts": "flʌʃ",
+            "tr": [
+                {
+                    "text": "вспыхнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "break out"
+                        }
+                    ]
+                },
+                {
+                    "text": "промыть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "смыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "очистить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "промывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "смывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вымывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wash"
+                        },
+                        {
+                            "text": "clean"
+                        }
+                    ]
+                },
+                {
+                    "text": "покраснеть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "blush"
+                        }
+                    ]
+                },
+                {
+                    "text": "сбрасывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "спускать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "dump"
+                        },
+                        {
+                            "text": "lower"
+                        }
+                    ]
+                },
+                {
+                    "text": "потопить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "sink"
+                        }
+                    ]
+                },
+                {
+                    "text": "бить струей",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "flush",
+            "pos": "noun",
+            "ts": "flʌʃ",
+            "tr": [
+                {
+                    "text": "прилив",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "флеш",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "флешь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flash"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "royal flush",
+                            "tr": [
+                                {
+                                    "text": "королевский флеш"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "румянец",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "blush"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pink flush",
+                            "tr": [
+                                {
+                                    "text": "розовый румянец"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "промывка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "промывание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flushing"
+                        },
+                        {
+                            "text": "wash"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "flush time",
+                            "tr": [
+                                {
+                                    "text": "время промывки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "смыв",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "слив",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "flushing"
+                        },
+                        {
+                            "text": "drain"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "flush",
+            "pos": "adverb",
+            "ts": "flʌʃ",
+            "tr": [
+                {
+                    "text": "заподлицо",
+                    "pos": "adverb"
+                },
+                {
+                    "text": "вровень",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "level"
+                        }
+                    ]
+                },
+                {
+                    "text": "на одном уровне",
+                    "pos": "adverb"
+                }
+            ]
+        },
+        {
+            "text": "flush",
+            "pos": "adjective",
+            "ts": "flʌʃ",
+            "tr": [
+                {
+                    "text": "полный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "full"
+                        }
+                    ]
+                },
+                {
+                    "text": "промывочный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "wash"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "flush valve",
+                            "tr": [
+                                {
+                                    "text": "промывочный клапан"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сливной",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "drain"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

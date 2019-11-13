@@ -1,0 +1,141 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "yet",
+            "pos": "particle",
+            "ts": "jet",
+            "tr": [
+                {
+                    "text": "еще",
+                    "pos": "particle",
+                    "syn": [
+                        {
+                            "text": "все еще",
+                            "pos": "particle"
+                        },
+                        {
+                            "text": "пока",
+                            "pos": "particle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "still"
+                        },
+                        {
+                            "text": "until"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "yet more",
+                            "tr": [
+                                {
+                                    "text": "еще больше"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "yet",
+            "pos": "conjunction",
+            "ts": "jet",
+            "tr": [
+                {
+                    "text": "но",
+                    "pos": "conjunction",
+                    "syn": [
+                        {
+                            "text": "хотя",
+                            "pos": "conjunction"
+                        },
+                        {
+                            "text": "а",
+                            "pos": "conjunction"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "but"
+                        },
+                        {
+                            "text": "although"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "yet",
+            "pos": "adverb",
+            "ts": "jet",
+            "tr": [
+                {
+                    "text": "однако",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "however"
+                        }
+                    ]
+                },
+                {
+                    "text": "до сих пор",
+                    "pos": "adverb",
+                    "syn": [
+                        {
+                            "text": "несмотря на это",
+                            "pos": "adverb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "still"
+                        },
+                        {
+                            "text": "nevertheless"
+                        }
+                    ]
+                },
+                {
+                    "text": "пока еще",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "so far"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "yet",
+            "pos": "pronoun",
+            "ts": "jet",
+            "tr": [
+                {
+                    "text": "все же",
+                    "pos": "pronoun",
+                    "mean": [
+                        {
+                            "text": "still"
+                        }
+                    ]
+                },
+                {
+                    "text": "пока что",
+                    "pos": "pronoun",
+                    "mean": [
+                        {
+                            "text": "so far"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

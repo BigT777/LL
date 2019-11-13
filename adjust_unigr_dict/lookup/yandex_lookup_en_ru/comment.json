@@ -1,0 +1,162 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "comment",
+            "pos": "noun",
+            "ts": "ˈkɒment",
+            "tr": [
+                {
+                    "text": "комментарий",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "отзыв",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "комментарии",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "commentary"
+                        },
+                        {
+                            "text": "feedback"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "positive comment",
+                            "tr": [
+                                {
+                                    "text": "положительный отзыв"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "замечание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "высказывание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "remark"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "critical comment",
+                            "tr": [
+                                {
+                                    "text": "критическое замечание"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "offensive comments",
+                            "tr": [
+                                {
+                                    "text": "оскорбительные высказывания"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Примечание",
+                    "pos": "noun",
+                    "gen": "ср"
+                },
+                {
+                    "text": "комментирование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "commenting"
+                        }
+                    ]
+                },
+                {
+                    "text": "отклик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "response"
+                        }
+                    ]
+                },
+                {
+                    "text": "пояснения",
+                    "pos": "noun",
+                    "gen": "ср"
+                },
+                {
+                    "text": "представления замечаний",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "comment",
+            "pos": "verb",
+            "ts": "ˈkɒment",
+            "tr": [
+                {
+                    "text": "комментировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "прокомментировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "make comments"
+                        },
+                        {
+                            "text": "comment on it"
+                        }
+                    ]
+                },
+                {
+                    "text": "заметить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "notice"
+                        }
+                    ]
+                },
+                {
+                    "text": "закомментировать",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "высказать замечания",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

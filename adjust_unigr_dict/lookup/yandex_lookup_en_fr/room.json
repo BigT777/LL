@@ -1,0 +1,42 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "room",
+            "pos": "noun",
+            "ts": "rum",
+            "tr": [
+                {
+                    "text": "chambre",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "salle",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "pièce",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "guest room"
+                        },
+                        {
+                            "text": "meeting room"
+                        }
+                    ]
+                },
+                {
+                    "text": "Room",
+                    "pos": "noun",
+                    "gen": "f"
+                }
+            ]
+        }
+    ]
+}

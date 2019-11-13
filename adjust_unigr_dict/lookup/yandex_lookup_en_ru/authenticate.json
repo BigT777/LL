@@ -1,0 +1,107 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "authenticate",
+            "pos": "verb",
+            "ts": "ɔːˈθentɪkeɪt",
+            "tr": [
+                {
+                    "text": "удостоверять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заверить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "заверять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "удостоверить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подтверждать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "засвидетельствовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "certify"
+                        },
+                        {
+                            "text": "confirm"
+                        },
+                        {
+                            "text": "testify"
+                        }
+                    ]
+                },
+                {
+                    "text": "аутентифицировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "авторизовать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "authentication"
+                        },
+                        {
+                            "text": "authorize"
+                        }
+                    ]
+                },
+                {
+                    "text": "идентифицировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "опознать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "опознавать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "identify"
+                        }
+                    ]
+                },
+                {
+                    "text": "пройти аутентификацию",
+                    "pos": "verb"
+                },
+                {
+                    "text": "проверить подлинность",
+                    "pos": "verb"
+                },
+                {
+                    "text": "подтверждать подлинность",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

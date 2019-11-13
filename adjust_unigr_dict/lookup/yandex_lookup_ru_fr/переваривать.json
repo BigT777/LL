@@ -1,0 +1,58 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "переваривать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "digérer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "переварить"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "переваривать пищу",
+                            "tr": [
+                                {
+                                    "text": "digérer la nourriture"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "élaborer",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "перерабатывать"
+                        }
+                    ]
+                },
+                {
+                    "text": "souffrir",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "supporter",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "переносить"
+                        },
+                        {
+                            "text": "стерпеть"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,329 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "quiet",
+            "pos": "adjective",
+            "ts": "ˈkwaɪət",
+            "tr": [
+                {
+                    "text": "тихий",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "спокойный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "негромкий",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "более тихий",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "peaceful"
+                        },
+                        {
+                            "text": "calm"
+                        },
+                        {
+                            "text": "low"
+                        },
+                        {
+                            "text": "more quiet"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "quiet place",
+                            "tr": [
+                                {
+                                    "text": "тихое место"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "quiet residential area",
+                            "tr": [
+                                {
+                                    "text": "тихий жилой район"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "quiet side street",
+                            "tr": [
+                                {
+                                    "text": "тихий переулок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "quiet young man",
+                            "tr": [
+                                {
+                                    "text": "тихий молодой человек"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "quiet little town",
+                            "tr": [
+                                {
+                                    "text": "тихий городок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "quiet family life",
+                            "tr": [
+                                {
+                                    "text": "спокойная семейная жизнь"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "relatively quiet period",
+                            "tr": [
+                                {
+                                    "text": "относительно спокойный период"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "quiet voice",
+                            "tr": [
+                                {
+                                    "text": "негромкий голос"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "бесшумный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "молчаливый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "малошумный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "silent"
+                        },
+                        {
+                            "text": "low noise"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "quiet operation",
+                            "tr": [
+                                {
+                                    "text": "бесшумная работа"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "quiet woman",
+                            "tr": [
+                                {
+                                    "text": "молчаливая женщина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "укромный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "secluded"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "quiet corners",
+                            "tr": [
+                                {
+                                    "text": "укромные уголки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "безмятежный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "serene"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "quiet",
+            "pos": "noun",
+            "ts": "ˈkwaɪət",
+            "tr": [
+                {
+                    "text": "тишина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "тишь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "молчание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "бесшумность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "silence"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "dead quiet",
+                            "tr": [
+                                {
+                                    "text": "мертвая тишина"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "покой",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "затишье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "спокойствие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "calm"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "relative quiet",
+                            "tr": [
+                                {
+                                    "text": "относительное спокойствие"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "quiet",
+            "pos": "verb",
+            "ts": "ˈkwaɪət",
+            "tr": [
+                {
+                    "text": "успокаивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "успокоиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "успокоить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "calm"
+                        }
+                    ]
+                },
+                {
+                    "text": "молчать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "затихнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "помалкивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "затихать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "silent"
+                        },
+                        {
+                            "text": "calm down"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "quiet",
+            "pos": "adverb",
+            "ts": "ˈkwaɪət",
+            "tr": [
+                {
+                    "text": "спокойно",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "quietly"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "pare",
+            "pos": "verb",
+            "ts": "peə",
+            "tr": [
+                {
+                    "text": "срезать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "обрезать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "подрезать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cut off"
+                        },
+                        {
+                            "text": "circumcise"
+                        },
+                        {
+                            "text": "prune"
+                        }
+                    ]
+                },
+                {
+                    "text": "чистить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "brush"
+                        }
+                    ]
+                },
+                {
+                    "text": "сократить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "сокращать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "урезать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shorten"
+                        },
+                        {
+                            "text": "cut back"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

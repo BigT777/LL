@@ -1,0 +1,68 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "пребывать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "demeurer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "résider",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "être",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "rester",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "séjourner",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "loger",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "обитать"
+                        },
+                        {
+                            "text": "находиться"
+                        },
+                        {
+                            "text": "проживать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "пребывать вечно",
+                            "tr": [
+                                {
+                                    "text": "demeurer éternellement"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "se trouver",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "находиться"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

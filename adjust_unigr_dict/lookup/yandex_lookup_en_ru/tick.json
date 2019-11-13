@@ -1,0 +1,187 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "tick",
+            "pos": "noun",
+            "ts": "tɪk",
+            "tr": [
+                {
+                    "text": "галочка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "отметка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "метка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "checkmark"
+                        },
+                        {
+                            "text": "mark"
+                        }
+                    ]
+                },
+                {
+                    "text": "клещ",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "тик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mite"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tick bite",
+                            "tr": [
+                                {
+                                    "text": "укус клеща"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "nervous tick",
+                            "tr": [
+                                {
+                                    "text": "нервный тик"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тиканье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "такт",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ticking"
+                        },
+                        {
+                            "text": "tact"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "tick of the clock",
+                            "tr": [
+                                {
+                                    "text": "тиканье часов"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "птичка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "bird"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "tick",
+            "pos": "verb",
+            "ts": "tɪk",
+            "tr": [
+                {
+                    "text": "тикать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "отсчитывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "count"
+                        }
+                    ]
+                },
+                {
+                    "text": "отметить галочкой",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "пометить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "помечать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mark"
+                        }
+                    ]
+                },
+                {
+                    "text": "поставить галочку",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "установить флажок",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "check the box"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "tick",
+            "pos": "adjective",
+            "ts": "tɪk",
+            "tr": [
+                {
+                    "text": "тиковый",
+                    "pos": "adjective"
+                },
+                {
+                    "text": "клещевой",
+                    "pos": "adjective"
+                }
+            ]
+        }
+    ]
+}

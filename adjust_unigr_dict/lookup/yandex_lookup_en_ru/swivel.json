@@ -1,0 +1,194 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "swivel",
+            "pos": "noun",
+            "ts": "swɪvl",
+            "tr": [
+                {
+                    "text": "вертлюг",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "вертлюжок",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ]
+                },
+                {
+                    "text": "шарнирное соединение",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "шарнир",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "swivel joint"
+                        },
+                        {
+                            "text": "hinge"
+                        }
+                    ]
+                },
+                {
+                    "text": "поворот",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "вращение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rotate"
+                        },
+                        {
+                            "text": "rotation"
+                        }
+                    ]
+                },
+                {
+                    "text": "антабка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "sling swivel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "swivel",
+            "pos": "adjective",
+            "ts": "swɪvl",
+            "tr": [
+                {
+                    "text": "шарнирный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "поворотный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hinge"
+                        },
+                        {
+                            "text": "rotary"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "swivel joint",
+                            "tr": [
+                                {
+                                    "text": "шарнирное соединение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "swivel head",
+                            "tr": [
+                                {
+                                    "text": "поворотная головка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вертлюжный",
+                    "pos": "adjective"
+                }
+            ]
+        },
+        {
+            "text": "swivel",
+            "pos": "participle",
+            "ts": "swɪvl",
+            "tr": [
+                {
+                    "text": "вращающийся",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "rotary"
+                        }
+                    ]
+                },
+                {
+                    "text": "поворачивающийся",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "rotating"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "swivel",
+            "pos": "verb",
+            "ts": "swɪvl",
+            "tr": [
+                {
+                    "text": "поворачивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "повернуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вертеться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rotate"
+                        },
+                        {
+                            "text": "spin"
+                        }
+                    ]
+                },
+                {
+                    "text": "повернуться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "разворачиваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "turn"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

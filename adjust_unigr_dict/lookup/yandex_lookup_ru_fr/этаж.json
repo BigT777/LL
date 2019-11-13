@@ -1,0 +1,64 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "этаж",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "étage",
+                    "pos": "noun",
+                    "gen": "m",
+                    "num": "pl",
+                    "syn": [
+                        {
+                            "text": "niveau",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ярус"
+                        },
+                        {
+                            "text": "порог"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "на верхний этаж",
+                            "tr": [
+                                {
+                                    "text": "au dernier étage"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "plancher",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "пол"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "высокий этаж",
+                            "tr": [
+                                {
+                                    "text": "un plancher haut"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

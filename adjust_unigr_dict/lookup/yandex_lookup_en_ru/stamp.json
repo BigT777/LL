@@ -1,0 +1,242 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "stamp",
+            "pos": "noun",
+            "ts": "stæmp",
+            "tr": [
+                {
+                    "text": "марка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "печать",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "штамп",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "штемпель",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "клеймо",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "отпечаток",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "оттиск",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "отметка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mark"
+                        },
+                        {
+                            "text": "print"
+                        },
+                        {
+                            "text": "die"
+                        },
+                        {
+                            "text": "postmark"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "commemorative postage stamp",
+                            "tr": [
+                                {
+                                    "text": "памятная почтовая марка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "round stamp",
+                            "tr": [
+                                {
+                                    "text": "круглая печать"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "rubber stamp",
+                            "tr": [
+                                {
+                                    "text": "резиновый штамп"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "postal stamp",
+                            "tr": [
+                                {
+                                    "text": "почтовый штемпель"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "почтовая марка",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "postage stamp"
+                        }
+                    ]
+                },
+                {
+                    "text": "талон",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "coupon"
+                        }
+                    ]
+                },
+                {
+                    "text": "гриф",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "vulture"
+                        }
+                    ]
+                },
+                {
+                    "text": "гербовая марка",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "revenue stamp"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "stamp",
+            "pos": "verb",
+            "ts": "stæmp",
+            "tr": [
+                {
+                    "text": "штамповать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "проштамповать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "punch"
+                        }
+                    ]
+                },
+                {
+                    "text": "штемпелевать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "postmark"
+                        }
+                    ]
+                },
+                {
+                    "text": "топать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "топнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "потопать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stomp"
+                        }
+                    ]
+                },
+                {
+                    "text": "проштемпелевать",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "проставить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "put"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "stamp",
+            "pos": "adjective",
+            "ts": "stæmp",
+            "tr": [
+                {
+                    "text": "гербовый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "штемпельный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "heraldic"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "payment of stamp duty",
+                            "tr": [
+                                {
+                                    "text": "оплата гербового сбора"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

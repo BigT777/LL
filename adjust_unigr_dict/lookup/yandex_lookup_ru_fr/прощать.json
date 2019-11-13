@@ -1,0 +1,71 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "прощать",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "pardonner",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "absoudre",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "excuser",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "простить"
+                        },
+                        {
+                            "text": "оправдывать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "аллах не прощает",
+                            "tr": [
+                                {
+                                    "text": "allah ne pardonnera"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "passer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "oublier",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "забывать"
+                        },
+                        {
+                            "text": "предать забвению"
+                        }
+                    ]
+                },
+                {
+                    "text": "remettre",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "передавать"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

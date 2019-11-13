@@ -1,0 +1,135 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ballot",
+            "pos": "noun",
+            "ts": "ˈbælət",
+            "tr": [
+                {
+                    "text": "голосование",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "выборы",
+                            "pos": "noun",
+                            "gen": "м",
+                            "num": "мн"
+                        },
+                        {
+                            "text": "итоги голосования",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "voting"
+                        },
+                        {
+                            "text": "election"
+                        },
+                        {
+                            "text": "voting results"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "absentee ballot",
+                            "tr": [
+                                {
+                                    "text": "заочное голосование"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "secret ballot vote",
+                            "tr": [
+                                {
+                                    "text": "тайное голосование"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "жеребьевка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "draw"
+                        }
+                    ]
+                },
+                {
+                    "text": "баллотировка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "vote"
+                        }
+                    ]
+                },
+                {
+                    "text": "избирательный бюллетень",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "бюллетень",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ballot paper"
+                        },
+                        {
+                            "text": "bulletin"
+                        }
+                    ]
+                },
+                {
+                    "text": "тайное голосование",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "secret ballot"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ballot",
+            "pos": "verb",
+            "ts": "ˈbælət",
+            "tr": [
+                {
+                    "text": "голосовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "проголосовать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "vote"
+                        }
+                    ]
+                },
+                {
+                    "text": "баллотировать",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        }
+    ]
+}

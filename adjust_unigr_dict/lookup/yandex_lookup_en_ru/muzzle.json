@@ -1,0 +1,143 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "muzzle",
+            "pos": "noun",
+            "ts": "mʌzl",
+            "tr": [
+                {
+                    "text": "морда",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "рыло",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "мордочка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "рожа",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "snout"
+                        },
+                        {
+                            "text": "face"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "short muzzle",
+                            "tr": [
+                                {
+                                    "text": "короткая морда"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "намордник",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "дуло",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "жерло",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "barrel"
+                        },
+                        {
+                            "text": "vent"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "black muzzle",
+                            "tr": [
+                                {
+                                    "text": "черное дуло"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дульный срез",
+                    "pos": "noun"
+                },
+                {
+                    "text": "мюзле",
+                    "pos": "noun",
+                    "gen": "ср"
+                }
+            ]
+        },
+        {
+            "text": "muzzle",
+            "pos": "verb",
+            "ts": "mʌzl",
+            "tr": [
+                {
+                    "text": "надевать намордник",
+                    "pos": "verb"
+                },
+                {
+                    "text": "заткнуть рот",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "затыкать рот",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "gag"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "muzzle",
+            "pos": "adjective",
+            "ts": "mʌzl",
+            "tr": [
+                {
+                    "text": "дульный",
+                    "pos": "adjective",
+                    "ex": [
+                        {
+                            "text": "muzzle brake",
+                            "tr": [
+                                {
+                                    "text": "дульный тормоз"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

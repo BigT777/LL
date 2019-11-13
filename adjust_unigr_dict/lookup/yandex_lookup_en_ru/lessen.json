@@ -1,0 +1,101 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "lessen",
+            "pos": "verb",
+            "ts": "lesn",
+            "tr": [
+                {
+                    "text": "уменьшать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сокращать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "уменьшить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "снизить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "уменьшиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "снижать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "уменьшаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "убавить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reduce"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lessen the risk",
+                            "tr": [
+                                {
+                                    "text": "уменьшать риск"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "преуменьшать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "преуменьшить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "приуменьшить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "downplay"
+                        }
+                    ]
+                },
+                {
+                    "text": "умалять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "diminish"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

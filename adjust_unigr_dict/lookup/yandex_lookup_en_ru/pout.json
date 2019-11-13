@@ -1,0 +1,76 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "pout",
+            "pos": "verb",
+            "ts": "paʊt",
+            "tr": [
+                {
+                    "text": "надуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "надувать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "надуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "надувать губы",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "inflate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "pout",
+            "pos": "noun",
+            "ts": "paʊt",
+            "tr": [
+                {
+                    "text": "надутые губы",
+                    "pos": "noun"
+                },
+                {
+                    "text": "гримаса",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "гримаска",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "grimace"
+                        }
+                    ]
+                },
+                {
+                    "text": "бельдюга",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "eelpout"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

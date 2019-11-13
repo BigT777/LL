@@ -1,0 +1,133 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "confess",
+            "pos": "verb",
+            "ts": "kənˈfes",
+            "tr": [
+                {
+                    "text": "исповедоваться",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "исповедаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ]
+                },
+                {
+                    "text": "исповедовать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "исповедывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "исповедать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "profess"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "confess the truth",
+                            "tr": [
+                                {
+                                    "text": "исповедовать истину"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "confess christ",
+                            "tr": [
+                                {
+                                    "text": "исповедать христа"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "признаваться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сознаваться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "признавать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "признаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "признать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сознаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "admit"
+                        },
+                        {
+                            "text": "acknowledge"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "confess frankly",
+                            "tr": [
+                                {
+                                    "text": "признаться честно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "покаяться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "каяться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "повиниться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "repent"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

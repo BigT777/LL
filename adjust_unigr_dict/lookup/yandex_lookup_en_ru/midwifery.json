@@ -1,0 +1,78 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "midwifery",
+            "pos": "noun",
+            "ts": "ˈmɪdwaɪf(ə)rɪ",
+            "tr": [
+                {
+                    "text": "акушерство",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "родовспоможение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "obstetrics"
+                        },
+                        {
+                            "text": "obstetric"
+                        }
+                    ]
+                },
+                {
+                    "text": "акушерка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "акушер",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "midwife"
+                        },
+                        {
+                            "text": "obstetrician"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "midwifery",
+            "pos": "adjective",
+            "ts": "ˈmɪdwaɪf(ə)rɪ",
+            "tr": [
+                {
+                    "text": "акушерский",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "obstetric"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "midwifery care",
+                            "tr": [
+                                {
+                                    "text": "акушерская помощь"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "prisoner",
+            "pos": "noun",
+            "ts": "ˈprɪznə",
+            "tr": [
+                {
+                    "text": "заключенный",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "узник",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "пленник",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "пленница",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "inmate"
+                        },
+                        {
+                            "text": "captive"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "former political prisoner",
+                            "tr": [
+                                {
+                                    "text": "бывший политический заключенный"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "known prisoners of conscience",
+                            "tr": [
+                                {
+                                    "text": "узники совести"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "helpless prisoner",
+                            "tr": [
+                                {
+                                    "text": "беспомощный пленник"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "арестант",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "detainee"
+                        }
+                    ]
+                },
+                {
+                    "text": "арестованный",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "arrest"
+                        }
+                    ]
+                },
+                {
+                    "text": "подсудимый",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "defendant"
+                        }
+                    ]
+                },
+                {
+                    "text": "военнопленный",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "prisoner of war"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "prisoner of war status",
+                            "tr": [
+                                {
+                                    "text": "статус военнопленного"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "узница",
+                    "pos": "noun",
+                    "gen": "ж"
+                },
+                {
+                    "text": "зэк",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "зек",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "convict"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "prisoner",
+            "pos": "adjective",
+            "ts": "ˈprɪznə",
+            "tr": [
+                {
+                    "text": "пленный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "capture"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "army prisoners",
+                            "tr": [
+                                {
+                                    "text": "пленные красноармейцы"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "prisoner",
+            "pos": "participle",
+            "ts": "ˈprɪznə",
+            "tr": [
+                {
+                    "text": "осужденный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "convicted"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

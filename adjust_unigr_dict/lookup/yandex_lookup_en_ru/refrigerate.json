@@ -1,0 +1,70 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "refrigerate",
+            "pos": "verb",
+            "ts": "rɪˈfrɪʤəreɪt",
+            "tr": [
+                {
+                    "text": "охлаждать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "охладить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "chill"
+                        },
+                        {
+                            "text": "cool"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "refrigerated cargo",
+                            "tr": [
+                                {
+                                    "text": "охлажденный груз"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "замораживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заморозить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "freeze"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "refrigerate",
+            "pos": "adverb",
+            "ts": "rɪˈfrɪʤəreɪt",
+            "tr": [
+                {
+                    "text": "в холодильник",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

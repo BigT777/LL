@@ -1,0 +1,177 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "bathe",
+            "pos": "verb",
+            "ts": "beɪð",
+            "tr": [
+                {
+                    "text": "мыть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обмывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "промыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вымыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "обмыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wash"
+                        }
+                    ]
+                },
+                {
+                    "text": "купаться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "купать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "искупаться",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "искупать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "выкупаться",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "выкупать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "swim"
+                        },
+                        {
+                            "text": "bath"
+                        },
+                        {
+                            "text": "redeem"
+                        },
+                        {
+                            "text": "buy"
+                        }
+                    ]
+                },
+                {
+                    "text": "омывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "принять ванну",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "вымыться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wash"
+                        },
+                        {
+                            "text": "take a bath"
+                        }
+                    ]
+                },
+                {
+                    "text": "заливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "pour"
+                        }
+                    ]
+                },
+                {
+                    "text": "окунуться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "окунуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "plunge"
+                        },
+                        {
+                            "text": "dip"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bathe",
+            "pos": "noun",
+            "ts": "beɪð",
+            "tr": [
+                {
+                    "text": "купание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "омовение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bathing"
+                        },
+                        {
+                            "text": "ablution"
+                        }
+                    ]
+                },
+                {
+                    "text": "ванна",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "bath"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

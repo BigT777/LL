@@ -1,0 +1,121 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "fluff",
+            "pos": "noun",
+            "ts": "flʌf",
+            "tr": [
+                {
+                    "text": "пух",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "пушок",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "пушинка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pooh"
+                        },
+                        {
+                            "text": "fuzz"
+                        },
+                        {
+                            "text": "flock"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "white fluff",
+                            "tr": [
+                                {
+                                    "text": "белый пух"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ерунда",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "bullshit"
+                        }
+                    ]
+                },
+                {
+                    "text": "ворс",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "pile"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fluff",
+            "pos": "verb",
+            "ts": "flʌf",
+            "tr": [
+                {
+                    "text": "взбивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "взбить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "whip"
+                        }
+                    ]
+                },
+                {
+                    "text": "распушить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "пушить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fluff up"
+                        }
+                    ]
+                },
+                {
+                    "text": "промазать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "miss"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

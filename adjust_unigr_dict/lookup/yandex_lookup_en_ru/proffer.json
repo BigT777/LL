@@ -1,0 +1,69 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "proffer",
+            "pos": "verb",
+            "ts": "ˈprɒfə",
+            "tr": [
+                {
+                    "text": "предлагать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "предложить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "propose"
+                        },
+                        {
+                            "text": "offer"
+                        }
+                    ]
+                },
+                {
+                    "text": "протянуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "протягивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hold out"
+                        },
+                        {
+                            "text": "stretch"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "proffer",
+            "pos": "noun",
+            "ts": "ˈprɒfə",
+            "tr": [
+                {
+                    "text": "предложение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "proposal"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

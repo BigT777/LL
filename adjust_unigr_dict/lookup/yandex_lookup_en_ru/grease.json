@@ -1,0 +1,216 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "grease",
+            "pos": "verb",
+            "ts": "griːs",
+            "tr": [
+                {
+                    "text": "смазывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "смазать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подмазать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "смазать жиром",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "подмазывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lubricate"
+                        }
+                    ]
+                },
+                {
+                    "text": "смазать консистентной смазкой",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "grease",
+            "pos": "noun",
+            "ts": "griːs",
+            "tr": [
+                {
+                    "text": "жир",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "fat"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hot grease",
+                            "tr": [
+                                {
+                                    "text": "горячий жир"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "тавот",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "солидол",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "axle grease"
+                        }
+                    ]
+                },
+                {
+                    "text": "смазочное вещество",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "смазка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "пластичная смазка",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "консистентная смазка",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "смазочный материал",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lubricant"
+                        },
+                        {
+                            "text": "lubrication"
+                        },
+                        {
+                            "text": "plastic lubricant"
+                        },
+                        {
+                            "text": "lubricating grease"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lubricating grease",
+                            "tr": [
+                                {
+                                    "text": "консистентная смазка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "смазывание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "lubrication"
+                        }
+                    ]
+                },
+                {
+                    "text": "сальный",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "густая смазка",
+                    "pos": "noun"
+                },
+                {
+                    "text": "жирное пятно",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "grease stain"
+                        }
+                    ]
+                },
+                {
+                    "text": "топленое сало",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "tallow"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "grease",
+            "pos": "adjective",
+            "ts": "griːs",
+            "tr": [
+                {
+                    "text": "жировой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "жирный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fat"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "grease stain",
+                            "tr": [
+                                {
+                                    "text": "жирное пятно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "смазочный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "lubricant"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

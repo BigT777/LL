@@ -1,0 +1,54 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "redistribute",
+            "pos": "verb",
+            "ts": "riːdɪˈstrɪbjuːt",
+            "tr": [
+                {
+                    "text": "перераспределять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "перераспределить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "переделить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "reallocate"
+                        }
+                    ]
+                },
+                {
+                    "text": "распространять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "distribute"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "redistribute copies",
+                            "tr": [
+                                {
+                                    "text": "распространять копии"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

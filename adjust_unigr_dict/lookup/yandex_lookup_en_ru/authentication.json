@@ -1,0 +1,183 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "authentication",
+            "pos": "noun",
+            "ts": "ɔːθentɪˈkeɪʃn",
+            "tr": [
+                {
+                    "text": "идентификация",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "удостоверение подлинности",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "аутентификация",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "проверка подлинности",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "авторизация",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "установление подлинности",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "опознание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "identification"
+                        },
+                        {
+                            "text": "authenticate"
+                        },
+                        {
+                            "text": "validation"
+                        },
+                        {
+                            "text": "authorization"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "user authentication",
+                            "tr": [
+                                {
+                                    "text": "идентификация пользователя"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "authentication mechanism",
+                            "tr": [
+                                {
+                                    "text": "механизм аутентификации"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "message authentication code",
+                            "tr": [
+                                {
+                                    "text": "код аутентификации сообщений"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "type of authentication",
+                            "tr": [
+                                {
+                                    "text": "тип авторизации"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "удостоверение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "identity"
+                        }
+                    ]
+                },
+                {
+                    "text": "опознавание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "recognition"
+                        }
+                    ]
+                },
+                {
+                    "text": "заверка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "certification"
+                        }
+                    ]
+                },
+                {
+                    "text": "проверка прав доступа",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "authentication",
+            "pos": "adjective",
+            "ts": "ɔːθentɪˈkeɪʃn",
+            "tr": [
+                {
+                    "text": "опознавательный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "идентификационный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "identification"
+                        }
+                    ]
+                },
+                {
+                    "text": "аутентификационный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "авторизационный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "authorization"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "authentication information",
+                            "tr": [
+                                {
+                                    "text": "аутентификационная информация"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "authentication server",
+                            "tr": [
+                                {
+                                    "text": "авторизационный сервер"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,439 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "push",
+            "pos": "verb",
+            "ts": "pʊʃ",
+            "tr": [
+                {
+                    "text": "толкать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подтолкнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "толкнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подталкивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "затолкать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "втолкнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "спихнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shove"
+                        },
+                        {
+                            "text": "nudge"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "pushed barge",
+                            "tr": [
+                                {
+                                    "text": "толкаемая баржа"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "push upwards",
+                            "tr": [
+                                {
+                                    "text": "подтолкнуть вверх"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "push the door",
+                            "tr": [
+                                {
+                                    "text": "толкнуть дверь"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "давить",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "нажимать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "нажать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "надавить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вдавить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "press"
+                        },
+                        {
+                            "text": "click"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "push harder",
+                            "tr": [
+                                {
+                                    "text": "давить сильнее"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "push a button",
+                            "tr": [
+                                {
+                                    "text": "нажимать кнопку"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "push the lever",
+                            "tr": [
+                                {
+                                    "text": "нажать на рычаг"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "продвигать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "отодвинуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сдвинуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "задвинуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "move"
+                        },
+                        {
+                            "text": "slide"
+                        }
+                    ]
+                },
+                {
+                    "text": "отталкивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "оттолкнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оттеснить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "оттеснять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "push away"
+                        },
+                        {
+                            "text": "alienate"
+                        },
+                        {
+                            "text": "push aside"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "push people",
+                            "tr": [
+                                {
+                                    "text": "отталкивать людей"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "проталкивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "протолкнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "push through"
+                        }
+                    ]
+                },
+                {
+                    "text": "выталкивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вытолкнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "push out"
+                        }
+                    ]
+                },
+                {
+                    "text": "раздвигать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "раздвинуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "expand"
+                        },
+                        {
+                            "text": "spread"
+                        }
+                    ]
+                },
+                {
+                    "text": "столкнуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "knock"
+                        }
+                    ]
+                },
+                {
+                    "text": "заставлять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "продавить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "force"
+                        }
+                    ]
+                },
+                {
+                    "text": "вытеснить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "replace"
+                        }
+                    ]
+                },
+                {
+                    "text": "отбросить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "throw"
+                        }
+                    ]
+                },
+                {
+                    "text": "выдавить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "протиснуться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "squeeze"
+                        }
+                    ]
+                },
+                {
+                    "text": "загнать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "drive"
+                        }
+                    ]
+                },
+                {
+                    "text": "пододвинуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "pull"
+                        }
+                    ]
+                },
+                {
+                    "text": "расталкивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "push apart"
+                        }
+                    ]
+                },
+                {
+                    "text": "тужиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "make an effort"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "push",
+            "pos": "noun",
+            "ts": "pʊʃ",
+            "tr": [
+                {
+                    "text": "толчок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "thrust"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "big push",
+                            "tr": [
+                                {
+                                    "text": "большой толчок"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "нажим",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "нажатие",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pressure"
+                        },
+                        {
+                            "text": "pressing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "strong push",
+                            "tr": [
+                                {
+                                    "text": "сильный нажим"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "second push",
+                            "tr": [
+                                {
+                                    "text": "повторное нажатие"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

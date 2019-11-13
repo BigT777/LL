@@ -1,0 +1,186 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "sour",
+            "pos": "adjective",
+            "ts": "ˈsaʊə",
+            "tr": [
+                {
+                    "text": "кислый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "кисловатый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "горький",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "терпкий",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "acid"
+                        },
+                        {
+                            "text": "sourish"
+                        },
+                        {
+                            "text": "bitter"
+                        },
+                        {
+                            "text": "tart"
+                        }
+                    ]
+                },
+                {
+                    "text": "мрачный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "угрюмый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "gloomy"
+                        },
+                        {
+                            "text": "sullen"
+                        }
+                    ]
+                },
+                {
+                    "text": "сернистый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "высокосернистый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sulphurous"
+                        }
+                    ]
+                },
+                {
+                    "text": "квашеный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "pickled"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sour",
+            "pos": "verb",
+            "ts": "ˈsaʊə",
+            "tr": [
+                {
+                    "text": "прокисать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "скисать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "скиснуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ]
+                },
+                {
+                    "text": "закисать",
+                    "pos": "verb",
+                    "asp": "несов"
+                },
+                {
+                    "text": "заквашивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "квасить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "ferment"
+                        },
+                        {
+                            "text": "pickle"
+                        }
+                    ]
+                },
+                {
+                    "text": "испортиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "портиться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "испортить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "spoil"
+                        },
+                        {
+                            "text": "deteriorate"
+                        }
+                    ]
+                },
+                {
+                    "text": "закиснуть",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "озлобить",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        },
+        {
+            "text": "sour",
+            "pos": "participle",
+            "ts": "ˈsaʊə",
+            "tr": [
+                {
+                    "text": "прокисший",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "musty"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

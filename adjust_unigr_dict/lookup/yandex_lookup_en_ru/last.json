@@ -1,0 +1,182 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "last",
+            "pos": "adjective",
+            "ts": "lɑːst",
+            "tr": [
+                {
+                    "text": "последний",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "прошлый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "заключительный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "предыдущий",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "recent"
+                        },
+                        {
+                            "text": "previous"
+                        },
+                        {
+                            "text": "final"
+                        }
+                    ]
+                },
+                {
+                    "text": "крайний",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "extreme"
+                        }
+                    ]
+                },
+                {
+                    "text": "истекший",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "past"
+                        }
+                    ]
+                },
+                {
+                    "text": "конечный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "end"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "last",
+            "pos": "verb",
+            "ts": "lɑːst",
+            "tr": [
+                {
+                    "text": "длиться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "продолжаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "продлиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "прослужить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "continue"
+                        },
+                        {
+                            "text": "extend"
+                        },
+                        {
+                            "text": "serve"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "last forever",
+                            "tr": [
+                                {
+                                    "text": "длиться вечно"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "last approximately",
+                            "tr": [
+                                {
+                                    "text": "продолжаться примерно"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "продержаться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "survive"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "last",
+            "pos": "noun",
+            "ts": "lɑːst",
+            "tr": [
+                {
+                    "text": "конец",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "end"
+                        }
+                    ]
+                },
+                {
+                    "text": "последний раз",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "last time"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "last",
+            "pos": "adverb",
+            "ts": "lɑːst",
+            "tr": [
+                {
+                    "text": "в последний раз",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "last time"
+                        }
+                    ]
+                },
+                {
+                    "text": "на последнем месте",
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "overstay",
+            "pos": "verb",
+            "ts": "əʊvəˈsteɪ",
+            "tr": [
+                {
+                    "text": "засидеться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "пересидеть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "задержаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "задерживаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "sit"
+                        },
+                        {
+                            "text": "stay"
+                        },
+                        {
+                            "text": "delay"
+                        }
+                    ]
+                },
+                {
+                    "text": "злоупотреблять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "abuse"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

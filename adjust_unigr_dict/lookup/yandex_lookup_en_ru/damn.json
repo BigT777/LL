@@ -1,0 +1,156 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "damn",
+            "pos": "noun",
+            "ts": "dæm",
+            "tr": [
+                {
+                    "text": "черт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "ни черта",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "блин",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "hell"
+                        }
+                    ]
+                },
+                {
+                    "text": "проклятие",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "проклятье",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "curse"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "damn",
+            "pos": "adjective",
+            "ts": "dæm",
+            "tr": [
+                {
+                    "text": "проклятый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "чертов",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "треклятый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "damned"
+                        },
+                        {
+                            "text": "fucking"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "damned thing",
+                            "tr": [
+                                {
+                                    "text": "проклятая штуковина"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "damned fool",
+                            "tr": [
+                                {
+                                    "text": "чертов придурок"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "damn",
+            "pos": "verb",
+            "ts": "dæm",
+            "tr": [
+                {
+                    "text": "проклинать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "проклясть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "curse"
+                        }
+                    ]
+                },
+                {
+                    "text": "наплевать",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "spit"
+                        }
+                    ]
+                },
+                {
+                    "text": "осудить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "condemn"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "damn",
+            "pos": "adverb",
+            "ts": "dæm",
+            "tr": [
+                {
+                    "text": "чертовски",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "damned"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

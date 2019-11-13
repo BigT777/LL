@@ -1,0 +1,352 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "drop",
+            "pos": "noun",
+            "ts": "drɒp",
+            "tr": [
+                {
+                    "text": "падение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "снижение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fall"
+                        },
+                        {
+                            "text": "reduction"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "drop in blood pressure",
+                            "tr": [
+                                {
+                                    "text": "падение кровяного давления"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "drop in oil prices",
+                            "tr": [
+                                {
+                                    "text": "падение цен на нефть"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "sharp drop in demand",
+                            "tr": [
+                                {
+                                    "text": "резкое падение спроса"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "drop in interest rates",
+                            "tr": [
+                                {
+                                    "text": "снижение процентных ставок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "drop in production volumes",
+                            "tr": [
+                                {
+                                    "text": "снижение объемов производства"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "капля",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "капелька",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "droplet"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "drop of water",
+                            "tr": [
+                                {
+                                    "text": "капля воды"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "last few drops",
+                            "tr": [
+                                {
+                                    "text": "последние капли"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "tiny drop",
+                            "tr": [
+                                {
+                                    "text": "крошечная капелька"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "drop",
+            "pos": "verb",
+            "ts": "drɒp",
+            "tr": [
+                {
+                    "text": "бросать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "сбрасывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "бросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сбросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отбросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отбрасывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "подбросить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "throw"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "drop the knife",
+                            "tr": [
+                                {
+                                    "text": "бросить нож"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "drop a bomb",
+                            "tr": [
+                                {
+                                    "text": "сбросить бомбу"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "drop the word",
+                            "tr": [
+                                {
+                                    "text": "отбросить слово"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "падать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "снижаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "упасть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "снизиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "опуститься",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "уменьшиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выпадать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "понизиться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "подешеветь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отпадать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "отпасть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fall"
+                        },
+                        {
+                            "text": "decrease"
+                        },
+                        {
+                            "text": "cheaper"
+                        },
+                        {
+                            "text": "disappear"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "drop below",
+                            "tr": [
+                                {
+                                    "text": "падать ниже"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "drop dead",
+                            "tr": [
+                                {
+                                    "text": "упасть замертво"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "ронять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "уронить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "выронить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "shed"
+                        },
+                        {
+                            "text": "let"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "drop the weapon",
+                            "tr": [
+                                {
+                                    "text": "уронить оружие"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "опустить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "lower"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "drop the gun",
+                            "tr": [
+                                {
+                                    "text": "опустить пистолет"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "удалить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "снять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "remove"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

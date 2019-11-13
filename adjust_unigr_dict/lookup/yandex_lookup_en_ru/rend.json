@@ -1,0 +1,65 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "rend",
+            "pos": "verb",
+            "ts": "rend",
+            "fl": "rent, rent",
+            "tr": [
+                {
+                    "text": "раздирать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "рвать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "разрывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "разодрать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "разорвать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tear"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "rend the veil",
+                            "tr": [
+                                {
+                                    "text": "разорвать завесу"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "расколоть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "split"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

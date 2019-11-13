@@ -1,0 +1,95 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "behold",
+            "pos": "verb",
+            "ts": "bɪˈhəʊld",
+            "fl": "beheld, beheld",
+            "tr": [
+                {
+                    "text": "смотреть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "watch"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "behold the sun",
+                            "tr": [
+                                {
+                                    "text": "смотреть на солнце"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "узреть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "видеть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "увидеть",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "see"
+                        }
+                    ]
+                },
+                {
+                    "text": "созерцать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "лицезреть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "зреть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "contemplate"
+                        },
+                        {
+                            "text": "mature"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "behold",
+            "pos": "particle",
+            "ts": "bɪˈhəʊld",
+            "tr": [
+                {
+                    "text": "вот",
+                    "pos": "particle",
+                    "mean": [
+                        {
+                            "text": "here"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

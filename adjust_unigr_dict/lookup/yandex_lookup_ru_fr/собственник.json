@@ -1,0 +1,59 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "собственник",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "одуш",
+            "tr": [
+                {
+                    "text": "propriétaire",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "détenteur",
+                            "pos": "noun",
+                            "gen": "m"
+                        },
+                        {
+                            "text": "possesseur",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "владелец"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "собственник земельного участка",
+                            "tr": [
+                                {
+                                    "text": "propriétaire foncier"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "copropriétaire",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "совладелец"
+                        }
+                    ]
+                },
+                {
+                    "text": "possédant",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ladle",
+            "pos": "noun",
+            "ts": "leɪdl",
+            "tr": [
+                {
+                    "text": "ковш",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "черпак",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "половник",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "ковшик",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "поварешка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bucket"
+                        },
+                        {
+                            "text": "scoop"
+                        },
+                        {
+                            "text": "dipper"
+                        },
+                        {
+                            "text": "serving spoon"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "intermediate ladle",
+                            "tr": [
+                                {
+                                    "text": "промежуточный ковш"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сталеразливочный ковш",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "steel ladle"
+                        }
+                    ]
+                },
+                {
+                    "text": "ковшевой",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "разливательная ложка",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "ladle",
+            "pos": "verb",
+            "ts": "leɪdl",
+            "tr": [
+                {
+                    "text": "черпать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "scoop"
+                        }
+                    ]
+                },
+                {
+                    "text": "разлить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "pour"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

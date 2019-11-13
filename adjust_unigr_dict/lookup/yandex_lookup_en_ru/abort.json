@@ -1,0 +1,180 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "abort",
+            "pos": "noun",
+            "ts": "əˈbɔːt",
+            "tr": [
+                {
+                    "text": "аборт",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "выкидыш",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "abortion"
+                        },
+                        {
+                            "text": "miscarriage"
+                        }
+                    ]
+                },
+                {
+                    "text": "прерывание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "прекращение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "interruption"
+                        },
+                        {
+                            "text": "termination"
+                        }
+                    ]
+                },
+                {
+                    "text": "аварийное завершение",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "аварийное прекращение",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "crash"
+                        }
+                    ]
+                },
+                {
+                    "text": "преждевременное прекращение",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "abort",
+            "pos": "verb",
+            "ts": "əˈbɔːt",
+            "tr": [
+                {
+                    "text": "прекращать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "прекратить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "terminate"
+                        }
+                    ]
+                },
+                {
+                    "text": "прервать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "прерывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "interrupt"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "abort the operation",
+                            "tr": [
+                                {
+                                    "text": "прервать операцию"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отменить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "отменять",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "cancel"
+                        }
+                    ]
+                },
+                {
+                    "text": "выкинуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "выкидывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "throw out"
+                        }
+                    ]
+                },
+                {
+                    "text": "абортировать",
+                    "pos": "verb"
+                },
+                {
+                    "text": "аварийно завершать",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "abort",
+            "pos": "adjective",
+            "ts": "əˈbɔːt",
+            "tr": [
+                {
+                    "text": "аварийный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "emergency"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

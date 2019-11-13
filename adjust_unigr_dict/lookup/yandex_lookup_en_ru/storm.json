@@ -1,0 +1,318 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "storm",
+            "pos": "noun",
+            "ts": "stɔːm",
+            "tr": [
+                {
+                    "text": "буря",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "град",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "гроза",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "шторм",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "ураган",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "шквал",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "ливень",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "tempest"
+                        },
+                        {
+                            "text": "hail"
+                        },
+                        {
+                            "text": "thunderstorm"
+                        },
+                        {
+                            "text": "gale"
+                        },
+                        {
+                            "text": "hurricane"
+                        },
+                        {
+                            "text": "squall"
+                        },
+                        {
+                            "text": "rain"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "terrible storm",
+                            "tr": [
+                                {
+                                    "text": "ужасная гроза"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "strong tropical storm",
+                            "tr": [
+                                {
+                                    "text": "сильный тропический шторм"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "storm of passion",
+                            "tr": [
+                                {
+                                    "text": "ураган страсти"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "метель",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "буран",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "вьюга",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "blizzard"
+                        }
+                    ]
+                },
+                {
+                    "text": "штурм",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "assault"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "last storm",
+                            "tr": [
+                                {
+                                    "text": "последний штурм"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "циклон",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "cyclone"
+                        }
+                    ]
+                },
+                {
+                    "text": "жестокий шторм",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "severe storm"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "storm",
+            "pos": "verb",
+            "ts": "stɔːm",
+            "tr": [
+                {
+                    "text": "бушевать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "штормить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rage"
+                        },
+                        {
+                            "text": "stormy"
+                        }
+                    ]
+                },
+                {
+                    "text": "штурмовать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "assault"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "storm the building",
+                            "tr": [
+                                {
+                                    "text": "штурмовать здание"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "взять штурмом",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "штурмом взять",
+                            "pos": "verb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "storm",
+            "pos": "adjective",
+            "ts": "stɔːm",
+            "tr": [
+                {
+                    "text": "грозовой",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "ливневый",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "штормовой",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "бурный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "ураганный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "thunderstorm"
+                        },
+                        {
+                            "text": "rain"
+                        },
+                        {
+                            "text": "stormy"
+                        },
+                        {
+                            "text": "hurricane"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "storm cloud",
+                            "tr": [
+                                {
+                                    "text": "грозовая туча"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "storm sewage system",
+                            "tr": [
+                                {
+                                    "text": "ливневая канализация"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "storm water drain",
+                            "tr": [
+                                {
+                                    "text": "ливневая канализация"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "storm warning",
+                            "tr": [
+                                {
+                                    "text": "штормовое предупреждение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "storm of applause",
+                            "tr": [
+                                {
+                                    "text": "бурные аплодисменты"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "storm wind",
+                            "tr": [
+                                {
+                                    "text": "ураганный ветер"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "штурмовой",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "assault"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

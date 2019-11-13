@@ -1,0 +1,231 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "recall",
+            "pos": "verb",
+            "ts": "rɪˈkɔːl",
+            "tr": [
+                {
+                    "text": "вспоминать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "вспомнить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "помнить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "припомнить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "припоминать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "вспомянуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "remember"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "recall the past",
+                            "tr": [
+                                {
+                                    "text": "вспоминать прошлое"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "recall the name",
+                            "tr": [
+                                {
+                                    "text": "вспомнить имя"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "recall a time",
+                            "tr": [
+                                {
+                                    "text": "помнить времена"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "отозвать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "отзывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "withdraw"
+                        }
+                    ]
+                },
+                {
+                    "text": "напоминать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "напомнить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "remind"
+                        }
+                    ]
+                },
+                {
+                    "text": "воскрешать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "raise"
+                        }
+                    ]
+                },
+                {
+                    "text": "вызвать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "вызывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "call"
+                        }
+                    ]
+                },
+                {
+                    "text": "упомянуть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "упоминать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mention"
+                        }
+                    ]
+                },
+                {
+                    "text": "призывать обратно",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "recall",
+            "pos": "noun",
+            "ts": "rɪˈkɔːl",
+            "tr": [
+                {
+                    "text": "воспоминание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "напоминание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "вспоминание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "memory"
+                        },
+                        {
+                            "text": "remind"
+                        },
+                        {
+                            "text": "recollection"
+                        }
+                    ]
+                },
+                {
+                    "text": "отозвание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "withdrawal"
+                        }
+                    ]
+                },
+                {
+                    "text": "отзыв",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "review"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "product recall",
+                            "tr": [
+                                {
+                                    "text": "отзыв продукции"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "повторный вызов",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "redial"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

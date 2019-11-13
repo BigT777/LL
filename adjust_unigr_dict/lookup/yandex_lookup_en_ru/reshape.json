@@ -1,0 +1,180 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "reshape",
+            "pos": "verb",
+            "ts": "riːˈʃeɪp",
+            "tr": [
+                {
+                    "text": "изменять",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "изменить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "переделать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "видоизменить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "переделывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "alter"
+                        },
+                        {
+                            "text": "modify"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "reshape the world",
+                            "tr": [
+                                {
+                                    "text": "изменить мир"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "перестроить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "перестраивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "реформировать",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "переформировать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "restructure"
+                        },
+                        {
+                            "text": "reform"
+                        }
+                    ]
+                },
+                {
+                    "text": "перекроить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "перекраивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "redraw"
+                        }
+                    ]
+                },
+                {
+                    "text": "изменяться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "меняться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "change"
+                        }
+                    ]
+                },
+                {
+                    "text": "переформовать",
+                    "pos": "verb",
+                    "asp": "сов"
+                },
+                {
+                    "text": "трансформировать",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "преобразовывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "transform"
+                        }
+                    ]
+                },
+                {
+                    "text": "формировать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "shape"
+                        }
+                    ]
+                },
+                {
+                    "text": "придать новую форму",
+                    "pos": "verb"
+                },
+                {
+                    "text": "перепрофилировать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "reorientate"
+                        }
+                    ]
+                },
+                {
+                    "text": "изменять форму",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "reshape",
+            "pos": "noun",
+            "ts": "riːˈʃeɪp",
+            "tr": [
+                {
+                    "text": "изменение формы",
+                    "pos": "noun"
+                }
+            ]
+        }
+    ]
+}

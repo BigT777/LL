@@ -1,0 +1,61 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "ветерок",
+            "pos": "noun",
+            "gen": "м",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "faible brise",
+                    "pos": "noun"
+                },
+                {
+                    "text": "brise",
+                    "pos": "noun",
+                    "gen": "f",
+                    "syn": [
+                        {
+                            "text": "fraîcheur",
+                            "pos": "noun",
+                            "gen": "f"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "легкий ветерок"
+                        },
+                        {
+                            "text": "прохлада"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "прохладный ветерок",
+                            "tr": [
+                                {
+                                    "text": "brise fraîche"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "brise légère",
+                    "pos": "noun"
+                },
+                {
+                    "text": "vent",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "ветер"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "siege",
+            "pos": "noun",
+            "ts": "siːʤ",
+            "tr": [
+                {
+                    "text": "осада",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "блокада",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "seige"
+                        },
+                        {
+                            "text": "blockade"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "city under siege",
+                            "tr": [
+                                {
+                                    "text": "город в осаде"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "military siege",
+                            "tr": [
+                                {
+                                    "text": "военная блокада"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "осадное положение",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "state of siege"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "siege",
+            "pos": "verb",
+            "ts": "siːʤ",
+            "tr": [
+                {
+                    "text": "осаждать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "снять осаду",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "осадить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "besiege"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "siege",
+            "pos": "adjective",
+            "ts": "siːʤ",
+            "tr": [
+                {
+                    "text": "осадный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "obsidional"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "siege machine",
+                            "tr": [
+                                {
+                                    "text": "осадная машина"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

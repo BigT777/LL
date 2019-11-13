@@ -1,0 +1,274 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "wash",
+            "pos": "verb",
+            "ts": "wɒʃ",
+            "tr": [
+                {
+                    "text": "мыть",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "стирать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "смывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "омывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "смыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "вымыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "промыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "помыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "промывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "постирать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отмыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отстирывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "clean"
+                        },
+                        {
+                            "text": "wipe"
+                        },
+                        {
+                            "text": "rinse"
+                        },
+                        {
+                            "text": "bathe"
+                        },
+                        {
+                            "text": "launder"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "wash cars",
+                            "tr": [
+                                {
+                                    "text": "мыть машины"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "wash clothes",
+                            "tr": [
+                                {
+                                    "text": "стирать одежду"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "wash the blood",
+                            "tr": [
+                                {
+                                    "text": "смыть кровь"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "wash hands",
+                            "tr": [
+                                {
+                                    "text": "вымыть руки"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "washed precipitate",
+                            "tr": [
+                                {
+                                    "text": "промытый осадок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "wash the floors",
+                            "tr": [
+                                {
+                                    "text": "помыть полы"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "умываться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "умыться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "помыться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "перемыть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wash himself"
+                        },
+                        {
+                            "text": "wash up"
+                        },
+                        {
+                            "text": "clean myself"
+                        }
+                    ]
+                },
+                {
+                    "text": "умыть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "умывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ]
+                },
+                {
+                    "text": "омыть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "cleanse"
+                        }
+                    ]
+                },
+                {
+                    "text": "вымываться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "wash out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "wash",
+            "pos": "noun",
+            "ts": "wɒʃ",
+            "tr": [
+                {
+                    "text": "мытье",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "мойка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "washing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hair wash",
+                            "tr": [
+                                {
+                                    "text": "мытье волос"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "wash cycle",
+                            "tr": [
+                                {
+                                    "text": "цикл мойки"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "жижа",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "liquid"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "wash",
+            "pos": "adjective",
+            "ts": "wɒʃ",
+            "tr": [
+                {
+                    "text": "моечный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "washing"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

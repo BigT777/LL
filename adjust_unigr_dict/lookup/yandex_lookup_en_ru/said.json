@@ -1,0 +1,70 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "said",
+            "pos": "participle",
+            "ts": "sed",
+            "tr": [
+                {
+                    "text": "сказанный",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "told"
+                        }
+                    ]
+                },
+                {
+                    "text": "указанный",
+                    "pos": "participle",
+                    "syn": [
+                        {
+                            "text": "упомянутый",
+                            "pos": "participle"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "indicated"
+                        },
+                        {
+                            "text": "mentioned"
+                        }
+                    ]
+                },
+                {
+                    "text": "сказавший",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "saying"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "said",
+            "pos": "adjective",
+            "ts": "sed",
+            "tr": [
+                {
+                    "text": "вышеупомянутый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "вышеуказанный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "aforementioned"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

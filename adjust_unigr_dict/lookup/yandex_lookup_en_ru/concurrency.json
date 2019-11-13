@@ -1,0 +1,83 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "concurrency",
+            "pos": "noun",
+            "ts": "kənˈkʌrənsɪ",
+            "tr": [
+                {
+                    "text": "параллелизм",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "параллельность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "параллельная обработка",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "parallelism"
+                        },
+                        {
+                            "text": "parallel processing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "optimistic concurrency",
+                            "tr": [
+                                {
+                                    "text": "оптимистичный параллелизм"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "одновременность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "simultaneity"
+                        }
+                    ]
+                },
+                {
+                    "text": "одновременный доступ",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "параллельный доступ",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "simultaneous access"
+                        },
+                        {
+                            "text": "concurrent access"
+                        }
+                    ]
+                },
+                {
+                    "text": "параллельное выполнение",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "parallel execution"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

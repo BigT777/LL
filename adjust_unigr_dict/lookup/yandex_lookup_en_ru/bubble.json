@@ -1,0 +1,210 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "bubble",
+            "pos": "noun",
+            "ts": "bʌbl",
+            "tr": [
+                {
+                    "text": "пузырь",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "пузырек",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "мыльный пузырь",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "шарик",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bladder"
+                        },
+                        {
+                            "text": "blister"
+                        },
+                        {
+                            "text": "soap bubble"
+                        },
+                        {
+                            "text": "ball"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "soap bubble",
+                            "tr": [
+                                {
+                                    "text": "мыльный пузырь"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "real estate bubble",
+                            "tr": [
+                                {
+                                    "text": "пузырь на рынке недвижимости"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "tiny air bubbles",
+                            "tr": [
+                                {
+                                    "text": "крошечные пузырьки воздуха"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "пузырек воздуха",
+                    "pos": "noun",
+                    "syn": [
+                        {
+                            "text": "воздушный пузырь",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "air bubble"
+                        }
+                    ]
+                },
+                {
+                    "text": "финансовая пирамида",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "pyramid"
+                        }
+                    ]
+                },
+                {
+                    "text": "кружок",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "circle"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bubble",
+            "pos": "verb",
+            "ts": "bʌbl",
+            "tr": [
+                {
+                    "text": "пузыриться",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "кипеть",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "клокотать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "бурлить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "булькать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "закипать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "бить ключом",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "blister"
+                        },
+                        {
+                            "text": "boil"
+                        },
+                        {
+                            "text": "seethe"
+                        },
+                        {
+                            "text": "gurgle"
+                        }
+                    ]
+                },
+                {
+                    "text": "барботировать",
+                    "pos": "verb",
+                    "asp": "несов"
+                }
+            ]
+        },
+        {
+            "text": "bubble",
+            "pos": "adjective",
+            "ts": "bʌbl",
+            "tr": [
+                {
+                    "text": "пузырьковый",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "пузырчатый",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "bubbly"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hydrogen bubble chamber",
+                            "tr": [
+                                {
+                                    "text": "водородная пузырьковая камера"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "барботажный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "bubbling"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

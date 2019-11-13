@@ -1,0 +1,364 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "stuff",
+            "pos": "noun",
+            "ts": "stʌf",
+            "tr": [
+                {
+                    "text": "материал",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "material"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "good stuff",
+                            "tr": [
+                                {
+                                    "text": "хороший материал"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "хлам",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "дрянь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "барахло",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "гадость",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "дребедень",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "rubbish"
+                        },
+                        {
+                            "text": "junk"
+                        },
+                        {
+                            "text": "muck"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "different stuff",
+                            "tr": [
+                                {
+                                    "text": "разный хлам"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "old stuff",
+                            "tr": [
+                                {
+                                    "text": "старое барахло"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вещество",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "substance"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "cool stuff",
+                            "tr": [
+                                {
+                                    "text": "холодное вещество"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "штука",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "piece"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "expensive stuff",
+                            "tr": [
+                                {
+                                    "text": "дорогая штука"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "чепуха",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "ерунда",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "чушь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "nonsense"
+                        }
+                    ]
+                },
+                {
+                    "text": "персонал",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "кадры",
+                            "pos": "noun",
+                            "gen": "м",
+                            "num": "мн"
+                        },
+                        {
+                            "text": "коллектив",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "personnel"
+                        },
+                        {
+                            "text": "staff"
+                        },
+                        {
+                            "text": "team"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "medical stuff",
+                            "tr": [
+                                {
+                                    "text": "медицинский персонал"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "штучка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "мелочь",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "thing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "hot stuff",
+                            "tr": [
+                                {
+                                    "text": "горячая штучка"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "вещи",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "belongings"
+                        }
+                    ]
+                },
+                {
+                    "text": "начинка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "filling"
+                        }
+                    ]
+                },
+                {
+                    "text": "чучело",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "dummy"
+                        }
+                    ]
+                },
+                {
+                    "text": "продукты",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "grocery"
+                        }
+                    ]
+                },
+                {
+                    "text": "всякая всячина",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "all sorts"
+                        }
+                    ]
+                },
+                {
+                    "text": "напитки",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "spirits"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "stuff",
+            "pos": "verb",
+            "ts": "stʌf",
+            "tr": [
+                {
+                    "text": "засовывать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "запихивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "засунуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сунуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "запихнуть",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "stick"
+                        },
+                        {
+                            "text": "push"
+                        },
+                        {
+                            "text": "shove"
+                        }
+                    ]
+                },
+                {
+                    "text": "набивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "набить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "начинить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "fill"
+                        }
+                    ]
+                },
+                {
+                    "text": "пичкать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "напичкать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "feed"
+                        }
+                    ]
+                },
+                {
+                    "text": "нафаршировать",
+                    "pos": "verb",
+                    "asp": "сов"
+                }
+            ]
+        }
+    ]
+}

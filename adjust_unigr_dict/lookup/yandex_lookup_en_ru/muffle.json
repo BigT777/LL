@@ -1,0 +1,119 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "muffle",
+            "pos": "noun",
+            "ts": "mʌfl",
+            "tr": [
+                {
+                    "text": "муфель",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "муфельная печь",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "muffle furnace"
+                        }
+                    ]
+                },
+                {
+                    "text": "рукавица",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "mitten"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "muffle",
+            "pos": "verb",
+            "ts": "mʌfl",
+            "tr": [
+                {
+                    "text": "заглушать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "глушить",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "заглушить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "drown"
+                        },
+                        {
+                            "text": "suppress"
+                        }
+                    ]
+                },
+                {
+                    "text": "приглушить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "приглушать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "mute"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "muffle the sound",
+                            "tr": [
+                                {
+                                    "text": "приглушить звук"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "закутать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "кутаться",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "закутаться",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "wrap"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

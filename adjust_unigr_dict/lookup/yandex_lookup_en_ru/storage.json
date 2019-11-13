@@ -1,0 +1,307 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "storage",
+            "pos": "noun",
+            "ts": "ˈstɔːrɪʤ",
+            "tr": [
+                {
+                    "text": "хранение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "хранилище",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "склад",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "складирование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "store"
+                        },
+                        {
+                            "text": "warehouse"
+                        },
+                        {
+                            "text": "warehousing"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "storage temperature",
+                            "tr": [
+                                {
+                                    "text": "температура хранения"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "long term storage",
+                            "tr": [
+                                {
+                                    "text": "длительное хранение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "radioactive waste storage",
+                            "tr": [
+                                {
+                                    "text": "хранение радиоактивных отходов"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "underground gas storage facility",
+                            "tr": [
+                                {
+                                    "text": "подземное газовое хранилище"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "finished product storage",
+                            "tr": [
+                                {
+                                    "text": "склад готовой продукции"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "raw material storage",
+                            "tr": [
+                                {
+                                    "text": "склад сырья"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "storage of spare parts",
+                            "tr": [
+                                {
+                                    "text": "склад запчастей"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "накопитель",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "запоминающее устройство",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "устройство хранения",
+                            "pos": "noun"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "storage device"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "external storage",
+                            "tr": [
+                                {
+                                    "text": "внешний накопитель"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "память",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "memory"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "mass storage device",
+                            "tr": [
+                                {
+                                    "text": "устройство массовой памяти"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "thread local storage",
+                            "tr": [
+                                {
+                                    "text": "локальная память потока"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сохранение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "preservation"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "automatic storage",
+                            "tr": [
+                                {
+                                    "text": "автоматическое сохранение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "кладовка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "storage room"
+                        }
+                    ]
+                },
+                {
+                    "text": "накопление",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "аккумулирование",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "accumulation"
+                        }
+                    ]
+                },
+                {
+                    "text": "хранилище данных",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "data warehouse"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "storage",
+            "pos": "adjective",
+            "ts": "ˈstɔːrɪʤ",
+            "tr": [
+                {
+                    "text": "складской",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "warehouse"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "storage room",
+                            "tr": [
+                                {
+                                    "text": "складское помещение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "накопительный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "аккумуляторный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "accumulation"
+                        },
+                        {
+                            "text": "accumulator"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "storage battery",
+                            "tr": [
+                                {
+                                    "text": "аккумуляторная батарея"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "заготовительный",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "procurement"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "storage",
+            "pos": "participle",
+            "ts": "ˈstɔːrɪʤ",
+            "tr": [
+                {
+                    "text": "запоминающий",
+                    "pos": "participle",
+                    "mean": [
+                        {
+                            "text": "memory"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "storage",
+            "pos": "invariable",
+            "ts": "ˈstɔːrɪʤ",
+            "tr": [
+                {
+                    "text": "ЗУ",
+                    "pos": "invariable"
+                }
+            ]
+        }
+    ]
+}

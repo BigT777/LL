@@ -1,0 +1,381 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "alert",
+            "pos": "noun",
+            "ts": "əˈlɜːt",
+            "tr": [
+                {
+                    "text": "тревога",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "сигнал тревоги",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "сигнал",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "alarm"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "air raid alert",
+                            "tr": [
+                                {
+                                    "text": "воздушная тревога"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "distress alert",
+                            "tr": [
+                                {
+                                    "text": "сигнал бедствия"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "предупреждение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "оповещение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "уведомление",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "warning"
+                        },
+                        {
+                            "text": "notification"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "alert window",
+                            "tr": [
+                                {
+                                    "text": "окно предупреждения"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "alert system",
+                            "tr": [
+                                {
+                                    "text": "система оповещения"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "alert service",
+                            "tr": [
+                                {
+                                    "text": "служба уведомлений"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "готовность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "боевая готовность",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "боеготовность",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "readiness"
+                        },
+                        {
+                            "text": "combat readiness"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "full alert",
+                            "tr": [
+                                {
+                                    "text": "полная боевая готовность"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "бдительность",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "vigilance"
+                        }
+                    ]
+                },
+                {
+                    "text": "состояние боевой готовности",
+                    "pos": "noun"
+                },
+                {
+                    "text": "боевое дежурство",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "combat duty"
+                        }
+                    ]
+                },
+                {
+                    "text": "объявление тревоги",
+                    "pos": "noun"
+                }
+            ]
+        },
+        {
+            "text": "alert",
+            "pos": "adjective",
+            "ts": "əˈlɜːt",
+            "tr": [
+                {
+                    "text": "бдительный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "настороженный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "vigilant"
+                        },
+                        {
+                            "text": "wary"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "alert attitude",
+                            "tr": [
+                                {
+                                    "text": "настороженное отношение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "внимательный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "предупредительный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "attentive"
+                        },
+                        {
+                            "text": "warning"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "alert reader",
+                            "tr": [
+                                {
+                                    "text": "внимательный читатель"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "аварийный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "тревожный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "emergency"
+                        },
+                        {
+                            "text": "alarm"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "alert message",
+                            "tr": [
+                                {
+                                    "text": "аварийное сообщение"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "бодрый",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "cheerful"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "alert",
+            "pos": "verb",
+            "ts": "əˈlɜːt",
+            "tr": [
+                {
+                    "text": "предупреждать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "предупредить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "warn"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "alert people",
+                            "tr": [
+                                {
+                                    "text": "предупреждать людей"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "alert the police",
+                            "tr": [
+                                {
+                                    "text": "предупредить полицию"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "оповещать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "оповестить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "notify"
+                        }
+                    ]
+                },
+                {
+                    "text": "насторожить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "настораживать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "встревожить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "guard"
+                        },
+                        {
+                            "text": "alarm"
+                        }
+                    ]
+                },
+                {
+                    "text": "насторожиться",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "wary"
+                        }
+                    ]
+                },
+                {
+                    "text": "приводить в готовность",
+                    "pos": "verb"
+                },
+                {
+                    "text": "привести в готовность",
+                    "pos": "verb"
+                }
+            ]
+        },
+        {
+            "text": "alert",
+            "pos": "adverb",
+            "ts": "əˈlɜːt",
+            "tr": [
+                {
+                    "text": "настороже",
+                    "pos": "adverb",
+                    "mean": [
+                        {
+                            "text": "on guard"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

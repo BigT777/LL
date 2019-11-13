@@ -1,0 +1,201 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "curb",
+            "pos": "verb",
+            "ts": "kɜːb",
+            "tr": [
+                {
+                    "text": "сдерживать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "обуздывать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "укрощать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        },
+                        {
+                            "text": "обуздать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "сдержать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "умерить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "укротить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "restrain"
+                        },
+                        {
+                            "text": "tame"
+                        },
+                        {
+                            "text": "bridle"
+                        },
+                        {
+                            "text": "moderate"
+                        }
+                    ]
+                },
+                {
+                    "text": "ограничить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "ограничивать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "restrict"
+                        }
+                    ]
+                },
+                {
+                    "text": "пресекать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "suppress"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "curb",
+            "pos": "noun",
+            "ts": "kɜːb",
+            "tr": [
+                {
+                    "text": "сдерживание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "syn": [
+                        {
+                            "text": "обуздание",
+                            "pos": "noun",
+                            "gen": "ср"
+                        },
+                        {
+                            "text": "пресечение",
+                            "pos": "noun",
+                            "gen": "ср"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "deterrence"
+                        },
+                        {
+                            "text": "curbing"
+                        },
+                        {
+                            "text": "prevent"
+                        }
+                    ]
+                },
+                {
+                    "text": "обочина",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "бордюрный камень",
+                            "pos": "noun"
+                        },
+                        {
+                            "text": "поребрик",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "бордюр",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "roadside"
+                        },
+                        {
+                            "text": "curbstone"
+                        },
+                        {
+                            "text": "kerb"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "high curb",
+                            "tr": [
+                                {
+                                    "text": "высокий бордюр"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "край тротуара",
+                    "pos": "noun"
+                },
+                {
+                    "text": "ограничение",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "restriction"
+                        }
+                    ]
+                },
+                {
+                    "text": "узда",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "bridle"
+                        }
+                    ]
+                },
+                {
+                    "text": "опалубка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "formwork"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

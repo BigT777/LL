@@ -1,0 +1,160 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "afternoon",
+            "pos": "noun",
+            "ts": "ɑːftəˈnuːn",
+            "tr": [
+                {
+                    "text": "время после полудня",
+                    "pos": "noun"
+                },
+                {
+                    "text": "день",
+                    "pos": "noun",
+                    "gen": "м",
+                    "syn": [
+                        {
+                            "text": "полдень",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "вечер",
+                            "pos": "noun",
+                            "gen": "м"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "day"
+                        },
+                        {
+                            "text": "noon"
+                        },
+                        {
+                            "text": "evening"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "lazy afternoon",
+                            "tr": [
+                                {
+                                    "text": "ленивый день"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "quiet afternoon",
+                            "tr": [
+                                {
+                                    "text": "тихий вечер"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "послеобеденное время",
+                    "pos": "noun"
+                },
+                {
+                    "text": "дневное время",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "daytime"
+                        }
+                    ]
+                },
+                {
+                    "text": "полдник",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "snack"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "afternoon",
+            "pos": "adjective",
+            "ts": "ɑːftəˈnuːn",
+            "tr": [
+                {
+                    "text": "послеобеденный",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "послеполуденный",
+                            "pos": "adjective"
+                        },
+                        {
+                            "text": "полуденный",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "afternoon tea",
+                            "tr": [
+                                {
+                                    "text": "послеобеденный чай"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "afternoon breeze",
+                            "tr": [
+                                {
+                                    "text": "послеполуденный ветерок"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "afternoon heat",
+                            "tr": [
+                                {
+                                    "text": "полуденный зной"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "дневной",
+                    "pos": "adjective",
+                    "syn": [
+                        {
+                            "text": "вечерний",
+                            "pos": "adjective"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "day"
+                        },
+                        {
+                            "text": "evening"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "afternoon session",
+                            "tr": [
+                                {
+                                    "text": "дневное заседание"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

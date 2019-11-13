@@ -1,0 +1,66 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "одышка",
+            "pos": "noun",
+            "gen": "ж",
+            "anm": "неодуш",
+            "tr": [
+                {
+                    "text": "essoufflement",
+                    "pos": "noun",
+                    "gen": "m",
+                    "syn": [
+                        {
+                            "text": "dyspnée",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "asthme",
+                            "pos": "noun",
+                            "gen": "f"
+                        },
+                        {
+                            "text": "halètement",
+                            "pos": "noun",
+                            "gen": "m"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "затруднение дыхания"
+                        },
+                        {
+                            "text": "затрудненное дыхание"
+                        },
+                        {
+                            "text": "удушье"
+                        }
+                    ]
+                },
+                {
+                    "text": "souffle",
+                    "pos": "noun",
+                    "gen": "m",
+                    "mean": [
+                        {
+                            "text": "дыхание"
+                        }
+                    ]
+                },
+                {
+                    "text": "apnée",
+                    "pos": "noun",
+                    "gen": "f",
+                    "mean": [
+                        {
+                            "text": "апноэ"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

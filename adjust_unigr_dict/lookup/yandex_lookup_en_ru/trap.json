@@ -1,0 +1,262 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "trap",
+            "pos": "noun",
+            "ts": "træp",
+            "tr": [
+                {
+                    "text": "ловушка",
+                    "pos": "noun",
+                    "gen": "ж",
+                    "syn": [
+                        {
+                            "text": "западня",
+                            "pos": "noun",
+                            "gen": "ж"
+                        },
+                        {
+                            "text": "капкан",
+                            "pos": "noun",
+                            "gen": "м"
+                        },
+                        {
+                            "text": "мышеловка",
+                            "pos": "noun",
+                            "gen": "ж"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "pitfall"
+                        },
+                        {
+                            "text": "snare"
+                        },
+                        {
+                            "text": "mousetrap"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "magnetic trap",
+                            "tr": [
+                                {
+                                    "text": "магнитная ловушка"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "death trap",
+                            "tr": [
+                                {
+                                    "text": "смертельная западня"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "bear trap",
+                            "tr": [
+                                {
+                                    "text": "медвежий капкан"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "сифон",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "siphon"
+                        }
+                    ]
+                },
+                {
+                    "text": "конденсатоотводчик",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "steam trap"
+                        }
+                    ]
+                },
+                {
+                    "text": "прерывание",
+                    "pos": "noun",
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "interruption"
+                        }
+                    ]
+                },
+                {
+                    "text": "силок",
+                    "pos": "noun",
+                    "gen": "м"
+                },
+                {
+                    "text": "системное прерывание",
+                    "pos": "noun"
+                },
+                {
+                    "text": "уловитель",
+                    "pos": "noun",
+                    "gen": "м",
+                    "mean": [
+                        {
+                            "text": "catcher"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "trap",
+            "pos": "verb",
+            "ts": "træp",
+            "tr": [
+                {
+                    "text": "улавливать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "застрять",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "отлавливать",
+                            "pos": "verb",
+                            "asp": "несов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "catch"
+                        }
+                    ]
+                },
+                {
+                    "text": "заманивать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "заманить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        },
+                        {
+                            "text": "загнать",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lure"
+                        },
+                        {
+                            "text": "push"
+                        }
+                    ]
+                },
+                {
+                    "text": "поглощать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "mean": [
+                        {
+                            "text": "absorb"
+                        }
+                    ]
+                },
+                {
+                    "text": "захватить",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "capture"
+                        }
+                    ]
+                },
+                {
+                    "text": "подстерегать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "подстеречь",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "lurk"
+                        },
+                        {
+                            "text": "waylay"
+                        }
+                    ]
+                },
+                {
+                    "text": "запереть",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "mean": [
+                        {
+                            "text": "lock"
+                        }
+                    ]
+                },
+                {
+                    "text": "попасть в ловушку",
+                    "pos": "verb"
+                },
+                {
+                    "text": "заманить в ловушку",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "entrap"
+                        }
+                    ]
+                },
+                {
+                    "text": "заманивать в ловушку",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "trapping"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "trap",
+            "pos": "adjective",
+            "ts": "træp",
+            "tr": [
+                {
+                    "text": "ловчий",
+                    "pos": "adjective",
+                    "mean": [
+                        {
+                            "text": "hunting"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

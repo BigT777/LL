@@ -1,0 +1,81 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "трясти",
+            "pos": "verb",
+            "asp": "несов",
+            "tr": [
+                {
+                    "text": "secouer",
+                    "pos": "verb",
+                    "syn": [
+                        {
+                            "text": "agiter",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "ébranler",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "remuer",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "покачивать"
+                        },
+                        {
+                            "text": "встряхнуть"
+                        },
+                        {
+                            "text": "потрясти"
+                        },
+                        {
+                            "text": "вилять"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "трясти ногой",
+                            "tr": [
+                                {
+                                    "text": "secouer une jambe"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "trembler",
+                    "pos": "verb",
+                    "mean": [
+                        {
+                            "text": "дрожать"
+                        }
+                    ],
+                    "ex": [
+                        {
+                            "text": "трясти землю",
+                            "tr": [
+                                {
+                                    "text": "trembler la terre"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "cahoter",
+                    "pos": "verb"
+                },
+                {
+                    "text": "hocher",
+                    "pos": "verb"
+                }
+            ]
+        }
+    ]
+}

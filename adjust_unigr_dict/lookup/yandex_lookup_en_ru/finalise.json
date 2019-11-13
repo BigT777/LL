@@ -1,0 +1,65 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "finalise",
+            "pos": "verb",
+            "ts": "ˈfaɪnəlaɪz",
+            "tr": [
+                {
+                    "text": "завершать",
+                    "pos": "verb",
+                    "asp": "несов",
+                    "syn": [
+                        {
+                            "text": "завершить",
+                            "pos": "verb",
+                            "asp": "сов"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "complete"
+                        }
+                    ]
+                },
+                {
+                    "text": "доработать",
+                    "pos": "verb",
+                    "asp": "сов",
+                    "syn": [
+                        {
+                            "text": "окончательно оформить",
+                            "pos": "verb"
+                        },
+                        {
+                            "text": "окончательно доработать",
+                            "pos": "verb"
+                        }
+                    ],
+                    "mean": [
+                        {
+                            "text": "finalize"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "finalise",
+            "pos": "noun",
+            "ts": "ˈfaɪnəlaɪz",
+            "tr": [
+                {
+                    "text": "окончательная доработка",
+                    "pos": "noun",
+                    "mean": [
+                        {
+                            "text": "finalize"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
