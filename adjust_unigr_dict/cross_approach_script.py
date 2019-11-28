@@ -122,8 +122,7 @@ def send_request_func(from_lang,to_lang, word, header_main, login, en_from_lang,
     response = requests.get(url, headers=header_main, data = login)
     response.encoding = 'utf-8' 
     soup = bs(response.text, 'html.parser') 
-    is_restricted = check_restiction(soup)
-    if is_restricted == True: return None#!!!!
+    check_restiction(soup)
     #
     save_dir = os.path.join("/Users/nigula/LL/adjust_unigr_dict/lookup/reverso" + "_" + en_from_lang + "_" + en_to_lang,word + ".xls")
     file = open(save_dir, "wb")
@@ -147,7 +146,9 @@ def get_definitions_reverso(word, from_lang, to_lang, print_output = False):
         #print("found_word_in", word_dir)
         contents = infile.read()
         soup = bs(contents,'html.parser')
+        found_in_folder = True
     except:
+        found_in_folder = False
         soup = send_request_func(from_lang,to_lang, word, header_main, login, land_dict[from_lang], land_dict[to_lang])
     #print(soup.prettify())
     first_string_passed = False
@@ -191,10 +192,9 @@ def get_definitions_reverso(word, from_lang, to_lang, print_output = False):
             senseword_list.append({"sence_word":sence_word.lower(), "pos":pos})
             #print(link.prettify())
     #print("definiotns_time", time.time() - start)
-    return senseword_list
+    return senseword_list, found_in_folder
 
 def get_two_target_lang_lists_intersection(list_1, list_2, lists_lang):
-    start = time.time()
     overall_intersection = []
     cos_sim_dict ={}
     #overall_intersection
@@ -217,10 +217,13 @@ def get_two_target_lang_lists_intersection(list_1, list_2, lists_lang):
     return overall_intersection
 
 def get_cross_translate_reverso(word_lang_1, lang_1, word_lang_2, lang_2, target_lang, lemmatizer_func):
-    lang_1_to_target_words_dict = get_definitions_reverso(word_lang_1, lang_1, target_lang, print_output=True)
+    found_in_folder_count = 0
+    lang_1_to_target_words_dict, found_in_folder = get_definitions_reverso(word_lang_1, lang_1, target_lang, print_output=True)
+    if found_in_folder == True: found_in_folder_count += 1
     preprocess_words(lang_1_to_target_words_dict, lemmatizer_func)
     
-    lang_2_to_target_words_dict = get_definitions_reverso(word_lang_2, lang_2, target_lang, print_output=True)
+    lang_2_to_target_words_dict, found_in_folder = get_definitions_reverso(word_lang_2, lang_2, target_lang, print_output=True)
+    if found_in_folder == True: found_in_folder_count += 1
     preprocess_words(lang_2_to_target_words_dict, lemmatizer_func)
     
     #print("lang_1_to_target_words_dict", lang_1_to_target_words_dict,"\n")
@@ -230,7 +233,7 @@ def get_cross_translate_reverso(word_lang_1, lang_1, word_lang_2, lang_2, target
                                                                  target_lang)
     
     if len(intersected_elements) == 0:intersected_elements.append("no_equality")
-    return intersected_elements
+    return intersected_elements, found_in_folder_count
 
 def get_multilang_from_df(df, lookup_from, lookup_to, target_lang, target_lang_lemmatizer_func, save_location, start_from_df_ind = None, finish_index = None):
     land_dict = {"русский":"ru","французский":"fr", "английский":"en"}
@@ -240,20 +243,22 @@ def get_multilang_from_df(df, lookup_from, lookup_to, target_lang, target_lang_l
     eng_word = 'first_word'
     save_triple_path = land_dict[lookup_from] + '_' + land_dict[lookup_to] + '_' + land_dict[target_lang] + '_'
     current_range_triple = save_triple_path + save_location
+    overall_found_in_folder_count = 0
     if start_from_df_ind == None:
         start = True
     else:
         start = False
     
     #for df_ind in tqdm(range(len(df))):
-    count = 0 
+    absolute_count = 0 
     except_count = 0
+    real_count = 0
     #totral_rows = int(finish_index) - int(start_from_df_ind)
     for index, row in tqdm(df.iterrows(), total=int(finish_index)):
         try:
-            if str(count) == str(start_from_df_ind):
+            if str(absolute_count) == str(start_from_df_ind):
                 start = True
-            if str(count) == str(finish_index):
+            if str(absolute_count) == str(finish_index):
                 #print("FINISHED_ITERATE_COUNT")
                 break
             if start == True:
@@ -263,7 +268,8 @@ def get_multilang_from_df(df, lookup_from, lookup_to, target_lang, target_lang_l
                 #if start == True:
                 loc_1_word = row["local_word"]
                 #print(eng_word, loc_1_word)
-                sense_intersect = get_cross_translate_reverso(eng_word, lookup_from, loc_1_word, lookup_to, target_lang, target_lang_lemmatizer_func)
+                sense_intersect, found_in_folder_count = get_cross_translate_reverso(eng_word, lookup_from, loc_1_word, lookup_to, target_lang, target_lang_lemmatizer_func)
+                overall_found_in_folder_count += found_in_folder_count
                 #sense_intersect = get_cross_translate_yand(eng_word, "en", loc_1_word,"ru", "fr", fr_lemmatize)
                 #print("\n SENSE_INTERSECTION ", sense_intersect)
                 for sense_intersect_element in sense_intersect:
@@ -271,13 +277,16 @@ def get_multilang_from_df(df, lookup_from, lookup_to, target_lang, target_lang_l
                     lang_1_word_list.append(loc_1_word)
                     lang_2_word_list.append(sense_intersect_element)
 
-                if count % 100 == 0 and count != start_from_df_ind:
+                if absolute_count % 200 == 0 and absolute_count != int(start_from_df_ind):
+                    print(overall_found_in_folder_count/(real_count*2),"found offline")
+                    print(overall_found_in_folder_count,"overall_found_in_folder_count",real_count, "total_iterations" )
                     save_path = os.path.join("/Users/nigula/LL/adjust_unigr_dict/reverse_connected_dicts/cross_barbos",
-                                current_range_triple, str(count) + ".csv")
-                    #print("meta_save",save_path)
+                                current_range_triple, str(absolute_count) + ".csv")
+                    print("saved_at",save_path)
                     data = pd.DataFrame(list(zip(eng_word_list, lang_1_word_list,lang_2_word_list)),
                                 columns =[land_dict[lookup_from], land_dict[lookup_to], land_dict[target_lang]])
                     data.to_csv(save_path)
+                real_count += 1  
         except Exception as ex:
             print(ex)
             except_count += 1
@@ -286,8 +295,8 @@ def get_multilang_from_df(df, lookup_from, lookup_to, target_lang, target_lang_l
             if except_count > 200:
                 print("TOO_MANY_EXCEPTIONS")
                 break
-            
-        count += 1
+        absolute_count += 1     
+        
                 
     data = pd.DataFrame(list(zip(eng_word_list, lang_1_word_list,lang_2_word_list)),
                         columns =[land_dict[lookup_from], land_dict[lookup_to], land_dict[target_lang]])
@@ -297,9 +306,9 @@ def get_multilang_from_df(df, lookup_from, lookup_to, target_lang, target_lang_l
 #df_din = get_multilang_from_df(df_en_ru_yandex, "английский", "русский", "французский", fr_lemmatize)
 #df_din.head()
 
-df_en_ru_yandex = pd.read_csv("/Users/nigula/LL/adjust_unigr_dict/lookup results/yandex_lookup_fr_en.csv")
+df_lookup_yandex = pd.read_csv("/Users/nigula/LL/adjust_unigr_dict/lookup results/yandex_lookup_en_ru_wordforms.csv")
 
-df_en_ru_fr = get_multilang_from_df(df_en_ru_yandex, "французский", "английский", "русский", ru_lemmatize, start_from_df_ind = args.start_from_lookup_index, finish_index = args.end_at_lookup_index, save_location = args.save_loc)
+df = get_multilang_from_df(df_lookup_yandex, "английский", "русский", "французский", fr_lemmatize, start_from_df_ind = args.start_from_lookup_index, finish_index = args.end_at_lookup_index, save_location = args.save_loc)
 
-df_en_ru_fr.to_csv("ru_fr_en.csv")
+df.to_csv("df_en_ru_fr_wf.csv")
 
